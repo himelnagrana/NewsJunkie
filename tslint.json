@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "quotemark": [true, "single", "avoid-escape"],
+    "indent": [true, "spaces", 2],
+    "no-trailing-whitespace": true,
+    "align": true,
+    "import-spacing": true,
+    "semicolon": true,
+    "space-within-parens": true
+  }
+}

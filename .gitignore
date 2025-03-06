@@ -1,0 +1,15 @@
+node_modules
+.idea
+.vscode
+dist
+coverage
+*.log
+*.log.*
+*.log-*
+*.log/*
+*.log-*/
+.DS_Store
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+yarn-error.log.*
