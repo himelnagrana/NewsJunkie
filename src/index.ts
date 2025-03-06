@@ -1,6 +1,6 @@
 import { scrapeNews } from './scraper';
-import { analyzeSentiment } from './sentiment';
-import { saveNews } from './storage';
+import { processNews } from './sentiment';
+import { saveGroupedNews } from './storage';
 import { topics } from './config';
 import logger from './logger';
 
@@ -14,10 +14,10 @@ async function runAggregator() {
       const scrapedNews = await scrapeNews(topic);
       logger.info(`Scraping completed for topic: ${topic}`);
 
-      const analyzedNews = analyzeSentiment(scrapedNews);
+      const processedNews = processNews(scrapedNews);
       logger.info(`Sentiment analysis completed for topic: ${topic}`);
 
-      await saveNews(topic, analyzedNews);
+      await saveGroupedNews(processedNews);
     }
 
     logger.info('✅ News aggregation completed!');

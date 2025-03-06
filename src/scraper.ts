@@ -7,20 +7,57 @@ import logger from './logger';
 interface ScrapedItem {
   headline: string;
   source: string;
-  topic: string; // Add a topic field to each scraped item
+  topic: string;
 }
 
 const fuseOptions = {
-  threshold: 0.3,
-  keys: ['headline'],
+  includeScore: true,
+  threshold: 0.6,
+  ignoreLocation: true,
+  ignoreDiacritics: true,
+  findAllMatches: true,
 };
 
+// Normalize text by converting to lowercase and removing special characters
+const normalizeText = (text: string): string => {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, '')
+    .trim();
+};
+
+// fuse implementation --- will improve later
+function isRelevantToTopic2(headline: string, topic: string): boolean {
+  const keywords = topicKeywords[topic.toLowerCase()] || [];
+
+  const fuse = new Fuse(keywords, fuseOptions);
+  const result = fuse.search(headline);
+
+  return result.length > 0 && (result[0].score ?? 0) <= fuseOptions.threshold;
+}
+
+// manual word matching implementation - not so good, need improvement
 function isRelevantToTopic(headline: string, topic: string): boolean {
   const keywords = topicKeywords[topic.toLowerCase()] || [];
-  const fuse = new Fuse(keywords, fuseOptions);
-  // return keywords.some(keyword => headline.toLowerCase().includes(keyword)); // without fuse.js - manual implementation
-  const result = fuse.search(headline);
-  return result.length > 0;
+  const normalizedHeadline = normalizeText(headline);
+  let relevanceScore = 0;
+
+  keywords.forEach((keyword) => {
+    const normalizedKeyword = normalizeText(keyword);
+
+    // full match
+    if (normalizedHeadline.includes(' ' + normalizedKeyword + ' ')) {
+      relevanceScore++;
+    }
+
+    // partial word match
+    const regex = new RegExp(`\\b${normalizedKeyword}\\b`, 'gi');
+    if (regex.test(normalizedHeadline)) {
+      relevanceScore++;
+    }
+  });
+
+  return relevanceScore > 0;
 }
 
 export async function scrapeNews(topic: string) {

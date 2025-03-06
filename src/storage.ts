@@ -6,20 +6,50 @@ const dataDir = path.join(__dirname, '..', 'data');
 
 fs.ensureDirSync(dataDir);
 
-export async function saveNews(topic: string, news: any) {
-  const filePath = path.join(dataDir, `${topic}.json`);
-  logger.info(`Saving news data for topic: ${topic} to ${filePath}`);
-
-  let existingData: { [key: string]: any } = {};
-  if (fs.existsSync(filePath)) {
-    existingData = await fs.readJson(filePath);
-    logger.info(`Found existing data for ${topic}, updating...`);
+const isDuplicate = (newGroup: any, existingData: any): boolean => {
+  for (const timestamp in existingData) {
+    for (const group of existingData[timestamp]) {
+      if (
+          group.summary.includes(newGroup.summary) &&
+          Math.abs(group.sentiment - newGroup.sentiment) < 3
+        ) {
+        return true;
+      }
+    }
   }
+  return false;
+};
 
-  const timestamp = new Date().toISOString();
-  existingData[timestamp] = news;
+export async function saveGroupedNews(groupedNews: any[]) {
+  // Loop through each topic and save its grouped news to a separate file
+  for (const group of groupedNews) {
+    const topicFilePath = path.join(dataDir, `${group.topic}_news.json`);
 
-  await fs.writeJson(filePath, existingData, { spaces: 2 });
+    let existingData: { [key: string]: any } = {};
+    if (fs.existsSync(topicFilePath)) {
+      existingData = await fs.readJson(topicFilePath);
+      logger.info(`Found existing data for topic: ${group.topic}, updating...`);
+    }
 
-  logger.info(`✅ News saved for topic: ${topic}`);
+    const timestamp = new Date().toISOString();
+
+    const uniqueGroupedNews = groupedNews.filter((newGroup) => {
+      return !isDuplicate(newGroup, existingData);
+    });
+
+    if (uniqueGroupedNews.length > 0) {
+      if (!existingData[timestamp]) {
+        existingData[timestamp] = [];
+      }
+
+      for (const newGroup of uniqueGroupedNews) {
+        existingData[timestamp].push(newGroup);
+      }
+
+      await fs.writeJson(topicFilePath, existingData, { spaces: 2 });
+      logger.info(`Grouped news saved successfully for topic: ${group.topic}`);
+    } else {
+      logger.info(`No new unique news to save for topic: ${group.topic}`);
+    }
+  }
 }

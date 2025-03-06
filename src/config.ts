@@ -1,6 +1,37 @@
-export const topics = ['ai', 'politics', 'technology', 'sports', 'finance'];
+export const topics = [
+  'ai',
+  'trump',
+  'politics',
+  'technology',
+  'sports',
+  'finance',
+];
 
 export const topicKeywords: Record<string, string[]> = {
+  ai: [
+    'artificial intelligence',
+    'machine learning',
+    'data science',
+    'neural networks',
+    'openai',
+    'copilot',
+    'chatgpt',
+    'nvidia',
+    'deep learning',
+    'deepmind',
+  ],
+  trump: [
+    'trump',
+    'donald',
+    'president',
+    'usa',
+    'russia',
+    'china',
+    'ukraine',
+    'government',
+    'political',
+    'policy',
+  ],
   politics: [
     'election',
     'government',
@@ -33,8 +64,18 @@ export const topicKeywords: Record<string, string[]> = {
     'athletes',
     'tournament',
     'championship',
+    'cricket',
   ],
-  finance: ['stock', 'market', 'finance', 'economy', 'banking', 'investment'],
+  finance: [
+    'stock',
+    'market',
+    'finance',
+    'economy',
+    'banking',
+    'investment',
+    'tax',
+    'tariff',
+  ],
 };
 
 export const sources = [
