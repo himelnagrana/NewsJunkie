@@ -167,5 +167,117 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-03-07T10:38:32.444Z": [
+    {
+      "summary": "Trump expands exemptions from Canada and Mexico tariffs",
+      "headlines": [
+        "Trump expands exemptions from Canada and Mexico tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Creator of viral AI Trump Gaza video warns of possible dangers",
+      "headlines": [
+        "Creator of viral AI Trump Gaza video warns of possible dangers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why did Trump just establish a crypto strategic reserve?",
+      "headlines": [
+        "Why did Trump just establish a crypto strategic reserve?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Democrat Al Green censured for disrupting Trump speech",
+      "headlines": [
+        "Democrat Al Green censured for disrupting Trump speech"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "About 20 countries could join Ukraine coalition, UK says",
+      "headlines": [
+        "About 20 countries could join Ukraine coalition, UK says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Reality catching up with Trump after whirlwind start",
+      "headlines": [
+        "Reality catching up with Trump after whirlwind start"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine, US to hold talks on Russia-Ukraine war in Saudi Arabia next week",
+      "headlines": [
+        "Ukraine, US to hold talks on Russia-Ukraine war in Saudi Arabia next week"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "How will US pause on intelligence sharing affect Ukraine?",
+      "headlines": [
+        "How will US pause on intelligence sharing affect Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "After Trump’s fiery row with Zelenskyy, Russia heaps praise on US leader",
+      "headlines": [
+        "After Trump’s fiery row with Zelenskyy, Russia heaps praise on US leader"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Cool head’: How Mexico’s Claudia Sheinbaum got Trump to halt some tariffs",
+      "headlines": [
+        "‘Cool head’: How Mexico’s Claudia Sheinbaum got Trump to halt some tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
