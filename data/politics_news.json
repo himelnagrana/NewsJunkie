@@ -277,5 +277,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-03-07T18:29:14.268Z": [
+    {
+      "summary": "Russia 'easier to deal with' on Ukraine peace deal, Trump says",
+      "headlines": [
+        "Russia 'easier to deal with' on Ukraine peace deal, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Bulgarians guilty of spying for Russia in the UK",
+      "headlines": [
+        "Bulgarians guilty of spying for Russia in the UK"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "US job growth stable as government cuts start",
+      "headlines": [
+        "US job growth stable as government cuts start"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump: Russia holds 'all the cards' in conflict with Ukraine",
+      "headlines": [
+        "Trump: Russia holds 'all the cards' in conflict with Ukraine"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hamas accuses Israel of ‘insistence on religious war’ as mosques attacked",
+      "headlines": [
+        "Hamas accuses Israel of ‘insistence on religious war’ as mosques attacked"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Russia’s Putin wants Ukraine war ‘stopped and settled’",
+      "headlines": [
+        "Trump says Russia’s Putin wants Ukraine war ‘stopped and settled’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump pauses some Mexico, Canada tariffs: What’s exempt, and what’s next?",
+      "headlines": [
+        "Trump pauses some Mexico, Canada tariffs: What’s exempt, and what’s next?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens Russia with sanctions, tariffs amid his spat with Ukraine",
+      "headlines": [
+        "Trump threatens Russia with sanctions, tariffs amid his spat with Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
