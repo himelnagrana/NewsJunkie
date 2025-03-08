@@ -11,5 +11,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-03-08T06:23:43.507Z": [
+    {
+      "summary": "Woods to miss Players Championship at Sawgrass",
+      "headlines": [
+        "Woods to miss Players Championship at Sawgrass"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }

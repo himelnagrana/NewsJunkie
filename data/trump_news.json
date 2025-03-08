@@ -358,5 +358,128 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-03-08T06:23:42.139Z": [
+    {
+      "summary": "Trump says Ukraine 'more difficult' to deal with than Russia",
+      "headlines": [
+        "Trump says Ukraine 'more difficult' to deal with than Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian strike kills 11 in town near Donetsk, Ukraine says",
+      "headlines": [
+        "Russian strike kills 11 in town near Donetsk, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Bourbon is out, patriotism is in - How Canadians are facing Trump threats head on",
+      "headlines": [
+        "Bourbon is out, patriotism is in - How Canadians are facing Trump threats head on"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump team hits pause on tariffs - but still sees them as vital tool",
+      "headlines": [
+        "Trump team hits pause on tariffs - but still sees them as vital tool"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is Trump reining in Musk after a cabinet showdown with secretaries?",
+      "headlines": [
+        "Is Trump reining in Musk after a cabinet showdown with secretaries?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump pulls $400m from Columbia University, saying it failed to protect Jewish students",
+      "headlines": [
+        "Trump pulls $400m from Columbia University, saying it failed to protect Jewish students"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Who's doing the dishes? Bollywood film and government data have the same answer",
+      "headlines": [
+        "Who's doing the dishes? Bollywood film and government data have the same answer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump 'strongly considering' large-scale sanctions and tariffs on Russia",
+      "headlines": [
+        "Trump 'strongly considering' large-scale sanctions and tariffs on Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens new tariffs on Canada",
+      "headlines": [
+        "Trump threatens new tariffs on Canada"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Three Bulgarians found guilty of spying for Russia from UK base",
+      "headlines": [
+        "Three Bulgarians found guilty of spying for Russia from UK base"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Very worrying’: Fear stalks Kenya as dozens of government critics abducted",
+      "headlines": [
+        "‘Very worrying’: Fear stalks Kenya as dozens of government critics abducted"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    }
   ]
 }

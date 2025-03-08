@@ -11,5 +11,18 @@
       "sentiment": -1,
       "topic": "finance"
     }
+  ],
+  "2025-03-08T06:23:43.915Z": [
+    {
+      "summary": "Data, waves and wind to be counted in the economy",
+      "headlines": [
+        "Data, waves and wind to be counted in the economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
