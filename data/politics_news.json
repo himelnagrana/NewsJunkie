@@ -490,5 +490,161 @@
       "sentiment": -6,
       "topic": "politics"
     }
+  ],
+  "2025-03-08T18:22:32.532Z": [
+    {
+      "summary": "Russian strikes kill at least 25, Ukraine says",
+      "headlines": [
+        "Russian strikes kill at least 25, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "What US, Russia and Europe are thinking ahead of fresh Ukraine talks",
+      "headlines": [
+        "What US, Russia and Europe are thinking ahead of fresh Ukraine talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Myanmar's military government says it will hold elections in next year",
+      "headlines": [
+        "Myanmar's military government says it will hold elections in next year"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "They lost 52 soldiers fighting alongside the US. Now they feel threatened by Trump",
+      "headlines": [
+        "They lost 52 soldiers fighting alongside the US. Now they feel threatened by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea's impeached president Yoon released from detention",
+      "headlines": [
+        "South Korea's impeached president Yoon released from detention"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump Turnberry vandalised by pro-Palestine group",
+      "headlines": [
+        "Trump Turnberry vandalised by pro-Palestine group"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tariffs row makes World Cup 'more exciting' - Trump",
+      "headlines": [
+        "Tariffs row makes World Cup 'more exciting' - Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine reels from wild US policy shifts",
+      "headlines": [
+        "Ukraine reels from wild US policy shifts"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Stain on humanity’: At least 12,300 women killed in Israel’s war on Gaza",
+      "headlines": [
+        "‘Stain on humanity’: At least 12,300 women killed in Israel’s war on Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Bully’: Iran’s Khamenei rejects Trump demands for nuclear talks",
+      "headlines": [
+        "‘Bully’: Iran’s Khamenei rejects Trump demands for nuclear talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "At least 14 people killed in Russia’s overnight attacks in eastern Ukraine",
+      "headlines": [
+        "At least 14 people killed in Russia’s overnight attacks in eastern Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "India have unfinished business but ‘not desperate’ for Champions Trophy",
+      "headlines": [
+        "India have unfinished business but ‘not desperate’ for Champions Trophy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea’s impeached President Yoon released from prison",
+      "headlines": [
+        "South Korea’s impeached President Yoon released from prison"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "New Zealand to keep ‘open mind’ for Champions Trophy final with India",
+      "headlines": [
+        "New Zealand to keep ‘open mind’ for Champions Trophy final with India"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }
