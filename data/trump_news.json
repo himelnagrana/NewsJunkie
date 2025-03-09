@@ -617,5 +617,29 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-03-09T18:22:10.909Z": [
+    {
+      "summary": "Iran criticises 'bullying countries' after Trump letter for nuclear talks",
+      "headlines": [
+        "Iran criticises 'bullying countries' after Trump letter for nuclear talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Syria’s President al-Sharaa calls for ‘peace, calm’ amid brutal clashes",
+      "headlines": [
+        "Syria’s President al-Sharaa calls for ‘peace, calm’ amid brutal clashes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
