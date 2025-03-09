@@ -604,5 +604,18 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-03-09T06:23:31.802Z": [
+    {
+      "summary": "China has a message for Trump",
+      "headlines": [
+        "China has a message for Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
