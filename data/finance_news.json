@@ -37,5 +37,40 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-03-10T18:28:32.516Z": [
+    {
+      "summary": "Stocks slide as Trump warns of US economy 'transition'",
+      "headlines": [
+        "Stocks slide as Trump warns of US economy 'transition'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Cracks are forming in America’s economy. Trump is a big reason why",
+      "headlines": [
+        "Cracks are forming in America’s economy. Trump is a big reason why"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    },
+    {
+      "summary": "What’s happening with Lebanon’s economy and will it recover?",
+      "headlines": [
+        "What’s happening with Lebanon’s economy and will it recover?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

@@ -817,5 +817,95 @@
       "sentiment": 6,
       "topic": "politics"
     }
+  ],
+  "2025-03-10T18:28:31.022Z": [
+    {
+      "summary": "US hopes to resume aid to Ukraine, Rubio says, as Zelensky meets Saudi officials",
+      "headlines": [
+        "US hopes to resume aid to Ukraine, Rubio says, as Zelensky meets Saudi officials"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'There's never been a spotlight like this': Greenland heads to the polls as Trump eyes territory",
+      "headlines": [
+        "'There's never been a spotlight like this': Greenland heads to the polls as Trump eyes territory"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Stocks slide as Trump warns of US economy 'transition'",
+      "headlines": [
+        "Stocks slide as Trump warns of US economy 'transition'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "A simple guide to Canada's federal election",
+      "headlines": [
+        "A simple guide to Canada's federal election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tourists leave India temple town after gang rape-murder",
+      "headlines": [
+        "Tourists leave India temple town after gang rape-murder"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Cracks are forming in America’s economy. Trump is a big reason why",
+      "headlines": [
+        "Cracks are forming in America’s economy. Trump is a big reason why"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Palestinian Columbia University student’s arrest ‘first of many’",
+      "headlines": [
+        "Trump says Palestinian Columbia University student’s arrest ‘first of many’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rubio announces 83 percent of USAID contracts cancelled under Trump",
+      "headlines": [
+        "Rubio announces 83 percent of USAID contracts cancelled under Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
