@@ -24,5 +24,18 @@
       "sentiment": -2,
       "topic": "sports"
     }
+  ],
+  "2025-03-10T06:25:57.324Z": [
+    {
+      "summary": "Does cricket risk apathy if status quo continues?",
+      "headlines": [
+        "Does cricket risk apathy if status quo continues?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "sports"
+    }
   ]
 }

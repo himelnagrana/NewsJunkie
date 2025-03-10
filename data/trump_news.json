@@ -641,5 +641,95 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-03-10T06:25:55.665Z": [
+    {
+      "summary": "Canada's next PM Mark Carney vows to win trade war with Trump",
+      "headlines": [
+        "Canada's next PM Mark Carney vows to win trade war with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Carney talks tough on Trump threat - but can he reset relations?",
+      "headlines": [
+        "Carney talks tough on Trump threat - but can he reset relations?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US says Ukraine 'ready to move forward' on truce demand",
+      "headlines": [
+        "US says Ukraine 'ready to move forward' on truce demand"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Musk and Rubio spar with Polish minister over Starlink in Ukraine",
+      "headlines": [
+        "Musk and Rubio spar with Polish minister over Starlink in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US economy in 'transition' as trade war escalates",
+      "headlines": [
+        "Trump says US economy in 'transition' as trade war escalates"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada’s next leader takes aim at Trump",
+      "headlines": [
+        "Canada’s next leader takes aim at Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump declines to rule out US recession as tariffs spook investors",
+      "headlines": [
+        "Trump declines to rule out US recession as tariffs spook investors"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Be quiet, small man’: Musk clashes with Polish FM over Starlink in Ukraine",
+      "headlines": [
+        "‘Be quiet, small man’: Musk clashes with Polish FM over Starlink in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
