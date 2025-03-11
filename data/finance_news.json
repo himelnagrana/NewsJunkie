@@ -72,5 +72,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-03-11T06:30:35.609Z": [
+    {
+      "summary": "Stock market plunge shows how Trump’s disruption can’t be contained",
+      "headlines": [
+        "Stock market plunge shows how Trump’s disruption can’t be contained"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "‘Bloodbath’: US stock market sheds $1.75tn after Trump’s recession remarks",
+      "headlines": [
+        "‘Bloodbath’: US stock market sheds $1.75tn after Trump’s recession remarks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

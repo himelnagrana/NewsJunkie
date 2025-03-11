@@ -11,5 +11,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-03-11T06:30:34.575Z": [
+    {
+      "summary": "From chatbots to intelligent toys: How AI is booming in China",
+      "headlines": [
+        "From chatbots to intelligent toys: How AI is booming in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "technology"
+    }
   ]
 }

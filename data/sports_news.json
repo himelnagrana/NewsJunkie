@@ -37,5 +37,18 @@
       "sentiment": -5,
       "topic": "sports"
     }
+  ],
+  "2025-03-11T06:30:35.118Z": [
+    {
+      "summary": "Rooney and Fury to manage England at Soccer Aid",
+      "headlines": [
+        "Rooney and Fury to manage England at Soccer Aid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

@@ -799,5 +799,139 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-03-11T06:30:33.476Z": [
+    {
+      "summary": "Rubio says Ukraine partial ceasefire plan 'has promise' ahead of talks in Saudi Arabia",
+      "headlines": [
+        "Rubio says Ukraine partial ceasefire plan 'has promise' ahead of talks in Saudi Arabia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Facebook ‘worked hand in glove’ with China on censor tools, claims ex-director",
+      "headlines": [
+        "Facebook ‘worked hand in glove’ with China on censor tools, claims ex-director"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "From chatbots to intelligent toys: How AI is booming in China",
+      "headlines": [
+        "From chatbots to intelligent toys: How AI is booming in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Kurdish-led SDF agrees to integrate with Syrian government forces",
+      "headlines": [
+        "Kurdish-led SDF agrees to integrate with Syrian government forces"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Stocks fall in US and Asia over Trump tariffs concerns",
+      "headlines": [
+        "Stocks fall in US and Asia over Trump tariffs concerns"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Facebook was 'hand in glove' with China, BBC told",
+      "headlines": [
+        "Facebook was 'hand in glove' with China, BBC told"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Former Philippine President Rodrigo Duterte arrested on ICC warrant",
+      "headlines": [
+        "Former Philippine President Rodrigo Duterte arrested on ICC warrant"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Greenland general election: As Trump eyes island, why the vote matters",
+      "headlines": [
+        "Greenland general election: As Trump eyes island, why the vote matters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "One killed as Ukraine launches ‘massive’ drone attack on Moscow",
+      "headlines": [
+        "One killed as Ukraine launches ‘massive’ drone attack on Moscow"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Dalai Lama says successor will be born in ‘free world’ outside of China",
+      "headlines": [
+        "Dalai Lama says successor will be born in ‘free world’ outside of China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why China isn’t as worried about Trump’s trade war as in 2018",
+      "headlines": [
+        "Why China isn’t as worried about Trump’s trade war as in 2018"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and Ukraine to meet on Russia: What’s on the agenda for Saudi talks?",
+      "headlines": [
+        "US and Ukraine to meet on Russia: What’s on the agenda for Saudi talks?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
