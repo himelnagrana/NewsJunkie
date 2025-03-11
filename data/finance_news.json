@@ -96,5 +96,40 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-03-11T18:30:48.746Z": [
+    {
+      "summary": "Trump is no longer swayed by the stock markets",
+      "headlines": [
+        "Trump is no longer swayed by the stock markets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump says he will buy a Tesla after stock slump",
+      "headlines": [
+        "Trump says he will buy a Tesla after stock slump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Why Trump’s tariff chaos sparked stock market meltdown and recession fears",
+      "headlines": [
+        "Why Trump’s tariff chaos sparked stock market meltdown and recession fears"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    }
   ]
 }

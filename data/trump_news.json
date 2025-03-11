@@ -933,5 +933,139 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-03-11T18:30:46.412Z": [
+    {
+      "summary": "Ukraine says it is ready to accept 30-day ceasefire, as US says 'ball now in Russia’s court'",
+      "headlines": [
+        "Ukraine says it is ready to accept 30-day ceasefire, as US says 'ball now in Russia’s court'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump orders 50% tariffs on Canadian steel and aluminium starting at midnight",
+      "headlines": [
+        "Trump orders 50% tariffs on Canadian steel and aluminium starting at midnight"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump is no longer swayed by the stock markets",
+      "headlines": [
+        "Trump is no longer swayed by the stock markets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump dispatches NY real estate dealmaker to solve global crises",
+      "headlines": [
+        "Trump dispatches NY real estate dealmaker to solve global crises"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why Ukraine hopes Trump minerals deal will win back US support",
+      "headlines": [
+        "Why Ukraine hopes Trump minerals deal will win back US support"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 8,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he will buy a Tesla after stock slump",
+      "headlines": [
+        "Trump says he will buy a Tesla after stock slump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Sweden says Russia is greatest threat to its security",
+      "headlines": [
+        "Sweden says Russia is greatest threat to its security"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump doubles planned tariffs on Canadian metal",
+      "headlines": [
+        "Trump doubles planned tariffs on Canadian metal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens to escalate trade war with Canada",
+      "headlines": [
+        "Trump threatens to escalate trade war with Canada"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and Ukraine hold crunch talks on ending Russia war in Saudi Arabia",
+      "headlines": [
+        "US and Ukraine hold crunch talks on ending Russia war in Saudi Arabia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump raises tariffs on Canadian steel, aluminium to 50 percent",
+      "headlines": [
+        "Trump raises tariffs on Canadian steel, aluminium to 50 percent"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "After Trump froze aid, is Ukraine’s military holding on against Russia?",
+      "headlines": [
+        "After Trump froze aid, is Ukraine’s military holding on against Russia?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

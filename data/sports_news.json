@@ -50,5 +50,29 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-03-11T18:30:48.155Z": [
+    {
+      "summary": "Maradona medical team on trial for football icon's death",
+      "headlines": [
+        "Maradona medical team on trial for football icon's death"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    },
+    {
+      "summary": "From almost quitting football to Ballon d'Or hope - Raphinha's rebirth",
+      "headlines": [
+        "From almost quitting football to Ballon d'Or hope - Raphinha's rebirth"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "sports"
+    }
   ]
 }
