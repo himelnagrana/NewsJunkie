@@ -144,5 +144,18 @@
       "sentiment": -1,
       "topic": "finance"
     }
+  ],
+  "2025-03-12T18:30:29.081Z": [
+    {
+      "summary": "Saudi Investment Fund pays $3.5bn to capture Pokémon Go",
+      "headlines": [
+        "Saudi Investment Fund pays $3.5bn to capture Pokémon Go"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

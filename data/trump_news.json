@@ -1223,5 +1223,183 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-03-12T18:30:26.924Z": [
+    {
+      "summary": "From Mexico cartel safe house to US streets: BBC tracks deadly fentanyl targeted by Trump tariffs",
+      "headlines": [
+        "From Mexico cartel safe house to US streets: BBC tracks deadly fentanyl targeted by Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Whatever they charge us, we're charging them': Trump pledges more EU tariffs in trade war",
+      "headlines": [
+        "'Whatever they charge us, we're charging them': Trump pledges more EU tariffs in trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Greenland's opposition wins election dominated by independence and Trump",
+      "headlines": [
+        "Greenland's opposition wins election dominated by independence and Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US team on way to Russia 'right now' to discuss Ukraine ceasefire plan",
+      "headlines": [
+        "Trump says US team on way to Russia 'right now' to discuss Ukraine ceasefire plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Decoding the Ukraine ceasefire plan line by line",
+      "headlines": [
+        "Decoding the Ukraine ceasefire plan line by line"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says anti-Tesla protesters will face 'hell'",
+      "headlines": [
+        "Trump says anti-Tesla protesters will face 'hell'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK helped Ukraine and US reach ceasefire deal - government sources",
+      "headlines": [
+        "UK helped Ukraine and US reach ceasefire deal - government sources"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why did Putin's Russia invade Ukraine?",
+      "headlines": [
+        "Why did Putin's Russia invade Ukraine?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why does Trump want Greenland and what do its people think?",
+      "headlines": [
+        "Why does Trump want Greenland and what do its people think?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "What are tariffs and why is Trump using them?",
+      "headlines": [
+        "What are tariffs and why is Trump using them?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump raises 'massive' trade imbalance during Irish PM meeting",
+      "headlines": [
+        "Trump raises 'massive' trade imbalance during Irish PM meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "If Russia rejects 30-day Ukraine truce plan, ‘that will tell us a lot’: US",
+      "headlines": [
+        "If Russia rejects 30-day Ukraine truce plan, ‘that will tell us a lot’: US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iran’s nuclear programme in focus in China, Russia and US",
+      "headlines": [
+        "Iran’s nuclear programme in focus in China, Russia and US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump mass layoffs cause uncertainty among federal firefighting workforce",
+      "headlines": [
+        "Trump mass layoffs cause uncertainty among federal firefighting workforce"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Closest target’: Why is Donald Trump so focused on Canada?",
+      "headlines": [
+        "‘Closest target’: Why is Donald Trump so focused on Canada?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Americans are on our side’: Russians laud US efforts to end Ukraine war",
+      "headlines": [
+        "‘Americans are on our side’: Russians laud US efforts to end Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
