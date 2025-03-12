@@ -131,5 +131,18 @@
       "sentiment": -4,
       "topic": "finance"
     }
+  ],
+  "2025-03-12T06:30:38.946Z": [
+    {
+      "summary": "Faisal Islam: Trump is no longer swayed by the stock markets",
+      "headlines": [
+        "Faisal Islam: Trump is no longer swayed by the stock markets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    }
   ]
 }

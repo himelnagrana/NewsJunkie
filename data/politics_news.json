@@ -1219,5 +1219,172 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-03-12T06:30:37.502Z": [
+    {
+      "summary": "Trade war escalates as Trump metal tariffs take effect",
+      "headlines": [
+        "Trade war escalates as Trump metal tariffs take effect"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US set to present 30-day ceasefire offer to Russia",
+      "headlines": [
+        "US set to present 30-day ceasefire offer to Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Greenland's centre-right opposition wins election",
+      "headlines": [
+        "Greenland's centre-right opposition wins election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "US-Ukraine agreement shows a deal is never dead with Trump",
+      "headlines": [
+        "US-Ukraine agreement shows a deal is never dead with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Not enough power to share: The political feud behind Rodrigo Duterte's downfall",
+      "headlines": [
+        "Not enough power to share: The political feud behind Rodrigo Duterte's downfall"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Faisal Islam: Trump is no longer swayed by the stock markets",
+      "headlines": [
+        "Faisal Islam: Trump is no longer swayed by the stock markets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Trump mulling a minerals deal with conflict-hit DR Congo?",
+      "headlines": [
+        "Is Trump mulling a minerals deal with conflict-hit DR Congo?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Indian Americans worried over US ties under Trump, survey reveals",
+      "headlines": [
+        "Indian Americans worried over US ties under Trump, survey reveals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "It's Russia that may now be feeling the pressure",
+      "headlines": [
+        "It's Russia that may now be feeling the pressure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump halts plan for 50% steel and aluminium tariffs on Canada",
+      "headlines": [
+        "Trump halts plan for 50% steel and aluminium tariffs on Canada"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump’s dream of Ukraine peace must meet Russian reality",
+      "headlines": [
+        "Trump’s dream of Ukraine peace must meet Russian reality"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine ready to accept US plan for 30-day ceasefire with Russia",
+      "headlines": [
+        "Ukraine ready to accept US plan for 30-day ceasefire with Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Centre-right opposition wins Greenland election dominated by Trump pledge",
+      "headlines": [
+        "Centre-right opposition wins Greenland election dominated by Trump pledge"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran, Russia, China conduct joint naval drills in Gulf of Oman",
+      "headlines": [
+        "Iran, Russia, China conduct joint naval drills in Gulf of Oman"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Education Department to halve staff as Trump pushes for elimination",
+      "headlines": [
+        "US Education Department to halve staff as Trump pushes for elimination"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
