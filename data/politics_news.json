@@ -1586,5 +1586,106 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-13T06:30:29.640Z": [
+    {
+      "summary": "Who is Doug Ford, the Canadian premier standing up to Trump?",
+      "headlines": [
+        "Who is Doug Ford, the Canadian premier standing up to Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US team headed to Moscow for Ukraine talks as Putin visits Kursk",
+      "headlines": [
+        "US team headed to Moscow for Ukraine talks as Putin visits Kursk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trade war escalates as Trump pledges more tariffs",
+      "headlines": [
+        "Trade war escalates as Trump pledges more tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Carney ready to talk trade with Trump if 'there's respect for sovereignty'",
+      "headlines": [
+        "Carney ready to talk trade with Trump if 'there's respect for sovereignty'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "BBC Verify: Ukraine loses territory to Russia in Kursk",
+      "headlines": [
+        "BBC Verify: Ukraine loses territory to Russia in Kursk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US tech firms feel pinch from China tariffs",
+      "headlines": [
+        "US tech firms feel pinch from China tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Ireland has entire US pharmaceutical industry in its grasp' - Trump",
+      "headlines": [
+        "'Ireland has entire US pharmaceutical industry in its grasp' - Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US tariffs on India will be a bitter pill to swallow",
+      "headlines": [
+        "US tariffs on India will be a bitter pill to swallow"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,113",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,113"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

@@ -1401,5 +1401,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-03-13T06:30:28.989Z": [
+    {
+      "summary": "Who is Doug Ford, the Canadian premier standing up to Trump?",
+      "headlines": [
+        "Who is Doug Ford, the Canadian premier standing up to Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US team headed to Moscow for Ukraine talks as Putin visits Kursk",
+      "headlines": [
+        "US team headed to Moscow for Ukraine talks as Putin visits Kursk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trade war escalates as Trump pledges more tariffs",
+      "headlines": [
+        "Trade war escalates as Trump pledges more tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Carney ready to talk trade with Trump if 'there's respect for sovereignty'",
+      "headlines": [
+        "Carney ready to talk trade with Trump if 'there's respect for sovereignty'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "BBC Verify: Ukraine loses territory to Russia in Kursk",
+      "headlines": [
+        "BBC Verify: Ukraine loses territory to Russia in Kursk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US tech firms feel pinch from China tariffs",
+      "headlines": [
+        "US tech firms feel pinch from China tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Ireland has entire US pharmaceutical industry in its grasp' - Trump",
+      "headlines": [
+        "'Ireland has entire US pharmaceutical industry in its grasp' - Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

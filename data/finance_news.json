@@ -157,5 +157,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-03-13T06:30:31.464Z": [
+    {
+      "summary": "US public souring on Trump’s handling of economy, polls show",
+      "headlines": [
+        "US public souring on Trump’s handling of economy, polls show"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

@@ -24,5 +24,18 @@
       "sentiment": 2,
       "topic": "technology"
     }
+  ],
+  "2025-03-13T06:30:30.196Z": [
+    {
+      "summary": "US tech firms feel pinch from China tariffs",
+      "headlines": [
+        "US tech firms feel pinch from China tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
