@@ -170,5 +170,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-03-13T18:30:04.952Z": [
+    {
+      "summary": "Trump threatens 200% tariff on alcohol from EU countries",
+      "headlines": [
+        "Trump threatens 200% tariff on alcohol from EU countries"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump vows 200% retaliatory tariff on European wine and spirits",
+      "headlines": [
+        "Trump vows 200% retaliatory tariff on European wine and spirits"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

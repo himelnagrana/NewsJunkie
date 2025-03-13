@@ -1687,5 +1687,150 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-13T18:30:03.537Z": [
+    {
+      "summary": "Putin agrees fighting in Ukraine must end but says any plan must lead to 'enduring peace'",
+      "headlines": [
+        "Putin agrees fighting in Ukraine must end but says any plan must lead to 'enduring peace'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Peace talks are in parallel universe, say Ukraine front-line troops",
+      "headlines": [
+        "Peace talks are in parallel universe, say Ukraine front-line troops"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "The blunt-speaking Canadian taking his fight with Trump to Washington",
+      "headlines": [
+        "The blunt-speaking Canadian taking his fight with Trump to Washington"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens 200% tariff on alcohol from EU countries",
+      "headlines": [
+        "Trump threatens 200% tariff on alcohol from EU countries"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "BBC Verify: What does Putin video tell us about the battle for Kursk?",
+      "headlines": [
+        "BBC Verify: What does Putin video tell us about the battle for Kursk?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Putin responds to US ceasefire proposal",
+      "headlines": [
+        "Watch: Putin responds to US ceasefire proposal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump pledges to match EU and Canada's retaliatory tariffs",
+      "headlines": [
+        "Trump pledges to match EU and Canada's retaliatory tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin expresses 'reservations' about 30-day ceasefire in Ukraine",
+      "headlines": [
+        "Putin expresses 'reservations' about 30-day ceasefire in Ukraine"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin says any Russia-Ukraine ceasefire must lead to ‘long-term peace’",
+      "headlines": [
+        "Putin says any Russia-Ukraine ceasefire must lead to ‘long-term peace’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran bets big on gold as it weathers Trump turmoil",
+      "headlines": [
+        "Iran bets big on gold as it weathers Trump turmoil"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump vows 200% retaliatory tariff on European wine and spirits",
+      "headlines": [
+        "Trump vows 200% retaliatory tariff on European wine and spirits"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sporadic, slow rebuilding deepens wounds of Ukrainian town bombed by Russia",
+      "headlines": [
+        "Sporadic, slow rebuilding deepens wounds of Ukrainian town bombed by Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Families of Duterte’s drug war victims grieve, seek justice in Philippines",
+      "headlines": [
+        "Families of Duterte’s drug war victims grieve, seek justice in Philippines"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
