@@ -1966,5 +1966,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-14T18:28:56.584Z": [
+    {
+      "summary": "Zelensky says Putin trying to drag out talks on Ukraine ceasefire to continue war",
+      "headlines": [
+        "Zelensky says Putin trying to drag out talks on Ukraine ceasefire to continue war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Musk's Tesla raises concern over Trump tariffs",
+      "headlines": [
+        "Musk's Tesla raises concern over Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russian sentenced to life for war crimes in Ukraine",
+      "headlines": [
+        "Russian sentenced to life for war crimes in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Two judges order Trump administration to give fired workers their jobs back",
+      "headlines": [
+        "Two judges order Trump administration to give fired workers their jobs back"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump has vowed to end birthright citizenship. Can he do it?",
+      "headlines": [
+        "Trump has vowed to end birthright citizenship. Can he do it?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Crazy’: Canada’s new PM Carney rejects Trump annexation push",
+      "headlines": [
+        "‘Crazy’: Canada’s new PM Carney rejects Trump annexation push"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Columbia expels, suspends students after government threats: What we know",
+      "headlines": [
+        "Columbia expels, suspends students after government threats: What we know"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "What are Putin’s conditions for a ceasefire in Ukraine?",
+      "headlines": [
+        "What are Putin’s conditions for a ceasefire in Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trudeau ending tenure as Canada’s PM ‘at his best’ amid Trump threats",
+      "headlines": [
+        "Trudeau ending tenure as Canada’s PM ‘at his best’ amid Trump threats"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Louder than words: Amid Ukraine truce talks, why did Putin wear fatigues?",
+      "headlines": [
+        "Louder than words: Amid Ukraine truce talks, why did Putin wear fatigues?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
