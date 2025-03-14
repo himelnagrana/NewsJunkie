@@ -37,5 +37,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-03-14T06:30:03.399Z": [
+    {
+      "summary": "Elon Musk wants to use AI to run US gov’t, but experts say ‘very bad’ idea",
+      "headlines": [
+        "Elon Musk wants to use AI to run US gov’t, but experts say ‘very bad’ idea"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

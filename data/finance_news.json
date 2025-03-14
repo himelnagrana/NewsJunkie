@@ -194,5 +194,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-03-14T06:30:04.315Z": [
+    {
+      "summary": "US stock market tumbles again as Trump threatens tariffs on wine",
+      "headlines": [
+        "US stock market tumbles again as Trump threatens tariffs on wine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
