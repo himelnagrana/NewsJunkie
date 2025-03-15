@@ -2078,5 +2078,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-15T06:28:22.827Z": [
+    {
+      "summary": "US had productive talks with Putin over Ukraine war, Trump says",
+      "headlines": [
+        "US had productive talks with Putin over Ukraine war, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Prospect of Ukraine ceasefire still uncertain despite Trump's optimism",
+      "headlines": [
+        "Prospect of Ukraine ceasefire still uncertain despite Trump's optimism"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Democratic Party infighting exposes struggle to unite against Trump",
+      "headlines": [
+        "Democratic Party infighting exposes struggle to unite against Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "14 things the Trump administration did this week",
+      "headlines": [
+        "14 things the Trump administration did this week"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Greenland's politicians unite against Trump",
+      "headlines": [
+        "Greenland's politicians unite against Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Congress averts US government shutdown",
+      "headlines": [
+        "Congress averts US government shutdown"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump threatens opponents with jail in Justice Department speech",
+      "headlines": [
+        "Donald Trump threatens opponents with jail in Justice Department speech"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,115",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,115"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin says Russia will spare Ukrainian forces in Kursk if they surrender",
+      "headlines": [
+        "Putin says Russia will spare Ukrainian forces in Kursk if they surrender"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Finnish court convicts Russian man for war crimes in Ukraine",
+      "headlines": [
+        "Finnish court convicts Russian man for war crimes in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    }
   ]
 }
