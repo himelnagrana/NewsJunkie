@@ -1906,5 +1906,73 @@
       "sentiment": -5,
       "topic": "trump"
     }
+  ],
+  "2025-03-15T18:27:29.256Z": [
+    {
+      "summary": "Military planning for Ukraine peace to begin, says Starmer",
+      "headlines": [
+        "Military planning for Ukraine peace to begin, says Starmer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US government shutdown averted as Senate passes spending bill",
+      "headlines": [
+        "US government shutdown averted as Senate passes spending bill"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Do Ukrainians believe a ceasefire with Russia will work?",
+      "headlines": [
+        "Do Ukrainians believe a ceasefire with Russia will work?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK’s Starmer says coalition to beef up Ukraine security in any peace deal",
+      "headlines": [
+        "UK’s Starmer says coalition to beef up Ukraine security in any peace deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration mulls new travel ban that could hit 43 nations: Report",
+      "headlines": [
+        "Trump administration mulls new travel ban that could hit 43 nations: Report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why are Caribbean leaders fighting Trump to keep Cuban doctors?",
+      "headlines": [
+        "Why are Caribbean leaders fighting Trump to keep Cuban doctors?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
