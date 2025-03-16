@@ -2258,5 +2258,40 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-16T06:27:59.911Z": [
+    {
+      "summary": "Trump blocked from using wartime law for deportations",
+      "headlines": [
+        "Trump blocked from using wartime law for deportations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says 'decisive' military action against Houthis underway in Yemen",
+      "headlines": [
+        "Trump says 'decisive' military action against Houthis underway in Yemen"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump orders ‘decisive, powerful’ attacks against Yemen’s Houthis",
+      "headlines": [
+        "Trump orders ‘decisive, powerful’ attacks against Yemen’s Houthis"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
