@@ -74,5 +74,18 @@
       "sentiment": 2,
       "topic": "sports"
     }
+  ],
+  "2025-03-16T18:27:48.299Z": [
+    {
+      "summary": "Design versus reality: Are some new football stadiums too good to be true?",
+      "headlines": [
+        "Design versus reality: Are some new football stadiums too good to be true?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "sports"
+    }
   ]
 }

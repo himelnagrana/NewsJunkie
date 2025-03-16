@@ -2009,5 +2009,73 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-03-16T18:27:46.907Z": [
+    {
+      "summary": "Trump moves to close down Voice of America",
+      "headlines": [
+        "Trump moves to close down Voice of America"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Serbia's largest-ever rally sees 325,000 protest against government",
+      "headlines": [
+        "Serbia's largest-ever rally sees 325,000 protest against government"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Despite judge's pause, Trump deports migrants via Alien Enemies Act",
+      "headlines": [
+        "Despite judge's pause, Trump deports migrants via Alien Enemies Act"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and Putin to discuss proposed Ukraine ceasefire this week",
+      "headlines": [
+        "Trump and Putin to discuss proposed Ukraine ceasefire this week"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Virtually’ all Voice of America staff put on leave after Trump order",
+      "headlines": [
+        "‘Virtually’ all Voice of America staff put on leave after Trump order"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is Trump the end of the international rules-based order?",
+      "headlines": [
+        "Is Trump the end of the international rules-based order?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
