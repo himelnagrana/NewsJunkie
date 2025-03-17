@@ -2077,5 +2077,73 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-03-17T06:31:39.703Z": [
+    {
+      "summary": "Trump and Putin to hold call on ceasefire deal soon, US envoy says",
+      "headlines": [
+        "Trump and Putin to hold call on ceasefire deal soon, US envoy says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Peace deal must bar Ukraine from Nato, Russian official says",
+      "headlines": [
+        "Peace deal must bar Ukraine from Nato, Russian official says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "What is Tren de Aragua, the Venezuelan gang targeted by Trump?",
+      "headlines": [
+        "What is Tren de Aragua, the Venezuelan gang targeted by Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Ukraine peace talks looking at ‘dividing up certain assets’",
+      "headlines": [
+        "Trump says Ukraine peace talks looking at ‘dividing up certain assets’"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why does DRC want a Ukraine-like minerals deal with Trump, amid conflict?",
+      "headlines": [
+        "Why does DRC want a Ukraine-like minerals deal with Trump, amid conflict?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration starts mass layoffs at media outlet Voice of America",
+      "headlines": [
+        "Trump administration starts mass layoffs at media outlet Voice of America"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

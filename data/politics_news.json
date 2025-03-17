@@ -2361,5 +2361,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-03-17T06:31:40.219Z": [
+    {
+      "summary": "Trump and Putin to hold call on ceasefire deal soon, US envoy says",
+      "headlines": [
+        "Trump and Putin to hold call on ceasefire deal soon, US envoy says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Peace deal must bar Ukraine from Nato, Russian official says",
+      "headlines": [
+        "Peace deal must bar Ukraine from Nato, Russian official says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India watches warily as Bangladesh-Pakistan ties thaw",
+      "headlines": [
+        "India watches warily as Bangladesh-Pakistan ties thaw"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What is Tren de Aragua, the Venezuelan gang targeted by Trump?",
+      "headlines": [
+        "What is Tren de Aragua, the Venezuelan gang targeted by Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Ukraine peace talks looking at ‘dividing up certain assets’",
+      "headlines": [
+        "Trump says Ukraine peace talks looking at ‘dividing up certain assets’"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why does DRC want a Ukraine-like minerals deal with Trump, amid conflict?",
+      "headlines": [
+        "Why does DRC want a Ukraine-like minerals deal with Trump, amid conflict?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration starts mass layoffs at media outlet Voice of America",
+      "headlines": [
+        "Trump administration starts mass layoffs at media outlet Voice of America"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
