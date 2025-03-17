@@ -2440,5 +2440,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-03-17T18:29:04.199Z": [
+    {
+      "summary": "We've never been closer to a Ukraine peace deal, White House says ahead of Trump-Putin talks",
+      "headlines": [
+        "We've never been closer to a Ukraine peace deal, White House says ahead of Trump-Putin talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What is the 1798 law that Trump used to deport migrants?",
+      "headlines": [
+        "What is the 1798 law that Trump used to deport migrants?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Conor McGregor due to meet Trump at White House",
+      "headlines": [
+        "Conor McGregor due to meet Trump at White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US will hold Iran responsible for ‘every shot fired’ by Houthis, Trump says",
+      "headlines": [
+        "US will hold Iran responsible for ‘every shot fired’ by Houthis, Trump says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin and Trump to talk with proposed Russia-Ukraine truce in balance",
+      "headlines": [
+        "Putin and Trump to talk with proposed Russia-Ukraine truce in balance"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump deports 238 ‘gang members’ to El Salvador: What’s the controversy?",
+      "headlines": [
+        "Trump deports 238 ‘gang members’ to El Salvador: What’s the controversy?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "A ‘coalition of the willing’ thrashes out how to enforce peace in Ukraine",
+      "headlines": [
+        "A ‘coalition of the willing’ thrashes out how to enforce peace in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }
