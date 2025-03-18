@@ -2224,5 +2224,73 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-03-18T06:31:06.477Z": [
+    {
+      "summary": "Trump says 'many elements' agreed to ahead of Putin call",
+      "headlines": [
+        "Trump says 'many elements' agreed to ahead of Putin call"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is China spending billions to get people to open their wallets?",
+      "headlines": [
+        "Why is China spending billions to get people to open their wallets?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "No evidence for Trump claim about 'void' Biden pardons and autopen",
+      "headlines": [
+        "No evidence for Trump claim about 'void' Biden pardons and autopen"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Lithuania accuses Russia over Ikea store fire in Vilnius",
+      "headlines": [
+        "Lithuania accuses Russia over Ikea store fire in Vilnius"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he will release 80,000 pages of JFK files on Tuesday",
+      "headlines": [
+        "Trump says he will release 80,000 pages of JFK files on Tuesday"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump warns Iran will be ‘held responsible’ for Houthi attacks from Yemen",
+      "headlines": [
+        "Trump warns Iran will be ‘held responsible’ for Houthi attacks from Yemen"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
