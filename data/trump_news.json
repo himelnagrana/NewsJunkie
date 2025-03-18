@@ -2292,5 +2292,40 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-03-18T18:31:03.208Z": [
+    {
+      "summary": "Putin agrees to halt strikes on Ukraine energy targets for 30 days, Kremlin says after call with Trump",
+      "headlines": [
+        "Putin agrees to halt strikes on Ukraine energy targets for 30 days, Kremlin says after call with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin agrees to pausing strikes on Ukraine energy infrastructure",
+      "headlines": [
+        "Putin agrees to pausing strikes on Ukraine energy infrastructure"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is Trump helping other world leaders gain popularity back home?",
+      "headlines": [
+        "Is Trump helping other world leaders gain popularity back home?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 7,
+      "topic": "trump"
+    }
   ]
 }

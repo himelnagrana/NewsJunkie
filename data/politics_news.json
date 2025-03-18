@@ -2587,5 +2587,62 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-03-18T18:31:03.767Z": [
+    {
+      "summary": "Putin agrees to halt strikes on Ukraine energy targets for 30 days, Kremlin says after call with Trump",
+      "headlines": [
+        "Putin agrees to halt strikes on Ukraine energy targets for 30 days, Kremlin says after call with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin agrees to pausing strikes on Ukraine energy infrastructure",
+      "headlines": [
+        "Putin agrees to pausing strikes on Ukraine energy infrastructure"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s Putin agrees to 30-day pause on attacks to energy infrastructure",
+      "headlines": [
+        "Russia’s Putin agrees to 30-day pause on attacks to energy infrastructure"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Trump helping other world leaders gain popularity back home?",
+      "headlines": [
+        "Is Trump helping other world leaders gain popularity back home?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel resumes its war on us, the people of Gaza",
+      "headlines": [
+        "Israel resumes its war on us, the people of Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
