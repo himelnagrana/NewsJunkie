@@ -2406,5 +2406,139 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-03-19T18:30:47.614Z": [
+    {
+      "summary": "Zelensky says lasting peace achievable this year after he and Trump hail 'positive' call",
+      "headlines": [
+        "Zelensky says lasting peace achievable this year after he and Trump hail 'positive' call"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Rosenberg: Trump-Putin call seen as victory in Russia",
+      "headlines": [
+        "Rosenberg: Trump-Putin call seen as victory in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "'You don't have the cards' - How to play poker against Trump",
+      "headlines": [
+        "'You don't have the cards' - How to play poker against Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ben & Jerry's boss 'ousted over political activism'",
+      "headlines": [
+        "Ben & Jerry's boss 'ousted over political activism'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration reinstating nearly 25,000 fired federal workers",
+      "headlines": [
+        "Trump administration reinstating nearly 25,000 fired federal workers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine’s Zelenskyy agrees to halt energy attacks after Trump call",
+      "headlines": [
+        "Ukraine’s Zelenskyy agrees to halt energy attacks after Trump call"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada’s Conservative leader seizes on Trump remarks amid slump in support",
+      "headlines": [
+        "Canada’s Conservative leader seizes on Trump remarks amid slump in support"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US court rejects Trump bid to dismiss Mahmoud Khalil deportation challenge",
+      "headlines": [
+        "US court rejects Trump bid to dismiss Mahmoud Khalil deportation challenge"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia, Ukraine exchange prisoners as Trump says Zelenskyy call ‘very good’",
+      "headlines": [
+        "Russia, Ukraine exchange prisoners as Trump says Zelenskyy call ‘very good’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘No betrayal’: Ukraine breathes sigh of relief after Trump-Putin talks",
+      "headlines": [
+        "‘No betrayal’: Ukraine breathes sigh of relief after Trump-Putin talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump warns Yemen’s Houthis will be ‘completely annihilated’",
+      "headlines": [
+        "Trump warns Yemen’s Houthis will be ‘completely annihilated’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump-Putin call: What they agreed to and what’s next for Ukraine war",
+      "headlines": [
+        "Trump-Putin call: What they agreed to and what’s next for Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
