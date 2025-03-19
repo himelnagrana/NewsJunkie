@@ -2327,5 +2327,84 @@
       "sentiment": 7,
       "topic": "trump"
     }
+  ],
+  "2025-03-19T06:30:44.374Z": [
+    {
+      "summary": "Putin agrees in Trump call to pause Ukraine energy attacks but no full ceasefire",
+      "headlines": [
+        "Putin agrees in Trump call to pause Ukraine energy attacks but no full ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Analysis: Putin gives Trump just enough to claim progress on Ukraine peace",
+      "headlines": [
+        "Analysis: Putin gives Trump just enough to claim progress on Ukraine peace"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia and Ukraine carry out attacks after Putin-Trump call",
+      "headlines": [
+        "Russia and Ukraine carry out attacks after Putin-Trump call"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and European armies should join our war on gangs, Ecuador president tells BBC",
+      "headlines": [
+        "US and European armies should join our war on gangs, Ecuador president tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin just called Trump’s bluff on Ukraine",
+      "headlines": [
+        "Putin just called Trump’s bluff on Ukraine"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration releases thousands of files on JFK assassination",
+      "headlines": [
+        "Trump administration releases thousands of files on JFK assassination"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia’s Putin agrees to 30-day halt in attacks on Ukraine energy targets",
+      "headlines": [
+        "Russia’s Putin agrees to 30-day halt in attacks on Ukraine energy targets"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

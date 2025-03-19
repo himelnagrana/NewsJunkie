@@ -207,5 +207,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-03-19T06:30:46.366Z": [
+    {
+      "summary": "Splurge or save? Americans struggle as tariffs hit economy",
+      "headlines": [
+        "Splurge or save? Americans struggle as tariffs hit economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
