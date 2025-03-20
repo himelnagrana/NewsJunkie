@@ -2540,5 +2540,95 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-03-20T06:30:41.393Z": [
+    {
+      "summary": "Trump suggests US could run Ukraine's power plants",
+      "headlines": [
+        "Trump suggests US could run Ukraine's power plants"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China executed four Canadians for drug crimes, says Ottawa",
+      "headlines": [
+        "China executed four Canadians for drug crimes, says Ottawa"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK to host new Ukraine peacekeeping talks",
+      "headlines": [
+        "UK to host new Ukraine peacekeeping talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration withdraws from  Russian war crime investigations",
+      "headlines": [
+        "Trump administration withdraws from  Russian war crime investigations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine’s Zelenskyy ready to halt attacks on energy sites after Trump call",
+      "headlines": [
+        "Ukraine’s Zelenskyy ready to halt attacks on energy sites after Trump call"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration detains Indian pro-Palestinian student for deportation",
+      "headlines": [
+        "Trump administration detains Indian pro-Palestinian student for deportation"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "How Trump took credit for the Gaza ceasefire – and then let it unravel",
+      "headlines": [
+        "How Trump took credit for the Gaza ceasefire – and then let it unravel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Advocates decry Trump administration effort to deport immigration activist",
+      "headlines": [
+        "Advocates decry Trump administration effort to deport immigration activist"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
