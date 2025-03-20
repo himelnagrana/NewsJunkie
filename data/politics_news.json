@@ -2991,5 +2991,150 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-20T18:30:48.006Z": [
+    {
+      "summary": "Reassurance, not peacekeeping: What Ukraine coalition force will and won't do",
+      "headlines": [
+        "Reassurance, not peacekeeping: What Ukraine coalition force will and won't do"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine and Russia to hold parallel talks next week",
+      "headlines": [
+        "Ukraine and Russia to hold parallel talks next week"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Carney to call snap election as Canada faces trade war with US - reports",
+      "headlines": [
+        "Carney to call snap election as Canada faces trade war with US - reports"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to order dismantling of US education department",
+      "headlines": [
+        "Trump to order dismantling of US education department"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kirsty Coventry is first woman to be elected IOC president",
+      "headlines": [
+        "Kirsty Coventry is first woman to be elected IOC president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What does the US education department do - and can Trump dismantle it?",
+      "headlines": [
+        "What does the US education department do - and can Trump dismantle it?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Coventry elected as IOC's first female president",
+      "headlines": [
+        "Coventry elected as IOC's first female president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Robbing our children’: Trump push to dismantle Education Dept draws anger",
+      "headlines": [
+        "‘Robbing our children’: Trump push to dismantle Education Dept draws anger"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Taliban releases US detainee George Glezmann in Trump administration deal",
+      "headlines": [
+        "Taliban releases US detainee George Glezmann in Trump administration deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia, Ukraine ramp up drone attacks despite truce talks",
+      "headlines": [
+        "Russia, Ukraine ramp up drone attacks despite truce talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "As Trump seeks systemic change, does the US have an obligation to refugees?",
+      "headlines": [
+        "As Trump seeks systemic change, does the US have an obligation to refugees?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Spring brings more Russian advances as Putin rejects a ceasefire in Ukraine",
+      "headlines": [
+        "Spring brings more Russian advances as Putin rejects a ceasefire in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump moves to deport Indian pro-Palestinian Georgetown University student",
+      "headlines": [
+        "Trump moves to deport Indian pro-Palestinian Georgetown University student"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
