@@ -3136,5 +3136,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-21T06:32:27.754Z": [
+    {
+      "summary": "Putin would breach Ukraine deal if it is not defended, says PM",
+      "headlines": [
+        "Putin would breach Ukraine deal if it is not defended, says PM"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs order to dismantle US education department",
+      "headlines": [
+        "Trump signs order to dismantle US education department"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Elon Musk's Grok is kicking up a storm in India",
+      "headlines": [
+        "Why Elon Musk's Grok is kicking up a storm in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine's 'chaotic' withdrawal from Russia, in its soldiers' words",
+      "headlines": [
+        "Ukraine's 'chaotic' withdrawal from Russia, in its soldiers' words"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says judge in migrant deportations case is 'Grandstander'",
+      "headlines": [
+        "Trump says judge in migrant deportations case is 'Grandstander'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump uses emergency powers to boost mineral production",
+      "headlines": [
+        "Trump uses emergency powers to boost mineral production"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Coventry elected first female IOC president as Coe beaten",
+      "headlines": [
+        "Coventry elected first female IOC president as Coe beaten"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Georgetown researcher arrest escalates Trump speech crackdown, scholars say",
+      "headlines": [
+        "Georgetown researcher arrest escalates Trump speech crackdown, scholars say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump orders increased minerals production, says Ukraine deal coming soon",
+      "headlines": [
+        "Trump orders increased minerals production, says Ukraine deal coming soon"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump signs executive order to ‘eliminate’ Department of Education",
+      "headlines": [
+        "Donald Trump signs executive order to ‘eliminate’ Department of Education"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine, Russia to hold talks with US officials in Saudi Arabia next week",
+      "headlines": [
+        "Ukraine, Russia to hold talks with US officials in Saudi Arabia next week"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
