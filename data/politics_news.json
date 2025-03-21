@@ -3259,5 +3259,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-03-21T18:30:10.660Z": [
+    {
+      "summary": "Sudan army recaptures presidential palace after two years of war",
+      "headlines": [
+        "Sudan army recaptures presidential palace after two years of war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump awards Boeing major contract to build 'most lethal' fighter jets",
+      "headlines": [
+        "Trump awards Boeing major contract to build 'most lethal' fighter jets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump rescinds order targeting law firm after it makes $40m promise",
+      "headlines": [
+        "Trump rescinds order targeting law firm after it makes $40m promise"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Groundbreaking but controversial - new IOC president Coventry",
+      "headlines": [
+        "Groundbreaking but controversial - new IOC president Coventry"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Unbelievable': Lord Sugar hits out at President Trump",
+      "headlines": [
+        "'Unbelievable': Lord Sugar hits out at President Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hamilton 'gobsmacked' by Ferrari speed in China after sprint pole",
+      "headlines": [
+        "Hamilton 'gobsmacked' by Ferrari speed in China after sprint pole"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump suggests US has ‘confines’ of Russia-Ukraine deal",
+      "headlines": [
+        "Trump suggests US has ‘confines’ of Russia-Ukraine deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is Trump dismantling the Department of Education – and what’s next?",
+      "headlines": [
+        "Why is Trump dismantling the Department of Education – and what’s next?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Netumbo Nandi-Ndaitwah sworn in as Namibia’s first female president",
+      "headlines": [
+        "Netumbo Nandi-Ndaitwah sworn in as Namibia’s first female president"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
