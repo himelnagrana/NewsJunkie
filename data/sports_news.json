@@ -100,5 +100,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-03-22T18:27:15.256Z": [
+    {
+      "summary": "Football academies: When chasing a dream becomes a nightmare",
+      "headlines": [
+        "Football academies: When chasing a dream becomes a nightmare"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    }
   ]
 }

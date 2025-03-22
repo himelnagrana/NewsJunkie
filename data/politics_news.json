@@ -3461,5 +3461,117 @@
       "sentiment": -6,
       "topic": "politics"
     }
+  ],
+  "2025-03-22T18:27:14.349Z": [
+    {
+      "summary": "Hillary Clinton and Kamala Harris lose security clearance after Trump order",
+      "headlines": [
+        "Hillary Clinton and Kamala Harris lose security clearance after Trump order"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Columbia University agrees to Trump administration's demand for mask ban",
+      "headlines": [
+        "Columbia University agrees to Trump administration's demand for mask ban"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Trump is struggling to secure fast ceasefire in Ukraine",
+      "headlines": [
+        "Why Trump is struggling to secure fast ceasefire in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump revokes security clearance for Harris, Clinton, and critics",
+      "headlines": [
+        "Trump revokes security clearance for Harris, Clinton, and critics"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hamilton hits out at 'yapping' critics after China sprint win",
+      "headlines": [
+        "Hamilton hits out at 'yapping' critics after China sprint win"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump wants the war to end. But Putin wants much more",
+      "headlines": [
+        "Trump wants the war to end. But Putin wants much more"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Deadly Russian drone attack in Ukraine before next US talks in Saudi Arabia",
+      "headlines": [
+        "Deadly Russian drone attack in Ukraine before next US talks in Saudi Arabia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Lebanon warns of ‘new war’ as Israel strikes Tyre in south",
+      "headlines": [
+        "Lebanon warns of ‘new war’ as Israel strikes Tyre in south"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump revokes legal status for 530,000 immigrants in the US",
+      "headlines": [
+        "Trump revokes legal status for 530,000 immigrants in the US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is X suing the Indian government as Musk woos Modi?",
+      "headlines": [
+        "Why is X suing the Indian government as Musk woos Modi?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
