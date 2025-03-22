@@ -3360,5 +3360,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-03-22T06:28:29.779Z": [
+    {
+      "summary": "Trump revokes status of 530,000 Latin Americans",
+      "headlines": [
+        "Trump revokes status of 530,000 Latin Americans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Deal or no deal? Why Trump is struggling to win fast ceasefire in Ukraine",
+      "headlines": [
+        "Deal or no deal? Why Trump is struggling to win fast ceasefire in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hamilton takes first Ferrari win in China sprint",
+      "headlines": [
+        "Hamilton takes first Ferrari win in China sprint"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Judge in deportations case says government lawyers 'disrespectful'",
+      "headlines": [
+        "Judge in deportations case says government lawyers 'disrespectful'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Will recapture of presidential palace change course of Sudan war?",
+      "headlines": [
+        "Will recapture of presidential palace change course of Sudan war?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Namibia swears in first female president",
+      "headlines": [
+        "Namibia swears in first female president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump revoking protections for 530,000 Cubans, Haitians and other migrants",
+      "headlines": [
+        "Trump revoking protections for 530,000 Cubans, Haitians and other migrants"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,122",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,122"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India’s ‘political iftars’ once stopped riots. Are they corrupt stunts now?",
+      "headlines": [
+        "India’s ‘political iftars’ once stopped riots. Are they corrupt stunts now?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    }
   ]
 }
