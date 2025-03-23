@@ -3619,5 +3619,106 @@
       "sentiment": 2,
       "topic": "politics"
     }
+  ],
+  "2025-03-23T18:27:49.740Z": [
+    {
+      "summary": "Canadian PM Mark Carney calls snap election for 28 April",
+      "headlines": [
+        "Canadian PM Mark Carney calls snap election for 28 April"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who is running in Canada's federal election?",
+      "headlines": [
+        "Who is running in Canada's federal election?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Turkish President Erdogan's main rival jailed",
+      "headlines": [
+        "Turkish President Erdogan's main rival jailed"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US hopes for 'real progress' in peace talks, as three killed in Russian strikes on Ukraine",
+      "headlines": [
+        "US hopes for 'real progress' in peace talks, as three killed in Russian strikes on Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'ABC is a disgrace' - Trump on the looming debate",
+      "headlines": [
+        "'ABC is a disgrace' - Trump on the looming debate"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "More than 50,000 Palestinians killed since Israel’s war on Gaza began",
+      "headlines": [
+        "More than 50,000 Palestinians killed since Israel’s war on Gaza began"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada’s PM Carney triggers snap election, vote set for April 28",
+      "headlines": [
+        "Canada’s PM Carney triggers snap election, vote set for April 28"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South African ambassador expelled by Trump receives hero’s welcome at home",
+      "headlines": [
+        "South African ambassador expelled by Trump receives hero’s welcome at home"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Horrifying milestone’: Israel’s war on Gaza has killed 50,000 Palestinians",
+      "headlines": [
+        "‘Horrifying milestone’: Israel’s war on Gaza has killed 50,000 Palestinians"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    }
   ]
 }

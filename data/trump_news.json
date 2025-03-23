@@ -3181,5 +3181,51 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-03-23T18:27:49.234Z": [
+    {
+      "summary": "Turkish President Erdogan's main rival jailed",
+      "headlines": [
+        "Turkish President Erdogan's main rival jailed"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US hopes for 'real progress' in peace talks, as three killed in Russian strikes on Ukraine",
+      "headlines": [
+        "US hopes for 'real progress' in peace talks, as three killed in Russian strikes on Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'ABC is a disgrace' - Trump on the looming debate",
+      "headlines": [
+        "'ABC is a disgrace' - Trump on the looming debate"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "South African ambassador expelled by Trump receives hero’s welcome at home",
+      "headlines": [
+        "South African ambassador expelled by Trump receives hero’s welcome at home"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
