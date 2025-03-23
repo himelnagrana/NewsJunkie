@@ -3146,5 +3146,40 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-03-23T06:28:46.008Z": [
+    {
+      "summary": "Trump envoy dismisses Starmer plan for Ukraine",
+      "headlines": [
+        "Trump envoy dismisses Starmer plan for Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'My husband is a fighter pilot in Ukraine. Here's how I really feel about a ceasefire'",
+      "headlines": [
+        "'My husband is a fighter pilot in Ukraine. Here's how I really feel about a ceasefire'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Lewis Hamilton hits out at 'yapping' critics after F1 sprint win in China",
+      "headlines": [
+        "Lewis Hamilton hits out at 'yapping' critics after F1 sprint win in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }
