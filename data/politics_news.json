@@ -3821,5 +3821,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-24T18:31:17.059Z": [
+    {
+      "summary": "Russian missile hits hospital and homes, says Ukraine, as talks on possible truce continue",
+      "headlines": [
+        "Russian missile hits hospital and homes, says Ukraine, as talks on possible truce continue"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Greenland condemns planned visits by Usha Vance and Trump adviser",
+      "headlines": [
+        "Greenland condemns planned visits by Usha Vance and Trump adviser"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Judge declines to lift ban on Trump  deportations under wartime powers",
+      "headlines": [
+        "Judge declines to lift ban on Trump  deportations under wartime powers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "US to meet Ukraine again in Riyadh after talks with Russian delegation",
+      "headlines": [
+        "US to meet Ukraine again in Riyadh after talks with Russian delegation"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin wants US ‘recognition’ of Russian gains in Ukraine as legitimate",
+      "headlines": [
+        "Putin wants US ‘recognition’ of Russian gains in Ukraine as legitimate"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada election 2025: What you need to know",
+      "headlines": [
+        "Canada election 2025: What you need to know"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
