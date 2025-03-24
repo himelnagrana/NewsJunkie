@@ -3720,5 +3720,106 @@
       "sentiment": -5,
       "topic": "politics"
     }
+  ],
+  "2025-03-24T06:32:02.720Z": [
+    {
+      "summary": "US and Ukraine meet ahead of Russia ceasefire talks",
+      "headlines": [
+        "US and Ukraine meet ahead of Russia ceasefire talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump looms over Canada's election as campaign begins",
+      "headlines": [
+        "Trump looms over Canada's election as campaign begins"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Five things to look for in Canada's election",
+      "headlines": [
+        "Five things to look for in Canada's election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mark Carney, the political newcomer who hopes to stay Canada's PM",
+      "headlines": [
+        "Mark Carney, the political newcomer who hopes to stay Canada's PM"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who's who in Canada's federal election",
+      "headlines": [
+        "Who's who in Canada's federal election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korean court reinstates impeached PM Han Duck-soo as acting president",
+      "headlines": [
+        "South Korean court reinstates impeached PM Han Duck-soo as acting president"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Analysis: Israelis protest as Netanyahu focuses on securing political power",
+      "headlines": [
+        "Analysis: Israelis protest as Netanyahu focuses on securing political power"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US, Ukraine hold talks in Saudi Arabia ahead of US-Russia meeting on Monday",
+      "headlines": [
+        "US, Ukraine hold talks in Saudi Arabia ahead of US-Russia meeting on Monday"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,124",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,124"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
