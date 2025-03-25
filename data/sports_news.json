@@ -126,5 +126,18 @@
       "sentiment": 1,
       "topic": "sports"
     }
+  ],
+  "2025-03-25T06:31:44.532Z": [
+    {
+      "summary": "Faith comes before football, says Premier League star Ouattara",
+      "headlines": [
+        "Faith comes before football, says Premier League star Ouattara"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    }
   ]
 }

@@ -3889,5 +3889,139 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-03-25T06:31:43.503Z": [
+    {
+      "summary": "Hyundai unveils $21bn US expansion as Trump tariffs loom",
+      "headlines": [
+        "Hyundai unveils $21bn US expansion as Trump tariffs loom"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia accused of 'hollow' peace talks as strike injures dozens",
+      "headlines": [
+        "Russia accused of 'hollow' peace talks as strike injures dozens"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Two women who spied for Russia tracked down and named by BBC",
+      "headlines": [
+        "Two women who spied for Russia tracked down and named by BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "The small-town mayor accused of trafficking and spying for China",
+      "headlines": [
+        "The small-town mayor accused of trafficking and spying for China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump bemoans a portrait of him - but gets a new one from Putin",
+      "headlines": [
+        "Trump bemoans a portrait of him - but gets a new one from Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Chad condemns Sudan's airport threat  as 'declaration of war'",
+      "headlines": [
+        "Chad condemns Sudan's airport threat  as 'declaration of war'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump officials accidentally texted military strike plans to journalist",
+      "headlines": [
+        "Trump officials accidentally texted military strike plans to journalist"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘A shocking breach’: Trump officials leak Yemen attack plans in Signal chat",
+      "headlines": [
+        "‘A shocking breach’: Trump officials leak Yemen attack plans in Signal chat"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "China releases five detained staff from US due diligence firm Mintz Group",
+      "headlines": [
+        "China releases five detained staff from US due diligence firm Mintz Group"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Republicans and Democrats are reacting to the Yemen war plans leak",
+      "headlines": [
+        "How Republicans and Democrats are reacting to the Yemen war plans leak"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia and US conclude marathon Ukraine war talks in Saudi Arabia’s Riyadh",
+      "headlines": [
+        "Russia and US conclude marathon Ukraine war talks in Saudi Arabia’s Riyadh"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,125",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,125"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
