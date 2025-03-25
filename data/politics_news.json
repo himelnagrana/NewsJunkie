@@ -4023,5 +4023,139 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-25T18:30:42.729Z": [
+    {
+      "summary": "Russia and Ukraine agree to ceasefire in Black Sea, White House says",
+      "headlines": [
+        "Russia and Ukraine agree to ceasefire in Black Sea, White House says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Columbia student protester sues Trump  to stop deportation",
+      "headlines": [
+        "Columbia student protester sues Trump  to stop deportation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Millions of UK tyres meant for recycling sent to furnaces in India",
+      "headlines": [
+        "Millions of UK tyres meant for recycling sent to furnaces in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Key reactions to reports of a leaked group chat involving Trump officials",
+      "headlines": [
+        "Watch: Key reactions to reports of a leaked group chat involving Trump officials"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rwanda planning to attack Burundi, president tells BBC",
+      "headlines": [
+        "Rwanda planning to attack Burundi, president tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Turtle stranded in Wales after Trump aid freeze",
+      "headlines": [
+        "Turtle stranded in Wales after Trump aid freeze"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump officials grilled over group chat",
+      "headlines": [
+        "Trump officials grilled over group chat"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia and Ukraine agree to halt Black Sea attacks, US says",
+      "headlines": [
+        "Russia and Ukraine agree to halt Black Sea attacks, US says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada warns of election threats from China, Russia, India and Pakistan",
+      "headlines": [
+        "Canada warns of election threats from China, Russia, India and Pakistan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Are Ethiopia and Eritrea hurtling towards war?",
+      "headlines": [
+        "Are Ethiopia and Eritrea hurtling towards war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What did Trump aides leak to The Atlantic in Signal chat?",
+      "headlines": [
+        "What did Trump aides leak to The Atlantic in Signal chat?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US issues demands to new Syrian government in exchange for sanctions relief",
+      "headlines": [
+        "US issues demands to new Syrian government in exchange for sanctions relief"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
