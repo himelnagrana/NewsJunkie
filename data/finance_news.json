@@ -233,5 +233,18 @@
       "sentiment": -1,
       "topic": "finance"
     }
+  ],
+  "2025-03-26T06:31:14.542Z": [
+    {
+      "summary": "Sudan army accused of killing hundreds in airstrike on Darfur market",
+      "headlines": [
+        "Sudan army accused of killing hundreds in airstrike on Darfur market"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "finance"
+    }
   ]
 }

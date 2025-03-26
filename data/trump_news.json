@@ -3565,5 +3565,73 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-03-26T06:31:12.321Z": [
+    {
+      "summary": "Russia and Ukraine agree naval ceasefire in Black Sea",
+      "headlines": [
+        "Russia and Ukraine agree naval ceasefire in Black Sea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump has blown up the world order - and left Europe's leaders scrabbling",
+      "headlines": [
+        "Trump has blown up the world order - and left Europe's leaders scrabbling"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump signs order aimed at overhauling US elections",
+      "headlines": [
+        "Trump signs order aimed at overhauling US elections"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and intelligence chiefs play down Signal group chat leak",
+      "headlines": [
+        "Trump and intelligence chiefs play down Signal group chat leak"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Sloppy’: Trump downplays shock over leaked Signal chat about Yemen attack",
+      "headlines": [
+        "‘Sloppy’: Trump downplays shock over leaked Signal chat about Yemen attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump signs executive order calling for proof of US citizenship to vote",
+      "headlines": [
+        "Trump signs executive order calling for proof of US citizenship to vote"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

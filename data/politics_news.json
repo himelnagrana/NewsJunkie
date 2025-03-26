@@ -4157,5 +4157,95 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-03-26T06:31:12.914Z": [
+    {
+      "summary": "Russia and Ukraine agree naval ceasefire in Black Sea",
+      "headlines": [
+        "Russia and Ukraine agree naval ceasefire in Black Sea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump has blown up the world order - and left Europe's leaders scrabbling",
+      "headlines": [
+        "Trump has blown up the world order - and left Europe's leaders scrabbling"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hundreds join Gaza's largest anti-Hamas protest since war began",
+      "headlines": [
+        "Hundreds join Gaza's largest anti-Hamas protest since war began"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs order aimed at overhauling US elections",
+      "headlines": [
+        "Trump signs order aimed at overhauling US elections"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India accused of meddling in Canada's Conservative Party race",
+      "headlines": [
+        "India accused of meddling in Canada's Conservative Party race"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump and intelligence chiefs play down Signal group chat leak",
+      "headlines": [
+        "Trump and intelligence chiefs play down Signal group chat leak"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Sloppy’: Trump downplays shock over leaked Signal chat about Yemen attack",
+      "headlines": [
+        "‘Sloppy’: Trump downplays shock over leaked Signal chat about Yemen attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs executive order calling for proof of US citizenship to vote",
+      "headlines": [
+        "Trump signs executive order calling for proof of US citizenship to vote"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
