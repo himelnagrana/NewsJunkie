@@ -152,5 +152,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-03-27T06:30:58.429Z": [
+    {
+      "summary": "China's dream of becoming a football superpower lies in tatters",
+      "headlines": [
+        "China's dream of becoming a football superpower lies in tatters"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    }
   ]
 }

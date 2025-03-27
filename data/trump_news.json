@@ -3701,5 +3701,150 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-03-27T06:30:57.080Z": [
+    {
+      "summary": "Trump announces 25% tariffs on car imports to US",
+      "headlines": [
+        "Trump announces 25% tariffs on car imports to US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump official visits mega-jail holding deported Venezuelans",
+      "headlines": [
+        "Trump official visits mega-jail holding deported Venezuelans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China tariffs may be cut to seal TikTok sale, Trump says",
+      "headlines": [
+        "China tariffs may be cut to seal TikTok sale, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Chris Mason: Trump means uncertainty is the new certainty for the UK",
+      "headlines": [
+        "Chris Mason: Trump means uncertainty is the new certainty for the UK"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Why did they invite me?' - Goldberg says Trump officials should accept mistake",
+      "headlines": [
+        "'Why did they invite me?' - Goldberg says Trump officials should accept mistake"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is the Signal chat leak involving Trump officials a big deal?",
+      "headlines": [
+        "Is the Signal chat leak involving Trump officials a big deal?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Read the messages Trump officials exchanged on leaked Signal thread",
+      "headlines": [
+        "Read the messages Trump officials exchanged on leaked Signal thread"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Six lingering questions about Trump officials' Signal chat",
+      "headlines": [
+        "Six lingering questions about Trump officials' Signal chat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump officials attack journalist after Signal leak published in full",
+      "headlines": [
+        "Trump officials attack journalist after Signal leak published in full"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Analyzing Trump officials' Signal group chat",
+      "headlines": [
+        "Analyzing Trump officials' Signal group chat"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces 25 percent tariffs on cars, ramping up trade war",
+      "headlines": [
+        "Trump announces 25 percent tariffs on cars, ramping up trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration arrests Turkish student Rumeysa Ozturk at Tufts",
+      "headlines": [
+        "Trump administration arrests Turkish student Rumeysa Ozturk at Tufts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump reiterates US has to ‘have’ Greenland ahead of JD Vance visit",
+      "headlines": [
+        "Trump reiterates US has to ‘have’ Greenland ahead of JD Vance visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
