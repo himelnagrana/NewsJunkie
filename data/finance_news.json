@@ -246,5 +246,18 @@
       "sentiment": -5,
       "topic": "finance"
     }
+  ],
+  "2025-03-27T18:30:41.633Z": [
+    {
+      "summary": "Europe imports more Russian gas, aiding wartime economy, report finds",
+      "headlines": [
+        "Europe imports more Russian gas, aiding wartime economy, report finds"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

@@ -3846,5 +3846,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-03-27T18:30:39.678Z": [
+    {
+      "summary": "Germany leads defiance to Trump car tariffs, saying it 'will not give in'",
+      "headlines": [
+        "Germany leads defiance to Trump car tariffs, saying it 'will not give in'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada PM weighs response to 'direct attack' of Trump car tariffs",
+      "headlines": [
+        "Canada PM weighs response to 'direct attack' of Trump car tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK and France to send defence chiefs to Ukraine as Starmer says Putin is 'playing for time'",
+      "headlines": [
+        "UK and France to send defence chiefs to Ukraine as Starmer says Putin is 'playing for time'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Four lingering questions about Trump officials' Signal chat",
+      "headlines": [
+        "Four lingering questions about Trump officials' Signal chat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump targets Irish pharmaceutical industry for US tariffs",
+      "headlines": [
+        "Trump targets Irish pharmaceutical industry for US tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Six things that could get more expensive for Americans under Trump tariffs",
+      "headlines": [
+        "Six things that could get more expensive for Americans under Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Wrong’: World leaders denounce Donald Trump’s new auto tariffs",
+      "headlines": [
+        "‘Wrong’: World leaders denounce Donald Trump’s new auto tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Columbia let me down’: How Indian scholar expelled by Trump fled the US",
+      "headlines": [
+        "‘Columbia let me down’: How Indian scholar expelled by Trump fled the US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "France’s Macron says not all European countries agree on force for Ukraine",
+      "headlines": [
+        "France’s Macron says not all European countries agree on force for Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Who are the students Trump wants to deport?",
+      "headlines": [
+        "Who are the students Trump wants to deport?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

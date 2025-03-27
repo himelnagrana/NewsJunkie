@@ -4482,5 +4482,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-27T18:30:40.203Z": [
+    {
+      "summary": "Germany leads defiance to Trump car tariffs, saying it 'will not give in'",
+      "headlines": [
+        "Germany leads defiance to Trump car tariffs, saying it 'will not give in'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada PM weighs response to 'direct attack' of Trump car tariffs",
+      "headlines": [
+        "Canada PM weighs response to 'direct attack' of Trump car tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK and France to send defence chiefs to Ukraine as Starmer says Putin is 'playing for time'",
+      "headlines": [
+        "UK and France to send defence chiefs to Ukraine as Starmer says Putin is 'playing for time'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Four lingering questions about Trump officials' Signal chat",
+      "headlines": [
+        "Four lingering questions about Trump officials' Signal chat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "100-year-old time capsule unearths Bible and declaration of war",
+      "headlines": [
+        "100-year-old time capsule unearths Bible and declaration of war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump targets Irish pharmaceutical industry for US tariffs",
+      "headlines": [
+        "Trump targets Irish pharmaceutical industry for US tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Six things that could get more expensive for Americans under Trump tariffs",
+      "headlines": [
+        "Six things that could get more expensive for Americans under Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Columbia let me down’: How Indian scholar expelled by Trump fled the US",
+      "headlines": [
+        "‘Columbia let me down’: How Indian scholar expelled by Trump fled the US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What’s happened in Sudan’s civil war after new Khartoum battles?",
+      "headlines": [
+        "What’s happened in Sudan’s civil war after new Khartoum battles?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "France’s Macron says not all European countries agree on force for Ukraine",
+      "headlines": [
+        "France’s Macron says not all European countries agree on force for Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who are the students Trump wants to deport?",
+      "headlines": [
+        "Who are the students Trump wants to deport?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

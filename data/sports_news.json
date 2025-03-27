@@ -165,5 +165,18 @@
       "sentiment": 1,
       "topic": "sports"
     }
+  ],
+  "2025-03-27T18:30:41.109Z": [
+    {
+      "summary": "Lies and confrontation: LeBron's beef with a basketball pundit",
+      "headlines": [
+        "Lies and confrontation: LeBron's beef with a basketball pundit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
