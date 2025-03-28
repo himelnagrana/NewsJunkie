@@ -3958,5 +3958,139 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-03-28T06:31:40.306Z": [
+    {
+      "summary": "Rosenberg: Putin nods to Trump plans to seize Greenland",
+      "headlines": [
+        "Rosenberg: Putin nods to Trump plans to seize Greenland"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Defiance or diplomacy - how Canadians want to deal with Trump",
+      "headlines": [
+        "Defiance or diplomacy - how Canadians want to deal with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Senior Trump officials ordered to preserve Signal group chat",
+      "headlines": [
+        "Senior Trump officials ordered to preserve Signal group chat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump targets 'anti-American ideology' at Smithsonian museums",
+      "headlines": [
+        "Trump targets 'anti-American ideology' at Smithsonian museums"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump withdraws Elise Stefanik's nomination to be UN ambassador",
+      "headlines": [
+        "Trump withdraws Elise Stefanik's nomination to be UN ambassador"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Weekly quiz: Which world leader gave Donald Trump a new portrait?",
+      "headlines": [
+        "Weekly quiz: Which world leader gave Donald Trump a new portrait?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Germany leads defiance of Trump car tariffs, saying it 'will not give in'",
+      "headlines": [
+        "Germany leads defiance of Trump car tariffs, saying it 'will not give in'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘We won’t back down’: Global leaders threaten backlash to Trump auto tariff",
+      "headlines": [
+        "‘We won’t back down’: Global leaders threaten backlash to Trump auto tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iran responds to Trump letter on nuclear talks, state media reports",
+      "headlines": [
+        "Iran responds to Trump letter on nuclear talks, state media reports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia’s Putin says North Korea, BRICS should join Ukraine ceasefire talks",
+      "headlines": [
+        "Russia’s Putin says North Korea, BRICS should join Ukraine ceasefire talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US, Philippines must stand ‘shoulder to shoulder’ on China, Hegseth says",
+      "headlines": [
+        "US, Philippines must stand ‘shoulder to shoulder’ on China, Hegseth says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Judge orders Trump administration to preserve Signal texts on Houthi attack",
+      "headlines": [
+        "Judge orders Trump administration to preserve Signal texts on Houthi attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

@@ -4605,5 +4605,183 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-03-28T06:31:40.861Z": [
+    {
+      "summary": "Rosenberg: Putin nods to Trump plans to seize Greenland",
+      "headlines": [
+        "Rosenberg: Putin nods to Trump plans to seize Greenland"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Defiance or diplomacy - how Canadians want to deal with Trump",
+      "headlines": [
+        "Defiance or diplomacy - how Canadians want to deal with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia to hold federal election on 3 May",
+      "headlines": [
+        "Australia to hold federal election on 3 May"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Senior Trump officials ordered to preserve Signal group chat",
+      "headlines": [
+        "Senior Trump officials ordered to preserve Signal group chat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump targets 'anti-American ideology' at Smithsonian museums",
+      "headlines": [
+        "Trump targets 'anti-American ideology' at Smithsonian museums"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump withdraws Elise Stefanik's nomination to be UN ambassador",
+      "headlines": [
+        "Trump withdraws Elise Stefanik's nomination to be UN ambassador"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Weekly quiz: Which world leader gave Donald Trump a new portrait?",
+      "headlines": [
+        "Weekly quiz: Which world leader gave Donald Trump a new portrait?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Albanese faces headwinds ahead of Australian election",
+      "headlines": [
+        "Albanese faces headwinds ahead of Australian election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK not entering trade war with US, says Starmer",
+      "headlines": [
+        "UK not entering trade war with US, says Starmer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Germany leads defiance of Trump car tariffs, saying it 'will not give in'",
+      "headlines": [
+        "Germany leads defiance of Trump car tariffs, saying it 'will not give in'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘We won’t back down’: Global leaders threaten backlash to Trump auto tariff",
+      "headlines": [
+        "‘We won’t back down’: Global leaders threaten backlash to Trump auto tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran responds to Trump letter on nuclear talks, state media reports",
+      "headlines": [
+        "Iran responds to Trump letter on nuclear talks, state media reports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s Putin says North Korea, BRICS should join Ukraine ceasefire talks",
+      "headlines": [
+        "Russia’s Putin says North Korea, BRICS should join Ukraine ceasefire talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US, Philippines must stand ‘shoulder to shoulder’ on China, Hegseth says",
+      "headlines": [
+        "US, Philippines must stand ‘shoulder to shoulder’ on China, Hegseth says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Judge orders Trump administration to preserve Signal texts on Houthi attack",
+      "headlines": [
+        "Judge orders Trump administration to preserve Signal texts on Houthi attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia’s Albanese calls national election for May 3",
+      "headlines": [
+        "Australia’s Albanese calls national election for May 3"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

@@ -259,5 +259,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-03-28T06:31:42.506Z": [
+    {
+      "summary": "Watch: US drivers react to Trump's new auto tariff",
+      "headlines": [
+        "Watch: US drivers react to Trump's new auto tariff"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Assassin's Creed maker gets $1.25bn Chinese investment",
+      "headlines": [
+        "Assassin's Creed maker gets $1.25bn Chinese investment"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "‘We won’t back down’: Global leaders threaten backlash to Trump auto tariff",
+      "headlines": [
+        "‘We won’t back down’: Global leaders threaten backlash to Trump auto tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

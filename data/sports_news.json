@@ -178,5 +178,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-03-28T06:31:41.991Z": [
+    {
+      "summary": "Sad story of 'Mr Wigan Athletic' proves football family still exists",
+      "headlines": [
+        "Sad story of 'Mr Wigan Athletic' proves football family still exists"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }
