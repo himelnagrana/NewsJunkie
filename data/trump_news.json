@@ -4092,5 +4092,95 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-03-28T18:31:39.116Z": [
+    {
+      "summary": "Vance visits Greenland military base as Trump vows to 'have' the island",
+      "headlines": [
+        "Vance visits Greenland military base as Trump vows to 'have' the island"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin floats idea of UN-led government in Ukraine",
+      "headlines": [
+        "Putin floats idea of UN-led government in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and Carney hold first call amid ongoing trade war",
+      "headlines": [
+        "Trump and Carney hold first call amid ongoing trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can Vietnam golf its way out of new Trump tariffs?",
+      "headlines": [
+        "Can Vietnam golf its way out of new Trump tariffs?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Under-fire Zimbabwe president names new army chief",
+      "headlines": [
+        "Under-fire Zimbabwe president names new army chief"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump speaks with Canada’s Mark Carney amid trade tensions",
+      "headlines": [
+        "Donald Trump speaks with Canada’s Mark Carney amid trade tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump asks US Supreme Court to lift ban on deportations under wartime law",
+      "headlines": [
+        "Trump asks US Supreme Court to lift ban on deportations under wartime law"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia suffers ‘heavy losses’ in east Ukraine amid shaky limited ceasefire",
+      "headlines": [
+        "Russia suffers ‘heavy losses’ in east Ukraine amid shaky limited ceasefire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }

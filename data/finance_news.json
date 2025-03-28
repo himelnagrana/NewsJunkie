@@ -294,5 +294,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-03-28T18:31:41.264Z": [
+    {
+      "summary": "Irish finance minister delivers warning over US tariffs",
+      "headlines": [
+        "Irish finance minister delivers warning over US tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    },
+    {
+      "summary": "Real Madrid coach Ancelotti to go on trial for alleged tax fraud",
+      "headlines": [
+        "Real Madrid coach Ancelotti to go on trial for alleged tax fraud"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    }
   ]
 }
