@@ -4261,5 +4261,18 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-03-29T18:28:01.755Z": [
+    {
+      "summary": "Four in Ukraine killed in drone strike as Russia claims advances on ground",
+      "headlines": [
+        "Four in Ukraine killed in drone strike as Russia claims advances on ground"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }
