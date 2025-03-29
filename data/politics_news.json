@@ -4884,5 +4884,106 @@
       "sentiment": -5,
       "topic": "politics"
     }
+  ],
+  "2025-03-29T06:28:55.801Z": [
+    {
+      "summary": "Trump 'respected Canada's sovereignty' in call, says Carney",
+      "headlines": [
+        "Trump 'respected Canada's sovereignty' in call, says Carney"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Four killed in mass Russian drone attack on Dnipro, Ukraine says",
+      "headlines": [
+        "Four killed in mass Russian drone attack on Dnipro, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Columbia University president steps down amid Trump's crackdown",
+      "headlines": [
+        "Columbia University president steps down amid Trump's crackdown"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Expelled South African envoy accuses Trump administration of racism",
+      "headlines": [
+        "Expelled South African envoy accuses Trump administration of racism"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Wisconsin attorney general sues to block Elon Musk $2m election giveaway",
+      "headlines": [
+        "Wisconsin attorney general sues to block Elon Musk $2m election giveaway"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kasatkina to represent Australia instead of Russia",
+      "headlines": [
+        "Kasatkina to represent Australia instead of Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Greenland takeover needed for ‘world peace’",
+      "headlines": [
+        "Trump says Greenland takeover needed for ‘world peace’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How the ‘war on terror’ paved the way for student deportations in the US",
+      "headlines": [
+        "How the ‘war on terror’ paved the way for student deportations in the US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Judge blocks Trump effort to shutter Consumer Financial Protection Bureau",
+      "headlines": [
+        "Judge blocks Trump effort to shutter Consumer Financial Protection Bureau"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
