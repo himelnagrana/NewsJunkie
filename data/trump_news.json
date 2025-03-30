@@ -4274,5 +4274,29 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-03-30T06:29:26.658Z": [
+    {
+      "summary": "Is Irish America jumping aboard the 'Trump train'?",
+      "headlines": [
+        "Is Irish America jumping aboard the 'Trump train'?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Five in Ukraine killed in drone strikes as Russia claims advances on ground",
+      "headlines": [
+        "Five in Ukraine killed in drone strikes as Russia claims advances on ground"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }

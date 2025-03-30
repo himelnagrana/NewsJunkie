@@ -4998,5 +4998,40 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-03-30T06:29:27.230Z": [
+    {
+      "summary": "Is Irish America jumping aboard the 'Trump train'?",
+      "headlines": [
+        "Is Irish America jumping aboard the 'Trump train'?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Sudan’s war merging with South Sudanese conflicts?",
+      "headlines": [
+        "Is Sudan’s war merging with South Sudanese conflicts?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Five in Ukraine killed in drone strikes as Russia claims advances on ground",
+      "headlines": [
+        "Five in Ukraine killed in drone strikes as Russia claims advances on ground"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
