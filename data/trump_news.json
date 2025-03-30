@@ -4298,5 +4298,117 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-03-30T18:27:41.681Z": [
+    {
+      "summary": "Trump says he 'couldn't care less' about higher car prices",
+      "headlines": [
+        "Trump says he 'couldn't care less' about higher car prices"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canadian Conservative in hot water after trying to sweet talk Trump",
+      "headlines": [
+        "Canadian Conservative in hot water after trying to sweet talk Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "More Republicans call for investigation of Trump officials' Signal chat",
+      "headlines": [
+        "More Republicans call for investigation of Trump officials' Signal chat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump 'very angry' with Putin over ceasefire negotiations",
+      "headlines": [
+        "Trump 'very angry' with Putin over ceasefire negotiations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "The Canadian Conservative trying to sweet talk Trump",
+      "headlines": [
+        "The Canadian Conservative trying to sweet talk Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he's 'pissed off' at Putin",
+      "headlines": [
+        "Trump says he's 'pissed off' at Putin"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian drone attacks on Kharkiv, east Ukraine kill two and injure dozens",
+      "headlines": [
+        "Russian drone attacks on Kharkiv, east Ukraine kill two and injure dozens"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump ‘angry’ with Putin and threatens tariffs on Russian oil over Ukraine",
+      "headlines": [
+        "Trump ‘angry’ with Putin and threatens tariffs on Russian oil over Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iran rejects direct nuclear talks with Trump, open to indirect negotiations",
+      "headlines": [
+        "Iran rejects direct nuclear talks with Trump, open to indirect negotiations"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Syrian president al-Sharaa unveils transitional government",
+      "headlines": [
+        "Syrian president al-Sharaa unveils transitional government"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
