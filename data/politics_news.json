@@ -5145,5 +5145,139 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-03-31T06:32:27.896Z": [
+    {
+      "summary": "Trump 'very angry' with Putin over ceasefire talks, as strikes continue on Ukraine",
+      "headlines": [
+        "Trump 'very angry' with Putin over ceasefire talks, as strikes continue on Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canadian Conservative faces backlash after trying to sweet talk Trump",
+      "headlines": [
+        "Canadian Conservative faces backlash after trying to sweet talk Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Shares slide in Asia as new Trump tariffs loom",
+      "headlines": [
+        "Shares slide in Asia as new Trump tariffs loom"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Musk gives away $1m cheques ahead of Wisconsin's Supreme Court election",
+      "headlines": [
+        "Musk gives away $1m cheques ahead of Wisconsin's Supreme Court election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Republicans' calls for probe of Trump officials' Signal chat grow",
+      "headlines": [
+        "Republicans' calls for probe of Trump officials' Signal chat grow"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Germany decides to leave history in the past and prepare for war",
+      "headlines": [
+        "Germany decides to leave history in the past and prepare for war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump wants India to buy US corn - but here's why it probably won't",
+      "headlines": [
+        "Trump wants India to buy US corn - but here's why it probably won't"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China wants to talk trade with the US, but is also ready to fight",
+      "headlines": [
+        "China wants to talk trade with the US, but is also ready to fight"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says reciprocal tariffs will target ‘all countries’",
+      "headlines": [
+        "Trump says reciprocal tariffs will target ‘all countries’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "As the US and China lock horns, Malaysia hopes to harness an AI revolution",
+      "headlines": [
+        "As the US and China lock horns, Malaysia hopes to harness an AI revolution"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump insists he is ‘not joking’ about seeking a third term as president",
+      "headlines": [
+        "Trump insists he is ‘not joking’ about seeking a third term as president"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,131",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,131"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
