@@ -318,5 +318,18 @@
       "sentiment": -4,
       "topic": "finance"
     }
+  ],
+  "2025-03-31T18:31:17.370Z": [
+    {
+      "summary": "Ocean economy needs protection against wave of threats: OECD",
+      "headlines": [
+        "Ocean economy needs protection against wave of threats: OECD"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

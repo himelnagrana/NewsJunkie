@@ -4511,5 +4511,106 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-03-31T18:31:15.476Z": [
+    {
+      "summary": "Russia still 'working with US' after Trump says he is 'angry' with Putin",
+      "headlines": [
+        "Russia still 'working with US' after Trump says he is 'angry' with Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Marine Le Pen attacks five-year ban from running for public office as 'political decision'",
+      "headlines": [
+        "Marine Le Pen attacks five-year ban from running for public office as 'political decision'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK expects to be hit by Trump tariffs, No 10 says",
+      "headlines": [
+        "UK expects to be hit by Trump tariffs, No 10 says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can Trump serve a third term as US president?",
+      "headlines": [
+        "Can Trump serve a third term as US president?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump labels alleged Turnberry vandals 'terrorists'",
+      "headlines": [
+        "Trump labels alleged Turnberry vandals 'terrorists'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Think’: Europe leaders urge Trump to reconsider tariffs as deadline looms",
+      "headlines": [
+        "‘Think’: Europe leaders urge Trump to reconsider tariffs as deadline looms"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is Trump ‘very angry’ with Putin and who will secondary tariffs hurt?",
+      "headlines": [
+        "Why is Trump ‘very angry’ with Putin and who will secondary tariffs hurt?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump’s ‘America first’ policy is complicating business of making cars",
+      "headlines": [
+        "Trump’s ‘America first’ policy is complicating business of making cars"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘You have to be useful’: In Ukraine, women battle Russia in myriad ways",
+      "headlines": [
+        "‘You have to be useful’: In Ukraine, women battle Russia in myriad ways"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
