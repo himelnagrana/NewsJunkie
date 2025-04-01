@@ -4612,5 +4612,106 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-04-01T06:33:12.905Z": [
+    {
+      "summary": "University student targeted by Trump leaves the US",
+      "headlines": [
+        "University student targeted by Trump leaves the US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Markets mixed as investors brace for Trump tariffs",
+      "headlines": [
+        "Markets mixed as investors brace for Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tariffs: Ireland expected to be among hardest hit",
+      "headlines": [
+        "Trump tariffs: Ireland expected to be among hardest hit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "World on edge as Trump seems to still be sorting out his tariff plan",
+      "headlines": [
+        "World on edge as Trump seems to still be sorting out his tariff plan"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he’ll be ‘kind’ on tariffs amid rollercoaster for global stocks",
+      "headlines": [
+        "Trump says he’ll be ‘kind’ on tariffs amid rollercoaster for global stocks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is China angry about a plan to sell two ports on the Panama Canal?",
+      "headlines": [
+        "Why is China angry about a plan to sell two ports on the Panama Canal?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can Donald Trump seek a third term – and what are his options?",
+      "headlines": [
+        "Can Donald Trump seek a third term – and what are his options?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration reviews billions in Harvard contracts and grants",
+      "headlines": [
+        "Trump administration reviews billions in Harvard contracts and grants"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "China stages military drills off Taiwan in warning to ‘separatists’",
+      "headlines": [
+        "China stages military drills off Taiwan in warning to ‘separatists’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }

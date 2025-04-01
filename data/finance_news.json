@@ -331,5 +331,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-04-01T06:33:15.212Z": [
+    {
+      "summary": "World on edge as Trump seems to still be sorting out his tariff plan",
+      "headlines": [
+        "World on edge as Trump seems to still be sorting out his tariff plan"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

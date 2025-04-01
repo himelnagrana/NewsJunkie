@@ -5380,5 +5380,128 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-04-01T06:33:13.540Z": [
+    {
+      "summary": "Republicans fear Florida election upset  could threaten Trump's agenda",
+      "headlines": [
+        "Republicans fear Florida election upset  could threaten Trump's agenda"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "University student targeted by Trump leaves the US",
+      "headlines": [
+        "University student targeted by Trump leaves the US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Markets mixed as investors brace for Trump tariffs",
+      "headlines": [
+        "Markets mixed as investors brace for Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump tariffs: Ireland expected to be among hardest hit",
+      "headlines": [
+        "Trump tariffs: Ireland expected to be among hardest hit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "World on edge as Trump seems to still be sorting out his tariff plan",
+      "headlines": [
+        "World on edge as Trump seems to still be sorting out his tariff plan"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he’ll be ‘kind’ on tariffs amid rollercoaster for global stocks",
+      "headlines": [
+        "Trump says he’ll be ‘kind’ on tariffs amid rollercoaster for global stocks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is China angry about a plan to sell two ports on the Panama Canal?",
+      "headlines": [
+        "Why is China angry about a plan to sell two ports on the Panama Canal?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can Donald Trump seek a third term – and what are his options?",
+      "headlines": [
+        "Can Donald Trump seek a third term – and what are his options?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration reviews billions in Harvard contracts and grants",
+      "headlines": [
+        "Trump administration reviews billions in Harvard contracts and grants"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China stages military drills off Taiwan in warning to ‘separatists’",
+      "headlines": [
+        "China stages military drills off Taiwan in warning to ‘separatists’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,132",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,132"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
