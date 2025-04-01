@@ -4713,5 +4713,29 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-04-01T18:30:02.215Z": [
+    {
+      "summary": "Trump meets tariffs team as countries call White House for last-minute negotiations",
+      "headlines": [
+        "Trump meets tariffs team as countries call White House for last-minute negotiations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration begins mass layoffs of government health workers",
+      "headlines": [
+        "Trump administration begins mass layoffs of government health workers"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

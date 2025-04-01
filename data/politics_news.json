@@ -5503,5 +5503,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-01T18:30:02.747Z": [
+    {
+      "summary": "Trump meets tariffs team as countries call White House for last-minute negotiations",
+      "headlines": [
+        "Trump meets tariffs team as countries call White House for last-minute negotiations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin begins biggest Russian military call-up in years",
+      "headlines": [
+        "Putin begins biggest Russian military call-up in years"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "World War Two code breaker Betty Webb dies aged 101",
+      "headlines": [
+        "World War Two code breaker Betty Webb dies aged 101"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada MP quits election race over Chinese bounty comments",
+      "headlines": [
+        "Canada MP quits election race over Chinese bounty comments"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration begins mass layoffs of government health workers",
+      "headlines": [
+        "Trump administration begins mass layoffs of government health workers"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s Putin hosts Chinese Foreign Minister Wang for talks in Moscow",
+      "headlines": [
+        "Russia’s Putin hosts Chinese Foreign Minister Wang for talks in Moscow"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
