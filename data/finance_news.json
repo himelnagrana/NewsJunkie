@@ -357,5 +357,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-04-02T18:31:13.366Z": [
+    {
+      "summary": "Tariff uncertainties have companies in Mexico on their toes",
+      "headlines": [
+        "Tariff uncertainties have companies in Mexico on their toes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

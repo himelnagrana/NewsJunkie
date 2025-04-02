@@ -4816,5 +4816,62 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-02T18:31:11.442Z": [
+    {
+      "summary": "Trump to unveil tariffs in hours as European leaders warn against trade war",
+      "headlines": [
+        "Trump to unveil tariffs in hours as European leaders warn against trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK and Irish leaders speak ahead of Trump tariffs",
+      "headlines": [
+        "UK and Irish leaders speak ahead of Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Cory Booker makes longest Senate speech in 25-hour stand against Trump",
+      "headlines": [
+        "Cory Booker makes longest Senate speech in 25-hour stand against Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Markets on high alert as Trump set to unveil ‘Liberation Day’ tariffs",
+      "headlines": [
+        "Markets on high alert as Trump set to unveil ‘Liberation Day’ tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Are US car plants being built at record rates, as Trump claims?",
+      "headlines": [
+        "Are US car plants being built at record rates, as Trump claims?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -5661,5 +5661,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-02T18:31:11.961Z": [
+    {
+      "summary": "Trump to unveil tariffs in hours as European leaders warn against trade war",
+      "headlines": [
+        "Trump to unveil tariffs in hours as European leaders warn against trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin envoy and top US negotiator to meet at White House",
+      "headlines": [
+        "Putin envoy and top US negotiator to meet at White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK and Irish leaders speak ahead of Trump tariffs",
+      "headlines": [
+        "UK and Irish leaders speak ahead of Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Cory Booker makes longest Senate speech in 25-hour stand against Trump",
+      "headlines": [
+        "Cory Booker makes longest Senate speech in 25-hour stand against Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Markets on high alert as Trump set to unveil ‘Liberation Day’ tariffs",
+      "headlines": [
+        "Markets on high alert as Trump set to unveil ‘Liberation Day’ tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Wisconsin Supreme Court election results: What happened and why it matters",
+      "headlines": [
+        "Wisconsin Supreme Court election results: What happened and why it matters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Are US car plants being built at record rates, as Trump claims?",
+      "headlines": [
+        "Are US car plants being built at record rates, as Trump claims?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel’s war on Gaza deadliest conflict ever for journalists, says report",
+      "headlines": [
+        "Israel’s war on Gaza deadliest conflict ever for journalists, says report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
