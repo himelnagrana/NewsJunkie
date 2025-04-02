@@ -5571,5 +5571,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-02T06:31:29.589Z": [
+    {
+      "summary": "Trump poised to reshape global economy and how world does business",
+      "headlines": [
+        "Trump poised to reshape global economy and how world does business"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Florida Republican defeats Democrat in US House special election",
+      "headlines": [
+        "Florida Republican defeats Democrat in US House special election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "World braces as Trump set to announce sweeping tariffs",
+      "headlines": [
+        "World braces as Trump set to announce sweeping tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Election rumours swirl in Ukraine – could Zelensky be mulling a summer poll?",
+      "headlines": [
+        "Election rumours swirl in Ukraine – could Zelensky be mulling a summer poll?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump gets mixed scorecard in first election tests in Florida and Wisconsin",
+      "headlines": [
+        "Trump gets mixed scorecard in first election tests in Florida and Wisconsin"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US judge rejects Trump team’s bid to move Mahmoud Khalil case to Louisiana",
+      "headlines": [
+        "US judge rejects Trump team’s bid to move Mahmoud Khalil case to Louisiana"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Senator Cory Booker makes history with record speech aimed at Trump",
+      "headlines": [
+        "US Senator Cory Booker makes history with record speech aimed at Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "World, markets on edge as Trump prepares for ‘Liberation Day’ tariffs",
+      "headlines": [
+        "World, markets on edge as Trump prepares for ‘Liberation Day’ tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

@@ -344,5 +344,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-02T06:31:31.286Z": [
+    {
+      "summary": "Trump poised to reshape global economy and how world does business",
+      "headlines": [
+        "Trump poised to reshape global economy and how world does business"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
