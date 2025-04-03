@@ -370,5 +370,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-03T06:31:45.599Z": [
+    {
+      "summary": "Trump tariffs a 'major blow to world economy' says EU, as China vows retaliation",
+      "headlines": [
+        "Trump tariffs a 'major blow to world economy' says EU, as China vows retaliation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

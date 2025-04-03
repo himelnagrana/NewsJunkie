@@ -5751,5 +5751,117 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-04-03T06:31:43.890Z": [
+    {
+      "summary": "Trump tariffs a 'major blow to world economy' says EU, as China vows retaliation",
+      "headlines": [
+        "Trump tariffs a 'major blow to world economy' says EU, as China vows retaliation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to charge high tariffs on 'worst offenders' globally",
+      "headlines": [
+        "Trump to charge high tariffs on 'worst offenders' globally"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "World leaders criticise Trump tariffs as 'major blow'",
+      "headlines": [
+        "World leaders criticise Trump tariffs as 'major blow'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump's tariffs on China, EU and more, at a glance",
+      "headlines": [
+        "Trump's tariffs on China, EU and more, at a glance"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How aid becomes a weapon in Myanmar's war zone",
+      "headlines": [
+        "How aid becomes a weapon in Myanmar's war zone"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Water break saved me from blast that killed my brother in India'",
+      "headlines": [
+        "'Water break saved me from blast that killed my brother in India'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Musk's X is suing India, as Tesla and Starlink plan entry",
+      "headlines": [
+        "Musk's X is suing India, as Tesla and Starlink plan entry"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump tariffs live: ‘Reciprocal’ levies shake up global trade",
+      "headlines": [
+        "Trump tariffs live: ‘Reciprocal’ levies shake up global trade"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is Zimbabwe’s President Mnangagwa facing pressure to resign?",
+      "headlines": [
+        "Why is Zimbabwe’s President Mnangagwa facing pressure to resign?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘A historic moment’: Donald Trump unveils sweeping ‘reciprocal’ tariffs",
+      "headlines": [
+        "‘A historic moment’: Donald Trump unveils sweeping ‘reciprocal’ tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

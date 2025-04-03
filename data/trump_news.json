@@ -4873,5 +4873,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-03T06:31:43.253Z": [
+    {
+      "summary": "Trump tariffs a 'major blow to world economy' says EU, as China vows retaliation",
+      "headlines": [
+        "Trump tariffs a 'major blow to world economy' says EU, as China vows retaliation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to charge high tariffs on 'worst offenders' globally",
+      "headlines": [
+        "Trump to charge high tariffs on 'worst offenders' globally"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "World leaders criticise Trump tariffs as 'major blow'",
+      "headlines": [
+        "World leaders criticise Trump tariffs as 'major blow'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump's tariffs on China, EU and more, at a glance",
+      "headlines": [
+        "Trump's tariffs on China, EU and more, at a glance"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tariffs live: ‘Reciprocal’ levies shake up global trade",
+      "headlines": [
+        "Trump tariffs live: ‘Reciprocal’ levies shake up global trade"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is Zimbabwe’s President Mnangagwa facing pressure to resign?",
+      "headlines": [
+        "Why is Zimbabwe’s President Mnangagwa facing pressure to resign?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘A historic moment’: Donald Trump unveils sweeping ‘reciprocal’ tariffs",
+      "headlines": [
+        "‘A historic moment’: Donald Trump unveils sweeping ‘reciprocal’ tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
