@@ -4952,5 +4952,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-03T18:30:30.917Z": [
+    {
+      "summary": "US stock market plunges after Trump tariff announcement as Canada retaliates",
+      "headlines": [
+        "US stock market plunges after Trump tariff announcement as Canada retaliates"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Punitive or a gift? How five big economies see new Trump tariffs",
+      "headlines": [
+        "Punitive or a gift? How five big economies see new Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "How were Donald Trump's tariffs calculated?",
+      "headlines": [
+        "How were Donald Trump's tariffs calculated?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia not on Trump's tariff list",
+      "headlines": [
+        "Russia not on Trump's tariff list"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What Trump has done - and why it matters",
+      "headlines": [
+        "What Trump has done - and why it matters"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Three National Security Council officials fired by Trump",
+      "headlines": [
+        "Three National Security Council officials fired by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Ready for a trade war’: Which countries will hit back at Trump tariffs?",
+      "headlines": [
+        "‘Ready for a trade war’: Which countries will hit back at Trump tariffs?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

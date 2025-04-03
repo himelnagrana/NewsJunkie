@@ -383,5 +383,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-03T18:30:32.860Z": [
+    {
+      "summary": "US stock market plunges after Trump tariff announcement as Canada retaliates",
+      "headlines": [
+        "US stock market plunges after Trump tariff announcement as Canada retaliates"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Russia not on Trump's tariff list",
+      "headlines": [
+        "Russia not on Trump's tariff list"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "How the US stock market is reacting to Trump's tariffs…in 45 seconds",
+      "headlines": [
+        "How the US stock market is reacting to Trump's tariffs…in 45 seconds"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

@@ -5863,5 +5863,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-03T18:30:31.431Z": [
+    {
+      "summary": "US stock market plunges after Trump tariff announcement as Canada retaliates",
+      "headlines": [
+        "US stock market plunges after Trump tariff announcement as Canada retaliates"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Punitive or a gift? How five big economies see new Trump tariffs",
+      "headlines": [
+        "Punitive or a gift? How five big economies see new Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia not on Trump's tariff list",
+      "headlines": [
+        "Russia not on Trump's tariff list"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What Trump has done - and why it matters",
+      "headlines": [
+        "What Trump has done - and why it matters"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Three National Security Council officials fired by Trump",
+      "headlines": [
+        "Three National Security Council officials fired by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Ready for a trade war’: Which countries will hit back at Trump tariffs?",
+      "headlines": [
+        "‘Ready for a trade war’: Which countries will hit back at Trump tariffs?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
