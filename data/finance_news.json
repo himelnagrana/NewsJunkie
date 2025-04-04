@@ -418,5 +418,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-04T06:31:20.911Z": [
+    {
+      "summary": "UK companies warn tax rise will push up prices",
+      "headlines": [
+        "UK companies warn tax rise will push up prices"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "'Nowhere's safe': How an island of penguins ended up on Trump tariff list",
+      "headlines": [
+        "'Nowhere's safe': How an island of penguins ended up on Trump tariff list"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump’s self-inflicted tariff crisis sparks global shock",
+      "headlines": [
+        "Trump’s self-inflicted tariff crisis sparks global shock"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -5,
+      "topic": "finance"
+    }
   ]
 }

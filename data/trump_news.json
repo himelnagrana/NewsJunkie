@@ -5031,5 +5031,128 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-04T06:31:18.809Z": [
+    {
+      "summary": "Jubilation and despair as South Korea president removed from office",
+      "headlines": [
+        "Jubilation and despair as South Korea president removed from office"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "The unravelling of Yoon Suk Yeol: South Korea's 'stubborn and hot-tempered' martial law president",
+      "headlines": [
+        "The unravelling of Yoon Suk Yeol: South Korea's 'stubborn and hot-tempered' martial law president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Katya Adler: How will EU respond to Donald Trump's tariffs?",
+      "headlines": [
+        "Katya Adler: How will EU respond to Donald Trump's tariffs?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Tracking President Trump's love for charts over the years",
+      "headlines": [
+        "Tracking President Trump's love for charts over the years"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "What next for products like the iPhone made in China? And more of your questions answered",
+      "headlines": [
+        "What next for products like the iPhone made in China? And more of your questions answered"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Koreans react as president Yoon is removed from office",
+      "headlines": [
+        "South Koreans react as president Yoon is removed from office"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Nowhere's safe': How an island of penguins ended up on Trump tariff list",
+      "headlines": [
+        "'Nowhere's safe': How an island of penguins ended up on Trump tariff list"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tariffs trigger steepest US stocks drop since 2020 as China, EU vow to hit back",
+      "headlines": [
+        "Trump tariffs trigger steepest US stocks drop since 2020 as China, EU vow to hit back"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "See all the Trump tariffs by country",
+      "headlines": [
+        "See all the Trump tariffs by country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Korea’s President Yoon removed from office over martial law decree",
+      "headlines": [
+        "South Korea’s President Yoon removed from office over martial law decree"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he thinks Iran wants direct talks with US",
+      "headlines": [
+        "Trump says he thinks Iran wants direct talks with US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
