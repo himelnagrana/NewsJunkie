@@ -453,5 +453,18 @@
       "sentiment": -5,
       "topic": "finance"
     }
+  ],
+  "2025-04-04T18:30:13.061Z": [
+    {
+      "summary": "China hits back at Trump tariffs with 34% tax on US goods",
+      "headlines": [
+        "China hits back at Trump tariffs with 34% tax on US goods"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

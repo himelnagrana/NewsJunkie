@@ -6065,5 +6065,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-04T18:30:11.564Z": [
+    {
+      "summary": "China and US are at each other's throats on tariffs, and neither is backing down",
+      "headlines": [
+        "China and US are at each other's throats on tariffs, and neither is backing down"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Prince Andrew sent yearly birthday cards to China's president, royal aide says in court documents",
+      "headlines": [
+        "Prince Andrew sent yearly birthday cards to China's president, royal aide says in court documents"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nintendo pulls Switch 2 pre-orders in US over Trump tariffs",
+      "headlines": [
+        "Nintendo pulls Switch 2 pre-orders in US over Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea's president has been removed from power: What happens now?",
+      "headlines": [
+        "South Korea's president has been removed from power: What happens now?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rosenberg: Trump takes US-Russia relations on rollercoaster ride",
+      "headlines": [
+        "Rosenberg: Trump takes US-Russia relations on rollercoaster ride"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "The unravelling of Yoon Suk Yeol: South Korea's 'stubborn' martial law president",
+      "headlines": [
+        "The unravelling of Yoon Suk Yeol: South Korea's 'stubborn' martial law president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Celebrations and sorrow as South Korea president removed from office",
+      "headlines": [
+        "Celebrations and sorrow as South Korea president removed from office"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China hits back at Trump tariffs with 34% tax on US goods",
+      "headlines": [
+        "China hits back at Trump tariffs with 34% tax on US goods"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US will know in weeks if Russia serious about Ukraine ceasefire, Rubio says",
+      "headlines": [
+        "US will know in weeks if Russia serious about Ukraine ceasefire, Rubio says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia stalls ceasefire talks as it intensifies attacks on Ukraine",
+      "headlines": [
+        "Russia stalls ceasefire talks as it intensifies attacks on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "The trade surplus that Trump never mentions",
+      "headlines": [
+        "The trade surplus that Trump never mentions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
