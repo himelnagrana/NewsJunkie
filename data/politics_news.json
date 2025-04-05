@@ -6300,5 +6300,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-05T18:27:15.684Z": [
+    {
+      "summary": "Trump tells US to 'hang tough' over tariffs as Land Rover pauses shipments to country",
+      "headlines": [
+        "Trump tells US to 'hang tough' over tariffs as Land Rover pauses shipments to country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iranian president sacks deputy for 'lavish' Antarctic cruise",
+      "headlines": [
+        "Iranian president sacks deputy for 'lavish' Antarctic cruise"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China and US are at each other's throats, and neither is backing down",
+      "headlines": [
+        "China and US are at each other's throats, and neither is backing down"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump extends deadline to keep TikTok running in US",
+      "headlines": [
+        "Trump extends deadline to keep TikTok running in US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "UN says 100 children killed or injured in Gaza every day since war resumed",
+      "headlines": [
+        "UN says 100 children killed or injured in Gaza every day since war resumed"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump’s 10 percent tariff takes effect, raising fears of global trade war",
+      "headlines": [
+        "Trump’s 10 percent tariff takes effect, raising fears of global trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

@@ -5378,5 +5378,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-05T18:27:15.166Z": [
+    {
+      "summary": "Trump tells US to 'hang tough' over tariffs as Land Rover pauses shipments to country",
+      "headlines": [
+        "Trump tells US to 'hang tough' over tariffs as Land Rover pauses shipments to country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iranian president sacks deputy for 'lavish' Antarctic cruise",
+      "headlines": [
+        "Iranian president sacks deputy for 'lavish' Antarctic cruise"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China and US are at each other's throats, and neither is backing down",
+      "headlines": [
+        "China and US are at each other's throats, and neither is backing down"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump extends deadline to keep TikTok running in US",
+      "headlines": [
+        "Trump extends deadline to keep TikTok running in US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }

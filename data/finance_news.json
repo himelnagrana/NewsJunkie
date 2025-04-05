@@ -490,5 +490,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-05T18:27:17.071Z": [
+    {
+      "summary": "Trump’s 10 percent tariff takes effect, raising fears of global trade war",
+      "headlines": [
+        "Trump’s 10 percent tariff takes effect, raising fears of global trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
