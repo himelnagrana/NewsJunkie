@@ -466,5 +466,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-05T06:28:59.336Z": [
+    {
+      "summary": "Inside Trump's defiant response to markets' tariff meltdown",
+      "headlines": [
+        "Inside Trump's defiant response to markets' tariff meltdown"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "US stock markets continue slump as China hits back on Trump tariffs",
+      "headlines": [
+        "US stock markets continue slump as China hits back on Trump tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

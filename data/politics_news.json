@@ -6188,5 +6188,117 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-05T06:28:57.939Z": [
+    {
+      "summary": "Trump's agenda grapples with political and economic reality",
+      "headlines": [
+        "Trump's agenda grapples with political and economic reality"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Steve Rosenberg: Trump takes US-Russia relations on rollercoaster ride",
+      "headlines": [
+        "Steve Rosenberg: Trump takes US-Russia relations on rollercoaster ride"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea's president is out - but he leaves behind a polarised country",
+      "headlines": [
+        "South Korea's president is out - but he leaves behind a polarised country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India passes controversial bill on Muslim properties after fierce debate",
+      "headlines": [
+        "India passes controversial bill on Muslim properties after fierce debate"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Sometimes you have to walk through fire': Tariffs get backing in Trump heartland",
+      "headlines": [
+        "'Sometimes you have to walk through fire': Tariffs get backing in Trump heartland"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "See the Trump tariffs list by country",
+      "headlines": [
+        "See the Trump tariffs list by country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US stock markets continue slump as China hits back on Trump tariffs",
+      "headlines": [
+        "US stock markets continue slump as China hits back on Trump tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine says children among 18 killed in Russian attack on Kryvyi Rih",
+      "headlines": [
+        "Ukraine says children among 18 killed in Russian attack on Kryvyi Rih"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pentagon confirms four-star general’s firing amid Trump security purge",
+      "headlines": [
+        "Pentagon confirms four-star general’s firing amid Trump security purge"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Global markets swoon as Trump heads to the golf course",
+      "headlines": [
+        "Global markets swoon as Trump heads to the golf course"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

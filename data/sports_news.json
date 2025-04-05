@@ -217,5 +217,18 @@
       "sentiment": 4,
       "topic": "sports"
     }
+  ],
+  "2025-04-05T06:28:58.884Z": [
+    {
+      "summary": "Sam Altman's AI-generated cricket jersey image gets Indians talking",
+      "headlines": [
+        "Sam Altman's AI-generated cricket jersey image gets Indians talking"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
