@@ -5470,5 +5470,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-06T18:27:47.808Z": [
+    {
+      "summary": "More than 50 countries contact US in bid to negotiate tariffs, Trump official says",
+      "headlines": [
+        "More than 50 countries contact US in bid to negotiate tariffs, Trump official says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Zimbabwe to scrap tariffs on US goods to build 'positive' ties with Trump",
+      "headlines": [
+        "Zimbabwe to scrap tariffs on US goods to build 'positive' ties with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia bombs Kyiv after missile strikes in Ukraine’s south",
+      "headlines": [
+        "Russia bombs Kyiv after missile strikes in Ukraine’s south"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
