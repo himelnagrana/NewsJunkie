@@ -5424,5 +5424,51 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-04-06T06:30:11.401Z": [
+    {
+      "summary": "Trump urges US to 'hang tough' as 10% tariffs come into effect",
+      "headlines": [
+        "Trump urges US to 'hang tough' as 10% tariffs come into effect"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump has turned his back on the foundation of US economic might - the fallout will be messy",
+      "headlines": [
+        "Trump has turned his back on the foundation of US economic might - the fallout will be messy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump portrait artist says criticism damaging business",
+      "headlines": [
+        "Trump portrait artist says criticism damaging business"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israel’s Netanyahu set for talks with Trump in Washington, DC",
+      "headlines": [
+        "Israel’s Netanyahu set for talks with Trump in Washington, DC"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

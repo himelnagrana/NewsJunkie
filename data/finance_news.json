@@ -503,5 +503,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-04-06T06:30:13.474Z": [
+    {
+      "summary": "Starmer vows to protect UK businesses from Trump's tariff 'storm'",
+      "headlines": [
+        "Starmer vows to protect UK businesses from Trump's tariff 'storm'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    }
   ]
 }
