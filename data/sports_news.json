@@ -230,5 +230,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-04-07T06:32:53.242Z": [
+    {
+      "summary": "Higgins beats Selby in Tour Championship final",
+      "headlines": [
+        "Higgins beats Selby in Tour Championship final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

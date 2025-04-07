@@ -5505,5 +5505,62 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-04-07T06:32:51.490Z": [
+    {
+      "summary": "Asian markets plunge as Trump says 'sometimes you have to take medicine'",
+      "headlines": [
+        "Asian markets plunge as Trump says 'sometimes you have to take medicine'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US judge scolds Trump officials for failing to return man deported in error",
+      "headlines": [
+        "US judge scolds Trump officials for failing to return man deported in error"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Sometimes you have to take medicine': Trump defends sweeping tariffs",
+      "headlines": [
+        "'Sometimes you have to take medicine': Trump defends sweeping tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump digs in on tariffs as global stock markets go into freefall",
+      "headlines": [
+        "Trump digs in on tariffs as global stock markets go into freefall"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Over 50 countries seek US trade talks after tariffs: Trump officials",
+      "headlines": [
+        "Over 50 countries seek US trade talks after tariffs: Trump officials"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

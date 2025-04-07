@@ -516,5 +516,29 @@
       "sentiment": 1,
       "topic": "finance"
     }
+  ],
+  "2025-04-07T06:32:53.773Z": [
+    {
+      "summary": "Asian markets plunge as global tariff turmoil deepens",
+      "headlines": [
+        "Asian markets plunge as global tariff turmoil deepens"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump digs in on tariffs as global stock markets go into freefall",
+      "headlines": [
+        "Trump digs in on tariffs as global stock markets go into freefall"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
