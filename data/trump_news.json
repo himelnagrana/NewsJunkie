@@ -5562,5 +5562,139 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-07T18:30:42.524Z": [
+    {
+      "summary": "Trump threatens extra 50% tariff on China unless it drops retaliatory levy",
+      "headlines": [
+        "Trump threatens extra 50% tariff on China unless it drops retaliatory levy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Billionaire Trump backer warns of 'economic nuclear winter' over tariffs",
+      "headlines": [
+        "Billionaire Trump backer warns of 'economic nuclear winter' over tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Netanyahu visits Trump at White House for Gaza and tariffs talk",
+      "headlines": [
+        "Netanyahu visits Trump at White House for Gaza and tariffs talk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump asks US Supreme Court to block order to return deported man",
+      "headlines": [
+        "Trump asks US Supreme Court to block order to return deported man"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Warm welcome for tariffs in Trump heartland",
+      "headlines": [
+        "Warm welcome for tariffs in Trump heartland"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens additional 50% tariff on China",
+      "headlines": [
+        "Trump threatens additional 50% tariff on China"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US stocks sink again as Trump threatens new tariffs on China",
+      "headlines": [
+        "US stocks sink again as Trump threatens new tariffs on China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine to discuss minerals deal with US as Russia drags feet on ceasefire",
+      "headlines": [
+        "Ukraine to discuss minerals deal with US as Russia drags feet on ceasefire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why has Trump revoked all South Sudanese visas?",
+      "headlines": [
+        "Why has Trump revoked all South Sudanese visas?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Musk vs Navarro: Is the Trump team divided on tariffs?",
+      "headlines": [
+        "Musk vs Navarro: Is the Trump team divided on tariffs?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Global markets in freefall as Trump digs in on tariff ‘medicine’",
+      "headlines": [
+        "Global markets in freefall as Trump digs in on tariff ‘medicine’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Serbia’s President Vucic taps novice prime minister amid protest pressure",
+      "headlines": [
+        "Serbia’s President Vucic taps novice prime minister amid protest pressure"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }

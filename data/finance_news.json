@@ -540,5 +540,62 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-07T18:30:44.637Z": [
+    {
+      "summary": "Trump threatens extra 50% tariff on China unless it drops retaliatory levy",
+      "headlines": [
+        "Trump threatens extra 50% tariff on China unless it drops retaliatory levy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump threatens additional 50% tariff on China",
+      "headlines": [
+        "Trump threatens additional 50% tariff on China"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "EU offers zero tariff deal to US but prepares for trade war",
+      "headlines": [
+        "EU offers zero tariff deal to US but prepares for trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Hong Kong stock market plunges most since ’97 crisis amid tariffs panic",
+      "headlines": [
+        "Hong Kong stock market plunges most since ’97 crisis amid tariffs panic"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "finance"
+    },
+    {
+      "summary": "Global markets in freefall as Trump digs in on tariff ‘medicine’",
+      "headlines": [
+        "Global markets in freefall as Trump digs in on tariff ‘medicine’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
