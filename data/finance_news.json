@@ -597,5 +597,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-08T06:32:15.336Z": [
+    {
+      "summary": "Wild market swings as tariffs rattle US economy",
+      "headlines": [
+        "Wild market swings as tariffs rattle US economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "China calls Trump’s new tariff threat ‘a mistake upon a mistake’",
+      "headlines": [
+        "China calls Trump’s new tariff threat ‘a mistake upon a mistake’"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    },
+    {
+      "summary": "US stock market sinks lower after wild swings over Trump’s tariff plans",
+      "headlines": [
+        "US stock market sinks lower after wild swings over Trump’s tariff plans"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

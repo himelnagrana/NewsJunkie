@@ -6673,5 +6673,128 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-04-08T06:32:13.675Z": [
+    {
+      "summary": "Major Asian markets make gains as China vows to 'fight to the end' over Trump tariffs",
+      "headlines": [
+        "Major Asian markets make gains as China vows to 'fight to the end' over Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US top court allows Trump to use wartime law for deportations",
+      "headlines": [
+        "US top court allows Trump to use wartime law for deportations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US in direct nuclear talks with Iran, Trump says",
+      "headlines": [
+        "US in direct nuclear talks with Iran, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelensky confirms Ukraine troops in Russia's Belgorod region",
+      "headlines": [
+        "Zelensky confirms Ukraine troops in Russia's Belgorod region"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens new 50% tariffs on China",
+      "headlines": [
+        "Trump threatens new 50% tariffs on China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "It's only early April and north India is bracing for extreme heat",
+      "headlines": [
+        "It's only early April and north India is bracing for extreme heat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China calls Trump’s new tariff threat ‘a mistake upon a mistake’",
+      "headlines": [
+        "China calls Trump’s new tariff threat ‘a mistake upon a mistake’"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea sets June 3 as date of election to replace Yoon",
+      "headlines": [
+        "South Korea sets June 3 as date of election to replace Yoon"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump claims US set for direct nuclear talks with Iran",
+      "headlines": [
+        "Trump claims US set for direct nuclear talks with Iran"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK lawyers accuse 10 Britons who fought for Israel in Gaza of war crimes",
+      "headlines": [
+        "UK lawyers accuse 10 Britons who fought for Israel in Gaza of war crimes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,139",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,139"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
