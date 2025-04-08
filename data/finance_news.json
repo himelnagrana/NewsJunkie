@@ -632,5 +632,62 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-08T18:30:38.378Z": [
+    {
+      "summary": "What would a US-China trade war do to the world economy?",
+      "headlines": [
+        "What would a US-China trade war do to the world economy?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Who are the tariff 'PANICANS' derided as 'weak and stupid' by Trump?",
+      "headlines": [
+        "Who are the tariff 'PANICANS' derided as 'weak and stupid' by Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "China is not backing down from Trump's tariff war. What next?",
+      "headlines": [
+        "China is not backing down from Trump's tariff war. What next?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    },
+    {
+      "summary": "Penguins, vaccines: Can negotiations save Trump’s oddest tariff targets?",
+      "headlines": [
+        "Penguins, vaccines: Can negotiations save Trump’s oddest tariff targets?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    },
+    {
+      "summary": "What is a recession, and is it tied to stock market declines?",
+      "headlines": [
+        "What is a recession, and is it tied to stock market declines?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

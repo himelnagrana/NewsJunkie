@@ -6796,5 +6796,139 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-08T18:30:36.970Z": [
+    {
+      "summary": "What would a US-China trade war do to the world economy?",
+      "headlines": [
+        "What would a US-China trade war do to the world economy?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Musk labels Trump trade adviser 'moron' over Tesla comments",
+      "headlines": [
+        "Musk labels Trump trade adviser 'moron' over Tesla comments"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine captures two Chinese nationals fighting for Russia",
+      "headlines": [
+        "Ukraine captures two Chinese nationals fighting for Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who are the tariff 'PANICANS' derided as 'weak and stupid' by Trump?",
+      "headlines": [
+        "Who are the tariff 'PANICANS' derided as 'weak and stupid' by Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Boy, 16, killed in UK street had fled war in Syria",
+      "headlines": [
+        "Boy, 16, killed in UK street had fled war in Syria"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "China is not backing down from Trump's tariff war. What next?",
+      "headlines": [
+        "China is not backing down from Trump's tariff war. What next?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tariffs on China set to rise to 104%, White House says",
+      "headlines": [
+        "Tariffs on China set to rise to 104%, White House says"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump White House warns China’s retaliatory tariffs are a ‘mistake’",
+      "headlines": [
+        "Trump White House warns China’s retaliatory tariffs are a ‘mistake’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "A growing trade war? Trump says China ‘wants to make a deal’",
+      "headlines": [
+        "A growing trade war? Trump says China ‘wants to make a deal’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine captures two Chinese nationals fighting for Russia, Zelenskyy says",
+      "headlines": [
+        "Ukraine captures two Chinese nationals fighting for Russia, Zelenskyy says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump, Putin want Zelenskyy out. But is a vote possible in wartime Ukraine?",
+      "headlines": [
+        "Trump, Putin want Zelenskyy out. But is a vote possible in wartime Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Fight to the end’: Are the US and China rushing into a trade war?",
+      "headlines": [
+        "‘Fight to the end’: Are the US and China rushing into a trade war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

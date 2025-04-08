@@ -5775,5 +5775,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-08T18:30:36.470Z": [
+    {
+      "summary": "Musk labels Trump trade adviser 'moron' over Tesla comments",
+      "headlines": [
+        "Musk labels Trump trade adviser 'moron' over Tesla comments"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine captures two Chinese nationals fighting for Russia",
+      "headlines": [
+        "Ukraine captures two Chinese nationals fighting for Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Who are the tariff 'PANICANS' derided as 'weak and stupid' by Trump?",
+      "headlines": [
+        "Who are the tariff 'PANICANS' derided as 'weak and stupid' by Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China is not backing down from Trump's tariff war. What next?",
+      "headlines": [
+        "China is not backing down from Trump's tariff war. What next?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Tariffs on China set to rise to 104%, White House says",
+      "headlines": [
+        "Tariffs on China set to rise to 104%, White House says"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump White House warns China’s retaliatory tariffs are a ‘mistake’",
+      "headlines": [
+        "Trump White House warns China’s retaliatory tariffs are a ‘mistake’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "A growing trade war? Trump says China ‘wants to make a deal’",
+      "headlines": [
+        "A growing trade war? Trump says China ‘wants to make a deal’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine captures two Chinese nationals fighting for Russia, Zelenskyy says",
+      "headlines": [
+        "Ukraine captures two Chinese nationals fighting for Russia, Zelenskyy says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump, Putin want Zelenskyy out. But is a vote possible in wartime Ukraine?",
+      "headlines": [
+        "Trump, Putin want Zelenskyy out. But is a vote possible in wartime Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Fight to the end’: Are the US and China rushing into a trade war?",
+      "headlines": [
+        "‘Fight to the end’: Are the US and China rushing into a trade war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
