@@ -5887,5 +5887,73 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-09T06:32:31.400Z": [
+    {
+      "summary": "Trump's 'explosive' global tariffs take effect - including a 104% rate on China",
+      "headlines": [
+        "Trump's 'explosive' global tariffs take effect - including a 104% rate on China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "As Trump hikes tariffs again, nervous businesses weigh what comes next",
+      "headlines": [
+        "As Trump hikes tariffs again, nervous businesses weigh what comes next"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "At a glance: Trump's tariffs on China, EU and rest of the world",
+      "headlines": [
+        "At a glance: Trump's tariffs on China, EU and rest of the world"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and Russia to hold fresh embassy talks in Turkey",
+      "headlines": [
+        "US and Russia to hold fresh embassy talks in Turkey"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump’s 104% duty on China and other hefty levies take effect",
+      "headlines": [
+        "Trump’s 104% duty on China and other hefty levies take effect"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "These are the key events on day 1,140 of Russia’s war on Ukraine.",
+      "headlines": [
+        "These are the key events on day 1,140 of Russia’s war on Ukraine."
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
