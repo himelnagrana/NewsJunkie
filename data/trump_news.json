@@ -5955,5 +5955,117 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-09T18:31:19.556Z": [
+    {
+      "summary": "Markets soar as Trump pauses higher tariffs on most countries but hits China with 125% rate",
+      "headlines": [
+        "Markets soar as Trump pauses higher tariffs on most countries but hits China with 125% rate"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is the US making $2bn a day from tariffs? Trump claims fact-checked",
+      "headlines": [
+        "Is the US making $2bn a day from tariffs? Trump claims fact-checked"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can Trump convince Iran to ditch its nuclear programme?",
+      "headlines": [
+        "Can Trump convince Iran to ditch its nuclear programme?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Germany is back, says Merz, after sealing government deal",
+      "headlines": [
+        "Germany is back, says Merz, after sealing government deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens to end pharmaceuticals tariff exemption",
+      "headlines": [
+        "Trump threatens to end pharmaceuticals tariff exemption"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tariffs spark US government debt sell-off",
+      "headlines": [
+        "Trump tariffs spark US government debt sell-off"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump hits 90-day pause on most new tariffs, markets skyrocket",
+      "headlines": [
+        "Trump hits 90-day pause on most new tariffs, markets skyrocket"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trade war escalates as Donald Trump raises tariffs on China to 125 percent",
+      "headlines": [
+        "Trade war escalates as Donald Trump raises tariffs on China to 125 percent"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Chinese soldiers in Ukraine: Is Beijing sending troops to back Russia?",
+      "headlines": [
+        "Chinese soldiers in Ukraine: Is Beijing sending troops to back Russia?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Soya beans: China and EU’s secret weapon against Trump’s tariff wars?",
+      "headlines": [
+        "Soya beans: China and EU’s secret weapon against Trump’s tariff wars?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
