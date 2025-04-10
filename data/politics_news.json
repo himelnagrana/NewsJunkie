@@ -7121,5 +7121,150 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-10T06:32:03.871Z": [
+    {
+      "summary": "Global markets rebound after Trump reversal, but 125% US tariffs on China take effect",
+      "headlines": [
+        "Global markets rebound after Trump reversal, but 125% US tariffs on China take effect"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Retreat or negotiating strategy? Trump steps back from all-out trade war",
+      "headlines": [
+        "Retreat or negotiating strategy? Trump steps back from all-out trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Meta whistleblower alleges company worked with China on censorship",
+      "headlines": [
+        "Meta whistleblower alleges company worked with China on censorship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "War has changed Zelensky - but now is the time for him to transform again",
+      "headlines": [
+        "War has changed Zelensky - but now is the time for him to transform again"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Trump is hitting China on trade - and what might happen next",
+      "headlines": [
+        "Why Trump is hitting China on trade - and what might happen next"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US stocks make historic gains after Trump announces pause",
+      "headlines": [
+        "US stocks make historic gains after Trump announces pause"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why has Trump revoked hundreds of international student visas?",
+      "headlines": [
+        "Why has Trump revoked hundreds of international student visas?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Why US markets skyrocketed after Trump tariffs pause",
+      "headlines": [
+        "Watch: Why US markets skyrocketed after Trump tariffs pause"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US pauses higher tariffs for most countries after market havoc, but hits China harder",
+      "headlines": [
+        "US pauses higher tariffs for most countries after market havoc, but hits China harder"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why China isn’t backing down",
+      "headlines": [
+        "Why China isn’t backing down"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Stock markets soar as Trump pauses many tariffs, hikes China levy to 125%",
+      "headlines": [
+        "Stock markets soar as Trump pauses many tariffs, hikes China levy to 125%"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India’s language war: Why is Hindi causing a north-south divide?",
+      "headlines": [
+        "India’s language war: Why is Hindi causing a north-south divide?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,141",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,141"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

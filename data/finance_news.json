@@ -724,5 +724,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-10T06:32:05.237Z": [
+    {
+      "summary": "Watch: Why US markets skyrocketed after tariff pause",
+      "headlines": [
+        "Watch: Why US markets skyrocketed after tariff pause"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "US pauses higher tariffs for most countries after market havoc, but hits China harder",
+      "headlines": [
+        "US pauses higher tariffs for most countries after market havoc, but hits China harder"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Stock markets soar as Trump pauses many tariffs, hikes China levy to 125%",
+      "headlines": [
+        "Stock markets soar as Trump pauses many tariffs, hikes China levy to 125%"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
