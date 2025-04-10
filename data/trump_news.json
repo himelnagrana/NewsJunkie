@@ -6179,5 +6179,128 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-10T18:28:30.707Z": [
+    {
+      "summary": "Trump recognises tariff 'transition difficulty' as White House says China rate is 145%",
+      "headlines": [
+        "Trump recognises tariff 'transition difficulty' as White House says China rate is 145%"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump may have backtracked, but this is far from over",
+      "headlines": [
+        "Trump may have backtracked, but this is far from over"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Canadian superhero is now battling President Trump",
+      "headlines": [
+        "Watch: Canadian superhero is now battling President Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Will iPhones cost more because of Trump's tariffs on China?",
+      "headlines": [
+        "Will iPhones cost more because of Trump's tariffs on China?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Woman jailed over $51 donation to Ukraine freed in US-Russia prisoner swap",
+      "headlines": [
+        "Woman jailed over $51 donation to Ukraine freed in US-Russia prisoner swap"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump signs order to 'make America's showers great again'",
+      "headlines": [
+        "Trump signs order to 'make America's showers great again'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump allies relieved by tariffs reprieve",
+      "headlines": [
+        "Trump allies relieved by tariffs reprieve"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump concedes 'transition problems' as markets plunge",
+      "headlines": [
+        "Trump concedes 'transition problems' as markets plunge"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Wall Street dips after Trump’s tariff pause as China promises to fight on",
+      "headlines": [
+        "Wall Street dips after Trump’s tariff pause as China promises to fight on"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian advances in Ukraine slow down despite growing force size",
+      "headlines": [
+        "Russian advances in Ukraine slow down despite growing force size"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Stocks soar: Why Trump faces scrutiny over tariff pause timing",
+      "headlines": [
+        "Stocks soar: Why Trump faces scrutiny over tariff pause timing"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

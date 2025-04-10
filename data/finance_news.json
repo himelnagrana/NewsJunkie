@@ -759,5 +759,62 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-10T18:28:33.064Z": [
+    {
+      "summary": "Trump recognises tariff 'transition difficulty' as White House says China rate is 145%",
+      "headlines": [
+        "Trump recognises tariff 'transition difficulty' as White House says China rate is 145%"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "What does Trump's tariff pause mean for global trade?",
+      "headlines": [
+        "What does Trump's tariff pause mean for global trade?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Wall Street dips after Trump’s tariff pause as China promises to fight on",
+      "headlines": [
+        "Wall Street dips after Trump’s tariff pause as China promises to fight on"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump-China tariff war: What could the US gain and lose?",
+      "headlines": [
+        "Trump-China tariff war: What could the US gain and lose?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Stocks soar: Why Trump faces scrutiny over tariff pause timing",
+      "headlines": [
+        "Stocks soar: Why Trump faces scrutiny over tariff pause timing"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
