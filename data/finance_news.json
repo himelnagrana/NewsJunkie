@@ -840,5 +840,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-11T18:31:11.370Z": [
+    {
+      "summary": "Trump had five tariff goals - has he achieved any of them?",
+      "headlines": [
+        "Trump had five tariff goals - has he achieved any of them?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

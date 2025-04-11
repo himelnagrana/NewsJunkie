@@ -269,5 +269,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-04-11T18:31:10.910Z": [
+    {
+      "summary": "Teenage soccer fans die in clash with police in Chile",
+      "headlines": [
+        "Teenage soccer fans die in clash with police in Chile"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "sports"
+    }
   ]
 }

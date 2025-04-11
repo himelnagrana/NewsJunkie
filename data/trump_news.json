@@ -6425,5 +6425,128 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-11T18:31:09.366Z": [
+    {
+      "summary": "Global markets in flux as Trump says US 'doing really well' on tariffs policy",
+      "headlines": [
+        "Global markets in flux as Trump says US 'doing really well' on tariffs policy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Ballerina jailed in Russia reunites with family in US",
+      "headlines": [
+        "Watch: Ballerina jailed in Russia reunites with family in US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine allies pledge €21bn in fresh military aid",
+      "headlines": [
+        "Ukraine allies pledge €21bn in fresh military aid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump had five tariff goals - has he achieved any of them?",
+      "headlines": [
+        "Trump had five tariff goals - has he achieved any of them?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Witkoff meets Putin as Trump urges Russia to 'get moving'",
+      "headlines": [
+        "Witkoff meets Putin as Trump urges Russia to 'get moving'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China braces for strong winds, with lighter people warned they may blow away",
+      "headlines": [
+        "China braces for strong winds, with lighter people warned they may blow away"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Millions told to stay indoors as China braces for strong winds",
+      "headlines": [
+        "Millions told to stay indoors as China braces for strong winds"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump has 90 days to do 150 trade deals. No one is buying it",
+      "headlines": [
+        "Trump has 90 days to do 150 trade deals. No one is buying it"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "China hikes tariffs on US goods to 125%, hitting back at Trump",
+      "headlines": [
+        "China hikes tariffs on US goods to 125%, hitting back at Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US envoy Witkoff meets Putin in Russia for Ukraine war talks",
+      "headlines": [
+        "US envoy Witkoff meets Putin in Russia for Ukraine war talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China raises stakes in Trump’s tariffs ‘game’ with 125% levy on US goods",
+      "headlines": [
+        "China raises stakes in Trump’s tariffs ‘game’ with 125% levy on US goods"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

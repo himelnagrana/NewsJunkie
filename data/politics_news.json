@@ -7578,5 +7578,161 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-11T18:31:09.923Z": [
+    {
+      "summary": "Global markets in flux as Trump says US 'doing really well' on tariffs policy",
+      "headlines": [
+        "Global markets in flux as Trump says US 'doing really well' on tariffs policy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Ballerina jailed in Russia reunites with family in US",
+      "headlines": [
+        "Watch: Ballerina jailed in Russia reunites with family in US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine allies pledge €21bn in fresh military aid",
+      "headlines": [
+        "Ukraine allies pledge €21bn in fresh military aid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump had five tariff goals - has he achieved any of them?",
+      "headlines": [
+        "Trump had five tariff goals - has he achieved any of them?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Witkoff meets Putin as Trump urges Russia to 'get moving'",
+      "headlines": [
+        "Witkoff meets Putin as Trump urges Russia to 'get moving'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trade-shy India could gain edge in tariff-driven slowdown",
+      "headlines": [
+        "Trade-shy India could gain edge in tariff-driven slowdown"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia's looming election brings housing crisis into focus",
+      "headlines": [
+        "Australia's looming election brings housing crisis into focus"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "China braces for strong winds, with lighter people warned they may blow away",
+      "headlines": [
+        "China braces for strong winds, with lighter people warned they may blow away"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Millions told to stay indoors as China braces for strong winds",
+      "headlines": [
+        "Millions told to stay indoors as China braces for strong winds"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump has 90 days to do 150 trade deals. No one is buying it",
+      "headlines": [
+        "Trump has 90 days to do 150 trade deals. No one is buying it"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China hikes tariffs on US goods to 125%, hitting back at Trump",
+      "headlines": [
+        "China hikes tariffs on US goods to 125%, hitting back at Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US envoy Witkoff meets Putin in Russia for Ukraine war talks",
+      "headlines": [
+        "US envoy Witkoff meets Putin in Russia for Ukraine war talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China raises stakes in Trump’s tariffs ‘game’ with 125% levy on US goods",
+      "headlines": [
+        "China raises stakes in Trump’s tariffs ‘game’ with 125% levy on US goods"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India’s language war: Why is Hindi sparking a north-south divide?",
+      "headlines": [
+        "India’s language war: Why is Hindi sparking a north-south divide?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
