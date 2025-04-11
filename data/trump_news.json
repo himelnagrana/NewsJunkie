@@ -6302,5 +6302,128 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-11T06:31:44.036Z": [
+    {
+      "summary": "Gold hits record high as Asian markets fall again over Trump tariffs uncertainty",
+      "headlines": [
+        "Gold hits record high as Asian markets fall again over Trump tariffs uncertainty"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "After a dramatic week, is Trump any closer to his trade goals?",
+      "headlines": [
+        "After a dramatic week, is Trump any closer to his trade goals?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Prince Harry in surprise visit to Ukraine to meet war victims",
+      "headlines": [
+        "Prince Harry in surprise visit to Ukraine to meet war victims"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "British man's tattoo wrongly linked to Venezuelan gang in US government document",
+      "headlines": [
+        "British man's tattoo wrongly linked to Venezuelan gang in US government document"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US top court urges Trump to return man wrongly deported to El Salvador",
+      "headlines": [
+        "US top court urges Trump to return man wrongly deported to El Salvador"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK announces further £450m military support to Ukraine",
+      "headlines": [
+        "UK announces further £450m military support to Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US top court instructs Trump to return man wrongly deported to El Salvador",
+      "headlines": [
+        "US top court instructs Trump to return man wrongly deported to El Salvador"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump recognises tariff 'transition problems' as US markets fall again",
+      "headlines": [
+        "Trump recognises tariff 'transition problems' as US markets fall again"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What is Trump’s China tariff strategy?",
+      "headlines": [
+        "What is Trump’s China tariff strategy?"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China to ‘reduce’ Hollywood movie releases in response to Trump’s tariffs",
+      "headlines": [
+        "China to ‘reduce’ Hollywood movie releases in response to Trump’s tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US stocks down as trade war with China deepens",
+      "headlines": [
+        "US stocks down as trade war with China deepens"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

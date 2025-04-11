@@ -816,5 +816,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-11T06:31:46.448Z": [
+    {
+      "summary": "Trump recognises tariff 'transition problems' as US markets fall again",
+      "headlines": [
+        "Trump recognises tariff 'transition problems' as US markets fall again"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "What is Trump’s China tariff strategy?",
+      "headlines": [
+        "What is Trump’s China tariff strategy?"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

@@ -256,5 +256,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-04-11T06:31:45.918Z": [
+    {
+      "summary": "'Football gods have their eyes elsewhere' - Spurs foiled by Frankfurt",
+      "headlines": [
+        "'Football gods have their eyes elsewhere' - Spurs foiled by Frankfurt"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
