@@ -7824,5 +7824,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-12T18:28:04.880Z": [
+    {
+      "summary": "Trump exempts smartphones and computers from new tariffs",
+      "headlines": [
+        "Trump exempts smartphones and computers from new tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'People might treat us differently': Trump era leaves US tourists in Paris feeling shame",
+      "headlines": [
+        "'People might treat us differently': Trump era leaves US tourists in Paris feeling shame"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hundreds of flights cancelled in China as strong winds hit capital",
+      "headlines": [
+        "Hundreds of flights cancelled in China as strong winds hit capital"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US special envoy meets Putin as Trump urges Russia to 'get moving' on Ukraine ceasefire",
+      "headlines": [
+        "US special envoy meets Putin as Trump urges Russia to 'get moving' on Ukraine ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gabon votes in first presidential election since the 2023 coup",
+      "headlines": [
+        "Gabon votes in first presidential election since the 2023 coup"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Flights cancelled, millions told to stay indoors as strong winds lash China",
+      "headlines": [
+        "Flights cancelled, millions told to stay indoors as strong winds lash China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump exempts smartphones, computers from ‘reciprocal’ tariffs",
+      "headlines": [
+        "Trump exempts smartphones, computers from ‘reciprocal’ tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
