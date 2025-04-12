@@ -6548,5 +6548,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-12T06:29:08.592Z": [
+    {
+      "summary": "Witkoff meets Putin as Trump urges Russia to 'get moving' on Ukraine ceasefire",
+      "headlines": [
+        "Witkoff meets Putin as Trump urges Russia to 'get moving' on Ukraine ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to end protected status for Afghans and Cameroonians",
+      "headlines": [
+        "Trump to end protected status for Afghans and Cameroonians"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Supreme Court rules Trump officials must 'facilitate' release of man deported to El Salvador",
+      "headlines": [
+        "Supreme Court rules Trump officials must 'facilitate' release of man deported to El Salvador"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump embarrassment causes shame and silence for Americans in Paris",
+      "headlines": [
+        "Trump embarrassment causes shame and silence for Americans in Paris"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Will a moonwalking general become Gabon’s next president?",
+      "headlines": [
+        "Will a moonwalking general become Gabon’s next president?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump officials end ‘temporary protected status’ for Afghans, Cameroonians",
+      "headlines": [
+        "Trump officials end ‘temporary protected status’ for Afghans, Cameroonians"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Luisa Gonzalez wants to be Ecuador’s president. Will Correa weigh her down?",
+      "headlines": [
+        "Luisa Gonzalez wants to be Ecuador’s president. Will Correa weigh her down?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -7734,5 +7734,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-12T06:29:09.169Z": [
+    {
+      "summary": "Witkoff meets Putin as Trump urges Russia to 'get moving' on Ukraine ceasefire",
+      "headlines": [
+        "Witkoff meets Putin as Trump urges Russia to 'get moving' on Ukraine ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to end protected status for Afghans and Cameroonians",
+      "headlines": [
+        "Trump to end protected status for Afghans and Cameroonians"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Supreme Court rules Trump officials must 'facilitate' release of man deported to El Salvador",
+      "headlines": [
+        "Supreme Court rules Trump officials must 'facilitate' release of man deported to El Salvador"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump embarrassment causes shame and silence for Americans in Paris",
+      "headlines": [
+        "Trump embarrassment causes shame and silence for Americans in Paris"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Will a moonwalking general become Gabon’s next president?",
+      "headlines": [
+        "Will a moonwalking general become Gabon’s next president?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,143",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,143"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump officials end ‘temporary protected status’ for Afghans, Cameroonians",
+      "headlines": [
+        "Trump officials end ‘temporary protected status’ for Afghans, Cameroonians"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Luisa Gonzalez wants to be Ecuador’s president. Will Correa weigh her down?",
+      "headlines": [
+        "Luisa Gonzalez wants to be Ecuador’s president. Will Correa weigh her down?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
