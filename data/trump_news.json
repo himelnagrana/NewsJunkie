@@ -6741,5 +6741,51 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-04-13T18:28:39.882Z": [
+    {
+      "summary": "China urges US to 'completely cancel' tariffs",
+      "headlines": [
+        "China urges US to 'completely cancel' tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump in excellent cognitive and physical health, says White House doctor",
+      "headlines": [
+        "Trump in excellent cognitive and physical health, says White House doctor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why did the UK government take control of British Steel from Chinese firm?",
+      "headlines": [
+        "Why did the UK government take control of British Steel from Chinese firm?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China says US tariff exemptions ‘small step in correcting wrong practice’",
+      "headlines": [
+        "China says US tariff exemptions ‘small step in correcting wrong practice’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

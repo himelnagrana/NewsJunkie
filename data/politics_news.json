@@ -7960,5 +7960,128 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-04-13T18:28:40.422Z": [
+    {
+      "summary": "China urges US to 'completely cancel' tariffs",
+      "headlines": [
+        "China urges US to 'completely cancel' tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump in excellent cognitive and physical health, says White House doctor",
+      "headlines": [
+        "Trump in excellent cognitive and physical health, says White House doctor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gabon coup leader wins election by huge margin",
+      "headlines": [
+        "Gabon coup leader wins election by huge margin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Analysis: Trump's iPhone olive branch is a significant trade war retreat",
+      "headlines": [
+        "Analysis: Trump's iPhone olive branch is a significant trade war retreat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why did the UK government take control of British Steel from Chinese firm?",
+      "headlines": [
+        "Why did the UK government take control of British Steel from Chinese firm?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump's iPhone olive branch is a significant trade war retreat",
+      "headlines": [
+        "Trump's iPhone olive branch is a significant trade war retreat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gabon military leader Nguema declared winner of presidential election",
+      "headlines": [
+        "Gabon military leader Nguema declared winner of presidential election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Lebanese Civil War began 50 years ago. Here’s how one photographer saw it",
+      "headlines": [
+        "Lebanese Civil War began 50 years ago. Here’s how one photographer saw it"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China says US tariff exemptions ‘small step in correcting wrong practice’",
+      "headlines": [
+        "China says US tariff exemptions ‘small step in correcting wrong practice’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Polls open in Ecuador for tight presidential run-off election",
+      "headlines": [
+        "Polls open in Ecuador for tight presidential run-off election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India deploys troops after Waqf bill protests marred by violence",
+      "headlines": [
+        "India deploys troops after Waqf bill protests marred by violence"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    }
   ]
 }
