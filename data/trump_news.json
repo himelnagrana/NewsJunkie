@@ -6695,5 +6695,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-13T06:30:03.975Z": [
+    {
+      "summary": "'Russians are even trying to ban our holidays' - life in occupied Ukraine",
+      "headlines": [
+        "'Russians are even trying to ban our holidays' - life in occupied Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Thousands attend pro-Serbia government rally after months of unrest",
+      "headlines": [
+        "Thousands attend pro-Serbia government rally after months of unrest"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Volkanovski crowned UFC featherweight champion again as Trump watches on",
+      "headlines": [
+        "Volkanovski crowned UFC featherweight champion again as Trump watches on"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "The Zimbabwean singer who found fame in China – and obscurity at home",
+      "headlines": [
+        "The Zimbabwean singer who found fame in China – and obscurity at home"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }

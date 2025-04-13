@@ -7903,5 +7903,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-13T06:30:04.500Z": [
+    {
+      "summary": "'Russians are even trying to ban our holidays' - life in occupied Ukraine",
+      "headlines": [
+        "'Russians are even trying to ban our holidays' - life in occupied Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Thousands attend pro-Serbia government rally after months of unrest",
+      "headlines": [
+        "Thousands attend pro-Serbia government rally after months of unrest"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tanzania's main opposition party banned from election",
+      "headlines": [
+        "Tanzania's main opposition party banned from election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Volkanovski crowned UFC featherweight champion again as Trump watches on",
+      "headlines": [
+        "Volkanovski crowned UFC featherweight champion again as Trump watches on"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "The Zimbabwean singer who found fame in China – and obscurity at home",
+      "headlines": [
+        "The Zimbabwean singer who found fame in China – and obscurity at home"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }
