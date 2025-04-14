@@ -6787,5 +6787,95 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-14T06:33:34.557Z": [
+    {
+      "summary": "Deadly Russian attack on Ukraine was a mistake, Trump says",
+      "headlines": [
+        "Deadly Russian attack on Ukraine was a mistake, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says no-one 'off the hook' as he suggests new Chinese tariffs",
+      "headlines": [
+        "Trump says no-one 'off the hook' as he suggests new Chinese tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump in excellent health, says White House doctor",
+      "headlines": [
+        "Trump in excellent health, says White House doctor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ecuador's President Daniel Noboa wins re-election",
+      "headlines": [
+        "Ecuador's President Daniel Noboa wins re-election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Was China the reason Guyana faced higher Trump tariff?",
+      "headlines": [
+        "Was China the reason Guyana faced higher Trump tariff?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Teen killed parents as part of Trump assassination plot, says FBI",
+      "headlines": [
+        "Teen killed parents as part of Trump assassination plot, says FBI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump’s showdown with China deepens",
+      "headlines": [
+        "Trump’s showdown with China deepens"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump warns China ‘not getting off the hook’ on US tariffs for electronics",
+      "headlines": [
+        "Trump warns China ‘not getting off the hook’ on US tariffs for electronics"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

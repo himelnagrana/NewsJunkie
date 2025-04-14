@@ -877,5 +877,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-04-14T06:33:36.747Z": [
+    {
+      "summary": "Was China the reason Guyana faced higher Trump tariff?",
+      "headlines": [
+        "Was China the reason Guyana faced higher Trump tariff?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Can Bitcoin save Bhutan’s struggling economy?",
+      "headlines": [
+        "Can Bitcoin save Bhutan’s struggling economy?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

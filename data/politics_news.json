@@ -8083,5 +8083,117 @@
       "sentiment": -5,
       "topic": "politics"
     }
+  ],
+  "2025-04-14T06:33:35.170Z": [
+    {
+      "summary": "Deadly Russian attack on Ukraine was a mistake, Trump says",
+      "headlines": [
+        "Deadly Russian attack on Ukraine was a mistake, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says no-one 'off the hook' as he suggests new Chinese tariffs",
+      "headlines": [
+        "Trump says no-one 'off the hook' as he suggests new Chinese tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump in excellent health, says White House doctor",
+      "headlines": [
+        "Trump in excellent health, says White House doctor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ecuador's President Daniel Noboa wins re-election",
+      "headlines": [
+        "Ecuador's President Daniel Noboa wins re-election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Was China the reason Guyana faced higher Trump tariff?",
+      "headlines": [
+        "Was China the reason Guyana faced higher Trump tariff?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Pretty diabolical' - What Australians think of the housing crisis this election",
+      "headlines": [
+        "'Pretty diabolical' - What Australians think of the housing crisis this election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Teen killed parents as part of Trump assassination plot, says FBI",
+      "headlines": [
+        "Teen killed parents as part of Trump assassination plot, says FBI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump’s showdown with China deepens",
+      "headlines": [
+        "Trump’s showdown with China deepens"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump warns China ‘not getting off the hook’ on US tariffs for electronics",
+      "headlines": [
+        "Trump warns China ‘not getting off the hook’ on US tariffs for electronics"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,145",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,145"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
