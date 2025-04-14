@@ -11,5 +11,18 @@
       "sentiment": -5,
       "topic": "ai"
     }
+  ],
+  "2025-04-14T18:31:38.147Z": [
+    {
+      "summary": "Nvidia commits to $500bn AI server production in the US",
+      "headlines": [
+        "Nvidia commits to $500bn AI server production in the US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "ai"
+    }
   ]
 }

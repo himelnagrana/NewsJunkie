@@ -901,5 +901,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-14T18:31:40.556Z": [
+    {
+      "summary": "PS5 price increases worldwide as Sony cites 'challenging' market conditions",
+      "headlines": [
+        "PS5 price increases worldwide as Sony cites 'challenging' market conditions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "US stock markets rise on Trump tariff rollback",
+      "headlines": [
+        "US stock markets rise on Trump tariff rollback"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Can China use US debt in its tariff war against the US?",
+      "headlines": [
+        "Can China use US debt in its tariff war against the US?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    }
   ]
 }

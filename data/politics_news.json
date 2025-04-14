@@ -8195,5 +8195,139 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-14T18:31:39.125Z": [
+    {
+      "summary": "Zelensky urges Trump to visit Ukraine before deal with Russia",
+      "headlines": [
+        "Zelensky urges Trump to visit Ukraine before deal with Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens new tariffs on smartphones days after exempting them",
+      "headlines": [
+        "Trump threatens new tariffs on smartphones days after exempting them"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What are semiconductors and why is Trump targeting them?",
+      "headlines": [
+        "What are semiconductors and why is Trump targeting them?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Key immigration moments from Trump and Bukele meeting",
+      "headlines": [
+        "Key immigration moments from Trump and Bukele meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US stock markets rise on Trump tariff rollback",
+      "headlines": [
+        "US stock markets rise on Trump tariff rollback"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can China use US debt in its tariff war against the US?",
+      "headlines": [
+        "Can China use US debt in its tariff war against the US?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Lebanese PM visits Syria’s president to reset years of strained relations",
+      "headlines": [
+        "Lebanese PM visits Syria’s president to reset years of strained relations"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s latest strikes in Ukraine kill four in Kharkiv after Sumy attack",
+      "headlines": [
+        "Russia’s latest strikes in Ukraine kill four in Kharkiv after Sumy attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Animated maps show two years of war in Sudan",
+      "headlines": [
+        "Animated maps show two years of war in Sudan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Did Trump really ‘exempt’ Chinese phones, chips from tariffs?",
+      "headlines": [
+        "Did Trump really ‘exempt’ Chinese phones, chips from tariffs?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran to consult Russia on US nuclear talks, Rome may host next meeting",
+      "headlines": [
+        "Iran to consult Russia on US nuclear talks, Rome may host next meeting"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sudan war to enter third year as RSF assaults in Darfur intensify",
+      "headlines": [
+        "Sudan war to enter third year as RSF assaults in Darfur intensify"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
