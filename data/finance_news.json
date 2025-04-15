@@ -936,5 +936,18 @@
       "sentiment": -4,
       "topic": "finance"
     }
+  ],
+  "2025-04-15T06:32:18.815Z": [
+    {
+      "summary": "Good cops, bad cops - how Trump's shifting tariff team kept world guessing",
+      "headlines": [
+        "Good cops, bad cops - how Trump's shifting tariff team kept world guessing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

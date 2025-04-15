@@ -8329,5 +8329,95 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-04-15T06:32:17.431Z": [
+    {
+      "summary": "Trump freezes $2bn in Harvard funding after university rejects demands",
+      "headlines": [
+        "Trump freezes $2bn in Harvard funding after university rejects demands"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Vance says good chance of UK-US trade deal, as Trump moves closer to pharma and chip tariffs",
+      "headlines": [
+        "Vance says good chance of UK-US trade deal, as Trump moves closer to pharma and chip tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "What Trump really wants from Canada",
+      "headlines": [
+        "What Trump really wants from Canada"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How much vital UK infrastructure does China own?",
+      "headlines": [
+        "How much vital UK infrastructure does China own?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump blames Zelensky for starting war after massive Russian attack",
+      "headlines": [
+        "Trump blames Zelensky for starting war after massive Russian attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump flexes power over the law, top colleges and the media",
+      "headlines": [
+        "Trump flexes power over the law, top colleges and the media"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump moves to put tariffs on chips and drugs, floats pause on auto duties",
+      "headlines": [
+        "Trump moves to put tariffs on chips and drugs, floats pause on auto duties"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,146",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,146"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
