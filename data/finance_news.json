@@ -949,5 +949,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-15T18:30:01.187Z": [
+    {
+      "summary": "Trump threatens to tax Harvard as a political entity",
+      "headlines": [
+        "Trump threatens to tax Harvard as a political entity"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump issues Harvard tax threat after university defies demands",
+      "headlines": [
+        "Trump issues Harvard tax threat after university defies demands"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

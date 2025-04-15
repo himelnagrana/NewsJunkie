@@ -126,5 +126,18 @@
       "sentiment": 1,
       "topic": "technology"
     }
+  ],
+  "2025-04-15T18:30:00.156Z": [
+    {
+      "summary": "Meta CEO Back in Court Amid Push to Break Up Tech Giant",
+      "headlines": [
+        "Meta CEO Back in Court Amid Push to Break Up Tech Giant"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

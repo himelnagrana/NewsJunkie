@@ -7068,5 +7068,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-15T18:29:59.071Z": [
+    {
+      "summary": "Trump threatens Harvard's tax-exempt status after freezing $2bn funding",
+      "headlines": [
+        "Trump threatens Harvard's tax-exempt status after freezing $2bn funding"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "'A number of businesses in limbo' in China after US tariffs on imports",
+      "headlines": [
+        "'A number of businesses in limbo' in China after US tariffs on imports"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens to tax Harvard as a political entity",
+      "headlines": [
+        "Trump threatens to tax Harvard as a political entity"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump issues Harvard tax threat after university defies demands",
+      "headlines": [
+        "Trump issues Harvard tax threat after university defies demands"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia’s Putin open to Ukraine peace deal: US envoy",
+      "headlines": [
+        "Russia’s Putin open to Ukraine peace deal: US envoy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Harvard’s $2.3bn gamble: What Trump demanded; how the university resisted",
+      "headlines": [
+        "Harvard’s $2.3bn gamble: What Trump demanded; how the university resisted"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump eyes deportation of ‘homegrown criminals’ to El Salvador",
+      "headlines": [
+        "Trump eyes deportation of ‘homegrown criminals’ to El Salvador"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

@@ -8419,5 +8419,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-15T18:29:59.627Z": [
+    {
+      "summary": "Trump threatens Harvard's tax-exempt status after freezing $2bn funding",
+      "headlines": [
+        "Trump threatens Harvard's tax-exempt status after freezing $2bn funding"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sudan's years of war - BBC smuggles in phones to reveal hunger and fear",
+      "headlines": [
+        "Sudan's years of war - BBC smuggles in phones to reveal hunger and fear"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -8,
+      "topic": "politics"
+    },
+    {
+      "summary": "'A number of businesses in limbo' in China after US tariffs on imports",
+      "headlines": [
+        "'A number of businesses in limbo' in China after US tariffs on imports"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens to tax Harvard as a political entity",
+      "headlines": [
+        "Trump threatens to tax Harvard as a political entity"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump issues Harvard tax threat after university defies demands",
+      "headlines": [
+        "Trump issues Harvard tax threat after university defies demands"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s Putin open to Ukraine peace deal: US envoy",
+      "headlines": [
+        "Russia’s Putin open to Ukraine peace deal: US envoy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump-China trade war: Which US companies could be worst hit",
+      "headlines": [
+        "Trump-China trade war: Which US companies could be worst hit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Harvard’s $2.3bn gamble: What Trump demanded; how the university resisted",
+      "headlines": [
+        "Harvard’s $2.3bn gamble: What Trump demanded; how the university resisted"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Two years into Sudan’s war, here are its people’s storiesExternal LinkThis article will be opened in a new browser window",
+      "headlines": [
+        "Two years into Sudan’s war, here are its people’s storiesExternal LinkThis article will be opened in a new browser window"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Beijing pauses Boeing orders as looming trade war escalates",
+      "headlines": [
+        "Beijing pauses Boeing orders as looming trade war escalates"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump eyes deportation of ‘homegrown criminals’ to El Salvador",
+      "headlines": [
+        "Trump eyes deportation of ‘homegrown criminals’ to El Salvador"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
