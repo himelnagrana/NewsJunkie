@@ -8542,5 +8542,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-16T06:32:23.879Z": [
+    {
+      "summary": "China warns of Trump tariff impact even as growth beats expectations",
+      "headlines": [
+        "China warns of Trump tariff impact even as growth beats expectations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Paramilitaries declare rival government in Sudan",
+      "headlines": [
+        "Paramilitaries declare rival government in Sudan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Nothing has been done' - judge warns Trump officials in deportation case",
+      "headlines": [
+        "'Nothing has been done' - judge warns Trump officials in deportation case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nvidia expects $5.5bn hit as US tightens chip export rules to China",
+      "headlines": [
+        "Nvidia expects $5.5bn hit as US tightens chip export rules to China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Xi’s powerful card in fight against Trump’s trade war",
+      "headlines": [
+        "Xi’s powerful card in fight against Trump’s trade war"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Xi arrives in Malaysia with a message: China’s a better partner than Trump",
+      "headlines": [
+        "Xi arrives in Malaysia with a message: China’s a better partner than Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China posts 5.4% GDP growth in first quarter, beating forecasts",
+      "headlines": [
+        "China posts 5.4% GDP growth in first quarter, beating forecasts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,147",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,147"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says ball in China’s court on trade, weighs tariffs on minerals",
+      "headlines": [
+        "Trump says ball in China’s court on trade, weighs tariffs on minerals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sudan paramilitary declares rival government two years into civil war",
+      "headlines": [
+        "Sudan paramilitary declares rival government two years into civil war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

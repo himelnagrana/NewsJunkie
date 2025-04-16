@@ -24,5 +24,18 @@
       "sentiment": 1,
       "topic": "ai"
     }
+  ],
+  "2025-04-16T06:32:22.846Z": [
+    {
+      "summary": "Nvidia expects $5.5bn hit as US tightens chip export rules to China",
+      "headlines": [
+        "Nvidia expects $5.5bn hit as US tightens chip export rules to China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "ai"
+    }
   ]
 }

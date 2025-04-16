@@ -973,5 +973,29 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-04-16T06:32:25.336Z": [
+    {
+      "summary": "China warns of Trump tariff impact even as growth beats expectations",
+      "headlines": [
+        "China warns of Trump tariff impact even as growth beats expectations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Nigerians fear savings lost as investment app freezes them out",
+      "headlines": [
+        "Nigerians fear savings lost as investment app freezes them out"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    }
   ]
 }
