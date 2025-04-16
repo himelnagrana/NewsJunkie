@@ -7237,5 +7237,172 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-16T18:32:01.767Z": [
+    {
+      "summary": "US judge says he could hold Trump administration in contempt of court",
+      "headlines": [
+        "US judge says he could hold Trump administration in contempt of court"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Harvard just stood up to Trump. How long can it last?",
+      "headlines": [
+        "Harvard just stood up to Trump. How long can it last?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US government sues Maine over refusing to ban transgender athletes",
+      "headlines": [
+        "US government sues Maine over refusing to ban transgender athletes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration seeks criminal prosecution of New York attorney general",
+      "headlines": [
+        "Trump administration seeks criminal prosecution of New York attorney general"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "What to know about Kilmar Ábrego García, the Maryland man Trump officials mistakenly deported",
+      "headlines": [
+        "What to know about Kilmar Ábrego García, the Maryland man Trump officials mistakenly deported"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Viral videos claim luxury bags are made in China, is it true?",
+      "headlines": [
+        "Viral videos claim luxury bags are made in China, is it true?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Biden attacks Trump in first speech since leaving White House",
+      "headlines": [
+        "Watch: Biden attacks Trump in first speech since leaving White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Nvidia shares plunge amid $5.5bn hit over export rules to China",
+      "headlines": [
+        "Nvidia shares plunge amid $5.5bn hit over export rules to China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Biden attacks Trump in first speech since leaving White House",
+      "headlines": [
+        "Biden attacks Trump in first speech since leaving White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Gabon forward Boupendza dies aged 28 in China",
+      "headlines": [
+        "Gabon forward Boupendza dies aged 28 in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US judge finds ‘probable cause’ to hold Trump White House in contempt",
+      "headlines": [
+        "US judge finds ‘probable cause’ to hold Trump White House in contempt"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can Trump legally deport US citizens to El Salvador prisons?",
+      "headlines": [
+        "Can Trump legally deport US citizens to El Salvador prisons?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "As US and China escalate trade war, the world asks, ‘Who will blink first?’",
+      "headlines": [
+        "As US and China escalate trade war, the world asks, ‘Who will blink first?’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine prolongs martial law amid Russian air attacks, heavy ground battles",
+      "headlines": [
+        "Ukraine prolongs martial law amid Russian air attacks, heavy ground battles"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump v US courts: Where do challenges to executive orders stand?",
+      "headlines": [
+        "Trump v US courts: Where do challenges to executive orders stand?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -308,5 +308,29 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-04-16T18:32:03.206Z": [
+    {
+      "summary": "US government sues Maine over refusing to ban transgender athletes",
+      "headlines": [
+        "US government sues Maine over refusing to ban transgender athletes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "sports"
+    },
+    {
+      "summary": "100% jeopardy: Every Championship team can still go either up or down",
+      "headlines": [
+        "100% jeopardy: Every Championship team can still go either up or down"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }

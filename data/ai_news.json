@@ -37,5 +37,18 @@
       "sentiment": 0,
       "topic": "ai"
     }
+  ],
+  "2025-04-16T18:32:01.313Z": [
+    {
+      "summary": "Nvidia shares plunge amid $5.5bn hit over export rules to China",
+      "headlines": [
+        "Nvidia shares plunge amid $5.5bn hit over export rules to China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "ai"
+    }
   ]
 }
