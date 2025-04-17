@@ -997,5 +997,29 @@
       "sentiment": -4,
       "topic": "finance"
     }
+  ],
+  "2025-04-17T06:32:04.672Z": [
+    {
+      "summary": "Tariffs will hit US economy and raise prices, Fed boss warns",
+      "headlines": [
+        "Tariffs will hit US economy and raise prices, Fed boss warns"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "China says it will pay no attention to Trump’s ‘tariff numbers game’",
+      "headlines": [
+        "China says it will pay no attention to Trump’s ‘tariff numbers game’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

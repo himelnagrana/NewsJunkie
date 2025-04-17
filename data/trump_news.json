@@ -7404,5 +7404,106 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-17T06:32:02.754Z": [
+    {
+      "summary": "How Russia is seizing Ukrainian homes in Mariupol",
+      "headlines": [
+        "How Russia is seizing Ukrainian homes in Mariupol"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US to hold talks on Ukraine with Europeans",
+      "headlines": [
+        "US to hold talks on Ukraine with Europeans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada party leaders grilled in election debate on how to tackle Trump",
+      "headlines": [
+        "Canada party leaders grilled in election debate on how to tackle Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why China curbing rare earth exports is a blow to the US",
+      "headlines": [
+        "Why China curbing rare earth exports is a blow to the US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "California becomes first state to sue over Trump tariffs",
+      "headlines": [
+        "California becomes first state to sue over Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "As Trump threatens tariffs, Vietnam scrambles to avert economic disaster",
+      "headlines": [
+        "As Trump threatens tariffs, Vietnam scrambles to avert economic disaster"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump touts ‘progress’ in Japan trade talks, as uncertainty roils stocks",
+      "headlines": [
+        "Trump touts ‘progress’ in Japan trade talks, as uncertainty roils stocks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China says it will pay no attention to Trump’s ‘tariff numbers game’",
+      "headlines": [
+        "China says it will pay no attention to Trump’s ‘tariff numbers game’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US judge says ‘probable cause’ to hold Trump administration in contempt",
+      "headlines": [
+        "US judge says ‘probable cause’ to hold Trump administration in contempt"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

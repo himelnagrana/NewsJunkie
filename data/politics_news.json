@@ -8843,5 +8843,128 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-17T06:32:03.291Z": [
+    {
+      "summary": "How Russia is seizing Ukrainian homes in Mariupol",
+      "headlines": [
+        "How Russia is seizing Ukrainian homes in Mariupol"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US to hold talks on Ukraine with Europeans",
+      "headlines": [
+        "US to hold talks on Ukraine with Europeans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada party leaders grilled in election debate on how to tackle Trump",
+      "headlines": [
+        "Canada party leaders grilled in election debate on how to tackle Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why China curbing rare earth exports is a blow to the US",
+      "headlines": [
+        "Why China curbing rare earth exports is a blow to the US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gold hits new record over US-China trade war fears",
+      "headlines": [
+        "Gold hits new record over US-China trade war fears"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "California becomes first state to sue over Trump tariffs",
+      "headlines": [
+        "California becomes first state to sue over Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "As Trump threatens tariffs, Vietnam scrambles to avert economic disaster",
+      "headlines": [
+        "As Trump threatens tariffs, Vietnam scrambles to avert economic disaster"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump touts ‘progress’ in Japan trade talks, as uncertainty roils stocks",
+      "headlines": [
+        "Trump touts ‘progress’ in Japan trade talks, as uncertainty roils stocks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China says it will pay no attention to Trump’s ‘tariff numbers game’",
+      "headlines": [
+        "China says it will pay no attention to Trump’s ‘tariff numbers game’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US judge says ‘probable cause’ to hold Trump administration in contempt",
+      "headlines": [
+        "US judge says ‘probable cause’ to hold Trump administration in contempt"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,148",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,148"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
