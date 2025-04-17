@@ -7505,5 +7505,106 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-17T18:30:47.711Z": [
+    {
+      "summary": "Italy's Meloni says 'we hope to make the West great again' in Trump meeting",
+      "headlines": [
+        "Italy's Meloni says 'we hope to make the West great again' in Trump meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration threatens Harvard with foreign student ban",
+      "headlines": [
+        "Trump administration threatens Harvard with foreign student ban"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Judge says Trump officials could be found in contempt. What happens next?",
+      "headlines": [
+        "Judge says Trump officials could be found in contempt. What happens next?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump attacks Fed boss for not cutting interest rates",
+      "headlines": [
+        "Trump attacks Fed boss for not cutting interest rates"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Vance to visit India as Trump intensifies tariff war with China",
+      "headlines": [
+        "Vance to visit India as Trump intensifies tariff war with China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump blasts Federal Reserve chief and calls for his 'termination'",
+      "headlines": [
+        "Trump blasts Federal Reserve chief and calls for his 'termination'"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump talks trade with Italy’s Prime Minister Giorgia Meloni",
+      "headlines": [
+        "Donald Trump talks trade with Italy’s Prime Minister Giorgia Meloni"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia ramps up pressure on all fronts as Ukraine offers to buy US Patriots",
+      "headlines": [
+        "Russia ramps up pressure on all fronts as Ukraine offers to buy US Patriots"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is Zimbabwe wooing Donald Trump by paying white farmers and ending tariffs?",
+      "headlines": [
+        "Is Zimbabwe wooing Donald Trump by paying white farmers and ending tariffs?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

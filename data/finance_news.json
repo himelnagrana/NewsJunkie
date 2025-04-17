@@ -1021,5 +1021,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-04-17T18:30:49.836Z": [
+    {
+      "summary": "Vance to visit India as Trump intensifies tariff war with China",
+      "headlines": [
+        "Vance to visit India as Trump intensifies tariff war with China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "US Judge Finds Google Illegally Monopolized Ad Tech Market",
+      "headlines": [
+        "US Judge Finds Google Illegally Monopolized Ad Tech Market"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "finance"
+    }
   ]
 }

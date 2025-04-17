@@ -139,5 +139,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-04-17T18:30:48.814Z": [
+    {
+      "summary": "US Judge Finds Google Illegally Monopolized Ad Tech Market",
+      "headlines": [
+        "US Judge Finds Google Illegally Monopolized Ad Tech Market"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "technology"
+    }
   ]
 }
