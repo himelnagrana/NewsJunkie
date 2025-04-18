@@ -7606,5 +7606,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-18T06:31:52.873Z": [
+    {
+      "summary": "Ukraine says outline of minerals deal signed with US",
+      "headlines": [
+        "Ukraine says outline of minerals deal signed with US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and Meloni talk up chances of US trade deal with Europe",
+      "headlines": [
+        "Trump and Meloni talk up chances of US trade deal with Europe"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine and US sign memorandum on minerals deal, Kyiv says",
+      "headlines": [
+        "Ukraine and US sign memorandum on minerals deal, Kyiv says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Macron hails Paris talks with top US officials on ending Ukraine war",
+      "headlines": [
+        "Macron hails Paris talks with top US officials on ending Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

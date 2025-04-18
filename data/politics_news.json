@@ -9078,5 +9078,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-18T06:31:53.378Z": [
+    {
+      "summary": "Ukraine says outline of minerals deal signed with US",
+      "headlines": [
+        "Ukraine says outline of minerals deal signed with US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Key moments from Canada's general election debate",
+      "headlines": [
+        "Watch: Key moments from Canada's general election debate"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump and Meloni talk up chances of US trade deal with Europe",
+      "headlines": [
+        "Trump and Meloni talk up chances of US trade deal with Europe"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine and US sign memorandum on minerals deal, Kyiv says",
+      "headlines": [
+        "Ukraine and US sign memorandum on minerals deal, Kyiv says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,149",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,149"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Macron hails Paris talks with top US officials on ending Ukraine war",
+      "headlines": [
+        "Macron hails Paris talks with top US officials on ending Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What happened in Canada’s French-language election debate?",
+      "headlines": [
+        "What happened in Canada’s French-language election debate?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
