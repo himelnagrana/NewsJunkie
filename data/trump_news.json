@@ -7652,5 +7652,106 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-18T18:29:59.094Z": [
+    {
+      "summary": "Trump says US will 'pass' on Ukraine peace talks if no progress soon",
+      "headlines": [
+        "Trump says US will 'pass' on Ukraine peace talks if no progress soon"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Nvidia: The AI chip giant caught between US and China",
+      "headlines": [
+        "Nvidia: The AI chip giant caught between US and China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump suggests UK state visit set for September",
+      "headlines": [
+        "Trump suggests UK state visit set for September"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Former Credit Suisse boss to run for Ivory Coast president",
+      "headlines": [
+        "Former Credit Suisse boss to run for Ivory Coast president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump wants to reimagine the world order. That could cost the US",
+      "headlines": [
+        "Trump wants to reimagine the world order. That could cost the US"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump warns the US could ‘take a pass’ on Ukraine peace negotiations",
+      "headlines": [
+        "Donald Trump warns the US could ‘take a pass’ on Ukraine peace negotiations"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia jails 19-year old for condemning its war in Ukraine",
+      "headlines": [
+        "Russia jails 19-year old for condemning its war in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Ripple effect:’ In US, anti-immigrant policy strains child and eldercare",
+      "headlines": [
+        "‘Ripple effect:’ In US, anti-immigrant policy strains child and eldercare"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump faces contempt risk: What happens if president violates court orders?",
+      "headlines": [
+        "Trump faces contempt risk: What happens if president violates court orders?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    }
   ]
 }

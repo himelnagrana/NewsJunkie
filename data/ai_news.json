@@ -50,5 +50,18 @@
       "sentiment": 1,
       "topic": "ai"
     }
+  ],
+  "2025-04-18T18:29:58.462Z": [
+    {
+      "summary": "Nvidia: The AI chip giant caught between US and China",
+      "headlines": [
+        "Nvidia: The AI chip giant caught between US and China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "ai"
+    }
   ]
 }

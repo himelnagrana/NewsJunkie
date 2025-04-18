@@ -332,5 +332,29 @@
       "sentiment": -2,
       "topic": "sports"
     }
+  ],
+  "2025-04-18T18:30:01.038Z": [
+    {
+      "summary": "Surprise as 100 Spaniards turn up at English football club game",
+      "headlines": [
+        "Surprise as 100 Spaniards turn up at English football club game"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    },
+    {
+      "summary": "Championship: Sheff Utd beat struggling Cardiff ahead of Oxford v Leeds",
+      "headlines": [
+        "Championship: Sheff Utd beat struggling Cardiff ahead of Oxford v Leeds"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }
