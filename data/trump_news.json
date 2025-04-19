@@ -7810,5 +7810,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-19T18:27:53.962Z": [
+    {
+      "summary": "Putin announces 'Easter truce' in Ukraine until end of Sunday",
+      "headlines": [
+        "Putin announces 'Easter truce' in Ukraine until end of Sunday"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
+      "headlines": [
+        "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Palestinian government denounces settler threat to Al-Aqsa Mosque",
+      "headlines": [
+        "Palestinian government denounces settler threat to Al-Aqsa Mosque"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Will Trump abandon Ukraine peace efforts?",
+      "headlines": [
+        "Will Trump abandon Ukraine peace efforts?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

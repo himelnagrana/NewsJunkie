@@ -9326,5 +9326,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-19T18:27:54.454Z": [
+    {
+      "summary": "Putin announces 'Easter truce' in Ukraine until end of Sunday",
+      "headlines": [
+        "Putin announces 'Easter truce' in Ukraine until end of Sunday"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin declares Easter ceasefire",
+      "headlines": [
+        "Putin declares Easter ceasefire"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
+      "headlines": [
+        "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Could an earthquake shift the balance in Myanmar’s civil war?",
+      "headlines": [
+        "Could an earthquake shift the balance in Myanmar’s civil war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Palestinian government denounces settler threat to Al-Aqsa Mosque",
+      "headlines": [
+        "Palestinian government denounces settler threat to Al-Aqsa Mosque"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Will Trump abandon Ukraine peace efforts?",
+      "headlines": [
+        "Will Trump abandon Ukraine peace efforts?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

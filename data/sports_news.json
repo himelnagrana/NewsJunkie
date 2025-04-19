@@ -369,5 +369,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-04-19T18:27:55.330Z": [
+    {
+      "summary": "United Rugby Championship: Leinster v Ulster - listen & follow text",
+      "headlines": [
+        "United Rugby Championship: Leinster v Ulster - listen & follow text"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    }
   ]
 }

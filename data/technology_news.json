@@ -189,5 +189,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-04-19T18:27:54.891Z": [
+    {
+      "summary": "Artists push back against AI dolls with their own creations",
+      "headlines": [
+        "Artists push back against AI dolls with their own creations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
