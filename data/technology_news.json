@@ -176,5 +176,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-04-19T06:29:41.426Z": [
+    {
+      "summary": "AI dolls are taking over - but real artists are sick of them",
+      "headlines": [
+        "AI dolls are taking over - but real artists are sick of them"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }

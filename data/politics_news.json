@@ -9258,5 +9258,73 @@
       "sentiment": -6,
       "topic": "politics"
     }
+  ],
+  "2025-04-19T06:29:40.920Z": [
+    {
+      "summary": "Ukraine minerals deal may not buy peace after Trump threat",
+      "headlines": [
+        "Ukraine minerals deal may not buy peace after Trump threat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Designed in US, made in China: Why Apple is stuck",
+      "headlines": [
+        "Designed in US, made in China: Why Apple is stuck"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China races robots against humans in Beijing half-marathon",
+      "headlines": [
+        "China races robots against humans in Beijing half-marathon"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Starmer and Trump discuss 'productive' trade talks",
+      "headlines": [
+        "Starmer and Trump discuss 'productive' trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China’s ‘Christmas Town’ feels the chill as Trump’s trade war hits holiday exports",
+      "headlines": [
+        "China’s ‘Christmas Town’ feels the chill as Trump’s trade war hits holiday exports"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says US may ‘pass’ on helping end war if Russia, Ukraine resist deal",
+      "headlines": [
+        "Trump says US may ‘pass’ on helping end war if Russia, Ukraine resist deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

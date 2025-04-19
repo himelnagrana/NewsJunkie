@@ -1045,5 +1045,18 @@
       "sentiment": -5,
       "topic": "finance"
     }
+  ],
+  "2025-04-19T06:29:42.577Z": [
+    {
+      "summary": "Watch: BBC joins retirees aboard China's 'silver trains' that aim to boost economy",
+      "headlines": [
+        "Watch: BBC joins retirees aboard China's 'silver trains' that aim to boost economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }

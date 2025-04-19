@@ -356,5 +356,18 @@
       "sentiment": -2,
       "topic": "sports"
     }
+  ],
+  "2025-04-19T06:29:42.000Z": [
+    {
+      "summary": "African athletes find their feet in Vietnam’s marathon running boom",
+      "headlines": [
+        "African athletes find their feet in Vietnam’s marathon running boom"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

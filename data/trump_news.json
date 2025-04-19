@@ -7753,5 +7753,62 @@
       "sentiment": -6,
       "topic": "trump"
     }
+  ],
+  "2025-04-19T06:29:40.341Z": [
+    {
+      "summary": "Ukraine minerals deal may not buy peace after Trump threat",
+      "headlines": [
+        "Ukraine minerals deal may not buy peace after Trump threat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Designed in US, made in China: Why Apple is stuck",
+      "headlines": [
+        "Designed in US, made in China: Why Apple is stuck"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China races robots against humans in Beijing half-marathon",
+      "headlines": [
+        "China races robots against humans in Beijing half-marathon"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Starmer and Trump discuss 'productive' trade talks",
+      "headlines": [
+        "Starmer and Trump discuss 'productive' trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US may ‘pass’ on helping end war if Russia, Ukraine resist deal",
+      "headlines": [
+        "Trump says US may ‘pass’ on helping end war if Russia, Ukraine resist deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
