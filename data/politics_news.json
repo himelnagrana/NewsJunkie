@@ -9394,5 +9394,18 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-20T06:30:15.195Z": [
+    {
+      "summary": "Russia declares unilateral Easter truce; Ukraine says attacks are ongoing",
+      "headlines": [
+        "Russia declares unilateral Easter truce; Ukraine says attacks are ongoing"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
