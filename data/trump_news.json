@@ -7869,5 +7869,51 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-04-20T18:28:24.101Z": [
+    {
+      "summary": "Ukraine and Russia trade blame for breaking 'Easter truce'",
+      "headlines": [
+        "Ukraine and Russia trade blame for breaking 'Easter truce'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Australian captured while fighting for Ukraine charged as mercenary",
+      "headlines": [
+        "Australian captured while fighting for Ukraine charged as mercenary"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Easter truce’ in Russia’s Ukraine war marked by accusations of violations",
+      "headlines": [
+        "‘Easter truce’ in Russia’s Ukraine war marked by accusations of violations"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Lebanese president says disarming Hezbollah ‘delicate’ as Israel kills two",
+      "headlines": [
+        "Lebanese president says disarming Hezbollah ‘delicate’ as Israel kills two"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
