@@ -7915,5 +7915,51 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-04-21T06:32:15.299Z": [
+    {
+      "summary": "Russian drone attacks reported by Ukraine after 'Easter truce' ends",
+      "headlines": [
+        "Russian drone attacks reported by Ukraine after 'Easter truce' ends"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "China warns nations against 'appeasing' US in trade deals",
+      "headlines": [
+        "China warns nations against 'appeasing' US in trade deals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "DHL suspends high value US deliveries over Trump tariffs",
+      "headlines": [
+        "DHL suspends high value US deliveries over Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine reports many Russian drone attacks after truce ends",
+      "headlines": [
+        "Ukraine reports many Russian drone attacks after truce ends"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
