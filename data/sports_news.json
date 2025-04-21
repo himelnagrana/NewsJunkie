@@ -382,5 +382,18 @@
       "sentiment": 1,
       "topic": "sports"
     }
+  ],
+  "2025-04-21T18:30:44.690Z": [
+    {
+      "summary": "Championship: Burnley and Leeds promoted as Clarets beat Sheff Utd",
+      "headlines": [
+        "Championship: Burnley and Leeds promoted as Clarets beat Sheff Utd"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    }
   ]
 }

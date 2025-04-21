@@ -9510,5 +9510,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-21T18:30:43.556Z": [
+    {
+      "summary": "Trump backs defence secretary after reports of second Signal chat leak",
+      "headlines": [
+        "Trump backs defence secretary after reports of second Signal chat leak"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US stocks and dollar plunge as Trump  attacks Fed chair Powell",
+      "headlines": [
+        "US stocks and dollar plunge as Trump  attacks Fed chair Powell"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says US diplomats held ‘good meetings’ on Iran, Ukraine",
+      "headlines": [
+        "Trump says US diplomats held ‘good meetings’ on Iran, Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia steps up strikes on Ukraine after Easter ceasefire ends",
+      "headlines": [
+        "Russia steps up strikes on Ukraine after Easter ceasefire ends"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran to brief China as it accuses Israel of ‘undermining’ US nuclear talks",
+      "headlines": [
+        "Iran to brief China as it accuses Israel of ‘undermining’ US nuclear talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US VP Vance arrives in India for four-day visit as US tariff threat looms",
+      "headlines": [
+        "US VP Vance arrives in India for four-day visit as US tariff threat looms"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }

@@ -7961,5 +7961,62 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-04-21T18:30:42.928Z": [
+    {
+      "summary": "Trump backs defence secretary after reports of second Signal chat leak",
+      "headlines": [
+        "Trump backs defence secretary after reports of second Signal chat leak"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US stocks and dollar plunge as Trump  attacks Fed chair Powell",
+      "headlines": [
+        "US stocks and dollar plunge as Trump  attacks Fed chair Powell"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US diplomats held ‘good meetings’ on Iran, Ukraine",
+      "headlines": [
+        "Trump says US diplomats held ‘good meetings’ on Iran, Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia steps up strikes on Ukraine after Easter ceasefire ends",
+      "headlines": [
+        "Russia steps up strikes on Ukraine after Easter ceasefire ends"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iran to brief China as it accuses Israel of ‘undermining’ US nuclear talks",
+      "headlines": [
+        "Iran to brief China as it accuses Israel of ‘undermining’ US nuclear talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

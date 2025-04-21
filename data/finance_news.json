@@ -1058,5 +1058,29 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-04-21T18:30:45.241Z": [
+    {
+      "summary": "Vance in Delhi to meet Modi amid tariff tensions",
+      "headlines": [
+        "Vance in Delhi to meet Modi amid tariff tensions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "US VP Vance arrives in India for four-day visit as US tariff threat looms",
+      "headlines": [
+        "US VP Vance arrives in India for four-day visit as US tariff threat looms"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }
