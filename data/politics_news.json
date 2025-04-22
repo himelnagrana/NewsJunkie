@@ -9578,5 +9578,95 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-04-22T06:32:32.166Z": [
+    {
+      "summary": "Harvard University sues Trump administration to stop funding freeze",
+      "headlines": [
+        "Harvard University sues Trump administration to stop funding freeze"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "US stocks and dollar plunge as Trump attacks Fed chair Powell",
+      "headlines": [
+        "US stocks and dollar plunge as Trump attacks Fed chair Powell"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Could Trump invoke another rarely-used law at the border?",
+      "headlines": [
+        "Could Trump invoke another rarely-used law at the border?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Attempts to reach ceasefire in Ukraine littered with years of failure",
+      "headlines": [
+        "Attempts to reach ceasefire in Ukraine littered with years of failure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China executes man who stabbed Japanese school boy",
+      "headlines": [
+        "China executes man who stabbed Japanese school boy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US stocks and dollar tumble as Trump renews attacks on Fed Chair Powell",
+      "headlines": [
+        "US stocks and dollar tumble as Trump renews attacks on Fed Chair Powell"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why China has warned countries against ‘appeasing’ Trump in trade deals",
+      "headlines": [
+        "Why China has warned countries against ‘appeasing’ Trump in trade deals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump backs Hegseth after reports of second Signal chat on Yemen strikes",
+      "headlines": [
+        "Trump backs Hegseth after reports of second Signal chat on Yemen strikes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
