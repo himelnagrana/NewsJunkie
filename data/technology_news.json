@@ -215,5 +215,18 @@
       "sentiment": 4,
       "topic": "technology"
     }
+  ],
+  "2025-04-22T18:31:23.540Z": [
+    {
+      "summary": "Films made with AI can win Oscars, Academy says",
+      "headlines": [
+        "Films made with AI can win Oscars, Academy says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "technology"
+    }
   ]
 }

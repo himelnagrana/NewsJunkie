@@ -1082,5 +1082,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-04-22T18:31:24.571Z": [
+    {
+      "summary": "Vance visit: What’s at stake for India-US trade amid Trump tariff threat?",
+      "headlines": [
+        "Vance visit: What’s at stake for India-US trade amid Trump tariff threat?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

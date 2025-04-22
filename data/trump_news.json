@@ -8108,5 +8108,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-22T18:31:22.555Z": [
+    {
+      "summary": "US growth forecast to be hit hardest from Trump tariffs, IMF says",
+      "headlines": [
+        "US growth forecast to be hit hardest from Trump tariffs, IMF says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Prince William to join world leaders including Trump and Macron at Pope's funeral",
+      "headlines": [
+        "Prince William to join world leaders including Trump and Macron at Pope's funeral"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin suggests Russia open to direct talks with Ukraine, as strikes continue",
+      "headlines": [
+        "Putin suggests Russia open to direct talks with Ukraine, as strikes continue"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump to visit Saudi Arabia, Qatar and UAE next month",
+      "headlines": [
+        "Donald Trump to visit Saudi Arabia, Qatar and UAE next month"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Vance visit: What’s at stake for India-US trade amid Trump tariff threat?",
+      "headlines": [
+        "Vance visit: What’s at stake for India-US trade amid Trump tariff threat?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin hints at direct talks with Ukraine; Zelenskyy says only after truce",
+      "headlines": [
+        "Putin hints at direct talks with Ukraine; Zelenskyy says only after truce"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Not just Trump: Which world leaders did Pope Francis clash with?",
+      "headlines": [
+        "Not just Trump: Which world leaders did Pope Francis clash with?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

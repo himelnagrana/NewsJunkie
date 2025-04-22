@@ -395,5 +395,29 @@
       "sentiment": 1,
       "topic": "sports"
     }
+  ],
+  "2025-04-22T18:31:24.082Z": [
+    {
+      "summary": "World Snooker Championship - follow live text",
+      "headlines": [
+        "World Snooker Championship - follow live text"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    },
+    {
+      "summary": "'Back of a fag packet' - Wisden criticises ICC and World Test Championship",
+      "headlines": [
+        "'Back of a fag packet' - Wisden criticises ICC and World Test Championship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "sports"
+    }
   ]
 }
