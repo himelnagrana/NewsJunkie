@@ -1130,5 +1130,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-04-23T18:33:10.033Z": [
+    {
+      "summary": "Trump administration reportedly considers China tariff cuts",
+      "headlines": [
+        "Trump administration reportedly considers China tariff cuts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    }
   ]
 }

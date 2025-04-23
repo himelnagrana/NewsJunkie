@@ -9837,5 +9837,161 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-23T18:33:08.551Z": [
+    {
+      "summary": "Trump accuses Zelensky of harming Ukraine peace negotiations",
+      "headlines": [
+        "Trump accuses Zelensky of harming Ukraine peace negotiations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US intensifying bid to end Ukraine war - but chances of success remain unclear",
+      "headlines": [
+        "US intensifying bid to end Ukraine war - but chances of success remain unclear"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "India closes main border crossing with Pakistan after Kashmir attack",
+      "headlines": [
+        "India closes main border crossing with Pakistan after Kashmir attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump hints at softening China tariffs and says no plan to sack Fed boss",
+      "headlines": [
+        "Trump hints at softening China tariffs and says no plan to sack Fed boss"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Africa is important to Trump, despite aid cuts, envoy tells BBC",
+      "headlines": [
+        "Africa is important to Trump, despite aid cuts, envoy tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China sends Boeing planes back to US over tariffs",
+      "headlines": [
+        "China sends Boeing planes back to US over tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: World Snooker Championship - Trump and Selby both in front",
+      "headlines": [
+        "Watch: World Snooker Championship - Trump and Selby both in front"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Vance issues Ukraine ultimatum after Rubio snubs key meeting",
+      "headlines": [
+        "Vance issues Ukraine ultimatum after Rubio snubs key meeting"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India shuts border with Pakistan, orders Pakistani nationals to leave",
+      "headlines": [
+        "India shuts border with Pakistan, orders Pakistani nationals to leave"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump slams Zelenskyy’s Crimea position as UK hosts Ukraine talks",
+      "headlines": [
+        "Trump slams Zelenskyy’s Crimea position as UK hosts Ukraine talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Treasury chief Bessent says US ‘not yet’ talking to China on tariffs",
+      "headlines": [
+        "Treasury chief Bessent says US ‘not yet’ talking to China on tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration reportedly considers China tariff cuts",
+      "headlines": [
+        "Trump administration reportedly considers China tariff cuts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Russia’s Putin ready to stop Ukraine war along current frontline?",
+      "headlines": [
+        "Is Russia’s Putin ready to stop Ukraine war along current frontline?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Act of war’: What happened in Kashmir attack that killed 26 tourists?",
+      "headlines": [
+        "‘Act of war’: What happened in Kashmir attack that killed 26 tourists?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }

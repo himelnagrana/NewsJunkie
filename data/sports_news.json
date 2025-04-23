@@ -419,5 +419,18 @@
       "sentiment": -5,
       "topic": "sports"
     }
+  ],
+  "2025-04-23T18:33:09.557Z": [
+    {
+      "summary": "Watch: World Snooker Championship - Trump and Selby both in front",
+      "headlines": [
+        "Watch: World Snooker Championship - Trump and Selby both in front"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
