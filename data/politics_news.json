@@ -9758,5 +9758,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-23T06:32:20.939Z": [
+    {
+      "summary": "Trump administration proposes State Department cuts in major overhaul",
+      "headlines": [
+        "Trump administration proposes State Department cuts in major overhaul"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he has 'no intention of firing' Fed boss",
+      "headlines": [
+        "Trump says he has 'no intention of firing' Fed boss"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says China tariffs will ‘come down substantially’",
+      "headlines": [
+        "Trump says China tariffs will ‘come down substantially’"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump backs off threat to fire Fed Chair Powell, as stock market surges",
+      "headlines": [
+        "Trump backs off threat to fire Fed Chair Powell, as stock market surges"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine’s Zelenskyy claims Chinese nationals helping Russia produce drones",
+      "headlines": [
+        "Ukraine’s Zelenskyy claims Chinese nationals helping Russia produce drones"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Musk says he’ll spend less time working with Trump after Tesla profits sink",
+      "headlines": [
+        "Musk says he’ll spend less time working with Trump after Tesla profits sink"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,154",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,154"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

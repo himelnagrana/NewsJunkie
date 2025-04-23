@@ -1095,5 +1095,40 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-04-23T06:32:22.342Z": [
+    {
+      "summary": "Why the IMF is worried about the economy - three things to know",
+      "headlines": [
+        "Why the IMF is worried about the economy - three things to know"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    },
+    {
+      "summary": "Global growth forecast slashed by IMF over tariff impact",
+      "headlines": [
+        "Global growth forecast slashed by IMF over tariff impact"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump backs off threat to fire Fed Chair Powell, as stock market surges",
+      "headlines": [
+        "Trump backs off threat to fire Fed Chair Powell, as stock market surges"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }
