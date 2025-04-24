@@ -8468,5 +8468,95 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-24T18:31:29.995Z": [
+    {
+      "summary": "'Vladimir, STOP!': Trump says he is 'not happy' with Russian strikes on Kyiv as death toll rises",
+      "headlines": [
+        "'Vladimir, STOP!': Trump says he is 'not happy' with Russian strikes on Kyiv as death toll rises"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "China tells Trump: If you want trade talks, cancel tariffs",
+      "headlines": [
+        "China tells Trump: If you want trade talks, cancel tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Patriotism surges in Quebec as Trump rattles Canada",
+      "headlines": [
+        "Patriotism surges in Quebec as Trump rattles Canada"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urges Putin to 'STOP' after deadly Kyiv attack",
+      "headlines": [
+        "Trump urges Putin to 'STOP' after deadly Kyiv attack"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "China will talk trade, but US will need to make the first move, experts say",
+      "headlines": [
+        "China will talk trade, but US will need to make the first move, experts say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK lifts sanctions on dozen Syrian government bodies",
+      "headlines": [
+        "UK lifts sanctions on dozen Syrian government bodies"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump Tariffs: What products do the EU and US buy from each other?",
+      "headlines": [
+        "Trump Tariffs: What products do the EU and US buy from each other?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump trade war drives uncertainty across several industries",
+      "headlines": [
+        "Trump trade war drives uncertainty across several industries"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

@@ -10127,5 +10127,117 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-04-24T18:31:30.543Z": [
+    {
+      "summary": "'Vladimir, STOP!': Trump says he is 'not happy' with Russian strikes on Kyiv as death toll rises",
+      "headlines": [
+        "'Vladimir, STOP!': Trump says he is 'not happy' with Russian strikes on Kyiv as death toll rises"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "China tells Trump: If you want trade talks, cancel tariffs",
+      "headlines": [
+        "China tells Trump: If you want trade talks, cancel tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Patriotism surges in Quebec as Trump rattles Canada",
+      "headlines": [
+        "Patriotism surges in Quebec as Trump rattles Canada"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump urges Putin to 'STOP' after deadly Kyiv attack",
+      "headlines": [
+        "Trump urges Putin to 'STOP' after deadly Kyiv attack"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan retaliates against India over response to Kashmir attack",
+      "headlines": [
+        "Pakistan retaliates against India over response to Kashmir attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China will talk trade, but US will need to make the first move, experts say",
+      "headlines": [
+        "China will talk trade, but US will need to make the first move, experts say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK lifts sanctions on dozen Syrian government bodies",
+      "headlines": [
+        "UK lifts sanctions on dozen Syrian government bodies"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump Tariffs: What products do the EU and US buy from each other?",
+      "headlines": [
+        "Trump Tariffs: What products do the EU and US buy from each other?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India and Pakistan near strategic standoff after Pahalgam attack in Kashmir",
+      "headlines": [
+        "India and Pakistan near strategic standoff after Pahalgam attack in Kashmir"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump trade war drives uncertainty across several industries",
+      "headlines": [
+        "Trump trade war drives uncertainty across several industries"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
