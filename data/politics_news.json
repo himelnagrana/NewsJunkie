@@ -9993,5 +9993,139 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-04-24T06:32:55.980Z": [
+    {
+      "summary": "Russian attacks on Kyiv kill nine as Trump accuses Zelensky of preventing peace",
+      "headlines": [
+        "Russian attacks on Kyiv kill nine as Trump accuses Zelensky of preventing peace"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "India expels Pakistan diplomats and closes border crossing after deadly Kashmir attack",
+      "headlines": [
+        "India expels Pakistan diplomats and closes border crossing after deadly Kashmir attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "BBC reporter asks Trump how Canada's election could influence tariffs",
+      "headlines": [
+        "BBC reporter asks Trump how Canada's election could influence tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Deadly Kashmir attack risks India military escalation against Pakistan",
+      "headlines": [
+        "Deadly Kashmir attack risks India military escalation against Pakistan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Five cards China holds in a trade war with the US",
+      "headlines": [
+        "Five cards China holds in a trade war with the US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump crypto soars as president offers dinner to top holders",
+      "headlines": [
+        "Trump crypto soars as president offers dinner to top holders"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump starts the clock for new tariffs to take effect",
+      "headlines": [
+        "Trump starts the clock for new tariffs to take effect"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India summons top Pakistani diplomat as police search for Kashmir attackers",
+      "headlines": [
+        "India summons top Pakistani diplomat as police search for Kashmir attackers"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says lower tariffs depend on China, as US states sue over trade war",
+      "headlines": [
+        "Trump says lower tariffs depend on China, as US states sue over trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump accuses Ukraine’s Zelenskyy of harming Russia negotiations",
+      "headlines": [
+        "Trump accuses Ukraine’s Zelenskyy of harming Russia negotiations"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trade war with China to hit US healthcare",
+      "headlines": [
+        "Trade war with China to hit US healthcare"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India downgrades Pakistan ties after attack on Kashmir tourists",
+      "headlines": [
+        "India downgrades Pakistan ties after attack on Kashmir tourists"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
