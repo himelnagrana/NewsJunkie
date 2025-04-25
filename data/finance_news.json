@@ -1143,5 +1143,18 @@
       "sentiment": -1,
       "topic": "finance"
     }
+  ],
+  "2025-04-25T06:32:18.577Z": [
+    {
+      "summary": "California passes Japan as fourth largest economy",
+      "headlines": [
+        "California passes Japan as fourth largest economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

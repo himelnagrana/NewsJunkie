@@ -8558,5 +8558,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-25T06:32:16.604Z": [
+    {
+      "summary": "Ukraine may have to give up land for peace - Kyiv Mayor Klitschko",
+      "headlines": [
+        "Ukraine may have to give up land for peace - Kyiv Mayor Klitschko"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he is 'not happy' with deadly Russian strikes on Kyiv",
+      "headlines": [
+        "Trump says he is 'not happy' with deadly Russian strikes on Kyiv"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "China shares rare Moon rocks with US despite trade war",
+      "headlines": [
+        "China shares rare Moon rocks with US despite trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "What Canadians really care about (beyond Trump)",
+      "headlines": [
+        "What Canadians really care about (beyond Trump)"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canadian PM reveals Trump brought up '51st state' during March call",
+      "headlines": [
+        "Canadian PM reveals Trump brought up '51st state' during March call"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US to offer Saudi Arabia $100bn weapons deal as Trump visit planned: Report",
+      "headlines": [
+        "US to offer Saudi Arabia $100bn weapons deal as Trump visit planned: Report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump makes rare criticism of Putin after Russia’s deadly Kyiv attacks",
+      "headlines": [
+        "Trump makes rare criticism of Putin after Russia’s deadly Kyiv attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    }
   ]
 }

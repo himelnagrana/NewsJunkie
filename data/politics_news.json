@@ -10239,5 +10239,106 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-25T06:32:17.129Z": [
+    {
+      "summary": "Ukraine may have to give up land for peace - Kyiv Mayor Klitschko",
+      "headlines": [
+        "Ukraine may have to give up land for peace - Kyiv Mayor Klitschko"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he is 'not happy' with deadly Russian strikes on Kyiv",
+      "headlines": [
+        "Trump says he is 'not happy' with deadly Russian strikes on Kyiv"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "China shares rare Moon rocks with US despite trade war",
+      "headlines": [
+        "China shares rare Moon rocks with US despite trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "What Canadians really care about (beyond Trump)",
+      "headlines": [
+        "What Canadians really care about (beyond Trump)"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canadian PM reveals Trump brought up '51st state' during March call",
+      "headlines": [
+        "Canadian PM reveals Trump brought up '51st state' during March call"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan announces retaliatory measures against India after Kashmir attack",
+      "headlines": [
+        "Pakistan announces retaliatory measures against India after Kashmir attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US to offer Saudi Arabia $100bn weapons deal as Trump visit planned: Report",
+      "headlines": [
+        "US to offer Saudi Arabia $100bn weapons deal as Trump visit planned: Report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump makes rare criticism of Putin after Russia’s deadly Kyiv attacks",
+      "headlines": [
+        "Trump makes rare criticism of Putin after Russia’s deadly Kyiv attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,156",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,156"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
