@@ -8637,5 +8637,106 @@
       "sentiment": -6,
       "topic": "trump"
     }
+  ],
+  "2025-04-25T18:31:03.548Z": [
+    {
+      "summary": "Putin and Trump envoy had constructive meeting, Russian aide says",
+      "headlines": [
+        "Putin and Trump envoy had constructive meeting, Russian aide says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What would it mean for Ukraine to temporarily give up land?",
+      "headlines": [
+        "What would it mean for Ukraine to temporarily give up land?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Katty Kay: Joe Manchin has a tough message for Democrats on Trump",
+      "headlines": [
+        "Katty Kay: Joe Manchin has a tough message for Democrats on Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What do Canadians really care about (beyond Trump)",
+      "headlines": [
+        "What do Canadians really care about (beyond Trump)"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump deep sea mining order violates law, China says",
+      "headlines": [
+        "Trump deep sea mining order violates law, China says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why Trump keeps attacking the US central bank",
+      "headlines": [
+        "Why Trump keeps attacking the US central bank"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine may have to temporarily give up land for peace, Kyiv Mayor Klitschko tells BBC",
+      "headlines": [
+        "Ukraine may have to temporarily give up land for peace, Kyiv Mayor Klitschko tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Death, debris and anger about Trump after Russia’s strike on Kyiv",
+      "headlines": [
+        "Death, debris and anger about Trump after Russia’s strike on Kyiv"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "As Trump looms over Canadian elections, affordability a key factor",
+      "headlines": [
+        "As Trump looms over Canadian elections, affordability a key factor"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

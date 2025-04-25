@@ -10340,5 +10340,150 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-25T18:31:04.059Z": [
+    {
+      "summary": "Putin and Trump envoy had constructive meeting, Russian aide says",
+      "headlines": [
+        "Putin and Trump envoy had constructive meeting, Russian aide says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What would it mean for Ukraine to temporarily give up land?",
+      "headlines": [
+        "What would it mean for Ukraine to temporarily give up land?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Katty Kay: Joe Manchin has a tough message for Democrats on Trump",
+      "headlines": [
+        "Katty Kay: Joe Manchin has a tough message for Democrats on Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What do Canadians really care about (beyond Trump)",
+      "headlines": [
+        "What do Canadians really care about (beyond Trump)"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can India really stop river water from flowing into Pakistan?",
+      "headlines": [
+        "Can India really stop river water from flowing into Pakistan?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump deep sea mining order violates law, China says",
+      "headlines": [
+        "Trump deep sea mining order violates law, China says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Trump keeps attacking the US central bank",
+      "headlines": [
+        "Why Trump keeps attacking the US central bank"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine may have to temporarily give up land for peace, Kyiv Mayor Klitschko tells BBC",
+      "headlines": [
+        "Ukraine may have to temporarily give up land for peace, Kyiv Mayor Klitschko tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin, Witkoff discuss possible direct Russia-Ukraine talks, Kremlin says",
+      "headlines": [
+        "Putin, Witkoff discuss possible direct Russia-Ukraine talks, Kremlin says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Death, debris and anger about Trump after Russia’s strike on Kyiv",
+      "headlines": [
+        "Death, debris and anger about Trump after Russia’s strike on Kyiv"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "India, Pakistan trade gunfire as tensions rise over deadly Kashmir attack",
+      "headlines": [
+        "India, Pakistan trade gunfire as tensions rise over deadly Kashmir attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "As Trump looms over Canadian elections, affordability a key factor",
+      "headlines": [
+        "As Trump looms over Canadian elections, affordability a key factor"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘We’re cursed’: Kashmiris under attack across India after Pahalgam killings",
+      "headlines": [
+        "‘We’re cursed’: Kashmiris under attack across India after Pahalgam killings"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }

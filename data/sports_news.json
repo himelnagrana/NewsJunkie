@@ -445,5 +445,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-04-25T18:31:05.028Z": [
+    {
+      "summary": "World Snooker Championship 2025: Wakelin frame from beating Allen; Williams and Vafaei level",
+      "headlines": [
+        "World Snooker Championship 2025: Wakelin frame from beating Allen; Williams and Vafaei level"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "sports"
+    }
   ]
 }
