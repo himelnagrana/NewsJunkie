@@ -8738,5 +8738,51 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-04-26T06:29:31.110Z": [
+    {
+      "summary": "Russia and Ukraine 'very close to a deal', says Trump",
+      "headlines": [
+        "Russia and Ukraine 'very close to a deal', says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "How much has Elon Musk's Doge cut from US government spending?",
+      "headlines": [
+        "How much has Elon Musk's Doge cut from US government spending?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration reverses termination of visas for foreign students",
+      "headlines": [
+        "Trump administration reverses termination of visas for foreign students"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Apple to move assembly of US phones to India in shift away from China",
+      "headlines": [
+        "Apple to move assembly of US phones to India in shift away from China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
