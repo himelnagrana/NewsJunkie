@@ -10586,5 +10586,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-26T18:28:07.088Z": [
+    {
+      "summary": "Zelensky and Trump hold 'very productive' talks at Vatican",
+      "headlines": [
+        "Zelensky and Trump hold 'very productive' talks at Vatican"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia claims it has regained full control of Kursk from Ukraine",
+      "headlines": [
+        "Russia claims it has regained full control of Kursk from Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "From prized artworks to bullet shells: how war devastated Sudan's museums",
+      "headlines": [
+        "From prized artworks to bullet shells: how war devastated Sudan's museums"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "US President Trump pays respects by Pope's coffin",
+      "headlines": [
+        "US President Trump pays respects by Pope's coffin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration reverses termination of foreign students' visas",
+      "headlines": [
+        "Trump administration reverses termination of foreign students' visas"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump questions Putin's intentions after meeting with Zelensky",
+      "headlines": [
+        "Trump questions Putin's intentions after meeting with Zelensky"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump, Zelenskyy hold ‘productive’ meeting at the Vatican",
+      "headlines": [
+        "Trump, Zelenskyy hold ‘productive’ meeting at the Vatican"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia says it has fully retaken Kursk, but Ukraine says fighting continues",
+      "headlines": [
+        "Russia says it has fully retaken Kursk, but Ukraine says fighting continues"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
