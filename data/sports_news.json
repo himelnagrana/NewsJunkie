@@ -458,5 +458,18 @@
       "sentiment": -1,
       "topic": "sports"
     }
+  ],
+  "2025-04-27T18:28:34.415Z": [
+    {
+      "summary": "From obscurity to prime time: Women’s football hits the TV screen in Egypt",
+      "headlines": [
+        "From obscurity to prime time: Women’s football hits the TV screen in Egypt"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

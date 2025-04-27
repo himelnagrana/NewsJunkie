@@ -10733,5 +10733,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-04-27T18:28:33.373Z": [
+    {
+      "summary": "Beijing seizes disputed sandbank in South China Sea",
+      "headlines": [
+        "Beijing seizes disputed sandbank in South China Sea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Greenland not a piece of property, says PM after Trump threats",
+      "headlines": [
+        "Greenland not a piece of property, says PM after Trump threats"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Beijing seizes tiny sandbank in South China Sea",
+      "headlines": [
+        "Beijing seizes tiny sandbank in South China Sea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump's approval at 100 days lower than any US president in seven decades",
+      "headlines": [
+        "Trump's approval at 100 days lower than any US president in seven decades"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran’s President Pezeshkian visits injured, site of deadly port explosion",
+      "headlines": [
+        "Iran’s President Pezeshkian visits injured, site of deadly port explosion"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel bombs Beirut; President Aoun calls for international pressure",
+      "headlines": [
+        "Israel bombs Beirut; President Aoun calls for international pressure"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "In Canada’s election, voters appear on track to rebuke Trump’s trade war",
+      "headlines": [
+        "In Canada’s election, voters appear on track to rebuke Trump’s trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia launches nearly 150 drones, strikes in Ukraine, killing at least 4",
+      "headlines": [
+        "Russia launches nearly 150 drones, strikes in Ukraine, killing at least 4"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
