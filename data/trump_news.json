@@ -8863,5 +8863,40 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-04-27T06:29:47.958Z": [
+    {
+      "summary": "Trump questions Putin's desire for peace after meeting Zelensky at the Vatican",
+      "headlines": [
+        "Trump questions Putin's desire for peace after meeting Zelensky at the Vatican"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Kicking butt' or 'going too fast'? Trump voters reflect on 100 days",
+      "headlines": [
+        "'Kicking butt' or 'going too fast'? Trump voters reflect on 100 days"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Palestinian President Mahmoud Abbas appoints aide as PLO deputy",
+      "headlines": [
+        "Palestinian President Mahmoud Abbas appoints aide as PLO deputy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

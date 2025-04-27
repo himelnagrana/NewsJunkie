@@ -241,5 +241,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-04-27T06:29:49.104Z": [
+    {
+      "summary": "'Tech entrepreneur took our money but failed to deliver our start-up dreams'",
+      "headlines": [
+        "'Tech entrepreneur took our money but failed to deliver our start-up dreams'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }
