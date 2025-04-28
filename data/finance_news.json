@@ -1169,5 +1169,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-04-28T18:32:12.822Z": [
+    {
+      "summary": "Trump-China tariff war: Who’s winning so far?",
+      "headlines": [
+        "Trump-China tariff war: Who’s winning so far?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }

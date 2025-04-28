@@ -471,5 +471,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-04-28T18:32:12.312Z": [
+    {
+      "summary": "Watch World Snooker Championship: O'Sullivan and Brecel seal quarter-final spots",
+      "headlines": [
+        "Watch World Snooker Championship: O'Sullivan and Brecel seal quarter-final spots"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

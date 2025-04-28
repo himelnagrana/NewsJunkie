@@ -9045,5 +9045,51 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-04-28T18:32:10.597Z": [
+    {
+      "summary": "Canadians vote in election as Trump repeats calls for nation to become 51st US state",
+      "headlines": [
+        "Canadians vote in election as Trump repeats calls for nation to become 51st US state"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "The 'Trump effect' and other things to watch for as Canada votes",
+      "headlines": [
+        "The 'Trump effect' and other things to watch for as Canada votes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump beats Murphy in epic last-16 tie at Crucible",
+      "headlines": [
+        "Trump beats Murphy in epic last-16 tie at Crucible"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia declares 72-hour unilateral ceasefire in Ukraine from May 8",
+      "headlines": [
+        "Russia declares 72-hour unilateral ceasefire in Ukraine from May 8"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
