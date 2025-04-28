@@ -1156,5 +1156,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-28T06:39:21.645Z": [
+    {
+      "summary": "Trump took the US economy to the brink of a crisis in just 100 days",
+      "headlines": [
+        "Trump took the US economy to the brink of a crisis in just 100 days"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

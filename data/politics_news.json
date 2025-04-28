@@ -10823,5 +10823,84 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-04-28T06:39:20.086Z": [
+    {
+      "summary": "N Korea confirms it sent troops to fight for Russia in Ukraine war",
+      "headlines": [
+        "N Korea confirms it sent troops to fight for Russia in Ukraine war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump 'thinks' Zelensky ready to give up Crimea to Russia",
+      "headlines": [
+        "Trump 'thinks' Zelensky ready to give up Crimea to Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "There are signs Trump could be ready to retreat on tariffs",
+      "headlines": [
+        "There are signs Trump could be ready to retreat on tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada votes in pivotal election transformed by Trump",
+      "headlines": [
+        "Canada votes in pivotal election transformed by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who's who in the Canadian election",
+      "headlines": [
+        "Who's who in the Canadian election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump took the US economy to the brink of a crisis in just 100 days",
+      "headlines": [
+        "Trump took the US economy to the brink of a crisis in just 100 days"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "North Korea confirms soldiers sent to fight with Russia against Ukraine",
+      "headlines": [
+        "North Korea confirms soldiers sent to fight with Russia against Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
