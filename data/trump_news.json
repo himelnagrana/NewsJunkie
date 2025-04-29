@@ -9091,5 +9091,62 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-29T06:33:17.197Z": [
+    {
+      "summary": "Canada’s Carney secures historic election win and says 'Trump will never break us'",
+      "headlines": [
+        "Canada’s Carney secures historic election win and says 'Trump will never break us'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 6,
+      "topic": "trump"
+    },
+    {
+      "summary": "A turnaround victory made possible by Trump",
+      "headlines": [
+        "A turnaround victory made possible by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Sarah Smith: Trump's breakneck start is fraught with political risk",
+      "headlines": [
+        "Sarah Smith: Trump's breakneck start is fraught with political risk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada’s Liberals win as voters rally against Trump",
+      "headlines": [
+        "Canada’s Liberals win as voters rally against Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada’s Carney declares victory, warns ‘Trump is trying to break us’",
+      "headlines": [
+        "Canada’s Carney declares victory, warns ‘Trump is trying to break us’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }

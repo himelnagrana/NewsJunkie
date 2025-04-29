@@ -11025,5 +11025,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-04-29T06:33:17.776Z": [
+    {
+      "summary": "Canada’s Carney secures historic election win and says 'Trump will never break us'",
+      "headlines": [
+        "Canada’s Carney secures historic election win and says 'Trump will never break us'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 6,
+      "topic": "politics"
+    },
+    {
+      "summary": "A turnaround victory made possible by Trump",
+      "headlines": [
+        "A turnaround victory made possible by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: How Canada's election night unfolded",
+      "headlines": [
+        "Watch: How Canada's election night unfolded"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sarah Smith: Trump's breakneck start is fraught with political risk",
+      "headlines": [
+        "Sarah Smith: Trump's breakneck start is fraught with political risk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Moment Liberal supporters cheer projected Canadian election win",
+      "headlines": [
+        "Watch: Moment Liberal supporters cheer projected Canadian election win"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada’s Liberals win as voters rally against Trump",
+      "headlines": [
+        "Canada’s Liberals win as voters rally against Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada’s Carney declares victory, warns ‘Trump is trying to break us’",
+      "headlines": [
+        "Canada’s Carney declares victory, warns ‘Trump is trying to break us’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada’s Liberal Party wins election dominated by Trump’s trade war",
+      "headlines": [
+        "Canada’s Liberal Party wins election dominated by Trump’s trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }
