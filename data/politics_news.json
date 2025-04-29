@@ -11115,5 +11115,128 @@
       "sentiment": 2,
       "topic": "politics"
     }
+  ],
+  "2025-04-29T18:30:34.401Z": [
+    {
+      "summary": "Canada will deal with Trump 'on our terms', Carney tells BBC",
+      "headlines": [
+        "Canada will deal with Trump 'on our terms', Carney tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "We answer your biggest questions about Trump on his 100th day as president",
+      "headlines": [
+        "We answer your biggest questions about Trump on his 100th day as president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Carney celebrates election win with party four seats away from majority, as counts continue",
+      "headlines": [
+        "Carney celebrates election win with party four seats away from majority, as counts continue"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Relief, disappointment or surprise? Canadians react to election result",
+      "headlines": [
+        "Relief, disappointment or surprise? Canadians react to election result"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Senate backs China critic Perdue as ambassador",
+      "headlines": [
+        "Senate backs China critic Perdue as ambassador"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Faisal Islam: Carney wants to lead a G7 fightback on Trump tariffs",
+      "headlines": [
+        "Faisal Islam: Carney wants to lead a G7 fightback on Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Allies herald democratic values as Liberal Party wins Canadian election",
+      "headlines": [
+        "Allies herald democratic values as Liberal Party wins Canadian election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump’s 100-day scorecard: Executive orders, tariffs and foreign policy",
+      "headlines": [
+        "Trump’s 100-day scorecard: Executive orders, tariffs and foreign policy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada election results: Who are the key winners and losers?",
+      "headlines": [
+        "Canada election results: Who are the key winners and losers?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Japan, Philippines pledge to deepen security ties amid China tensions",
+      "headlines": [
+        "Japan, Philippines pledge to deepen security ties amid China tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia dismisses Ukraine’s proposal to extend brief ceasefire to 30 days",
+      "headlines": [
+        "Russia dismisses Ukraine’s proposal to extend brief ceasefire to 30 days"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }

@@ -9148,5 +9148,84 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-04-29T18:30:33.791Z": [
+    {
+      "summary": "Canada will deal with Trump 'on our terms', Carney tells BBC",
+      "headlines": [
+        "Canada will deal with Trump 'on our terms', Carney tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "We answer your biggest questions about Trump on his 100th day as president",
+      "headlines": [
+        "We answer your biggest questions about Trump on his 100th day as president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Senate backs China critic Perdue as ambassador",
+      "headlines": [
+        "Senate backs China critic Perdue as ambassador"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Faisal Islam: Carney wants to lead a G7 fightback on Trump tariffs",
+      "headlines": [
+        "Faisal Islam: Carney wants to lead a G7 fightback on Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump’s 100-day scorecard: Executive orders, tariffs and foreign policy",
+      "headlines": [
+        "Trump’s 100-day scorecard: Executive orders, tariffs and foreign policy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Japan, Philippines pledge to deepen security ties amid China tensions",
+      "headlines": [
+        "Japan, Philippines pledge to deepen security ties amid China tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia dismisses Ukraine’s proposal to extend brief ceasefire to 30 days",
+      "headlines": [
+        "Russia dismisses Ukraine’s proposal to extend brief ceasefire to 30 days"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }

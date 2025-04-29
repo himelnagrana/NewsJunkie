@@ -1182,5 +1182,51 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-04-29T18:30:35.992Z": [
+    {
+      "summary": "White House hits back at Amazon 'plan' to show tariff price rises",
+      "headlines": [
+        "White House hits back at Amazon 'plan' to show tariff price rises"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    },
+    {
+      "summary": "White House attacks Amazon over scrapped tariff plan",
+      "headlines": [
+        "White House attacks Amazon over scrapped tariff plan"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "White House slams Amazon’s ‘hostile’ plan to display tariff price hikes",
+      "headlines": [
+        "White House slams Amazon’s ‘hostile’ plan to display tariff price hikes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Consumers, businesses less upbeat about US economy despite Trump’s hype",
+      "headlines": [
+        "Consumers, businesses less upbeat about US economy despite Trump’s hype"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

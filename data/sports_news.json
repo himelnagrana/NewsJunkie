@@ -484,5 +484,29 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-04-29T18:30:35.503Z": [
+    {
+      "summary": "'Why hit a single when you can hit six?' - the making of a teen cricket star",
+      "headlines": [
+        "'Why hit a single when you can hit six?' - the making of a teen cricket star"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    },
+    {
+      "summary": "World Snooker Championship - follow updates",
+      "headlines": [
+        "World Snooker Championship - follow updates"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
