@@ -9227,5 +9227,106 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-04-30T06:33:08.828Z": [
+    {
+      "summary": "Trump calls Bezos as Amazon says no plan to show tariff price rises",
+      "headlines": [
+        "Trump calls Bezos as Amazon says no plan to show tariff price rises"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump congratulates Canada's Carney as they agree to meet in 'near future'",
+      "headlines": [
+        "Trump congratulates Canada's Carney as they agree to meet in 'near future'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump celebrates 100 days in office by touting record and blasting foes",
+      "headlines": [
+        "Trump celebrates 100 days in office by touting record and blasting foes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump eases car tariffs after firms raised concerns",
+      "headlines": [
+        "Trump eases car tariffs after firms raised concerns"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Will Canada's newly-elected PM agree to meet Trump?",
+      "headlines": [
+        "Will Canada's newly-elected PM agree to meet Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump marks tumultuous first 100 days in office with rally in Michigan",
+      "headlines": [
+        "Trump marks tumultuous first 100 days in office with rally in Michigan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "About 600 North Korean soldiers killed in war in Ukraine, lawmakers say",
+      "headlines": [
+        "About 600 North Korean soldiers killed in war in Ukraine, lawmakers say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada’s Liberals to form minority gov’t after election dominated by Trump",
+      "headlines": [
+        "Canada’s Liberals to form minority gov’t after election dominated by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Tearing down’: What drives Trump’s foreign policy?",
+      "headlines": [
+        "‘Tearing down’: What drives Trump’s foreign policy?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

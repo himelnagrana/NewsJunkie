@@ -11238,5 +11238,161 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-04-30T06:33:09.387Z": [
+    {
+      "summary": "Trump calls Bezos as Amazon says no plan to show tariff price rises",
+      "headlines": [
+        "Trump calls Bezos as Amazon says no plan to show tariff price rises"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump congratulates Canada's Carney as they agree to meet in 'near future'",
+      "headlines": [
+        "Trump congratulates Canada's Carney as they agree to meet in 'near future'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump celebrates 100 days in office by touting record and blasting foes",
+      "headlines": [
+        "Trump celebrates 100 days in office by touting record and blasting foes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "The TikTokers accused of triggering an election scandal",
+      "headlines": [
+        "The TikTokers accused of triggering an election scandal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump eases car tariffs after firms raised concerns",
+      "headlines": [
+        "Trump eases car tariffs after firms raised concerns"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Will Canada's newly-elected PM agree to meet Trump?",
+      "headlines": [
+        "Will Canada's newly-elected PM agree to meet Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Xi's real test is not Trump's trade war",
+      "headlines": [
+        "Xi's real test is not Trump's trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada’s election represents a broader trend",
+      "headlines": [
+        "Canada’s election represents a broader trend"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump marks tumultuous first 100 days in office with rally in Michigan",
+      "headlines": [
+        "Trump marks tumultuous first 100 days in office with rally in Michigan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "About 600 North Korean soldiers killed in war in Ukraine, lawmakers say",
+      "headlines": [
+        "About 600 North Korean soldiers killed in war in Ukraine, lawmakers say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Fall of Saigon: Children of Vietnam’s war refugees reconcile a painful past",
+      "headlines": [
+        "Fall of Saigon: Children of Vietnam’s war refugees reconcile a painful past"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada’s Liberals to form minority gov’t after election dominated by Trump",
+      "headlines": [
+        "Canada’s Liberals to form minority gov’t after election dominated by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Tearing down’: What drives Trump’s foreign policy?",
+      "headlines": [
+        "‘Tearing down’: What drives Trump’s foreign policy?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,161",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,161"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

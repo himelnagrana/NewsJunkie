@@ -1228,5 +1228,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-30T06:33:10.920Z": [
+    {
+      "summary": "Trump calls Bezos as Amazon says no plan to show tariff price rises",
+      "headlines": [
+        "Trump calls Bezos as Amazon says no plan to show tariff price rises"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
