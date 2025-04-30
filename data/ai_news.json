@@ -63,5 +63,18 @@
       "sentiment": 0,
       "topic": "ai"
     }
+  ],
+  "2025-04-30T18:31:46.609Z": [
+    {
+      "summary": "Update that made ChatGPT 'dangerously' sycophantic pulled",
+      "headlines": [
+        "Update that made ChatGPT 'dangerously' sycophantic pulled"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "ai"
+    }
   ]
 }

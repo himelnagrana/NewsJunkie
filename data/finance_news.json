@@ -1241,5 +1241,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-04-30T18:31:49.318Z": [
+    {
+      "summary": "Trump praises tariffs in Cabinet meeting as US economy shrinks for first time since 2022",
+      "headlines": [
+        "Trump praises tariffs in Cabinet meeting as US economy shrinks for first time since 2022"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "finance"
+    },
+    {
+      "summary": "US economy goes into reverse from Trump's abrupt policy shifts",
+      "headlines": [
+        "US economy goes into reverse from Trump's abrupt policy shifts"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump blames predecessor as US economy hit by tariff policies",
+      "headlines": [
+        "Trump blames predecessor as US economy hit by tariff policies"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

@@ -9328,5 +9328,106 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-04-30T18:31:47.158Z": [
+    {
+      "summary": "Trump praises tariffs in Cabinet meeting as US economy shrinks for first time since 2022",
+      "headlines": [
+        "Trump praises tariffs in Cabinet meeting as US economy shrinks for first time since 2022"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "US ready to sign Ukraine minerals deal ‘this afternoon’, as Kyiv sends minister to Washington",
+      "headlines": [
+        "US ready to sign Ukraine minerals deal ‘this afternoon’, as Kyiv sends minister to Washington"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Michigan's governor gambles on Trump - and her chances at a presidential run",
+      "headlines": [
+        "Michigan's governor gambles on Trump - and her chances at a presidential run"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he 'could' return mistakenly deported man if he wanted to",
+      "headlines": [
+        "Trump says he 'could' return mistakenly deported man if he wanted to"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Trump jokes he'd 'like to be Pope'",
+      "headlines": [
+        "Watch: Trump jokes he'd 'like to be Pope'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US economy goes into reverse from Trump's abrupt policy shifts",
+      "headlines": [
+        "US economy goes into reverse from Trump's abrupt policy shifts"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine says it is poised to sign minerals deal with the US",
+      "headlines": [
+        "Ukraine says it is poised to sign minerals deal with the US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump blames predecessor as US economy hit by tariff policies",
+      "headlines": [
+        "Trump blames predecessor as US economy hit by tariff policies"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Milestone’: Russia, North Korea begin first road bridge construction",
+      "headlines": [
+        "‘Milestone’: Russia, North Korea begin first road bridge construction"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
