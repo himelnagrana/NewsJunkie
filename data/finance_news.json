@@ -1276,5 +1276,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-05-01T06:33:13.865Z": [
+    {
+      "summary": "Trump tells business chiefs he needs 'little bit of time' as US economy shrinks",
+      "headlines": [
+        "Trump tells business chiefs he needs 'little bit of time' as US economy shrinks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

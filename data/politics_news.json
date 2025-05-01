@@ -11517,5 +11517,161 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-01T06:33:12.021Z": [
+    {
+      "summary": "US and Ukraine sign long-awaited natural resources deal",
+      "headlines": [
+        "US and Ukraine sign long-awaited natural resources deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israeli reservists speak out against Gaza war as pressure on Netanyahu grows",
+      "headlines": [
+        "Israeli reservists speak out against Gaza war as pressure on Netanyahu grows"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "'We don't care': A defiant China looks beyond Trump's America",
+      "headlines": [
+        "'We don't care': A defiant China looks beyond Trump's America"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump tells business chiefs he needs 'little bit of time' as US economy shrinks",
+      "headlines": [
+        "Trump tells business chiefs he needs 'little bit of time' as US economy shrinks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan army chief's Kashmir remarks cause anger in India",
+      "headlines": [
+        "Pakistan army chief's Kashmir remarks cause anger in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada election: One in six seats changed hands",
+      "headlines": [
+        "Canada election: One in six seats changed hands"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kamala Harris hits out at Trump in first major speech since losing election",
+      "headlines": [
+        "Kamala Harris hits out at Trump in first major speech since losing election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "North Korea: First road bridge to Russia 'significant' development",
+      "headlines": [
+        "North Korea: First road bridge to Russia 'significant' development"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US, Ukraine sign minerals deal pushed by Trump",
+      "headlines": [
+        "US, Ukraine sign minerals deal pushed by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Taiwan confident of US support under Trump, minister says",
+      "headlines": [
+        "Taiwan confident of US support under Trump, minister says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kashmir attack: How India might strike Pakistan – what history tells us",
+      "headlines": [
+        "Kashmir attack: How India might strike Pakistan – what history tells us"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Former South Korean President Yoon indicted for abuse of power",
+      "headlines": [
+        "Former South Korean President Yoon indicted for abuse of power"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,162",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,162"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rubio urges de-escalation in India, Pakistan calls amid soaring tensions",
+      "headlines": [
+        "Rubio urges de-escalation in India, Pakistan calls amid soaring tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

@@ -9429,5 +9429,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-01T06:33:11.377Z": [
+    {
+      "summary": "US and Ukraine sign long-awaited natural resources deal",
+      "headlines": [
+        "US and Ukraine sign long-awaited natural resources deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "'We don't care': A defiant China looks beyond Trump's America",
+      "headlines": [
+        "'We don't care': A defiant China looks beyond Trump's America"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tells business chiefs he needs 'little bit of time' as US economy shrinks",
+      "headlines": [
+        "Trump tells business chiefs he needs 'little bit of time' as US economy shrinks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Kamala Harris hits out at Trump in first major speech since losing election",
+      "headlines": [
+        "Kamala Harris hits out at Trump in first major speech since losing election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "North Korea: First road bridge to Russia 'significant' development",
+      "headlines": [
+        "North Korea: First road bridge to Russia 'significant' development"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US, Ukraine sign minerals deal pushed by Trump",
+      "headlines": [
+        "US, Ukraine sign minerals deal pushed by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Taiwan confident of US support under Trump, minister says",
+      "headlines": [
+        "Taiwan confident of US support under Trump, minister says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Former South Korean President Yoon indicted for abuse of power",
+      "headlines": [
+        "Former South Korean President Yoon indicted for abuse of power"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }
