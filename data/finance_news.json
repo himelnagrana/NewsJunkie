@@ -1289,5 +1289,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-01T18:32:00.720Z": [
+    {
+      "summary": "Xbox prices hiked worldwide amid tariff uncertainty",
+      "headlines": [
+        "Xbox prices hiked worldwide amid tariff uncertainty"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

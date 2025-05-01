@@ -508,5 +508,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-01T18:32:00.203Z": [
+    {
+      "summary": "FA bars transgender women from women's football",
+      "headlines": [
+        "FA bars transgender women from women's football"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

@@ -11673,5 +11673,51 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-01T18:31:59.160Z": [
+    {
+      "summary": "Trump confirms Mike Waltz will be replaced as national security adviser",
+      "headlines": [
+        "Trump confirms Mike Waltz will be replaced as national security adviser"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: If you were Australia PM how would you handle the US and China?",
+      "headlines": [
+        "Watch: If you were Australia PM how would you handle the US and China?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump says US kids might have 'two dolls instead of 30' due to tariffs",
+      "headlines": [
+        "Watch: Trump says US kids might have 'two dolls instead of 30' due to tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Fears of attack in Pakistan-administered Kashmir amid acute India tensions",
+      "headlines": [
+        "Fears of attack in Pakistan-administered Kashmir amid acute India tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
