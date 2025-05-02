@@ -11853,5 +11853,117 @@
       "sentiment": -5,
       "topic": "politics"
     }
+  ],
+  "2025-05-02T18:31:13.556Z": [
+    {
+      "summary": "Temu to stop selling goods from China directly to US customers",
+      "headlines": [
+        "Temu to stop selling goods from China directly to US customers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada's Carney offers strategic invite to King ahead of Trump meeting",
+      "headlines": [
+        "Canada's Carney offers strategic invite to King ahead of Trump meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump will rename Veterans Day to celebrate US victories in World Wars",
+      "headlines": [
+        "Trump will rename Veterans Day to celebrate US victories in World Wars"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs order to block funding to NPR and PBS",
+      "headlines": [
+        "Trump signs order to block funding to NPR and PBS"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump disliked Trudeau - why Carney may fare better",
+      "headlines": [
+        "Trump disliked Trudeau - why Carney may fare better"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada aims to assert sovereignty with King's visit, strength with Trump",
+      "headlines": [
+        "Canada aims to assert sovereignty with King's visit, strength with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs order to block funding to public radio",
+      "headlines": [
+        "Trump signs order to block funding to public radio"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump turns civil rights upside down in ‘biggest rollback’ since Reconstruction",
+      "headlines": [
+        "Trump turns civil rights upside down in ‘biggest rollback’ since Reconstruction"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia election 2025: Results, what polls say and what’s at stake?",
+      "headlines": [
+        "Australia election 2025: Results, what polls say and what’s at stake?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why does DRC want to end ex-President Kabila’s immunity for war crimes?",
+      "headlines": [
+        "Why does DRC want to end ex-President Kabila’s immunity for war crimes?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
