@@ -11719,5 +11719,139 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-05-02T06:32:43.414Z": [
+    {
+      "summary": "Talks or no talks: Who blinks first in US-China trade war?",
+      "headlines": [
+        "Talks or no talks: Who blinks first in US-China trade war?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "War in Ukraine not ending 'any time soon', Vance says",
+      "headlines": [
+        "War in Ukraine not ending 'any time soon', Vance says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump ousts Waltz as national security adviser and nominates him for UN post",
+      "headlines": [
+        "Trump ousts Waltz as national security adviser and nominates him for UN post"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump is looming over Australia's election",
+      "headlines": [
+        "Donald Trump is looming over Australia's election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Apple says most US-bound iPhones no longer made in China",
+      "headlines": [
+        "Apple says most US-bound iPhones no longer made in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Children fall ill in India 'after dead snake found in school meal'",
+      "headlines": [
+        "Children fall ill in India 'after dead snake found in school meal'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Businesses count costs as India and Bangladesh impose trade restrictions",
+      "headlines": [
+        "Businesses count costs as India and Bangladesh impose trade restrictions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China evaluates possible trade talks with US",
+      "headlines": [
+        "China evaluates possible trade talks with US"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China says it is ‘evaluating’ Trump administration’s outreach on tariffs",
+      "headlines": [
+        "China says it is ‘evaluating’ Trump administration’s outreach on tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "A ‘political prisoner’: US advocates rally for detained Georgetown scholar",
+      "headlines": [
+        "A ‘political prisoner’: US advocates rally for detained Georgetown scholar"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump replaces Mike Waltz with Marco Rubio as national security adviser",
+      "headlines": [
+        "Trump replaces Mike Waltz with Marco Rubio as national security adviser"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Syrian Druze leader condemns government over sectarian violence",
+      "headlines": [
+        "Syrian Druze leader condemns government over sectarian violence"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    }
   ]
 }

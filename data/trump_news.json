@@ -9554,5 +9554,106 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-02T06:32:42.701Z": [
+    {
+      "summary": "War in Ukraine not ending 'any time soon', Vance says",
+      "headlines": [
+        "War in Ukraine not ending 'any time soon', Vance says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump ousts Waltz as national security adviser and nominates him for UN post",
+      "headlines": [
+        "Trump ousts Waltz as national security adviser and nominates him for UN post"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump is looming over Australia's election",
+      "headlines": [
+        "Donald Trump is looming over Australia's election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Apple says most US-bound iPhones no longer made in China",
+      "headlines": [
+        "Apple says most US-bound iPhones no longer made in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "China evaluates possible trade talks with US",
+      "headlines": [
+        "China evaluates possible trade talks with US"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China says it is ‘evaluating’ Trump administration’s outreach on tariffs",
+      "headlines": [
+        "China says it is ‘evaluating’ Trump administration’s outreach on tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "A ‘political prisoner’: US advocates rally for detained Georgetown scholar",
+      "headlines": [
+        "A ‘political prisoner’: US advocates rally for detained Georgetown scholar"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump replaces Mike Waltz with Marco Rubio as national security adviser",
+      "headlines": [
+        "Trump replaces Mike Waltz with Marco Rubio as national security adviser"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Syrian Druze leader condemns government over sectarian violence",
+      "headlines": [
+        "Syrian Druze leader condemns government over sectarian violence"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }
