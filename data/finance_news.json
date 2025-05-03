@@ -1339,5 +1339,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-05-03T18:29:27.305Z": [
+    {
+      "summary": "Seven killed in South Sudan hospital and market bombing, charity says",
+      "headlines": [
+        "Seven killed in South Sudan hospital and market bombing, charity says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

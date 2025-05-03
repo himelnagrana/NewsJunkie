@@ -521,5 +521,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-03T18:29:26.849Z": [
+    {
+      "summary": "World Snooker Championship - Williams leads Trump in semi-final",
+      "headlines": [
+        "World Snooker Championship - Williams leads Trump in semi-final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

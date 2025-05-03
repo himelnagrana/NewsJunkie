@@ -12077,5 +12077,84 @@
       "sentiment": 3,
       "topic": "politics"
     }
+  ],
+  "2025-05-03T18:29:25.814Z": [
+    {
+      "summary": "'Trump was the game-changer': Three things to know about Australian election result",
+      "headlines": [
+        "'Trump was the game-changer': Three things to know about Australian election result"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Three things to know about the Australian election result",
+      "headlines": [
+        "Three things to know about the Australian election result"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "World Snooker Championship - Williams leads Trump in semi-final",
+      "headlines": [
+        "World Snooker Championship - Williams leads Trump in semi-final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia's center-left Labor Party win election overshadowed by Trump",
+      "headlines": [
+        "Australia's center-left Labor Party win election overshadowed by Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israeli attacks kill two more as Syria government reaches deal with Druze",
+      "headlines": [
+        "Israeli attacks kill two more as Syria government reaches deal with Druze"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan test-fires ballistic missile as tensions with India rise",
+      "headlines": [
+        "Pakistan test-fires ballistic missile as tensions with India rise"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Romania election 2025: Results, who’s standing and what’s at stake?",
+      "headlines": [
+        "Romania election 2025: Results, who’s standing and what’s at stake?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
