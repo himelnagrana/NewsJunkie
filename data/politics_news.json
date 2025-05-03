@@ -11965,5 +11965,117 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-05-03T06:29:53.149Z": [
+    {
+      "summary": "Gavin Newsom on why Democrats got 'crushed' by Trump",
+      "headlines": [
+        "Gavin Newsom on why Democrats got 'crushed' by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australians vote in election shaped by cost of living, housing concerns",
+      "headlines": [
+        "Australians vote in election shaped by cost of living, housing concerns"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India and Pakistan are in crisis again - here's how they de-escalated in the past",
+      "headlines": [
+        "India and Pakistan are in crisis again - here's how they de-escalated in the past"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Wall Street stocks bounce back from Trump tariff losses",
+      "headlines": [
+        "Wall Street stocks bounce back from Trump tariff losses"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "O'Sullivan loses to dominant Zhao as Williams reins in Trump",
+      "headlines": [
+        "O'Sullivan loses to dominant Zhao as Williams reins in Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Don’t see a major war with India, but have to be ready’: Pakistan ex-NSA",
+      "headlines": [
+        "‘Don’t see a major war with India, but have to be ready’: Pakistan ex-NSA"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,164",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,164"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump plans to cut 1,200 jobs from CIA, other US spy agencies: Report",
+      "headlines": [
+        "Trump plans to cut 1,200 jobs from CIA, other US spy agencies: Report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Singapore election a test for ruling party against rejuvenated opposition",
+      "headlines": [
+        "Singapore election a test for ruling party against rejuvenated opposition"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia’s election will show if PM Anthony Albanese has won back voters",
+      "headlines": [
+        "Australia’s election will show if PM Anthony Albanese has won back voters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    }
   ]
 }

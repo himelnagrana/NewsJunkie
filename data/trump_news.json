@@ -9745,5 +9745,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-03T06:29:52.637Z": [
+    {
+      "summary": "Gavin Newsom on why Democrats got 'crushed' by Trump",
+      "headlines": [
+        "Gavin Newsom on why Democrats got 'crushed' by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Wall Street stocks bounce back from Trump tariff losses",
+      "headlines": [
+        "Wall Street stocks bounce back from Trump tariff losses"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "O'Sullivan loses to dominant Zhao as Williams reins in Trump",
+      "headlines": [
+        "O'Sullivan loses to dominant Zhao as Williams reins in Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump plans to cut 1,200 jobs from CIA, other US spy agencies: Report",
+      "headlines": [
+        "Trump plans to cut 1,200 jobs from CIA, other US spy agencies: Report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
