@@ -267,5 +267,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-05-04T18:29:14.674Z": [
+    {
+      "summary": "Trump faces backlash after posting AI image dressed as pope",
+      "headlines": [
+        "Trump faces backlash after posting AI image dressed as pope"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

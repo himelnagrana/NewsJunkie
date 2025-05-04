@@ -9894,5 +9894,62 @@
       "sentiment": 4,
       "topic": "trump"
     }
+  ],
+  "2025-05-04T18:29:13.418Z": [
+    {
+      "summary": "Trump says he is not considering running for third term",
+      "headlines": [
+        "Trump says he is not considering running for third term"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "He wanted to be Australia's PM. But a 'Trump effect' thwarted Peter Dutton",
+      "headlines": [
+        "He wanted to be Australia's PM. But a 'Trump effect' thwarted Peter Dutton"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine claims it destroyed Russian fighter jet using seaborne drone",
+      "headlines": [
+        "Ukraine claims it destroyed Russian fighter jet using seaborne drone"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says ‘I don’t know’ when asked if he backs US due process rights",
+      "headlines": [
+        "Trump says ‘I don’t know’ when asked if he backs US due process rights"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump faces backlash after posting AI image dressed as pope",
+      "headlines": [
+        "Trump faces backlash after posting AI image dressed as pope"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -547,5 +547,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-04T18:29:15.208Z": [
+    {
+      "summary": "Watch World Snooker Championship final: Williams looks to fight back against Zhao",
+      "headlines": [
+        "Watch World Snooker Championship final: Williams looks to fight back against Zhao"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "sports"
+    }
   ]
 }
