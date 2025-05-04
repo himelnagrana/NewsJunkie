@@ -534,5 +534,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-04T06:31:01.116Z": [
+    {
+      "summary": "Williams defeats Trump in World Championship semi-final",
+      "headlines": [
+        "Williams defeats Trump in World Championship semi-final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

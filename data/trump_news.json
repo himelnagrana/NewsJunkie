@@ -9837,5 +9837,62 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-05-04T06:30:59.487Z": [
+    {
+      "summary": "Trump criticised after posting AI image of himself as Pope",
+      "headlines": [
+        "Trump criticised after posting AI image of himself as Pope"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Europe marks VE Day with Trump on its mind",
+      "headlines": [
+        "Europe marks VE Day with Trump on its mind"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Trump was the game-changer': Three things to know about the Australian election result",
+      "headlines": [
+        "'Trump was the game-changer': Three things to know about the Australian election result"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Williams defeats Trump in World Championship semi-final",
+      "headlines": [
+        "Williams defeats Trump in World Championship semi-final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Australia's center-left Labor Party wins election overshadowed by Trump",
+      "headlines": [
+        "Australia's center-left Labor Party wins election overshadowed by Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    }
   ]
 }

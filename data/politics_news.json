@@ -12156,5 +12156,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-04T06:31:00.055Z": [
+    {
+      "summary": "Australia's opposition left reeling after crushing election defeat",
+      "headlines": [
+        "Australia's opposition left reeling after crushing election defeat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump criticised after posting AI image of himself as Pope",
+      "headlines": [
+        "Trump criticised after posting AI image of himself as Pope"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Europe marks VE Day with Trump on its mind",
+      "headlines": [
+        "Europe marks VE Day with Trump on its mind"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Carney's election win will change direction of trade war",
+      "headlines": [
+        "How Carney's election win will change direction of trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Romania reruns controversial election after earlier vote annulled",
+      "headlines": [
+        "Romania reruns controversial election after earlier vote annulled"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Trump was the game-changer': Three things to know about the Australian election result",
+      "headlines": [
+        "'Trump was the game-changer': Three things to know about the Australian election result"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Williams defeats Trump in World Championship semi-final",
+      "headlines": [
+        "Williams defeats Trump in World Championship semi-final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia's center-left Labor Party wins election overshadowed by Trump",
+      "headlines": [
+        "Australia's center-left Labor Party wins election overshadowed by Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israelis protest for captives, against Netanyahu’s Gaza war expansion",
+      "headlines": [
+        "Israelis protest for captives, against Netanyahu’s Gaza war expansion"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
