@@ -9951,5 +9951,128 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-05T06:34:02.780Z": [
+    {
+      "summary": "Trump says he won't seek a third term",
+      "headlines": [
+        "Trump says he won't seek a third term"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump has 'no idea' who Australian election loser Peter Dutton is",
+      "headlines": [
+        "Trump has 'no idea' who Australian election loser Peter Dutton is"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "27 lives per kilometre: How Russia took record losses in Ukraine in 2024",
+      "headlines": [
+        "27 lives per kilometre: How Russia took record losses in Ukraine in 2024"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump orders reopening of notorious Alcatraz prison",
+      "headlines": [
+        "Trump orders reopening of notorious Alcatraz prison"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says non-US movies to be hit with 100% tariffs",
+      "headlines": [
+        "Trump says non-US movies to be hit with 100% tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Nine dead, one missing after tourist boats capsize in China",
+      "headlines": [
+        "Nine dead, one missing after tourist boats capsize in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he’s ordering the reopening of Alcatraz",
+      "headlines": [
+        "Trump says he’s ordering the reopening of Alcatraz"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Mexico’s Sheinbaum refused US troop offer out of fear of cartels",
+      "headlines": [
+        "Trump says Mexico’s Sheinbaum refused US troop offer out of fear of cartels"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he will put 100% tariff on all foreign films",
+      "headlines": [
+        "Trump says he will put 100% tariff on all foreign films"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin expresses ‘hope’ that nuclear weapons will not be needed in Ukraine",
+      "headlines": [
+        "Putin expresses ‘hope’ that nuclear weapons will not be needed in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "AI-generated image of Trump as pope is the latest White House controversy",
+      "headlines": [
+        "AI-generated image of Trump as pope is the latest White House controversy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

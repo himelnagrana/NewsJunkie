@@ -1352,5 +1352,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-05-05T06:34:05.171Z": [
+    {
+      "summary": "Trump says he will put 100% tariff on all foreign films",
+      "headlines": [
+        "Trump says he will put 100% tariff on all foreign films"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
