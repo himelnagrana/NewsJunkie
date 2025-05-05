@@ -10074,5 +10074,62 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-05-05T18:28:54.785Z": [
+    {
+      "summary": "How Russia took record loss of lives in Ukraine in 2024",
+      "headlines": [
+        "How Russia took record loss of lives in Ukraine in 2024"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia reports Ukrainian drone attack on Moscow ahead of May 9 events",
+      "headlines": [
+        "Russia reports Ukrainian drone attack on Moscow ahead of May 9 events"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump hails ‘productive’ call with Turkiye’s Erdogan as visits planned",
+      "headlines": [
+        "Trump hails ‘productive’ call with Turkiye’s Erdogan as visits planned"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Will Pahalgam attack prolong detention of Kashmiri political prisoners?",
+      "headlines": [
+        "Will Pahalgam attack prolong detention of Kashmiri political prisoners?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Scientific asylum’: How Europe is luring US researchers amid Trump fears",
+      "headlines": [
+        "‘Scientific asylum’: How Europe is luring US researchers amid Trump fears"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

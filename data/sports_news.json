@@ -560,5 +560,18 @@
       "sentiment": -1,
       "topic": "sports"
     }
+  ],
+  "2025-05-05T18:28:56.544Z": [
+    {
+      "summary": "Watch World Snooker Championship final: Zhao one frame from historic title",
+      "headlines": [
+        "Watch World Snooker Championship final: Zhao one frame from historic title"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
