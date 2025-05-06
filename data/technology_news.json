@@ -280,5 +280,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-05-06T06:33:02.568Z": [
+    {
+      "summary": "The people refusing to use AI",
+      "headlines": [
+        "The people refusing to use AI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }

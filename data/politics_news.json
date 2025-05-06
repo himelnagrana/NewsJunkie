@@ -12549,5 +12549,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-06T06:33:02.010Z": [
+    {
+      "summary": "India worried about Chinese 'dumping' as trade tensions with Trump escalate",
+      "headlines": [
+        "India worried about Chinese 'dumping' as trade tensions with Trump escalate"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "What Canada's Mark Carney can expect when he meets Trump",
+      "headlines": [
+        "What Canada's Mark Carney can expect when he meets Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump considering 100% tariffs on movies not made in the US",
+      "headlines": [
+        "Trump considering 100% tariffs on movies not made in the US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine drone attack shuts Moscow airports, says Russia",
+      "headlines": [
+        "Ukraine drone attack shuts Moscow airports, says Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trailblazer Zhao set to take snooker to 'another level' in China",
+      "headlines": [
+        "Trailblazer Zhao set to take snooker to 'another level' in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Netanyahu vows to escalate war with new plan to ‘conquer’ Gaza",
+      "headlines": [
+        "Netanyahu vows to escalate war with new plan to ‘conquer’ Gaza"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration bars Harvard from future research grants",
+      "headlines": [
+        "Trump administration bars Harvard from future research grants"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,167",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,167"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

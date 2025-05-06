@@ -573,5 +573,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-06T06:33:03.006Z": [
+    {
+      "summary": "Two riders die in British Supersport Championship race",
+      "headlines": [
+        "Two riders die in British Supersport Championship race"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "sports"
+    }
   ]
 }
