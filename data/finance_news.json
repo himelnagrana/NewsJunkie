@@ -1365,5 +1365,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-06T18:31:54.713Z": [
+    {
+      "summary": "India, UK agree ‘historic’ trade deal including tariff cuts",
+      "headlines": [
+        "India, UK agree ‘historic’ trade deal including tariff cuts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

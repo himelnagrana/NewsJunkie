@@ -10199,5 +10199,106 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-05-06T18:31:52.693Z": [
+    {
+      "summary": "Canada 'not for sale, ever', Carney warns as Trump touts benefits of becoming 51st US state",
+      "headlines": [
+        "Canada 'not for sale, ever', Carney warns as Trump touts benefits of becoming 51st US state"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Carney: 'Some places are never for sale'. Trump: 'Never say never'",
+      "headlines": [
+        "Carney: 'Some places are never for sale'. Trump: 'Never say never'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia accuses Ukraine of drone attack on Moscow days before WW2 parade",
+      "headlines": [
+        "Russia accuses Ukraine of drone attack on Moscow days before WW2 parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump wants to reopen Alcatraz as a prison - could it happen?",
+      "headlines": [
+        "Trump wants to reopen Alcatraz as a prison - could it happen?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump offers illegal immigrants $1,000 to 'self-deport'",
+      "headlines": [
+        "Trump offers illegal immigrants $1,000 to 'self-deport'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Houthis have 'capitulated' and US will stop attacking them",
+      "headlines": [
+        "Trump says Houthis have 'capitulated' and US will stop attacking them"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada 'won't be for sale, ever,' Carney tells Trump",
+      "headlines": [
+        "Canada 'won't be for sale, ever,' Carney tells Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israel strikes Yemen’s Sanaa; Trump says US will stop bombing Houthis",
+      "headlines": [
+        "Israel strikes Yemen’s Sanaa; Trump says US will stop bombing Houthis"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens tariffs on foreign films: Who could be hit?",
+      "headlines": [
+        "Trump threatens tariffs on foreign films: Who could be hit?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
