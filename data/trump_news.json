@@ -10300,5 +10300,117 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-05-07T06:33:24.472Z": [
+    {
+      "summary": "Trump appeasing Putin with pressure on Ukraine, Biden tells BBC",
+      "headlines": [
+        "Trump appeasing Putin with pressure on Ukraine, Biden tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and China to start talks over trade war this week",
+      "headlines": [
+        "US and China to start talks over trade war this week"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Carney tells Trump that Canada 'won't be for sale, ever'",
+      "headlines": [
+        "Carney tells Trump that Canada 'won't be for sale, ever'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'A transformational president' - how Carney flattered Trump to defuse 51st state row",
+      "headlines": [
+        "'A transformational president' - how Carney flattered Trump to defuse 51st state row"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US Supreme Court allows Trump to enforce transgender military ban",
+      "headlines": [
+        "US Supreme Court allows Trump to enforce transgender military ban"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Joe Biden on Trump: 'What president ever talks like that? That's not who we are'",
+      "headlines": [
+        "Joe Biden on Trump: 'What president ever talks like that? That's not who we are'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Faisal Islam: Trump tariffs may have helped drive UK-India trade deal",
+      "headlines": [
+        "Faisal Islam: Trump tariffs may have helped drive UK-India trade deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Merz's messy path to power raises questions for future government",
+      "headlines": [
+        "Merz's messy path to power raises questions for future government"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says bombing of Yemen to stop as Oman confirms US-Houthi ceasefire",
+      "headlines": [
+        "Trump says bombing of Yemen to stop as Oman confirms US-Houthi ceasefire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Key takeaways from Donald Trump’s meeting with Canada’s PM Mark Carney",
+      "headlines": [
+        "Key takeaways from Donald Trump’s meeting with Canada’s PM Mark Carney"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
