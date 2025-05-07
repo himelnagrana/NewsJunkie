@@ -12973,5 +12973,139 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-07T18:31:37.279Z": [
+    {
+      "summary": "What happens next between India and Pakistan? Four key questions",
+      "headlines": [
+        "What happens next between India and Pakistan? Four key questions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Fed holds interest rates despite Trump pressure",
+      "headlines": [
+        "Fed holds interest rates despite Trump pressure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: How tensions escalated between India and Pakistan",
+      "headlines": [
+        "Watch: How tensions escalated between India and Pakistan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Militant group chief says relatives killed in India strike",
+      "headlines": [
+        "Militant group chief says relatives killed in India strike"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Biden: Withdrawing from 2024 race earlier 'wouldn't have mattered'",
+      "headlines": [
+        "Biden: Withdrawing from 2024 race earlier 'wouldn't have mattered'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'World Cup can be incentive for Russia to end war', says Trump",
+      "headlines": [
+        "'World Cup can be incentive for Russia to end war', says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'World Cup can be incentive for Russia to end war'",
+      "headlines": [
+        "'World Cup can be incentive for Russia to end war'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India captain Rohit retires from Test duty",
+      "headlines": [
+        "India captain Rohit retires from Test duty"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan vows response to ‘act of war’ after India attacks ‘kill 31’",
+      "headlines": [
+        "Pakistan vows response to ‘act of war’ after India attacks ‘kill 31’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Information war: Are India and Pakistan telling the truth about attacks?",
+      "headlines": [
+        "Information war: Are India and Pakistan telling the truth about attacks?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can the international community pull India, Pakistan from the brink of war?",
+      "headlines": [
+        "Can the international community pull India, Pakistan from the brink of war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mali’s military government suspends political parties’ activities",
+      "headlines": [
+        "Mali’s military government suspends political parties’ activities"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

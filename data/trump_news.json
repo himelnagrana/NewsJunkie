@@ -10412,5 +10412,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-07T18:31:36.769Z": [
+    {
+      "summary": "Fed holds interest rates despite Trump pressure",
+      "headlines": [
+        "Fed holds interest rates despite Trump pressure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'World Cup can be incentive for Russia to end war', says Trump",
+      "headlines": [
+        "'World Cup can be incentive for Russia to end war', says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'World Cup can be incentive for Russia to end war'",
+      "headlines": [
+        "'World Cup can be incentive for Russia to end war'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Mali’s military government suspends political parties’ activities",
+      "headlines": [
+        "Mali’s military government suspends political parties’ activities"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

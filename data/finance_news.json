@@ -1378,5 +1378,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-07T18:31:38.884Z": [
+    {
+      "summary": "Israeli strikes on Gaza restaurant and market kill 33, health ministry says",
+      "headlines": [
+        "Israeli strikes on Gaza restaurant and market kill 33, health ministry says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    }
   ]
 }
