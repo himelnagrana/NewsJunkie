@@ -10458,5 +10458,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-08T06:33:57.998Z": [
+    {
+      "summary": "Pope Francis backed him when he took on a president. Now he's voting in the conclave",
+      "headlines": [
+        "Pope Francis backed him when he took on a president. Now he's voting in the conclave"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: US and China are ready to talk tariffs - who will blink first?",
+      "headlines": [
+        "Watch: US and China are ready to talk tariffs - who will blink first?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What do Canadians make of Carney's meeting with Trump?",
+      "headlines": [
+        "What do Canadians make of Carney's meeting with Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump nominates doctor and influencer for US surgeon general",
+      "headlines": [
+        "Trump nominates doctor and influencer for US surgeon general"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Australia Greens leader loses seat, cites 'Trump effect'",
+      "headlines": [
+        "Australia Greens leader loses seat, cites 'Trump effect'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he’ll decide on name of ‘Persian Gulf’ on Middle East visit",
+      "headlines": [
+        "Trump says he’ll decide on name of ‘Persian Gulf’ on Middle East visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to announce trade deal with UK on Thursday, reports say",
+      "headlines": [
+        "Trump to announce trade deal with UK on Thursday, reports say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

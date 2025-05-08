@@ -13107,5 +13107,128 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-08T06:33:58.584Z": [
+    {
+      "summary": "Pope Francis backed him when he took on a president. Now he's voting in the conclave",
+      "headlines": [
+        "Pope Francis backed him when he took on a president. Now he's voting in the conclave"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: US and China are ready to talk tariffs - who will blink first?",
+      "headlines": [
+        "Watch: US and China are ready to talk tariffs - who will blink first?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'It felt like the sky turned red', says witness to India strike in Pakistan",
+      "headlines": [
+        "'It felt like the sky turned red', says witness to India strike in Pakistan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "What do Canadians make of Carney's meeting with Trump?",
+      "headlines": [
+        "What do Canadians make of Carney's meeting with Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Peter Dutton's heartland lost him Australia's election",
+      "headlines": [
+        "How Peter Dutton's heartland lost him Australia's election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump nominates doctor and influencer for US surgeon general",
+      "headlines": [
+        "Trump nominates doctor and influencer for US surgeon general"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia Greens leader loses seat, cites 'Trump effect'",
+      "headlines": [
+        "Australia Greens leader loses seat, cites 'Trump effect'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he’ll decide on name of ‘Persian Gulf’ on Middle East visit",
+      "headlines": [
+        "Trump says he’ll decide on name of ‘Persian Gulf’ on Middle East visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Don’t want war’: Kashmiri towns caught in deadly India-Pakistan crossfire",
+      "headlines": [
+        "‘Don’t want war’: Kashmiri towns caught in deadly India-Pakistan crossfire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What are India and Pakistan’s military and nuclear capabilities?",
+      "headlines": [
+        "What are India and Pakistan’s military and nuclear capabilities?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to announce trade deal with UK on Thursday, reports say",
+      "headlines": [
+        "Trump to announce trade deal with UK on Thursday, reports say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
