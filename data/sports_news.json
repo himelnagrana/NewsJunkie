@@ -586,5 +586,18 @@
       "sentiment": -3,
       "topic": "sports"
     }
+  ],
+  "2025-05-08T18:32:23.185Z": [
+    {
+      "summary": "Championship play-off semi-final: Build-up as Bristol City host Sheff Utd",
+      "headlines": [
+        "Championship play-off semi-final: Build-up as Bristol City host Sheff Utd"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

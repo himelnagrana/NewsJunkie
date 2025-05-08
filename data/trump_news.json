@@ -10537,5 +10537,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-08T18:32:21.306Z": [
+    {
+      "summary": "US removes tariffs on UK steel and aluminium, and cuts car rate to 10%, as Trump and Starmer unveil deal",
+      "headlines": [
+        "US removes tariffs on UK steel and aluminium, and cuts car rate to 10%, as Trump and Starmer unveil deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine labels Russian ceasefire a farce after reports of hundreds of violations",
+      "headlines": [
+        "Ukraine labels Russian ceasefire a farce after reports of hundreds of violations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump deal is a significant achievement for Starmer",
+      "headlines": [
+        "Trump deal is a significant achievement for Starmer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }

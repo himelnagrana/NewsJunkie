@@ -13230,5 +13230,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-08T18:32:21.968Z": [
+    {
+      "summary": "US removes tariffs on UK steel and aluminium, and cuts car rate to 10%, as Trump and Starmer unveil deal",
+      "headlines": [
+        "US removes tariffs on UK steel and aluminium, and cuts car rate to 10%, as Trump and Starmer unveil deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "India and Pakistan blame each other for escalating military tensions",
+      "headlines": [
+        "India and Pakistan blame each other for escalating military tensions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine labels Russian ceasefire a farce after reports of hundreds of violations",
+      "headlines": [
+        "Ukraine labels Russian ceasefire a farce after reports of hundreds of violations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sotheby's halts Buddha jewels auction after India threat",
+      "headlines": [
+        "Sotheby's halts Buddha jewels auction after India threat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump deal is a significant achievement for Starmer",
+      "headlines": [
+        "Trump deal is a significant achievement for Starmer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Moment white smoke billows, signalling a new pope's election",
+      "headlines": [
+        "Watch: Moment white smoke billows, signalling a new pope's election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan again vows retaliation against India amid escalating exchanges",
+      "headlines": [
+        "Pakistan again vows retaliation against India amid escalating exchanges"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Have India and Pakistan started a drone war?",
+      "headlines": [
+        "Have India and Pakistan started a drone war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China’s Xi vows to stand with friend Putin against ‘hegemonic bullying’",
+      "headlines": [
+        "China’s Xi vows to stand with friend Putin against ‘hegemonic bullying’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }

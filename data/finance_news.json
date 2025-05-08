@@ -1391,5 +1391,29 @@
       "sentiment": -4,
       "topic": "finance"
     }
+  ],
+  "2025-05-08T18:32:23.818Z": [
+    {
+      "summary": "What is in the UK-US tariff deal?",
+      "headlines": [
+        "What is in the UK-US tariff deal?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "US-UK trade deal: How are Trump’s global tariff talks shaping up?",
+      "headlines": [
+        "US-UK trade deal: How are Trump’s global tariff talks shaping up?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
