@@ -10572,5 +10572,73 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-05-09T06:33:35.247Z": [
+    {
+      "summary": "Moon dust 'rarer than gold' arrives in UK from China",
+      "headlines": [
+        "Moon dust 'rarer than gold' arrives in UK from China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and UK agree deal slashing Trump tariffs on cars and metals",
+      "headlines": [
+        "US and UK agree deal slashing Trump tariffs on cars and metals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump hints tariffs on China may drop as talks set to begin",
+      "headlines": [
+        "Trump hints tariffs on China may drop as talks set to begin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls election of first American pope a 'great honour'",
+      "headlines": [
+        "Trump calls election of first American pope a 'great honour'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "BBC correspondent questions Trump over US beef exports",
+      "headlines": [
+        "BBC correspondent questions Trump over US beef exports"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump names Fox News host as top Washington DC prosecutor",
+      "headlines": [
+        "Trump names Fox News host as top Washington DC prosecutor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }

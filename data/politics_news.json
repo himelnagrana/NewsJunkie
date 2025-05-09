@@ -13331,5 +13331,117 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-05-09T06:33:35.822Z": [
+    {
+      "summary": "Moon dust 'rarer than gold' arrives in UK from China",
+      "headlines": [
+        "Moon dust 'rarer than gold' arrives in UK from China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US and UK agree deal slashing Trump tariffs on cars and metals",
+      "headlines": [
+        "US and UK agree deal slashing Trump tariffs on cars and metals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump hints tariffs on China may drop as talks set to begin",
+      "headlines": [
+        "Trump hints tariffs on China may drop as talks set to begin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls election of first American pope a 'great honour'",
+      "headlines": [
+        "Trump calls election of first American pope a 'great honour'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "BBC correspondent questions Trump over US beef exports",
+      "headlines": [
+        "BBC correspondent questions Trump over US beef exports"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Behind the smiles: Three things to watch as Xi meets Putin",
+      "headlines": [
+        "Behind the smiles: Three things to watch as Xi meets Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump names Fox News host as top Washington DC prosecutor",
+      "headlines": [
+        "Trump names Fox News host as top Washington DC prosecutor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Missiles in skies’: Panic in Indian frontier cities as war clouds gather",
+      "headlines": [
+        "‘Missiles in skies’: Panic in Indian frontier cities as war clouds gather"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Inside Muridke: Did India hit a ‘terror base’ or a mosque?",
+      "headlines": [
+        "Inside Muridke: Did India hit a ‘terror base’ or a mosque?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,170",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,170"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

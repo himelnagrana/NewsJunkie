@@ -599,5 +599,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-09T06:33:36.909Z": [
+    {
+      "summary": "Maresca excited to face 'football dad' in Conference League final",
+      "headlines": [
+        "Maresca excited to face 'football dad' in Conference League final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "sports"
+    }
   ]
 }
