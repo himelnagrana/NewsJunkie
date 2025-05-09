@@ -1415,5 +1415,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-09T18:31:55.359Z": [
+    {
+      "summary": "Trump proposes 80% China tariff ahead of trade talks",
+      "headlines": [
+        "Trump proposes 80% China tariff ahead of trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

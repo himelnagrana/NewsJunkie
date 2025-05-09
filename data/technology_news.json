@@ -293,5 +293,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-05-09T18:31:54.183Z": [
+    {
+      "summary": "India-Pakistan conflict may be first test for Chinese military tech",
+      "headlines": [
+        "India-Pakistan conflict may be first test for Chinese military tech"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }

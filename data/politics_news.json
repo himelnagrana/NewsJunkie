@@ -13443,5 +13443,150 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-09T18:31:53.485Z": [
+    {
+      "summary": "Steve Rosenberg at Victory Day parade: Russia wants to be seen as unbeatable",
+      "headlines": [
+        "Steve Rosenberg at Victory Day parade: Russia wants to be seen as unbeatable"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "The first drone war opens a new chapter in India-Pakistan conflict",
+      "headlines": [
+        "The first drone war opens a new chapter in India-Pakistan conflict"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump proposes 80% China tariff ahead of trade talks",
+      "headlines": [
+        "Trump proposes 80% China tariff ahead of trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump misspeaks and calls toy firm Mattel a country",
+      "headlines": [
+        "Watch: Trump misspeaks and calls toy firm Mattel a country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What Pope's speedy election says about Church's priorities",
+      "headlines": [
+        "What Pope's speedy election says about Church's priorities"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How can India and Pakistan find a way to de-escalate?",
+      "headlines": [
+        "How can India and Pakistan find a way to de-escalate?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Xi shows he wants to be close to Putin - but not too close",
+      "headlines": [
+        "Xi shows he wants to be close to Putin - but not too close"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hormone-treated beef will not enter UK after US deal, says government",
+      "headlines": [
+        "Hormone-treated beef will not enter UK after US deal, says government"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Slippery slope’: How will Pakistan strike India as tensions soar?",
+      "headlines": [
+        "‘Slippery slope’: How will Pakistan strike India as tensions soar?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘I will run right over you’: New FEMA head issues warning to Trump critics",
+      "headlines": [
+        "‘I will run right over you’: New FEMA head issues warning to Trump critics"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who are the armed groups India accuses Pakistan of backing?",
+      "headlines": [
+        "Who are the armed groups India accuses Pakistan of backing?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Vladimir Putin: After 25 years in power, what next for Russia’s president?",
+      "headlines": [
+        "Vladimir Putin: After 25 years in power, what next for Russia’s president?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Moscow and Kyiv trade accusations as Russia holds Victory Day spectacle",
+      "headlines": [
+        "Moscow and Kyiv trade accusations as Russia holds Victory Day spectacle"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }
