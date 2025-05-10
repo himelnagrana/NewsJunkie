@@ -13678,5 +13678,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-10T18:28:31.466Z": [
+    {
+      "summary": "India accuses Pakistan of 'repeated violations' after ceasefire deal",
+      "headlines": [
+        "India accuses Pakistan of 'repeated violations' after ceasefire deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "European leaders pressure Russia over 30-day Ukraine ceasefire",
+      "headlines": [
+        "European leaders pressure Russia over 30-day Ukraine ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration considers suspending habeas corpus",
+      "headlines": [
+        "Trump administration considers suspending habeas corpus"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls for 20,000 new officers to aid deportations",
+      "headlines": [
+        "Trump calls for 20,000 new officers to aid deportations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India accuses Pakistan of violating ceasefire agreement",
+      "headlines": [
+        "India accuses Pakistan of violating ceasefire agreement"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Explosions heard, drones spotted after India, Pakistan agree to ceasefire",
+      "headlines": [
+        "Explosions heard, drones spotted after India, Pakistan agree to ceasefire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "India and Pakistan agree ceasefire: What does it mean?",
+      "headlines": [
+        "India and Pakistan agree ceasefire: What does it mean?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "European leaders in Ukraine’s Kyiv press Russia for 30-day ceasefire",
+      "headlines": [
+        "European leaders in Ukraine’s Kyiv press Russia for 30-day ceasefire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Explosions, violations reported after India and Pakistan agree ceasefire",
+      "headlines": [
+        "Explosions, violations reported after India and Pakistan agree ceasefire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China, US hold talks on tariffs in first bid to de-escalate trade war",
+      "headlines": [
+        "China, US hold talks on tariffs in first bid to de-escalate trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Netanyahu’s war choices fuel discord in Israel over captives’ fate in Gaza",
+      "headlines": [
+        "Netanyahu’s war choices fuel discord in Israel over captives’ fate in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }

@@ -10754,5 +10754,62 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-05-10T18:28:30.955Z": [
+    {
+      "summary": "European leaders pressure Russia over 30-day Ukraine ceasefire",
+      "headlines": [
+        "European leaders pressure Russia over 30-day Ukraine ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration considers suspending habeas corpus",
+      "headlines": [
+        "Trump administration considers suspending habeas corpus"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls for 20,000 new officers to aid deportations",
+      "headlines": [
+        "Trump calls for 20,000 new officers to aid deportations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "European leaders in Ukraine’s Kyiv press Russia for 30-day ceasefire",
+      "headlines": [
+        "European leaders in Ukraine’s Kyiv press Russia for 30-day ceasefire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China, US hold talks on tariffs in first bid to de-escalate trade war",
+      "headlines": [
+        "China, US hold talks on tariffs in first bid to de-escalate trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

@@ -319,5 +319,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-05-10T18:28:32.019Z": [
+    {
+      "summary": "Pope Leo identifies AI as main challenge in first meeting with cardinals",
+      "headlines": [
+        "Pope Leo identifies AI as main challenge in first meeting with cardinals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }
