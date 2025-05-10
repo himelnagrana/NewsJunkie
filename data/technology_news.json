@@ -306,5 +306,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-05-10T06:29:29.783Z": [
+    {
+      "summary": "Elton John and Dua Lipa seek protection from AI",
+      "headlines": [
+        "Elton John and Dua Lipa seek protection from AI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

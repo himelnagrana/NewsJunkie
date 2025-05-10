@@ -10719,5 +10719,40 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-05-10T06:29:28.672Z": [
+    {
+      "summary": "The US and China are finally talking. Why now?",
+      "headlines": [
+        "The US and China are finally talking. Why now?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Starmer joins world leaders in Ukraine in bid to urge Russia to agree ceasefire",
+      "headlines": [
+        "Starmer joins world leaders in Ukraine in bid to urge Russia to agree ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine and Hungary each expel diplomats in tit-for-tat espionage row",
+      "headlines": [
+        "Ukraine and Hungary each expel diplomats in tit-for-tat espionage row"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
