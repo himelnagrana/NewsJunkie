@@ -612,5 +612,18 @@
       "sentiment": 3,
       "topic": "sports"
     }
+  ],
+  "2025-05-11T18:28:50.631Z": [
+    {
+      "summary": "Truist Championship: Lowry leads by one with McIlroy six back",
+      "headlines": [
+        "Truist Championship: Lowry leads by one with McIlroy six back"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

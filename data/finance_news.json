@@ -1441,5 +1441,18 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-05-11T18:28:51.164Z": [
+    {
+      "summary": "‘A deep love’: The Nabatieh Monday Market rises after Israeli destruction",
+      "headlines": [
+        "‘A deep love’: The Nabatieh Monday Market rises after Israeli destruction"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

@@ -10824,5 +10824,62 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-05-11T18:28:48.802Z": [
+    {
+      "summary": "Zelensky offers to meet Putin after Trump demands Ukraine hold direct talks with Russia",
+      "headlines": [
+        "Zelensky offers to meet Putin after Trump demands Ukraine hold direct talks with Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "What Trump does next on Ukraine is key - and he could go either way",
+      "headlines": [
+        "What Trump does next on Ukraine is key - and he could go either way"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US officials emerge from China trade talks touting a 'deal'",
+      "headlines": [
+        "US officials emerge from China trade talks touting a 'deal'"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine welcomes Russia’s offer for direct talks, insists on truce first",
+      "headlines": [
+        "Ukraine welcomes Russia’s offer for direct talks, insists on truce first"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is due process different for undocumented immigrants as Trump claims?",
+      "headlines": [
+        "Is due process different for undocumented immigrants as Trump claims?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
