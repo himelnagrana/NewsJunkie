@@ -13801,5 +13801,84 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-05-11T06:30:45.917Z": [
+    {
+      "summary": "Putin calls for 'direct talks' with Ukraine as European leaders demand ceasefire",
+      "headlines": [
+        "Putin calls for 'direct talks' with Ukraine as European leaders demand ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "India and Pakistan accuse each other of 'violations' after ceasefire deal",
+      "headlines": [
+        "India and Pakistan accuse each other of 'violations' after ceasefire deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Along the Canada border, small-town America feels sting of Trump's trade war",
+      "headlines": [
+        "Along the Canada border, small-town America feels sting of Trump's trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Relief, hope in India and Pakistan as ceasefire holds",
+      "headlines": [
+        "Relief, hope in India and Pakistan as ceasefire holds"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin proposes direct Russia-Ukraine talks in Istanbul on May 15",
+      "headlines": [
+        "Putin proposes direct Russia-Ukraine talks in Istanbul on May 15"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Anger in Israel as Netanyahu’s war choices threaten captives’ fate in Gaza",
+      "headlines": [
+        "Anger in Israel as Netanyahu’s war choices threaten captives’ fate in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israeli protesters in Tel Aviv demand an end to war on Gaza",
+      "headlines": [
+        "Israeli protesters in Tel Aviv demand an end to war on Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    }
   ]
 }

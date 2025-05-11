@@ -10811,5 +10811,18 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-05-11T06:30:45.186Z": [
+    {
+      "summary": "Putin calls for 'direct talks' with Ukraine as European leaders demand ceasefire",
+      "headlines": [
+        "Putin calls for 'direct talks' with Ukraine as European leaders demand ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
