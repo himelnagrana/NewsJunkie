@@ -1478,5 +1478,29 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-05-12T18:32:38.207Z": [
+    {
+      "summary": "Trump says US-China relations 'reset' as markets surge on tariff pause",
+      "headlines": [
+        "Trump says US-China relations 'reset' as markets surge on tariff pause"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "What does the US-China tariff deal mean?",
+      "headlines": [
+        "What does the US-China tariff deal mean?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

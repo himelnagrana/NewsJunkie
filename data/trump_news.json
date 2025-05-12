@@ -10949,5 +10949,139 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-05-12T18:32:36.012Z": [
+    {
+      "summary": "Trump says US-China relations 'reset' as markets surge on tariff pause",
+      "headlines": [
+        "Trump says US-China relations 'reset' as markets surge on tariff pause"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump defends plan to use Qatari luxury jet for Air Force One",
+      "headlines": [
+        "Trump defends plan to use Qatari luxury jet for Air Force One"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China has come to the table - but this fight is far from over",
+      "headlines": [
+        "China has come to the table - but this fight is far from over"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "First group of white South Africans lands in US under Trump refugee plan",
+      "headlines": [
+        "First group of white South Africans lands in US under Trump refugee plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Six Bulgarians jailed in UK for spying for Russia",
+      "headlines": [
+        "Six Bulgarians jailed in UK for spying for Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Sara Duterte: The 'alpha' VP who picked a fight with Philippines' president",
+      "headlines": [
+        "Sara Duterte: The 'alpha' VP who picked a fight with Philippines' president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Poland says it has evidence Russia was behind huge 2024 shopping centre fire",
+      "headlines": [
+        "Poland says it has evidence Russia was behind huge 2024 shopping centre fire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump, optimistic on truce with China, says tariffs won't go back to 145%",
+      "headlines": [
+        "Trump, optimistic on truce with China, says tariffs won't go back to 145%"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China and US agree to ease tariffs for 90 days as trade war talks extended",
+      "headlines": [
+        "China and US agree to ease tariffs for 90 days as trade war talks extended"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump visits Saudi Arabia, Qatar, UAE: What to know",
+      "headlines": [
+        "Trump visits Saudi Arabia, Qatar, UAE: What to know"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ex-UK home secretary: Trump unlikely to yield peace between Ukraine, Russia",
+      "headlines": [
+        "Ex-UK home secretary: Trump unlikely to yield peace between Ukraine, Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine says Russia launches barrage of drones amid calls for truce, talks",
+      "headlines": [
+        "Ukraine says Russia launches barrage of drones amid calls for truce, talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

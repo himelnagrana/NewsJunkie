@@ -14104,5 +14104,161 @@
       "sentiment": 2,
       "topic": "politics"
     }
+  ],
+  "2025-05-12T18:32:36.572Z": [
+    {
+      "summary": "Trump says US-China relations 'reset' as markets surge on tariff pause",
+      "headlines": [
+        "Trump says US-China relations 'reset' as markets surge on tariff pause"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump defends plan to use Qatari luxury jet for Air Force One",
+      "headlines": [
+        "Trump defends plan to use Qatari luxury jet for Air Force One"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China has come to the table - but this fight is far from over",
+      "headlines": [
+        "China has come to the table - but this fight is far from over"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "First group of white South Africans lands in US under Trump refugee plan",
+      "headlines": [
+        "First group of white South Africans lands in US under Trump refugee plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Six Bulgarians jailed in UK for spying for Russia",
+      "headlines": [
+        "Six Bulgarians jailed in UK for spying for Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Whether there is war or ceasefire, our children will not come back'",
+      "headlines": [
+        "'Whether there is war or ceasefire, our children will not come back'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sara Duterte: The 'alpha' VP who picked a fight with Philippines' president",
+      "headlines": [
+        "Sara Duterte: The 'alpha' VP who picked a fight with Philippines' president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Poland says it has evidence Russia was behind huge 2024 shopping centre fire",
+      "headlines": [
+        "Poland says it has evidence Russia was behind huge 2024 shopping centre fire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump, optimistic on truce with China, says tariffs won't go back to 145%",
+      "headlines": [
+        "Trump, optimistic on truce with China, says tariffs won't go back to 145%"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China and US agree to ease tariffs for 90 days as trade war talks extended",
+      "headlines": [
+        "China and US agree to ease tariffs for 90 days as trade war talks extended"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump visits Saudi Arabia, Qatar, UAE: What to know",
+      "headlines": [
+        "Trump visits Saudi Arabia, Qatar, UAE: What to know"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ex-UK home secretary: Trump unlikely to yield peace between Ukraine, Russia",
+      "headlines": [
+        "Ex-UK home secretary: Trump unlikely to yield peace between Ukraine, Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine says Russia launches barrage of drones amid calls for truce, talks",
+      "headlines": [
+        "Ukraine says Russia launches barrage of drones amid calls for truce, talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK veterans allege war crimes by British forces in Afghanistan, Iraq",
+      "headlines": [
+        "UK veterans allege war crimes by British forces in Afghanistan, Iraq"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    }
   ]
 }
