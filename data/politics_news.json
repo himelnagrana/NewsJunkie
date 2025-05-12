@@ -13981,5 +13981,128 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-12T06:34:28.504Z": [
+    {
+      "summary": "Ex-UK Special Forces soldiers break silence on 'war crimes' by colleagues",
+      "headlines": [
+        "Ex-UK Special Forces soldiers break silence on 'war crimes' by colleagues"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelensky challenges Putin to meet him after Trump demands Ukraine-Russia talks",
+      "headlines": [
+        "Zelensky challenges Putin to meet him after Trump demands Ukraine-Russia talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US says 'deal' reached with China after trade talks",
+      "headlines": [
+        "US says 'deal' reached with China after trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Poland accuses Russia of arson over 2024 shopping centre fire",
+      "headlines": [
+        "Poland accuses Russia of arson over 2024 shopping centre fire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Power, survival and revenge: What's at stake in the Philippines election?",
+      "headlines": [
+        "Power, survival and revenge: What's at stake in the Philippines election?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump heads to Saudi Arabia eyeing more investment in US",
+      "headlines": [
+        "Trump heads to Saudi Arabia eyeing more investment in US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ex-UK Special Forces break silence on 'war crimes' by colleagues",
+      "headlines": [
+        "Ex-UK Special Forces break silence on 'war crimes' by colleagues"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How close are US and China to a trade deal?",
+      "headlines": [
+        "How close are US and China to a trade deal?"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "As India, Pakistan claim win, Kashmiris ask: ‘Who suffered the most?’",
+      "headlines": [
+        "As India, Pakistan claim win, Kashmiris ask: ‘Who suffered the most?’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelenskyy hopes for truce, says he’ll meet Putin ‘personally’ in Turkiye",
+      "headlines": [
+        "Zelenskyy hopes for truce, says he’ll meet Putin ‘personally’ in Turkiye"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US, China hail ‘substantial progress’ made in tariff talks in Geneva",
+      "headlines": [
+        "US, China hail ‘substantial progress’ made in tariff talks in Geneva"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }
