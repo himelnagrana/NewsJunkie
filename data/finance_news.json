@@ -1502,5 +1502,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-13T06:33:27.972Z": [
+    {
+      "summary": "Bullying only leads to self-isolation, Xi says after US-China tariff truce",
+      "headlines": [
+        "Bullying only leads to self-isolation, Xi says after US-China tariff truce"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

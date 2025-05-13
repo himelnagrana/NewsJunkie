@@ -14260,5 +14260,172 @@
       "sentiment": -5,
       "topic": "politics"
     }
+  ],
+  "2025-05-13T06:33:26.157Z": [
+    {
+      "summary": "Israel denying food to Gaza is 'weapon of war', UN Palestinian refugee agency head tells BBC",
+      "headlines": [
+        "Israel denying food to Gaza is 'weapon of war', UN Palestinian refugee agency head tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to arrive in Saudi Arabia for first major trip of second term",
+      "headlines": [
+        "Trump to arrive in Saudi Arabia for first major trip of second term"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Dozens of white South Africans arrive in US under Trump refugee plan",
+      "headlines": [
+        "Dozens of white South Africans arrive in US under Trump refugee plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia responsible for downing of MH17, UN body rules",
+      "headlines": [
+        "Russia responsible for downing of MH17, UN body rules"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia's Liberal Party names first female leader after historic election loss",
+      "headlines": [
+        "Australia's Liberal Party names first female leader after historic election loss"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Faisal Islam: US and China deal is significant, but not an end to the trade war",
+      "headlines": [
+        "Faisal Islam: US and China deal is significant, but not an end to the trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump's mediation offer on Kashmir puts India in a tight spot",
+      "headlines": [
+        "Trump's mediation offer on Kashmir puts India in a tight spot"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Markets rise as US and China agree to slash tariffs",
+      "headlines": [
+        "Markets rise as US and China agree to slash tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Poland says Russia recruited arsonists for Warsaw fire on social media",
+      "headlines": [
+        "Poland says Russia recruited arsonists for Warsaw fire on social media"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Liberal Party names first female leader after historic Australia election loss",
+      "headlines": [
+        "Liberal Party names first female leader after historic Australia election loss"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "US President Trump embarks on three-day visit to Saudi Arabia, Qatar, UAE",
+      "headlines": [
+        "US President Trump embarks on three-day visit to Saudi Arabia, Qatar, UAE"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,174",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,174"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration welcomes 59 white South Africans as refugees to the US",
+      "headlines": [
+        "Trump administration welcomes 59 white South Africans as refugees to the US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs executive order to bring down prescription drug prices",
+      "headlines": [
+        "Trump signs executive order to bring down prescription drug prices"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump updates: US hints at talks with China’s Xi, lifting Syria sanctions",
+      "headlines": [
+        "Trump updates: US hints at talks with China’s Xi, lifting Syria sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

@@ -11083,5 +11083,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-13T06:33:25.530Z": [
+    {
+      "summary": "Trump to arrive in Saudi Arabia for first major trip of second term",
+      "headlines": [
+        "Trump to arrive in Saudi Arabia for first major trip of second term"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Dozens of white South Africans arrive in US under Trump refugee plan",
+      "headlines": [
+        "Dozens of white South Africans arrive in US under Trump refugee plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia responsible for downing of MH17, UN body rules",
+      "headlines": [
+        "Russia responsible for downing of MH17, UN body rules"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Faisal Islam: US and China deal is significant, but not an end to the trade war",
+      "headlines": [
+        "Faisal Islam: US and China deal is significant, but not an end to the trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Markets rise as US and China agree to slash tariffs",
+      "headlines": [
+        "Markets rise as US and China agree to slash tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Poland says Russia recruited arsonists for Warsaw fire on social media",
+      "headlines": [
+        "Poland says Russia recruited arsonists for Warsaw fire on social media"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US President Trump embarks on three-day visit to Saudi Arabia, Qatar, UAE",
+      "headlines": [
+        "US President Trump embarks on three-day visit to Saudi Arabia, Qatar, UAE"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration welcomes 59 white South Africans as refugees to the US",
+      "headlines": [
+        "Trump administration welcomes 59 white South Africans as refugees to the US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump signs executive order to bring down prescription drug prices",
+      "headlines": [
+        "Trump signs executive order to bring down prescription drug prices"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump updates: US hints at talks with China’s Xi, lifting Syria sanctions",
+      "headlines": [
+        "Trump updates: US hints at talks with China’s Xi, lifting Syria sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
