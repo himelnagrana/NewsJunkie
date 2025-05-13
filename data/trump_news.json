@@ -11195,5 +11195,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-13T18:31:45.966Z": [
+    {
+      "summary": "Trump says US-Saudi bond 'more powerful than ever', after signing $142bn arms deal",
+      "headlines": [
+        "Trump says US-Saudi bond 'more powerful than ever', after signing $142bn arms deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is President Trump allowed to accept $400m luxury plane?",
+      "headlines": [
+        "Is President Trump allowed to accept $400m luxury plane?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: President Trump arrives in Saudi Arabia",
+      "headlines": [
+        "Watch: President Trump arrives in Saudi Arabia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces plan to lift sanctions on Syria",
+      "headlines": [
+        "Trump announces plan to lift sanctions on Syria"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he will remove US sanctions on Syria",
+      "headlines": [
+        "Trump says he will remove US sanctions on Syria"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US to lift Syria sanctions, ending years of Washington’s policy",
+      "headlines": [
+        "Trump says US to lift Syria sanctions, ending years of Washington’s policy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and Saudi Arabia agree to $142bn weapons sale during Trump visit",
+      "headlines": [
+        "US and Saudi Arabia agree to $142bn weapons sale during Trump visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why did the US and China slash tariffs – and what’s next?",
+      "headlines": [
+        "Why did the US and China slash tariffs – and what’s next?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

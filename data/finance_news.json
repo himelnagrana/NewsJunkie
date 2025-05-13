@@ -1515,5 +1515,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-05-13T18:31:48.022Z": [
+    {
+      "summary": "'I can get my Christmas tree order' - firms give sigh of relief at tariff truce",
+      "headlines": [
+        "'I can get my Christmas tree order' - firms give sigh of relief at tariff truce"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Will the US-China tariff deal avert a possible global trade war?",
+      "headlines": [
+        "Will the US-China tariff deal avert a possible global trade war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

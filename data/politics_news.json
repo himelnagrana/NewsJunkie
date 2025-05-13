@@ -14427,5 +14427,161 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-13T18:31:46.488Z": [
+    {
+      "summary": "Trump says US-Saudi bond 'more powerful than ever', after signing $142bn arms deal",
+      "headlines": [
+        "Trump says US-Saudi bond 'more powerful than ever', after signing $142bn arms deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada's Carney unveils economy-focused cabinet amid US trade war",
+      "headlines": [
+        "Canada's Carney unveils economy-focused cabinet amid US trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelensky vows to 'do everything' to ensure direct talks with Putin in Turkey",
+      "headlines": [
+        "Zelensky vows to 'do everything' to ensure direct talks with Putin in Turkey"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is President Trump allowed to accept $400m luxury plane?",
+      "headlines": [
+        "Is President Trump allowed to accept $400m luxury plane?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: President Trump arrives in Saudi Arabia",
+      "headlines": [
+        "Watch: President Trump arrives in Saudi Arabia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces plan to lift sanctions on Syria",
+      "headlines": [
+        "Trump announces plan to lift sanctions on Syria"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he will remove US sanctions on Syria",
+      "headlines": [
+        "Trump says he will remove US sanctions on Syria"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says US to lift Syria sanctions, ending years of Washington’s policy",
+      "headlines": [
+        "Trump says US to lift Syria sanctions, ending years of Washington’s policy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India expels Pakistan diplomat as war of words simmers in place of fighting",
+      "headlines": [
+        "India expels Pakistan diplomat as war of words simmers in place of fighting"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "US and Saudi Arabia agree to $142bn weapons sale during Trump visit",
+      "headlines": [
+        "US and Saudi Arabia agree to $142bn weapons sale during Trump visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelenskyy will have face-to-face talks in Istanbul, but will Putin?",
+      "headlines": [
+        "Zelenskyy will have face-to-face talks in Istanbul, but will Putin?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Drones, gold, and threats: Sudan’s war raises regional tensions",
+      "headlines": [
+        "Drones, gold, and threats: Sudan’s war raises regional tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why did the US and China slash tariffs – and what’s next?",
+      "headlines": [
+        "Why did the US and China slash tariffs – and what’s next?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Will the US-China tariff deal avert a possible global trade war?",
+      "headlines": [
+        "Will the US-China tariff deal avert a possible global trade war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
