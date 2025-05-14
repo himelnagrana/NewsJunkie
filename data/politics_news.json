@@ -14583,5 +14583,194 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-05-14T06:33:27.400Z": [
+    {
+      "summary": "Trump to meet interim Syrian president as Damascus celebrates lifting of sanctions",
+      "headlines": [
+        "Trump to meet interim Syrian president as Damascus celebrates lifting of sanctions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "How real is the risk of nuclear war between India and Pakistan?",
+      "headlines": [
+        "How real is the risk of nuclear war between India and Pakistan?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Go back to Ukraine': War refugees complain of abuse in Poland",
+      "headlines": [
+        "'Go back to Ukraine': War refugees complain of abuse in Poland"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Uruguay's José Mujica, world's 'poorest president', dies",
+      "headlines": [
+        "Uruguay's José Mujica, world's 'poorest president', dies"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada's Carney unveils cabinet of familiar and fresh faces amid US trade war",
+      "headlines": [
+        "Canada's Carney unveils cabinet of familiar and fresh faces amid US trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Biden aide hits back at book alleging cover-up of his 'deterioration'",
+      "headlines": [
+        "Biden aide hits back at book alleging cover-up of his 'deterioration'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "The heartbeat of a billion: What Virat Kohli meant to India",
+      "headlines": [
+        "The heartbeat of a billion: What Virat Kohli meant to India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "El Chapo & Deputy Jesus - why Kenya's president has so many nicknames",
+      "headlines": [
+        "El Chapo & Deputy Jesus - why Kenya's president has so many nicknames"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Trump allowed to accept $400m luxury plane as a gift?",
+      "headlines": [
+        "Is Trump allowed to accept $400m luxury plane as a gift?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump heads to Qatar, the US’ indispensable diplomatic fixer",
+      "headlines": [
+        "Trump heads to Qatar, the US’ indispensable diplomatic fixer"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel pounds Gaza, kills 60; Russia, China, UK reject US-Israeli aid plan",
+      "headlines": [
+        "Israel pounds Gaza, kills 60; Russia, China, UK reject US-Israeli aid plan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "What did India and Pakistan gain – and lose – in their military standoff?",
+      "headlines": [
+        "What did India and Pakistan gain – and lose – in their military standoff?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to lift US sanctions on Syria; Qatar next stop on regional visit",
+      "headlines": [
+        "Trump to lift US sanctions on Syria; Qatar next stop on regional visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration cuts another $450m in Harvard grants in escalating row",
+      "headlines": [
+        "Trump administration cuts another $450m in Harvard grants in escalating row"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel ‘normalisation’ takes backseat as Trump announces Saudi deals",
+      "headlines": [
+        "Israel ‘normalisation’ takes backseat as Trump announces Saudi deals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Uruguay’s Jose Mujica, a president famed for sparse living, dead at 89",
+      "headlines": [
+        "Uruguay’s Jose Mujica, a president famed for sparse living, dead at 89"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why has Trump given white South Africans refugee status?",
+      "headlines": [
+        "Why has Trump given white South Africans refugee status?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
