@@ -14772,5 +14772,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-14T18:30:43.324Z": [
+    {
+      "summary": "Trump attends Qatari state dinner after announcing deals on second day of Middle East tour",
+      "headlines": [
+        "Trump attends Qatari state dinner after announcing deals on second day of Middle East tour"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mark Carney says Canadians are not 'impressed' by UK's invite to Trump",
+      "headlines": [
+        "Mark Carney says Canadians are not 'impressed' by UK's invite to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK hits back at claims US tariff deal bad for China",
+      "headlines": [
+        "UK hits back at claims US tariff deal bad for China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump receives lavish welcome in Qatar after meeting Syrian leader",
+      "headlines": [
+        "Trump receives lavish welcome in Qatar after meeting Syrian leader"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kremlin declines to say if Putin will meet Ukraine’s Zelenskyy in Istanbul",
+      "headlines": [
+        "Kremlin declines to say if Putin will meet Ukraine’s Zelenskyy in Istanbul"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Did the US flinch first in tariff war with China?",
+      "headlines": [
+        "Did the US flinch first in tariff war with China?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump meets Syria’s al-Sharaa, eyes normalisation of ties with Damascus",
+      "headlines": [
+        "Trump meets Syria’s al-Sharaa, eyes normalisation of ties with Damascus"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK neo-Nazis convicted of planning mosque, synagogue ‘race war’ attack",
+      "headlines": [
+        "UK neo-Nazis convicted of planning mosque, synagogue ‘race war’ attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }

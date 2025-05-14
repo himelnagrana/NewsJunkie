@@ -1539,5 +1539,29 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-05-14T18:30:44.818Z": [
+    {
+      "summary": "UK hits back at claims US tariff deal bad for China",
+      "headlines": [
+        "UK hits back at claims US tariff deal bad for China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    },
+    {
+      "summary": "Did the US flinch first in tariff war with China?",
+      "headlines": [
+        "Did the US flinch first in tariff war with China?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
