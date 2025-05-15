@@ -14974,5 +14974,150 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-15T18:32:44.673Z": [
+    {
+      "summary": "US has 'low expectation' of breakthrough in Ukraine peace talks, Rubio says",
+      "headlines": [
+        "US has 'low expectation' of breakthrough in Ukraine peace talks, Rubio says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump: Nothing's going to happen until Putin and I get together",
+      "headlines": [
+        "Trump: Nothing's going to happen until Putin and I get together"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India disputes Trump claim it is ready to charge US 'no tariffs'",
+      "headlines": [
+        "India disputes Trump claim it is ready to charge US 'no tariffs'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'I'm overjoyed to be back': Syrians face daunting rebuild after years of war",
+      "headlines": [
+        "'I'm overjoyed to be back': Syrians face daunting rebuild after years of war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelensky: 'We are ready to meet' with Russia",
+      "headlines": [
+        "Zelensky: 'We are ready to meet' with Russia"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump touts strong relations, 1.4Tn AI investment in UAE state visit",
+      "headlines": [
+        "Trump touts strong relations, 1.4Tn AI investment in UAE state visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Updates: Ahead of Istanbul talks, Zelenskyy says Russia does not want peace",
+      "headlines": [
+        "Updates: Ahead of Istanbul talks, Zelenskyy says Russia does not want peace"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Could EU tariffs against Russia bring a ceasefire for Ukraine?",
+      "headlines": [
+        "Could EU tariffs against Russia bring a ceasefire for Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India and Pakistan trade accusations of nuclear weapons mismanagement",
+      "headlines": [
+        "India and Pakistan trade accusations of nuclear weapons mismanagement"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says US close to nuclear deal with Iran, but key gaps remain",
+      "headlines": [
+        "Trump says US close to nuclear deal with Iran, but key gaps remain"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What have US President Donald Trump’s tariff policies achieved?",
+      "headlines": [
+        "What have US President Donald Trump’s tariff policies achieved?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia grabs a bit more of Ukraine as it heads into peace talks",
+      "headlines": [
+        "Russia grabs a bit more of Ukraine as it heads into peace talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Africa’s Ramaphosa to meet Trump in US next week amid rising tensions",
+      "headlines": [
+        "South Africa’s Ramaphosa to meet Trump in US next week amid rising tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

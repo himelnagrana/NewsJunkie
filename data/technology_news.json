@@ -356,5 +356,18 @@
       "sentiment": -1,
       "topic": "technology"
     }
+  ],
+  "2025-05-15T18:32:45.233Z": [
+    {
+      "summary": "Trump touts strong relations, 1.4Tn AI investment in UAE state visit",
+      "headlines": [
+        "Trump touts strong relations, 1.4Tn AI investment in UAE state visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

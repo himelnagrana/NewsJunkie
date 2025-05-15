@@ -1563,5 +1563,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-05-15T18:32:46.115Z": [
+    {
+      "summary": "Trump touts strong relations, 1.4Tn AI investment in UAE state visit",
+      "headlines": [
+        "Trump touts strong relations, 1.4Tn AI investment in UAE state visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "What have US President Donald Trump’s tariff policies achieved?",
+      "headlines": [
+        "What have US President Donald Trump’s tariff policies achieved?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

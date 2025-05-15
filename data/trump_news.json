@@ -11588,5 +11588,128 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-15T18:32:44.150Z": [
+    {
+      "summary": "US has 'low expectation' of breakthrough in Ukraine peace talks, Rubio says",
+      "headlines": [
+        "US has 'low expectation' of breakthrough in Ukraine peace talks, Rubio says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump: Nothing's going to happen until Putin and I get together",
+      "headlines": [
+        "Trump: Nothing's going to happen until Putin and I get together"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "India disputes Trump claim it is ready to charge US 'no tariffs'",
+      "headlines": [
+        "India disputes Trump claim it is ready to charge US 'no tariffs'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Zelensky: 'We are ready to meet' with Russia",
+      "headlines": [
+        "Zelensky: 'We are ready to meet' with Russia"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump touts strong relations, 1.4Tn AI investment in UAE state visit",
+      "headlines": [
+        "Trump touts strong relations, 1.4Tn AI investment in UAE state visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Updates: Ahead of Istanbul talks, Zelenskyy says Russia does not want peace",
+      "headlines": [
+        "Updates: Ahead of Istanbul talks, Zelenskyy says Russia does not want peace"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Could EU tariffs against Russia bring a ceasefire for Ukraine?",
+      "headlines": [
+        "Could EU tariffs against Russia bring a ceasefire for Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US close to nuclear deal with Iran, but key gaps remain",
+      "headlines": [
+        "Trump says US close to nuclear deal with Iran, but key gaps remain"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What have US President Donald Trump’s tariff policies achieved?",
+      "headlines": [
+        "What have US President Donald Trump’s tariff policies achieved?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia grabs a bit more of Ukraine as it heads into peace talks",
+      "headlines": [
+        "Russia grabs a bit more of Ukraine as it heads into peace talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Africa’s Ramaphosa to meet Trump in US next week amid rising tensions",
+      "headlines": [
+        "South Africa’s Ramaphosa to meet Trump in US next week amid rising tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

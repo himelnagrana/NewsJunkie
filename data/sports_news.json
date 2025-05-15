@@ -662,5 +662,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-15T18:32:45.661Z": [
+    {
+      "summary": "American Gerard holds two-shot lead at PGA Championship as later starters head out",
+      "headlines": [
+        "American Gerard holds two-shot lead at PGA Championship as later starters head out"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
