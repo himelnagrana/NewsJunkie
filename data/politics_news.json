@@ -14862,5 +14862,117 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-05-15T06:33:46.157Z": [
+    {
+      "summary": "Why India could not stop IMF bailout to Pakistan",
+      "headlines": [
+        "Why India could not stop IMF bailout to Pakistan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia says Putin not due to attend peace talks with Ukraine in Turkey today",
+      "headlines": [
+        "Russia says Putin not due to attend peace talks with Ukraine in Turkey today"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Do Afrikaners want to take Trump up on his South African refugee offer?",
+      "headlines": [
+        "Do Afrikaners want to take Trump up on his South African refugee offer?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Beginning of the end? Ukraine's front-line soldiers eye Russia talks with hope",
+      "headlines": [
+        "Beginning of the end? Ukraine's front-line soldiers eye Russia talks with hope"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump reshapes Middle East alliances with dealmaking trip",
+      "headlines": [
+        "Trump reshapes Middle East alliances with dealmaking trip"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "After multibillion-dollar deals in Qatar, Trump to head to UAE",
+      "headlines": [
+        "After multibillion-dollar deals in Qatar, Trump to head to UAE"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s Vladimir Putin not on list to attend Ukraine talks in Turkiye",
+      "headlines": [
+        "Russia’s Vladimir Putin not on list to attend Ukraine talks in Turkiye"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ben & Jerry’s cofounder arrested at US Senate after protesting war in Gaza",
+      "headlines": [
+        "Ben & Jerry’s cofounder arrested at US Senate after protesting war in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pezeshkian says Iran will ‘not bow’ to bullying from Trump",
+      "headlines": [
+        "Pezeshkian says Iran will ‘not bow’ to bullying from Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,176",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,176"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

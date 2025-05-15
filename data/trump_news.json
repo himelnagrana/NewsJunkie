@@ -11498,5 +11498,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-15T06:33:45.639Z": [
+    {
+      "summary": "Russia says Putin not due to attend peace talks with Ukraine in Turkey today",
+      "headlines": [
+        "Russia says Putin not due to attend peace talks with Ukraine in Turkey today"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Do Afrikaners want to take Trump up on his South African refugee offer?",
+      "headlines": [
+        "Do Afrikaners want to take Trump up on his South African refugee offer?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Beginning of the end? Ukraine's front-line soldiers eye Russia talks with hope",
+      "headlines": [
+        "Beginning of the end? Ukraine's front-line soldiers eye Russia talks with hope"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump reshapes Middle East alliances with dealmaking trip",
+      "headlines": [
+        "Trump reshapes Middle East alliances with dealmaking trip"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "After multibillion-dollar deals in Qatar, Trump to head to UAE",
+      "headlines": [
+        "After multibillion-dollar deals in Qatar, Trump to head to UAE"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia’s Vladimir Putin not on list to attend Ukraine talks in Turkiye",
+      "headlines": [
+        "Russia’s Vladimir Putin not on list to attend Ukraine talks in Turkiye"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Pezeshkian says Iran will ‘not bow’ to bullying from Trump",
+      "headlines": [
+        "Pezeshkian says Iran will ‘not bow’ to bullying from Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Key takeaways from day two of Donald Trump’s Middle East tour in Qatar",
+      "headlines": [
+        "Key takeaways from day two of Donald Trump’s Middle East tour in Qatar"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

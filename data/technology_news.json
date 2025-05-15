@@ -332,5 +332,29 @@
       "sentiment": -1,
       "topic": "technology"
     }
+  ],
+  "2025-05-15T06:33:46.655Z": [
+    {
+      "summary": "UK tech tycoon Mike Lynch's yacht was toppled by 'extreme wind', report says",
+      "headlines": [
+        "UK tech tycoon Mike Lynch's yacht was toppled by 'extreme wind', report says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    },
+    {
+      "summary": "In Taiwan, AI boom prompts doubts about ditching nuclear power",
+      "headlines": [
+        "In Taiwan, AI boom prompts doubts about ditching nuclear power"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }
