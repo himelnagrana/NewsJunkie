@@ -369,5 +369,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-05-16T18:32:03.715Z": [
+    {
+      "summary": "The camera tech propelling shows like Adolescence",
+      "headlines": [
+        "The camera tech propelling shows like Adolescence"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "technology"
+    }
   ]
 }

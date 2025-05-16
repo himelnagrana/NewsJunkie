@@ -1587,5 +1587,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-16T18:32:05.065Z": [
+    {
+      "summary": "Five House Republicans stall Trump's 'big, beautiful' tax bill",
+      "headlines": [
+        "Five House Republicans stall Trump's 'big, beautiful' tax bill"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

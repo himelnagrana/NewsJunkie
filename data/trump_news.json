@@ -11801,5 +11801,84 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-05-16T18:32:02.285Z": [
+    {
+      "summary": "Ukraine and Russia far apart in direct talks, but prisoner swap agreed",
+      "headlines": [
+        "Ukraine and Russia far apart in direct talks, but prisoner swap agreed"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Melania Trump statue goes missing in Slovenia",
+      "headlines": [
+        "Melania Trump statue goes missing in Slovenia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia, Ukraine agree prisoner swap as talks end without major breakthrough",
+      "headlines": [
+        "Russia, Ukraine agree prisoner swap as talks end without major breakthrough"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls on Iran to ‘move quickly’ on nuclear proposal",
+      "headlines": [
+        "Trump calls on Iran to ‘move quickly’ on nuclear proposal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Has India offered Trump zero tariffs? What we know and why it matters",
+      "headlines": [
+        "Has India offered Trump zero tariffs? What we know and why it matters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Was ex-FBI chief Comey’s ’86 47′ post calling for Trump assassination?",
+      "headlines": [
+        "Was ex-FBI chief Comey’s ’86 47′ post calling for Trump assassination?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Istanbul talks highlight Turkiye’s balancing act between Russia and Ukraine",
+      "headlines": [
+        "Istanbul talks highlight Turkiye’s balancing act between Russia and Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }
