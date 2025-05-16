@@ -15119,5 +15119,117 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-16T06:33:53.619Z": [
+    {
+      "summary": "US top diplomat Rubio heads to Istanbul for Ukraine peace talks",
+      "headlines": [
+        "US top diplomat Rubio heads to Istanbul for Ukraine peace talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ex-FBI boss James Comey investigated for seashell photo seen as threat to Trump",
+      "headlines": [
+        "Ex-FBI boss James Comey investigated for seashell photo seen as threat to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "NYU withholds diploma of graduate who condemned Gaza war",
+      "headlines": [
+        "NYU withholds diploma of graduate who condemned Gaza war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "How India and Pakistan share one of the world's most dangerous borders",
+      "headlines": [
+        "How India and Pakistan share one of the world's most dangerous borders"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is there a genocide of white South Africans as Trump claims?",
+      "headlines": [
+        "Is there a genocide of white South Africans as Trump claims?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Should judges be able to block Trump on birthright citizenship?",
+      "headlines": [
+        "Watch: Should judges be able to block Trump on birthright citizenship?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump’s political capital is critical at home and abroad",
+      "headlines": [
+        "Trump’s political capital is critical at home and abroad"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs more business deals in UAE on final leg of Middle East tour",
+      "headlines": [
+        "Trump signs more business deals in UAE on final leg of Middle East tour"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine’s Zelenskyy sends delegation for Russia talks after Putin no-show",
+      "headlines": [
+        "Ukraine’s Zelenskyy sends delegation for Russia talks after Putin no-show"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump hails growing ties with UAE on last leg of Gulf tour",
+      "headlines": [
+        "Trump hails growing ties with UAE on last leg of Gulf tour"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }

@@ -11711,5 +11711,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-16T06:33:53.083Z": [
+    {
+      "summary": "US top diplomat Rubio heads to Istanbul for Ukraine peace talks",
+      "headlines": [
+        "US top diplomat Rubio heads to Istanbul for Ukraine peace talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ex-FBI boss James Comey investigated for seashell photo seen as threat to Trump",
+      "headlines": [
+        "Ex-FBI boss James Comey investigated for seashell photo seen as threat to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is there a genocide of white South Africans as Trump claims?",
+      "headlines": [
+        "Is there a genocide of white South Africans as Trump claims?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Should judges be able to block Trump on birthright citizenship?",
+      "headlines": [
+        "Watch: Should judges be able to block Trump on birthright citizenship?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump’s political capital is critical at home and abroad",
+      "headlines": [
+        "Trump’s political capital is critical at home and abroad"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump signs more business deals in UAE on final leg of Middle East tour",
+      "headlines": [
+        "Trump signs more business deals in UAE on final leg of Middle East tour"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine’s Zelenskyy sends delegation for Russia talks after Putin no-show",
+      "headlines": [
+        "Ukraine’s Zelenskyy sends delegation for Russia talks after Putin no-show"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump hails growing ties with UAE on last leg of Gulf tour",
+      "headlines": [
+        "Trump hails growing ties with UAE on last leg of Gulf tour"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }
