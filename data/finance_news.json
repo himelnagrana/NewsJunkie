@@ -1600,5 +1600,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-05-17T06:30:36.030Z": [
+    {
+      "summary": "Four obstacles for Republican rebels in Trump's 'big, beautiful' tax bill",
+      "headlines": [
+        "Four obstacles for Republican rebels in Trump's 'big, beautiful' tax bill"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    }
   ]
 }

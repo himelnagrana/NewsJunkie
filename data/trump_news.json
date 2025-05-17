@@ -11880,5 +11880,84 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-05-17T06:30:34.015Z": [
+    {
+      "summary": "Nine reported killed in Russian strike on civilian bus in Ukraine",
+      "headlines": [
+        "Nine reported killed in Russian strike on civilian bus in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ex-FBI boss interviewed by Secret Service over Trump seashell post",
+      "headlines": [
+        "Ex-FBI boss interviewed by Secret Service over Trump seashell post"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia jails Australian man for fighting alongside Ukraine",
+      "headlines": [
+        "Russia jails Australian man for fighting alongside Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Whiplash week of diplomacy leaves Ukraine much where it started",
+      "headlines": [
+        "Whiplash week of diplomacy leaves Ukraine much where it started"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Moody’s strips US government of top credit rating",
+      "headlines": [
+        "Moody’s strips US government of top credit rating"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘I cannot stand by’: Former ambassador denounces Ukraine shift under Trump",
+      "headlines": [
+        "‘I cannot stand by’: Former ambassador denounces Ukraine shift under Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Five key takeaways from US President Donald Trump’s Middle East trip",
+      "headlines": [
+        "Five key takeaways from US President Donald Trump’s Middle East trip"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
