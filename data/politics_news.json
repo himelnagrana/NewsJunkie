@@ -15444,5 +15444,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-17T18:29:59.021Z": [
+    {
+      "summary": "Trump says he will call Putin on Monday to discuss stopping Ukraine 'bloodbath'",
+      "headlines": [
+        "Trump says he will call Putin on Monday to discuss stopping Ukraine 'bloodbath'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he will call Putin, Zelenskyy to discuss Ukraine ‘bloodbath’",
+      "headlines": [
+        "Trump says he will call Putin, Zelenskyy to discuss Ukraine ‘bloodbath’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran’s leaders slam Trump for ‘disgraceful’ remarks during Middle East tour",
+      "headlines": [
+        "Iran’s leaders slam Trump for ‘disgraceful’ remarks during Middle East tour"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Libyan ministers resign as protesters call for government to step down",
+      "headlines": [
+        "Libyan ministers resign as protesters call for government to step down"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Poland presidential election 2025: Polls, results, contenders",
+      "headlines": [
+        "Poland presidential election 2025: Polls, results, contenders"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Seven European nations urge Israel to ‘reverse its current policy’ on Gaza",
+      "headlines": [
+        "Seven European nations urge Israel to ‘reverse its current policy’ on Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
