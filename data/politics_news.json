@@ -15512,5 +15512,40 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-18T06:31:58.065Z": [
+    {
+      "summary": "Trump says he will call Putin to discuss stopping Ukraine 'bloodbath'",
+      "headlines": [
+        "Trump says he will call Putin to discuss stopping Ukraine 'bloodbath'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Four days that took India and Pakistan to the brink",
+      "headlines": [
+        "Four days that took India and Pakistan to the brink"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Fight back’: Pedro Pascal urges Cannes to resist US political pressure",
+      "headlines": [
+        "‘Fight back’: Pedro Pascal urges Cannes to resist US political pressure"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }

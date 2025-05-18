@@ -12016,5 +12016,29 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-18T06:31:57.326Z": [
+    {
+      "summary": "Trump says he will call Putin to discuss stopping Ukraine 'bloodbath'",
+      "headlines": [
+        "Trump says he will call Putin to discuss stopping Ukraine 'bloodbath'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Fight back’: Pedro Pascal urges Cannes to resist US political pressure",
+      "headlines": [
+        "‘Fight back’: Pedro Pascal urges Cannes to resist US political pressure"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

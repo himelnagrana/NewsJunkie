@@ -675,5 +675,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-18T06:31:59.556Z": [
+    {
+      "summary": "Sensational Scheffler seizes control of US PGA Championship",
+      "headlines": [
+        "Sensational Scheffler seizes control of US PGA Championship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
