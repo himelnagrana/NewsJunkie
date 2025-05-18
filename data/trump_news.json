@@ -12040,5 +12040,40 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-05-18T18:29:45.316Z": [
+    {
+      "summary": "Russia launched war's largest drone attack ahead of Putin-Trump call, Ukraine says",
+      "headlines": [
+        "Russia launched war's largest drone attack ahead of Putin-Trump call, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Elton John brands UK government 'losers' over AI copyright plans",
+      "headlines": [
+        "Elton John brands UK government 'losers' over AI copyright plans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "EU, UK leaders to speak with Trump before his Putin call as Ukraine hit",
+      "headlines": [
+        "EU, UK leaders to speak with Trump before his Putin call as Ukraine hit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -15547,5 +15547,62 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-05-18T18:29:45.939Z": [
+    {
+      "summary": "Russia launched war's largest drone attack ahead of Putin-Trump call, Ukraine says",
+      "headlines": [
+        "Russia launched war's largest drone attack ahead of Putin-Trump call, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Elton John brands UK government 'losers' over AI copyright plans",
+      "headlines": [
+        "Elton John brands UK government 'losers' over AI copyright plans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pro-EU Nicusor Dan on course to beat hard-right rival in Romania election",
+      "headlines": [
+        "Pro-EU Nicusor Dan on course to beat hard-right rival in Romania election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU, UK leaders to speak with Trump before his Putin call as Ukraine hit",
+      "headlines": [
+        "EU, UK leaders to speak with Trump before his Putin call as Ukraine hit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Poland votes in tight presidential election",
+      "headlines": [
+        "Poland votes in tight presidential election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

@@ -382,5 +382,29 @@
       "sentiment": 2,
       "topic": "technology"
     }
+  ],
+  "2025-05-18T18:29:46.559Z": [
+    {
+      "summary": "Elton John brands UK government 'losers' over AI copyright plans",
+      "headlines": [
+        "Elton John brands UK government 'losers' over AI copyright plans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    },
+    {
+      "summary": "Could AI help elderly people and refugees reconstruct unrecorded pasts?",
+      "headlines": [
+        "Could AI help elderly people and refugees reconstruct unrecorded pasts?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "technology"
+    }
   ]
 }

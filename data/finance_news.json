@@ -1626,5 +1626,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-18T18:29:47.642Z": [
+    {
+      "summary": "What one of America's most lively sporting events says about the economy",
+      "headlines": [
+        "What one of America's most lively sporting events says about the economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }
