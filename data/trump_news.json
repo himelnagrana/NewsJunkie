@@ -12075,5 +12075,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-19T06:34:56.052Z": [
+    {
+      "summary": "'Breakthrough' in UK-EU talks, says government, as Starmer hosts summit in London",
+      "headlines": [
+        "'Breakthrough' in UK-EU talks, says government, as Starmer hosts summit in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Former US President Joe Biden diagnosed with ‘aggressive’ prostate cancer",
+      "headlines": [
+        "Former US President Joe Biden diagnosed with ‘aggressive’ prostate cancer"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "EU, UK leaders speak with Trump before his Putin call as Ukraine hit",
+      "headlines": [
+        "EU, UK leaders speak with Trump before his Putin call as Ukraine hit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

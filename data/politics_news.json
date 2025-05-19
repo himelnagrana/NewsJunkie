@@ -15604,5 +15604,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-19T06:34:56.543Z": [
+    {
+      "summary": "Joe Biden diagnosed with 'aggressive' prostate cancer",
+      "headlines": [
+        "Joe Biden diagnosed with 'aggressive' prostate cancer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Breakthrough' in UK-EU talks, says government, as Starmer hosts summit in London",
+      "headlines": [
+        "'Breakthrough' in UK-EU talks, says government, as Starmer hosts summit in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Portugal PM's party wins snap election but falls short of majority",
+      "headlines": [
+        "Portugal PM's party wins snap election but falls short of majority"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Former US President Joe Biden diagnosed with ‘aggressive’ prostate cancer",
+      "headlines": [
+        "Former US President Joe Biden diagnosed with ‘aggressive’ prostate cancer"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pro-EU candidate Nicusor Dan defeats hard-right rival in Romania election",
+      "headlines": [
+        "Pro-EU candidate Nicusor Dan defeats hard-right rival in Romania election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU, UK leaders speak with Trump before his Putin call as Ukraine hit",
+      "headlines": [
+        "EU, UK leaders speak with Trump before his Putin call as Ukraine hit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Portuguese PM’s party set to win general election, fall short of majority",
+      "headlines": [
+        "Portuguese PM’s party set to win general election, fall short of majority"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    }
   ]
 }

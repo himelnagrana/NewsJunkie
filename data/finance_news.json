@@ -1639,5 +1639,18 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-05-19T06:34:57.977Z": [
+    {
+      "summary": "Trump’s massive tax cut bill passes key US House committee vote",
+      "headlines": [
+        "Trump’s massive tax cut bill passes key US House committee vote"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    }
   ]
 }
