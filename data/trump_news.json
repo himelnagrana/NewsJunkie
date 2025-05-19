@@ -12110,5 +12110,62 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-19T18:33:04.763Z": [
+    {
+      "summary": "Trump says Russia and Ukraine to 'immediately' start ceasefire negotiations after two-hour call with Putin",
+      "headlines": [
+        "Trump says Russia and Ukraine to 'immediately' start ceasefire negotiations after two-hour call with Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump mega-bill takes one step closer to House vote",
+      "headlines": [
+        "Trump mega-bill takes one step closer to House vote"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump: Russia and Ukraine will 'immediately' start ceasefire negotiations",
+      "headlines": [
+        "Trump: Russia and Ukraine will 'immediately' start ceasefire negotiations"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "After Trump call, Putin says Russia ready to work on ceasefire memorandum",
+      "headlines": [
+        "After Trump call, Putin says Russia ready to work on ceasefire memorandum"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Moscow outlaws Amnesty International for ‘Russophobia’ amid Ukraine war",
+      "headlines": [
+        "Moscow outlaws Amnesty International for ‘Russophobia’ amid Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

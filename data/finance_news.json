@@ -1652,5 +1652,18 @@
       "sentiment": -1,
       "topic": "finance"
     }
+  ],
+  "2025-05-19T18:33:07.254Z": [
+    {
+      "summary": "Measure targeting pro-Palestine NGOs disappears from US tax bill",
+      "headlines": [
+        "Measure targeting pro-Palestine NGOs disappears from US tax bill"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    }
   ]
 }

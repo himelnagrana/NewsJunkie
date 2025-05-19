@@ -15683,5 +15683,95 @@
       "sentiment": 4,
       "topic": "politics"
     }
+  ],
+  "2025-05-19T18:33:05.470Z": [
+    {
+      "summary": "Trump says Russia and Ukraine to 'immediately' start ceasefire negotiations after two-hour call with Putin",
+      "headlines": [
+        "Trump says Russia and Ukraine to 'immediately' start ceasefire negotiations after two-hour call with Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Cancer touches us all, says Biden after outpouring of support",
+      "headlines": [
+        "Cancer touches us all, says Biden after outpouring of support"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump mega-bill takes one step closer to House vote",
+      "headlines": [
+        "Trump mega-bill takes one step closer to House vote"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump: Russia and Ukraine will 'immediately' start ceasefire negotiations",
+      "headlines": [
+        "Trump: Russia and Ukraine will 'immediately' start ceasefire negotiations"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK, France, Canada threaten ‘action’ over Israel’s war on Palestine",
+      "headlines": [
+        "UK, France, Canada threaten ‘action’ over Israel’s war on Palestine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "After Trump call, Putin says Russia ready to work on ceasefire memorandum",
+      "headlines": [
+        "After Trump call, Putin says Russia ready to work on ceasefire memorandum"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Romania, Poland, Portugal election results: Who are the winners and losers?",
+      "headlines": [
+        "Romania, Poland, Portugal election results: Who are the winners and losers?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Moscow outlaws Amnesty International for ‘Russophobia’ amid Ukraine war",
+      "headlines": [
+        "Moscow outlaws Amnesty International for ‘Russophobia’ amid Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
