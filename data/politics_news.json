@@ -15773,5 +15773,150 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-20T06:34:10.690Z": [
+    {
+      "summary": "Australia's Liberal-National coalition splits after election thrashing",
+      "headlines": [
+        "Australia's Liberal-National coalition splits after election thrashing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump's call with Putin exposes shifting ground on Ukraine peace talks",
+      "headlines": [
+        "Trump's call with Putin exposes shifting ground on Ukraine peace talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is China the winner in the India-Pakistan conflict?",
+      "headlines": [
+        "Is China the winner in the India-Pakistan conflict?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Melania Trump says new revenge porn law will protect children online",
+      "headlines": [
+        "Melania Trump says new revenge porn law will protect children online"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Huge challenges await new president of divided Romania",
+      "headlines": [
+        "Huge challenges await new president of divided Romania"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sesame Street heads to Netflix after Trump pulled funding",
+      "headlines": [
+        "Sesame Street heads to Netflix after Trump pulled funding"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Supreme Court lets Trump end deportation protections for 350,000 Venezuelans",
+      "headlines": [
+        "US Supreme Court lets Trump end deportation protections for 350,000 Venezuelans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "How conflict with India helped boost the Pakistan military’s domestic image",
+      "headlines": [
+        "How conflict with India helped boost the Pakistan military’s domestic image"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Biden’s cancer diagnosis renews transparency outcry; Trump claims cover-up",
+      "headlines": [
+        "Biden’s cancer diagnosis renews transparency outcry; Trump claims cover-up"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "After Putin call, Trump says Russia, Ukraine will start ceasefire talks",
+      "headlines": [
+        "After Putin call, Trump says Russia, Ukraine will start ceasefire talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs bill outlawing ‘revenge porn’",
+      "headlines": [
+        "Trump signs bill outlawing ‘revenge porn’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US top court allows Trump admin to revoke protected status for Venezuelans",
+      "headlines": [
+        "US top court allows Trump admin to revoke protected status for Venezuelans"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Former President Bolsonaro’s coup trial opens in Brazil",
+      "headlines": [
+        "Former President Bolsonaro’s coup trial opens in Brazil"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

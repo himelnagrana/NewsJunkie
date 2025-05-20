@@ -1665,5 +1665,18 @@
       "sentiment": -1,
       "topic": "finance"
     }
+  ],
+  "2025-05-20T06:34:12.745Z": [
+    {
+      "summary": "Four sticking points in Trump's 'big, beautiful' tax bill",
+      "headlines": [
+        "Four sticking points in Trump's 'big, beautiful' tax bill"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

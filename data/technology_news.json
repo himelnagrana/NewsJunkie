@@ -406,5 +406,18 @@
       "sentiment": 2,
       "topic": "technology"
     }
+  ],
+  "2025-05-20T06:34:11.372Z": [
+    {
+      "summary": "My AI therapist got me through dark times: The good and bad of chatbot counselling",
+      "headlines": [
+        "My AI therapist got me through dark times: The good and bad of chatbot counselling"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
