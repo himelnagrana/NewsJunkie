@@ -12290,5 +12290,73 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-20T18:33:30.318Z": [
+    {
+      "summary": "Zelensky accuses Russia of 'buying time' to stall truce talks",
+      "headlines": [
+        "Zelensky accuses Russia of 'buying time' to stall truce talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Elon Musk plans to cut back political spending",
+      "headlines": [
+        "Elon Musk plans to cut back political spending"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Blatant political attack’: US lawmaker charged over ICE centre standoff",
+      "headlines": [
+        "‘Blatant political attack’: US lawmaker charged over ICE centre standoff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump fails to secure Ukraine ceasefire after Putin call: What’s next?",
+      "headlines": [
+        "Trump fails to secure Ukraine ceasefire after Putin call: What’s next?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK government suspends free trade talks with Israel over Gaza war",
+      "headlines": [
+        "UK government suspends free trade talks with Israel over Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "EU and UK pile pressure on Russia with parallel sanctions",
+      "headlines": [
+        "EU and UK pile pressure on Russia with parallel sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
