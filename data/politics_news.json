@@ -16098,5 +16098,128 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-21T18:33:08.426Z": [
+    {
+      "summary": "Trump ambushes South African president in Oval Office with claims of 'white persecution'",
+      "headlines": [
+        "Trump ambushes South African president in Oval Office with claims of 'white persecution'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch moment Trump ambushes Ramaphosa with video",
+      "headlines": [
+        "Watch moment Trump ambushes Ramaphosa with video"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Roof of historic Ming Dynasty tower collapses in China",
+      "headlines": [
+        "Roof of historic Ming Dynasty tower collapses in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Netanyahu says war will continue until all parts of Gaza under Israeli control",
+      "headlines": [
+        "Netanyahu says war will continue until all parts of Gaza under Israeli control"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration to scrap police reform measures in some US cities",
+      "headlines": [
+        "Trump administration to scrap police reform measures in some US cities"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Target sales slump as Trump tariffs take effect",
+      "headlines": [
+        "Target sales slump as Trump tariffs take effect"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump ambushes South Africa's Ramaphosa in White House",
+      "headlines": [
+        "Trump ambushes South Africa's Ramaphosa in White House"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump pushes Afrikaner ‘genocide’ claims during meeting with SA’s Ramaphosa",
+      "headlines": [
+        "Trump pushes Afrikaner ‘genocide’ claims during meeting with SA’s Ramaphosa"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Sudan on edge as Sudan’s war threatens vital oil industry",
+      "headlines": [
+        "South Sudan on edge as Sudan’s war threatens vital oil industry"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ceasefire still elusive as Russia ‘doesn’t want real talks’ with Ukraine",
+      "headlines": [
+        "Ceasefire still elusive as Russia ‘doesn’t want real talks’ with Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pro-Russia former Ukraine politician shot dead outside school in Spain",
+      "headlines": [
+        "Pro-Russia former Ukraine politician shot dead outside school in Spain"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
