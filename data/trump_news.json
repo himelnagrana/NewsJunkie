@@ -12358,5 +12358,73 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-05-21T06:34:04.260Z": [
+    {
+      "summary": "Can Mandela's former negotiator charm Donald Trump?",
+      "headlines": [
+        "Can Mandela's former negotiator charm Donald Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "An island called Hope is standing up to Beijing in the South China Sea",
+      "headlines": [
+        "An island called Hope is standing up to Beijing in the South China Sea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump unveils plans for 'Golden Dome' defence system",
+      "headlines": [
+        "Trump unveils plans for 'Golden Dome' defence system"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Did Trump really strike Gulf deals worth $2tn?",
+      "headlines": [
+        "Did Trump really strike Gulf deals worth $2tn?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US will put weapons in space as part of ‘Golden Dome’ plan",
+      "headlines": [
+        "Trump says US will put weapons in space as part of ‘Golden Dome’ plan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Venezuela frees US citizen in latest exchange with Trump administration",
+      "headlines": [
+        "Venezuela frees US citizen in latest exchange with Trump administration"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -1678,5 +1678,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-21T06:34:06.573Z": [
+    {
+      "summary": "Will EU deal make food cheaper, add $12bn to the UK economy?",
+      "headlines": [
+        "Will EU deal make food cheaper, add $12bn to the UK economy?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
