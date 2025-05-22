@@ -12527,5 +12527,51 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-05-22T06:33:39.978Z": [
+    {
+      "summary": "South Africans divided on Ramaphosa's mauling by Trump",
+      "headlines": [
+        "South Africans divided on Ramaphosa's mauling by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Turn the lights down' - Trump confronts Ramaphosa with video",
+      "headlines": [
+        "'Turn the lights down' - Trump confronts Ramaphosa with video"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump meets Republican hard-liners in hopes of moving tax bill forward",
+      "headlines": [
+        "Trump meets Republican hard-liners in hopes of moving tax bill forward"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "What is the Golden Dome defence system Trump announced?",
+      "headlines": [
+        "What is the Golden Dome defence system Trump announced?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

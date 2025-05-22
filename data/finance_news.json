@@ -1691,5 +1691,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-22T06:33:41.966Z": [
+    {
+      "summary": "Trump meets Republican hard-liners in hopes of moving tax bill forward",
+      "headlines": [
+        "Trump meets Republican hard-liners in hopes of moving tax bill forward"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }

@@ -16221,5 +16221,73 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-05-22T06:33:40.506Z": [
+    {
+      "summary": "'The mood is changing': Israeli anger grows at conduct of war",
+      "headlines": [
+        "'The mood is changing': Israeli anger grows at conduct of war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Africans divided on Ramaphosa's mauling by Trump",
+      "headlines": [
+        "South Africans divided on Ramaphosa's mauling by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Turn the lights down' - Trump confronts Ramaphosa with video",
+      "headlines": [
+        "'Turn the lights down' - Trump confronts Ramaphosa with video"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Deep inside a Norwegian mountain, Nato allies train for Arctic war",
+      "headlines": [
+        "Watch: Deep inside a Norwegian mountain, Nato allies train for Arctic war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump meets Republican hard-liners in hopes of moving tax bill forward",
+      "headlines": [
+        "Trump meets Republican hard-liners in hopes of moving tax bill forward"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What is the Golden Dome defence system Trump announced?",
+      "headlines": [
+        "What is the Golden Dome defence system Trump announced?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
