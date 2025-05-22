@@ -76,5 +76,18 @@
       "sentiment": 0,
       "topic": "ai"
     }
+  ],
+  "2025-05-22T18:32:56.138Z": [
+    {
+      "summary": "'World's greatest designer' Jony Ive joins OpenAI to 'reimagine' computers",
+      "headlines": [
+        "'World's greatest designer' Jony Ive joins OpenAI to 'reimagine' computers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "ai"
+    }
   ]
 }

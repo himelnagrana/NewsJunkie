@@ -1704,5 +1704,18 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-05-22T18:32:58.623Z": [
+    {
+      "summary": "US House passes Trump's 'big, beautiful' tax and spending bill",
+      "headlines": [
+        "US House passes Trump's 'big, beautiful' tax and spending bill"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
