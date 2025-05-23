@@ -688,5 +688,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-23T06:33:17.228Z": [
+    {
+      "summary": "Is it time for injury replacements in Test cricket?",
+      "headlines": [
+        "Is it time for injury replacements in Test cricket?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }

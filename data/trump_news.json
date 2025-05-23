@@ -12641,5 +12641,73 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-05-23T06:33:15.501Z": [
+    {
+      "summary": "In South Korea, even your cup of Starbucks could be too political",
+      "headlines": [
+        "In South Korea, even your cup of Starbucks could be too political"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration ends Harvard's ability to enrol international students",
+      "headlines": [
+        "Trump administration ends Harvard's ability to enrol international students"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why did the UK government sign the Chagos deal now?",
+      "headlines": [
+        "Why did the UK government sign the Chagos deal now?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Erdogan denies bid to change Turkey's constitution means he'll run as president again",
+      "headlines": [
+        "Erdogan denies bid to change Turkey's constitution means he'll run as president again"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration bars Harvard from enrolling international students",
+      "headlines": [
+        "Trump administration bars Harvard from enrolling international students"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israeli speculation mounts over potential rift between Trump and Netanyahu",
+      "headlines": [
+        "Israeli speculation mounts over potential rift between Trump and Netanyahu"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
