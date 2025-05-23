@@ -16458,5 +16458,128 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-23T18:30:44.000Z": [
+    {
+      "summary": "Judge temporarily blocks Trump plan to stop Harvard enrolling foreign students",
+      "headlines": [
+        "Judge temporarily blocks Trump plan to stop Harvard enrolling foreign students"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine and Russia take part in biggest prisoner swap since 2022 invasion",
+      "headlines": [
+        "Ukraine and Russia take part in biggest prisoner swap since 2022 invasion"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens 50% tariffs on EU and 25% on iPhones",
+      "headlines": [
+        "Trump threatens 50% tariffs on EU and 25% on iPhones"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "I learnt government was suing me on the news, says Nigerian senator",
+      "headlines": [
+        "I learnt government was suing me on the news, says Nigerian senator"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Federal judge grants Harvard's restraining order against Trump administration",
+      "headlines": [
+        "Federal judge grants Harvard's restraining order against Trump administration"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US judge blocks Trump effort to bar Harvard from enrolling foreign students",
+      "headlines": [
+        "US judge blocks Trump effort to bar Harvard from enrolling foreign students"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Bringing our people home’: Ukraine and Russia swap hundreds of prisoners",
+      "headlines": [
+        "‘Bringing our people home’: Ukraine and Russia swap hundreds of prisoners"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens EU with 50-percent tariffs on all imports",
+      "headlines": [
+        "Trump threatens EU with 50-percent tariffs on all imports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU membership, seizing Russia’s money needed to rebuild Ukraine: Analysts",
+      "headlines": [
+        "EU membership, seizing Russia’s money needed to rebuild Ukraine: Analysts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan, Afghanistan move towards ‘restoring ties’ in talks with China",
+      "headlines": [
+        "Pakistan, Afghanistan move towards ‘restoring ties’ in talks with China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Borders and ballots: Why Essequibo is controversial in Venezuela’s election",
+      "headlines": [
+        "Borders and ballots: Why Essequibo is controversial in Venezuela’s election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

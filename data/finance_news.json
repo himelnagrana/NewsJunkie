@@ -1717,5 +1717,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-23T18:30:45.501Z": [
+    {
+      "summary": "Faisal Islam: Trump's tariff plans could spark global economic shock",
+      "headlines": [
+        "Faisal Islam: Trump's tariff plans could spark global economic shock"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "US investment Firm RedBird to buy Telegraph newspaper",
+      "headlines": [
+        "US investment Firm RedBird to buy Telegraph newspaper"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
