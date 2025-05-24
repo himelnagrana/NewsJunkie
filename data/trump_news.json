@@ -12944,5 +12944,62 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-05-24T18:29:44.241Z": [
+    {
+      "summary": "Thirteen killed in wave of Russian attacks across Ukraine",
+      "headlines": [
+        "Thirteen killed in wave of Russian attacks across Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can Donald Trump build the 'Golden Dome' over the US?",
+      "headlines": [
+        "Can Donald Trump build the 'Golden Dome' over the US?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia bombards Kyiv as hundreds more prisoners freed",
+      "headlines": [
+        "Russia bombards Kyiv as hundreds more prisoners freed"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine, Russia exchange more prisoners after ‘difficult night’ of attacks",
+      "headlines": [
+        "Ukraine, Russia exchange more prisoners after ‘difficult night’ of attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "EU vows to defend interests after Trump threatens 50 percent tariffs",
+      "headlines": [
+        "EU vows to defend interests after Trump threatens 50 percent tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

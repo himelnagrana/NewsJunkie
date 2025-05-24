@@ -16726,5 +16726,84 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-24T18:29:44.872Z": [
+    {
+      "summary": "Thirteen killed in wave of Russian attacks across Ukraine",
+      "headlines": [
+        "Thirteen killed in wave of Russian attacks across Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can Donald Trump build the 'Golden Dome' over the US?",
+      "headlines": [
+        "Can Donald Trump build the 'Golden Dome' over the US?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia bombards Kyiv as hundreds more prisoners freed",
+      "headlines": [
+        "Russia bombards Kyiv as hundreds more prisoners freed"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine, Russia exchange more prisoners after ‘difficult night’ of attacks",
+      "headlines": [
+        "Ukraine, Russia exchange more prisoners after ‘difficult night’ of attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Lebanon votes in municipal election seen as test of Hezbollah support",
+      "headlines": [
+        "South Lebanon votes in municipal election seen as test of Hezbollah support"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "UN chief says Gaza entering ‘cruellest phase’ of war as Palestinians starve",
+      "headlines": [
+        "UN chief says Gaza entering ‘cruellest phase’ of war as Palestinians starve"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU vows to defend interests after Trump threatens 50 percent tariffs",
+      "headlines": [
+        "EU vows to defend interests after Trump threatens 50 percent tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
