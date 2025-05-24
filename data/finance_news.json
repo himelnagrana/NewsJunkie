@@ -1741,5 +1741,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-24T06:30:18.000Z": [
+    {
+      "summary": "Trump 'not looking for a deal' with EU after tariff threat",
+      "headlines": [
+        "Trump 'not looking for a deal' with EU after tariff threat"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

@@ -12821,5 +12821,128 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-24T06:30:15.700Z": [
+    {
+      "summary": "Harvard foreign students face uncertainty as Trump plan to block enrolment is halted - for now",
+      "headlines": [
+        "Harvard foreign students face uncertainty as Trump plan to block enrolment is halted - for now"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "EU calls for 'respect' after Trump threatens 50% tariffs",
+      "headlines": [
+        "EU calls for 'respect' after Trump threatens 50% tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "She found her daughter after 44 years. Now she's suing Korea's government",
+      "headlines": [
+        "She found her daughter after 44 years. Now she's suing Korea's government"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "King's big moment in Canada after Trump row",
+      "headlines": [
+        "King's big moment in Canada after Trump row"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Hectic two weeks leaves Russia confident - and peace in Ukraine feeling no closer",
+      "headlines": [
+        "Hectic two weeks leaves Russia confident - and peace in Ukraine feeling no closer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "As Israel faces diplomatic 'tsunami', Trump is staying quiet",
+      "headlines": [
+        "As Israel faces diplomatic 'tsunami', Trump is staying quiet"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Rebuked by Trump but praised at home:  How Ramaphosa might gain from US showdown",
+      "headlines": [
+        "Rebuked by Trump but praised at home:  How Ramaphosa might gain from US showdown"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "trump"
+    },
+    {
+      "summary": "What do Canadians make of the monarchy in the Trump era?",
+      "headlines": [
+        "What do Canadians make of the monarchy in the Trump era?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'It's dehumanising': Harvard's foreign students reel from Trump administration ban",
+      "headlines": [
+        "'It's dehumanising': Harvard's foreign students reel from Trump administration ban"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "I learnt government was suing me on the news - Nigerian senator",
+      "headlines": [
+        "I learnt government was suing me on the news - Nigerian senator"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump 'not looking for a deal' with EU after tariff threat",
+      "headlines": [
+        "Trump 'not looking for a deal' with EU after tariff threat"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
