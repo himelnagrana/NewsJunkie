@@ -13025,5 +13025,84 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-05-25T18:29:38.405Z": [
+    {
+      "summary": "King's invitation to Canada sends a message to Trump - and the world",
+      "headlines": [
+        "King's invitation to Canada sends a message to Trump - and the world"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "President Donald Trump signs first executive orders",
+      "headlines": [
+        "President Donald Trump signs first executive orders"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Key moments from President Trump's inauguration day",
+      "headlines": [
+        "Watch: Key moments from President Trump's inauguration day"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Elon Musk's gesture at Trump rally draws scrutiny",
+      "headlines": [
+        "Elon Musk's gesture at Trump rally draws scrutiny"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia launches largest aerial assault of its three-year war on Ukraine",
+      "headlines": [
+        "Russia launches largest aerial assault of its three-year war on Ukraine"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine under Russian missile, drone attacks for second night, 12 killed",
+      "headlines": [
+        "Ukraine under Russian missile, drone attacks for second night, 12 killed"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Venezuelans vote amid boycott calls and fears of government repression",
+      "headlines": [
+        "Venezuelans vote amid boycott calls and fears of government repression"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

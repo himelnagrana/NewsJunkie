@@ -16829,5 +16829,128 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-05-25T18:29:38.951Z": [
+    {
+      "summary": "Zelensky says 'US silence' over Russian attacks encourages Putin",
+      "headlines": [
+        "Zelensky says 'US silence' over Russian attacks encourages Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "School bus attack caught in tensions between Pakistan and India",
+      "headlines": [
+        "School bus attack caught in tensions between Pakistan and India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "King's invitation to Canada sends a message to Trump - and the world",
+      "headlines": [
+        "King's invitation to Canada sends a message to Trump - and the world"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "President Donald Trump signs first executive orders",
+      "headlines": [
+        "President Donald Trump signs first executive orders"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Key moments from President Trump's inauguration day",
+      "headlines": [
+        "Watch: Key moments from President Trump's inauguration day"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Elon Musk's gesture at Trump rally draws scrutiny",
+      "headlines": [
+        "Elon Musk's gesture at Trump rally draws scrutiny"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia launches largest aerial assault of its three-year war on Ukraine",
+      "headlines": [
+        "Russia launches largest aerial assault of its three-year war on Ukraine"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine under Russian missile, drone attacks for second night, 12 killed",
+      "headlines": [
+        "Ukraine under Russian missile, drone attacks for second night, 12 killed"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Turkiye’s Erdogan meets Pakistan PM in Istanbul weeks after India conflict",
+      "headlines": [
+        "Turkiye’s Erdogan meets Pakistan PM in Istanbul weeks after India conflict"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Venezuelans vote amid boycott calls and fears of government repression",
+      "headlines": [
+        "Venezuelans vote amid boycott calls and fears of government repression"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rival marches draw thousands before pivotal Polish presidential election",
+      "headlines": [
+        "Rival marches draw thousands before pivotal Polish presidential election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
