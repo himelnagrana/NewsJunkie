@@ -13001,5 +13001,29 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-05-25T06:30:54.792Z": [
+    {
+      "summary": "Russian strikes kill 12 across Ukraine, officials say",
+      "headlines": [
+        "Russian strikes kill 12 across Ukraine, officials say"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "King's invite to Canada sends a message to Trump - and the world",
+      "headlines": [
+        "King's invite to Canada sends a message to Trump - and the world"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }
