@@ -17042,5 +17042,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-26T18:31:09.710Z": [
+    {
+      "summary": "Kremlin calls Trump 'emotional' after US president says Putin is 'crazy'",
+      "headlines": [
+        "Kremlin calls Trump 'emotional' after US president says Putin is 'crazy'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump lays wreath at Arlington cemetery ceremony",
+      "headlines": [
+        "Trump lays wreath at Arlington cemetery ceremony"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Fears over hazardous spill after cargo ship capsizes off coast of India",
+      "headlines": [
+        "Fears over hazardous spill after cargo ship capsizes off coast of India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "China student says college made her 'take off trousers' for period leave",
+      "headlines": [
+        "China student says college made her 'take off trousers' for period leave"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia denies involvement in fires at homes linked to UK PM",
+      "headlines": [
+        "Russia denies involvement in fires at homes linked to UK PM"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India state on alert after ship carrying hazardous cargo capsizes",
+      "headlines": [
+        "India state on alert after ship carrying hazardous cargo capsizes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Crazy' Putin hasn't changed. Will Trump?",
+      "headlines": [
+        "'Crazy' Putin hasn't changed. Will Trump?"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine accuses China of supplying Russian arms industry",
+      "headlines": [
+        "Ukraine accuses China of supplying Russian arms industry"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "King Charles III arrives in Canada amid tension with Trump",
+      "headlines": [
+        "King Charles III arrives in Canada amid tension with Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Venezuela election results: Who lost, won and what next?",
+      "headlines": [
+        "Venezuela election results: Who lost, won and what next?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
