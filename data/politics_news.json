@@ -16952,5 +16952,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-26T06:35:15.371Z": [
+    {
+      "summary": "'He has gone absolutely crazy': Trump rebukes Putin after weekend attacks on Ukraine",
+      "headlines": [
+        "'He has gone absolutely crazy': Trump rebukes Putin after weekend attacks on Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "King travels to support Canada as it fends off Trump",
+      "headlines": [
+        "King travels to support Canada as it fends off Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump agrees to extend EU trade talks after 50% tariff threat",
+      "headlines": [
+        "Trump agrees to extend EU trade talks after 50% tariff threat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'We didn't see it as treason': The Russian couple who became informants for Ukraine",
+      "headlines": [
+        "'We didn't see it as treason': The Russian couple who became informants for Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls Putin 'crazy' after largest Russian attack on Ukraine",
+      "headlines": [
+        "Trump calls Putin 'crazy' after largest Russian attack on Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Putin ‘has gone absolutely crazy’",
+      "headlines": [
+        "Trump says Putin ‘has gone absolutely crazy’"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump lashes out at ‘crazy’ Putin after deadly Russian air raids on Ukraine",
+      "headlines": [
+        "Trump lashes out at ‘crazy’ Putin after deadly Russian air raids on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,187",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,187"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

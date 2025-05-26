@@ -1754,5 +1754,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-05-26T06:35:16.832Z": [
+    {
+      "summary": "Trump agrees to extend EU trade talks after 50% tariff threat",
+      "headlines": [
+        "Trump agrees to extend EU trade talks after 50% tariff threat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
