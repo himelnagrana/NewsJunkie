@@ -17154,5 +17154,40 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-27T06:33:52.114Z": [
+    {
+      "summary": "What you need to know ahead of South Korea's snap presidential election",
+      "headlines": [
+        "What you need to know ahead of South Korea's snap presidential election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump wants Netanyahu to be on same page on Iran: Top US official",
+      "headlines": [
+        "Trump wants Netanyahu to be on same page on Iran: Top US official"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,188",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,188"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

@@ -13262,5 +13262,18 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-05-27T06:33:51.507Z": [
+    {
+      "summary": "Trump wants Netanyahu to be on same page on Iran: Top US official",
+      "headlines": [
+        "Trump wants Netanyahu to be on same page on Iran: Top US official"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }
