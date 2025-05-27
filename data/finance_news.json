@@ -1767,5 +1767,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-27T18:31:45.179Z": [
+    {
+      "summary": "ASEAN kicks off summits with China, Gulf states amid US tariff threat",
+      "headlines": [
+        "ASEAN kicks off summits with China, Gulf states amid US tariff threat"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

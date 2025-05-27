@@ -17189,5 +17189,139 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-05-27T18:31:43.531Z": [
+    {
+      "summary": "Trump pardons former sheriff convicted of bribery",
+      "headlines": [
+        "Trump pardons former sheriff convicted of bribery"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "North Korea says US 'Golden Dome' risks 'space nuclear war'",
+      "headlines": [
+        "North Korea says US 'Golden Dome' risks 'space nuclear war'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration seeks to pull estimated $100m in Harvard funding",
+      "headlines": [
+        "Trump administration seeks to pull estimated $100m in Harvard funding"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Huge explosion at China chemical plant kills at least five",
+      "headlines": [
+        "Huge explosion at China chemical plant kills at least five"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump admin to cancel federal contracts with Harvard worth about $100 million",
+      "headlines": [
+        "Trump admin to cancel federal contracts with Harvard worth about $100 million"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Drone war, ground offensive continue despite new Russia-Ukraine peace push",
+      "headlines": [
+        "Drone war, ground offensive continue despite new Russia-Ukraine peace push"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "ASEAN kicks off summits with China, Gulf states amid US tariff threat",
+      "headlines": [
+        "ASEAN kicks off summits with China, Gulf states amid US tariff threat"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US, Europe lift ‘range restrictions’ on Ukraine missiles: Why it matters",
+      "headlines": [
+        "US, Europe lift ‘range restrictions’ on Ukraine missiles: Why it matters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "More than 800 lawyers, judges call for UK sanctions on Israel over Gaza war",
+      "headlines": [
+        "More than 800 lawyers, judges call for UK sanctions on Israel over Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "NPR sues Trump administration for cutting US federal funding",
+      "headlines": [
+        "NPR sues Trump administration for cutting US federal funding"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "At least five reported killed in large explosion at China chemical plant",
+      "headlines": [
+        "At least five reported killed in large explosion at China chemical plant"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump Media to raise $2.5bn to invest in Bitcoin",
+      "headlines": [
+        "Trump Media to raise $2.5bn to invest in Bitcoin"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
