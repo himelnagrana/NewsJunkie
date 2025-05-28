@@ -725,5 +725,29 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-05-28T06:33:53.317Z": [
+    {
+      "summary": "Attempted murder arrest after football parade crash",
+      "headlines": [
+        "Attempted murder arrest after football parade crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "sports"
+    },
+    {
+      "summary": "'Football is a source of comradeship' - Slot grateful for support",
+      "headlines": [
+        "'Football is a source of comradeship' - Slot grateful for support"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "sports"
+    }
   ]
 }

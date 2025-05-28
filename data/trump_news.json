@@ -13376,5 +13376,73 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-28T06:33:51.683Z": [
+    {
+      "summary": "Orban accused of using Ukraine spy row in fight for political survival",
+      "headlines": [
+        "Orban accused of using Ukraine spy row in fight for political survival"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to pardon reality TV couple after daughter's Fox News interview",
+      "headlines": [
+        "Trump to pardon reality TV couple after daughter's Fox News interview"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "How political chaos helped forge South Korea's presidential frontrunner",
+      "headlines": [
+        "How political chaos helped forge South Korea's presidential frontrunner"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "King exercises discretion in Canadian speech after country's row with Trump",
+      "headlines": [
+        "King exercises discretion in Canadian speech after country's row with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "War of words: Russia’s Medvedev rebukes Trump over Putin social media post",
+      "headlines": [
+        "War of words: Russia’s Medvedev rebukes Trump over Putin social media post"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Canada will pay $61bn for Golden Dome, or become 51st state",
+      "headlines": [
+        "Trump says Canada will pay $61bn for Golden Dome, or become 51st state"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
