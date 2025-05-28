@@ -1780,5 +1780,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-05-28T18:32:12.638Z": [
+    {
+      "summary": "Musk 'disappointed' by Trump's tax and spending bill",
+      "headlines": [
+        "Musk 'disappointed' by Trump's tax and spending bill"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

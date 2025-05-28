@@ -13444,5 +13444,62 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-05-28T18:32:10.653Z": [
+    {
+      "summary": "The terrifying new weapon changing the war in Ukraine",
+      "headlines": [
+        "The terrifying new weapon changing the war in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: BBC team flees drone attack in Ukraine",
+      "headlines": [
+        "Watch: BBC team flees drone attack in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and Russia trade barbs",
+      "headlines": [
+        "US and Russia trade barbs"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What are Germany’s Taurus missiles that Ukraine wants?",
+      "headlines": [
+        "What are Germany’s Taurus missiles that Ukraine wants?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘US, China, India can all fit into Africa’: On a quest to fix the world map",
+      "headlines": [
+        "‘US, China, India can all fit into Africa’: On a quest to fix the world map"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }
