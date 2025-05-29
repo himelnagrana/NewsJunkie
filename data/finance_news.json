@@ -1793,5 +1793,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-29T06:34:27.280Z": [
+    {
+      "summary": "Trump blasts 'nasty' chicken gibe about his tariff reversals",
+      "headlines": [
+        "Trump blasts 'nasty' chicken gibe about his tariff reversals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

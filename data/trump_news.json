@@ -13501,5 +13501,95 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-05-29T06:34:25.220Z": [
+    {
+      "summary": "US trade court blocks Trump tariffs, saying president 'exceeded any authority'",
+      "headlines": [
+        "US trade court blocks Trump tariffs, saying president 'exceeded any authority'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump appears to set Putin 'two-week' deadline on Ukraine",
+      "headlines": [
+        "Trump appears to set Putin 'two-week' deadline on Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration to 'aggressively' revoke visas of Chinese students",
+      "headlines": [
+        "Trump administration to 'aggressively' revoke visas of Chinese students"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "German chancellor promises to help Ukraine produce long-range missiles",
+      "headlines": [
+        "German chancellor promises to help Ukraine produce long-range missiles"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump blasts 'nasty' chicken gibe about his tariff reversals",
+      "headlines": [
+        "Trump blasts 'nasty' chicken gibe about his tariff reversals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump warns Netanyahu off Iran strike as nuclear talks continue",
+      "headlines": [
+        "Trump warns Netanyahu off Iran strike as nuclear talks continue"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Elon Musk announces departure from US President Trump’s administration",
+      "headlines": [
+        "Elon Musk announces departure from US President Trump’s administration"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China launches landmark mission to retrieve pristine asteroid samples",
+      "headlines": [
+        "China launches landmark mission to retrieve pristine asteroid samples"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }
