@@ -1806,5 +1806,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-29T18:33:10.825Z": [
+    {
+      "summary": "Trump administration to go to Supreme Court on Friday if unable to block tariff ruling",
+      "headlines": [
+        "Trump administration to go to Supreme Court on Friday if unable to block tariff ruling"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Faisal Islam: Tariff ruling completely changes the global trade war",
+      "headlines": [
+        "Faisal Islam: Tariff ruling completely changes the global trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Analysis: Tariff ruling doesn't really change US-UK deal",
+      "headlines": [
+        "Analysis: Tariff ruling doesn't really change US-UK deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

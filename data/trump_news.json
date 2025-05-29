@@ -13591,5 +13591,73 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-05-29T18:33:08.473Z": [
+    {
+      "summary": "Trump administration to go to Supreme Court on Friday if unable to block tariff ruling",
+      "headlines": [
+        "Trump administration to go to Supreme Court on Friday if unable to block tariff ruling"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump commutes gang leader's sentence in flurry of pardons",
+      "headlines": [
+        "Trump commutes gang leader's sentence in flurry of pardons"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump meets with Powell to scold him on interest rates",
+      "headlines": [
+        "Trump meets with Powell to scold him on interest rates"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why has Elon Musk quit Donald Trump’s administration?",
+      "headlines": [
+        "Why has Elon Musk quit Donald Trump’s administration?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine submits ceasefire plan, but Russia responds with escalation",
+      "headlines": [
+        "Ukraine submits ceasefire plan, but Russia responds with escalation"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia says no Ukraine response on proposal for more Istanbul talks",
+      "headlines": [
+        "Russia says no Ukraine response on proposal for more Istanbul talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

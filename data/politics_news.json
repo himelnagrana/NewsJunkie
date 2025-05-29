@@ -17593,5 +17593,84 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-05-29T18:33:09.071Z": [
+    {
+      "summary": "Trump administration to go to Supreme Court on Friday if unable to block tariff ruling",
+      "headlines": [
+        "Trump administration to go to Supreme Court on Friday if unable to block tariff ruling"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Faisal Islam: Tariff ruling completely changes the global trade war",
+      "headlines": [
+        "Faisal Islam: Tariff ruling completely changes the global trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump commutes gang leader's sentence in flurry of pardons",
+      "headlines": [
+        "Trump commutes gang leader's sentence in flurry of pardons"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump meets with Powell to scold him on interest rates",
+      "headlines": [
+        "Trump meets with Powell to scold him on interest rates"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump’s tariffs ruled illegal: Will this end US trade war?",
+      "headlines": [
+        "Trump’s tariffs ruled illegal: Will this end US trade war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine submits ceasefire plan, but Russia responds with escalation",
+      "headlines": [
+        "Ukraine submits ceasefire plan, but Russia responds with escalation"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia says no Ukraine response on proposal for more Istanbul talks",
+      "headlines": [
+        "Russia says no Ukraine response on proposal for more Istanbul talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
