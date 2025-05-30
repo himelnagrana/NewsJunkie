@@ -1841,5 +1841,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-05-30T06:33:30.782Z": [
+    {
+      "summary": "Where does court ruling leave Trump's tariff agenda?",
+      "headlines": [
+        "Where does court ruling leave Trump's tariff agenda?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump tariff agenda 'alive and well', says Peter Navarro",
+      "headlines": [
+        "Trump tariff agenda 'alive and well', says Peter Navarro"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Republicans plan to tax US college endowments: Who will that hurt?",
+      "headlines": [
+        "Republicans plan to tax US college endowments: Who will that hurt?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

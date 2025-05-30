@@ -13659,5 +13659,84 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-05-30T06:33:28.447Z": [
+    {
+      "summary": "How the West is helping Russia to fund its war on Ukraine",
+      "headlines": [
+        "How the West is helping Russia to fund its war on Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tariffs can stay in place for now, appeals court rules",
+      "headlines": [
+        "Trump tariffs can stay in place for now, appeals court rules"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tariff agenda 'alive and well', says Peter Navarro",
+      "headlines": [
+        "Trump tariff agenda 'alive and well', says Peter Navarro"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'I left one conflict zone to enter another': Harvard's Jewish foreign students on Trump row",
+      "headlines": [
+        "'I left one conflict zone to enter another': Harvard's Jewish foreign students on Trump row"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and China struggle for dominance as officials meet for Shangri-La Dialogue",
+      "headlines": [
+        "US and China struggle for dominance as officials meet for Shangri-La Dialogue"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "FBI to probe effort to impersonate top Trump advisor, sources tell CBS",
+      "headlines": [
+        "FBI to probe effort to impersonate top Trump advisor, sources tell CBS"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China sets up international body in Hong Kong to rival World Court",
+      "headlines": [
+        "China sets up international body in Hong Kong to rival World Court"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
