@@ -1876,5 +1876,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-05-30T18:32:48.030Z": [
+    {
+      "summary": "China hits back after Trump claims it is 'violating' tariff truce",
+      "headlines": [
+        "China hits back after Trump claims it is 'violating' tariff truce"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "From students to tech: How US-China ties are sliding despite tariff truce",
+      "headlines": [
+        "From students to tech: How US-China ties are sliding despite tariff truce"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

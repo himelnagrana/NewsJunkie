@@ -17773,5 +17773,139 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-05-30T18:32:46.438Z": [
+    {
+      "summary": "China hits back after Trump claims it is 'violating' tariff truce",
+      "headlines": [
+        "China hits back after Trump claims it is 'violating' tariff truce"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Supreme Court allows Trump to revoke legal status for 500,000 migrants",
+      "headlines": [
+        "Supreme Court allows Trump to revoke legal status for 500,000 migrants"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says 'Elon is not really leaving' as Musk's White House contract ends",
+      "headlines": [
+        "Trump says 'Elon is not really leaving' as Musk's White House contract ends"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "FBI to probe effort to impersonate top Trump adviser, sources tell CBS",
+      "headlines": [
+        "FBI to probe effort to impersonate top Trump adviser, sources tell CBS"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "The impact of Trump tariffs ruling - in numbers",
+      "headlines": [
+        "The impact of Trump tariffs ruling - in numbers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US government report cited non-existent sources, academics say",
+      "headlines": [
+        "US government report cited non-existent sources, academics say"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Supreme Court allows Trump to end temporary legal status for 500,000 immigrants",
+      "headlines": [
+        "Supreme Court allows Trump to end temporary legal status for 500,000 immigrants"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Supreme Court allows Trump to revoke humanitarian parole for 530,000",
+      "headlines": [
+        "Supreme Court allows Trump to revoke humanitarian parole for 530,000"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine yet to commit to new round of Russia talks in Istanbul",
+      "headlines": [
+        "Ukraine yet to commit to new round of Russia talks in Istanbul"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Confusion and concern loom over Mexico’s historic judicial election",
+      "headlines": [
+        "Confusion and concern loom over Mexico’s historic judicial election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "High stakes as Poland heads to round two of presidential election",
+      "headlines": [
+        "High stakes as Poland heads to round two of presidential election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "ISIL (ISIS) launches first attacks against new Syrian government",
+      "headlines": [
+        "ISIL (ISIS) launches first attacks against new Syrian government"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
