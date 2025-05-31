@@ -13918,5 +13918,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-05-31T18:30:06.129Z": [
+    {
+      "summary": "Hegseth warns China poses 'imminent' threat to Taiwan and urges Asia to boost defence",
+      "headlines": [
+        "Hegseth warns China poses 'imminent' threat to Taiwan and urges Asia to boost defence"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Well, we all are going to die': Response shows challenges of defending Trump agenda",
+      "headlines": [
+        "'Well, we all are going to die': Response shows challenges of defending Trump agenda"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US defence chief warns of China threat as Beijing’s top brass skip summit",
+      "headlines": [
+        "US defence chief warns of China threat as Beijing’s top brass skip summit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

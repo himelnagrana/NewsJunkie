@@ -18008,5 +18008,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-05-31T18:30:06.699Z": [
+    {
+      "summary": "Hegseth warns China poses 'imminent' threat to Taiwan and urges Asia to boost defence",
+      "headlines": [
+        "Hegseth warns China poses 'imminent' threat to Taiwan and urges Asia to boost defence"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Joe Biden says he's 'feeling good' in first comments since cancer diagnosis",
+      "headlines": [
+        "Joe Biden says he's 'feeling good' in first comments since cancer diagnosis"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Well, we all are going to die': Response shows challenges of defending Trump agenda",
+      "headlines": [
+        "'Well, we all are going to die': Response shows challenges of defending Trump agenda"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India top general admits aerial ‘losses’ in recent conflict with Pakistan",
+      "headlines": [
+        "India top general admits aerial ‘losses’ in recent conflict with Pakistan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US defence chief warns of China threat as Beijing’s top brass skip summit",
+      "headlines": [
+        "US defence chief warns of China threat as Beijing’s top brass skip summit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
