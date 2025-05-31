@@ -17907,5 +17907,106 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-05-31T06:31:04.752Z": [
+    {
+      "summary": "US to double tariffs on steel and aluminium imports to 50%, Trump says",
+      "headlines": [
+        "US to double tariffs on steel and aluminium imports to 50%, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "North and South Korea are in an underground war - Kim Jong Un might now be winning",
+      "headlines": [
+        "North and South Korea are in an underground war - Kim Jong Un might now be winning"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine accuses Russia of undermining next round of peace talks",
+      "headlines": [
+        "Ukraine accuses Russia of undermining next round of peace talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "In Oval Office farewell, Trump says Musk 'not really leaving'",
+      "headlines": [
+        "In Oval Office farewell, Trump says Musk 'not really leaving'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says US will raise steel tariffs to 50 percent at Pennsylvania rally",
+      "headlines": [
+        "Trump says US will raise steel tariffs to 50 percent at Pennsylvania rally"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China’s navy conducts combat patrols near disputed South China Sea shoal",
+      "headlines": [
+        "China’s navy conducts combat patrols near disputed South China Sea shoal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Guatemala jails ex-paramilitaries for 40 years over rapes during civil war",
+      "headlines": [
+        "Guatemala jails ex-paramilitaries for 40 years over rapes during civil war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,192",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,192"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says China ‘violated’ Geneva deal with US on tariffs, minerals",
+      "headlines": [
+        "Trump says China ‘violated’ Geneva deal with US on tariffs, minerals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

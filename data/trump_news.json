@@ -13850,5 +13850,73 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-05-31T06:31:04.223Z": [
+    {
+      "summary": "US to double tariffs on steel and aluminium imports to 50%, Trump says",
+      "headlines": [
+        "US to double tariffs on steel and aluminium imports to 50%, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine accuses Russia of undermining next round of peace talks",
+      "headlines": [
+        "Ukraine accuses Russia of undermining next round of peace talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "In Oval Office farewell, Trump says Musk 'not really leaving'",
+      "headlines": [
+        "In Oval Office farewell, Trump says Musk 'not really leaving'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US will raise steel tariffs to 50 percent at Pennsylvania rally",
+      "headlines": [
+        "Trump says US will raise steel tariffs to 50 percent at Pennsylvania rally"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China’s navy conducts combat patrols near disputed South China Sea shoal",
+      "headlines": [
+        "China’s navy conducts combat patrols near disputed South China Sea shoal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says China ‘violated’ Geneva deal with US on tariffs, minerals",
+      "headlines": [
+        "Trump says China ‘violated’ Geneva deal with US on tariffs, minerals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
