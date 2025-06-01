@@ -18065,5 +18065,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-01T06:32:30.197Z": [
+    {
+      "summary": "The fallout from Trump's war on Harvard will long outlast his presidency",
+      "headlines": [
+        "The fallout from Trump's war on Harvard will long outlast his presidency"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "These women helped bring down a president - now they say they feel invisible",
+      "headlines": [
+        "These women helped bring down a president - now they say they feel invisible"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Silent acts of resistance and fear under Russian occupation in Ukraine",
+      "headlines": [
+        "Silent acts of resistance and fear under Russian occupation in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump's foreign policy frustrations are piling up",
+      "headlines": [
+        "Trump's foreign policy frustrations are piling up"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Bridges collapse in two Russian regions bordering Ukraine, killing seven",
+      "headlines": [
+        "Bridges collapse in two Russian regions bordering Ukraine, killing seven"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea’s snap presidential election 2025: All you need to know",
+      "headlines": [
+        "South Korea’s snap presidential election 2025: All you need to know"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hamas says ceasefire proposal offers ‘no guarantees’ for end to Gaza war",
+      "headlines": [
+        "Hamas says ceasefire proposal offers ‘no guarantees’ for end to Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,193",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,193"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

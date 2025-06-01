@@ -13953,5 +13953,51 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-01T06:32:29.700Z": [
+    {
+      "summary": "These women helped bring down a president - now they say they feel invisible",
+      "headlines": [
+        "These women helped bring down a president - now they say they feel invisible"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Silent acts of resistance and fear under Russian occupation in Ukraine",
+      "headlines": [
+        "Silent acts of resistance and fear under Russian occupation in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump's foreign policy frustrations are piling up",
+      "headlines": [
+        "Trump's foreign policy frustrations are piling up"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Bridges collapse in two Russian regions bordering Ukraine, killing seven",
+      "headlines": [
+        "Bridges collapse in two Russian regions bordering Ukraine, killing seven"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }
