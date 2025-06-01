@@ -762,5 +762,18 @@
       "sentiment": -1,
       "topic": "sports"
     }
+  ],
+  "2025-06-01T18:30:27.406Z": [
+    {
+      "summary": "McLaren’s Piastri wins Spain GP, extends championship lead over Norris",
+      "headlines": [
+        "McLaren’s Piastri wins Spain GP, extends championship lead over Norris"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 5,
+      "topic": "sports"
+    }
   ]
 }

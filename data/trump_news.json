@@ -13999,5 +13999,73 @@
       "sentiment": -5,
       "topic": "trump"
     }
+  ],
+  "2025-06-01T18:30:25.807Z": [
+    {
+      "summary": "Ukraine drones 'emerged from trucks' before strikes on bombers during major attack in Russia",
+      "headlines": [
+        "Ukraine drones 'emerged from trucks' before strikes on bombers during major attack in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Australia asks China to explain 'extraordinary' military build-up",
+      "headlines": [
+        "Australia asks China to explain 'extraordinary' military build-up"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia may attack Nato in next four years, German defence chief warns",
+      "headlines": [
+        "Russia may attack Nato in next four years, German defence chief warns"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Video appears to show Ukraine drone attack in Russia",
+      "headlines": [
+        "Video appears to show Ukraine drone attack in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Footage shows aftermath of Russia bridge collapse",
+      "headlines": [
+        "Footage shows aftermath of Russia bridge collapse"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China warns US not to ‘play with fire’ over Taiwan",
+      "headlines": [
+        "China warns US not to ‘play with fire’ over Taiwan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

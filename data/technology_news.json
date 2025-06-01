@@ -445,5 +445,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-06-01T18:30:26.947Z": [
+    {
+      "summary": "Briton accused of plot to export US military tech",
+      "headlines": [
+        "Briton accused of plot to export US military tech"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }
