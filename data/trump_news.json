@@ -14067,5 +14067,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-02T06:35:52.635Z": [
+    {
+      "summary": "China says US has 'severely violated' tariffs truce",
+      "headlines": [
+        "China says US has 'severely violated' tariffs truce"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine and Russia due to hold Istanbul talks after Kyiv's smuggled drone attack",
+      "headlines": [
+        "Ukraine and Russia due to hold Istanbul talks after Kyiv's smuggled drone attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Unpacking the South African land law that so inflames Trump",
+      "headlines": [
+        "Unpacking the South African land law that so inflames Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Kyiv sends critical message to Russia and the West with audacious drone attack",
+      "headlines": [
+        "Kyiv sends critical message to Russia and the West with audacious drone attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine drones strike bombers during major attack in Russia",
+      "headlines": [
+        "Ukraine drones strike bombers during major attack in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine's audacious drone attack sends critical message to Russia - and the West",
+      "headlines": [
+        "Ukraine's audacious drone attack sends critical message to Russia - and the West"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine’s audacious military strikes inside Russia",
+      "headlines": [
+        "Ukraine’s audacious military strikes inside Russia"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }

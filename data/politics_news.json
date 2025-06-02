@@ -18234,5 +18234,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-02T06:35:53.232Z": [
+    {
+      "summary": "Martial law fractured South Korea. Can this election heal the nation?",
+      "headlines": [
+        "Martial law fractured South Korea. Can this election heal the nation?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China says US has 'severely violated' tariffs truce",
+      "headlines": [
+        "China says US has 'severely violated' tariffs truce"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine and Russia due to hold Istanbul talks after Kyiv's smuggled drone attack",
+      "headlines": [
+        "Ukraine and Russia due to hold Istanbul talks after Kyiv's smuggled drone attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Unpacking the South African land law that so inflames Trump",
+      "headlines": [
+        "Unpacking the South African land law that so inflames Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Deadly superbugs thrive as access to antibiotics falters in India",
+      "headlines": [
+        "Deadly superbugs thrive as access to antibiotics falters in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kyiv sends critical message to Russia and the West with audacious drone attack",
+      "headlines": [
+        "Kyiv sends critical message to Russia and the West with audacious drone attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine drones strike bombers during major attack in Russia",
+      "headlines": [
+        "Ukraine drones strike bombers during major attack in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine's audacious drone attack sends critical message to Russia - and the West",
+      "headlines": [
+        "Ukraine's audacious drone attack sends critical message to Russia - and the West"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine’s audacious military strikes inside Russia",
+      "headlines": [
+        "Ukraine’s audacious military strikes inside Russia"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nationalist Nawrocki wins Polish presidential election",
+      "headlines": [
+        "Nationalist Nawrocki wins Polish presidential election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,194",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,194"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
