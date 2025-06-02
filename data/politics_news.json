@@ -18357,5 +18357,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-02T18:33:19.814Z": [
+    {
+      "summary": "Ukraine and Russia still far apart after peace talks but agree prisoner swap",
+      "headlines": [
+        "Ukraine and Russia still far apart after peace talks but agree prisoner swap"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sri Lanka to host Pakistan World Cup games amid India tensions",
+      "headlines": [
+        "Sri Lanka to host Pakistan World Cup games amid India tensions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine's daring drone attack is the latest David vs. Goliath hit against Russia",
+      "headlines": [
+        "Ukraine's daring drone attack is the latest David vs. Goliath hit against Russia"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia, Ukraine agree to ‘biggest’ prisoner exchange since war began",
+      "headlines": [
+        "Russia, Ukraine agree to ‘biggest’ prisoner exchange since war began"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Poland election results: Who won, who lost, what’s next",
+      "headlines": [
+        "Poland election results: Who won, who lost, what’s next"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine bombs Russian bases: Here are some of Kyiv’s most audacious attacks",
+      "headlines": [
+        "Ukraine bombs Russian bases: Here are some of Kyiv’s most audacious attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "How will Ukraine’s attack on Russian bombers affect the war?",
+      "headlines": [
+        "How will Ukraine’s attack on Russian bombers affect the war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea’s presidential election aims to restore democratic credentials",
+      "headlines": [
+        "South Korea’s presidential election aims to restore democratic credentials"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia and Ukraine agree to prisoner swap but peace talks stall in Istanbul",
+      "headlines": [
+        "Russia and Ukraine agree to prisoner swap but peace talks stall in Istanbul"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Obligation’: Reactions as Nawrocki wins Poland’s presidential election",
+      "headlines": [
+        "‘Obligation’: Reactions as Nawrocki wins Poland’s presidential election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    }
   ]
 }

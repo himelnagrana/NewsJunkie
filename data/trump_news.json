@@ -14146,5 +14146,62 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-06-02T18:33:19.267Z": [
+    {
+      "summary": "Ukraine and Russia still far apart after peace talks but agree prisoner swap",
+      "headlines": [
+        "Ukraine and Russia still far apart after peace talks but agree prisoner swap"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine's daring drone attack is the latest David vs. Goliath hit against Russia",
+      "headlines": [
+        "Ukraine's daring drone attack is the latest David vs. Goliath hit against Russia"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia, Ukraine agree to ‘biggest’ prisoner exchange since war began",
+      "headlines": [
+        "Russia, Ukraine agree to ‘biggest’ prisoner exchange since war began"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine bombs Russian bases: Here are some of Kyiv’s most audacious attacks",
+      "headlines": [
+        "Ukraine bombs Russian bases: Here are some of Kyiv’s most audacious attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia and Ukraine agree to prisoner swap but peace talks stall in Istanbul",
+      "headlines": [
+        "Russia and Ukraine agree to prisoner swap but peace talks stall in Istanbul"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
