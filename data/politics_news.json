@@ -18548,5 +18548,128 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-06-03T18:34:05.086Z": [
+    {
+      "summary": "Opposition's Lee Jae-myung wins South Korean election after months of martial law chaos",
+      "headlines": [
+        "Opposition's Lee Jae-myung wins South Korean election after months of martial law chaos"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine says it hit Crimea bridge with underwater explosives",
+      "headlines": [
+        "Ukraine says it hit Crimea bridge with underwater explosives"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump tariffs forecast to hurt UK growth",
+      "headlines": [
+        "Trump tariffs forecast to hurt UK growth"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Defamation trial begins for MyPillow boss Mike Lindell over election claims",
+      "headlines": [
+        "Defamation trial begins for MyPillow boss Mike Lindell over election claims"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Dutch government collapses after far-right leader quits coalition",
+      "headlines": [
+        "Dutch government collapses after far-right leader quits coalition"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India anger over 10-year-old rape victim's death after alleged treatment delay",
+      "headlines": [
+        "India anger over 10-year-old rape victim's death after alleged treatment delay"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -10,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tesla is 'not interested' in producing cars in India - minister",
+      "headlines": [
+        "Tesla is 'not interested' in producing cars in India - minister"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump privately frustrated with Justice Amy Coney Barrett",
+      "headlines": [
+        "Trump privately frustrated with Justice Amy Coney Barrett"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea election results 2025: Who won, who lost, what’s next?",
+      "headlines": [
+        "South Korea election results 2025: Who won, who lost, what’s next?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine claims to have damaged Russia’s bridge to annexed Crimea",
+      "headlines": [
+        "Ukraine claims to have damaged Russia’s bridge to annexed Crimea"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "More than four million people have fled Sudan amid war, UN says",
+      "headlines": [
+        "More than four million people have fled Sudan amid war, UN says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

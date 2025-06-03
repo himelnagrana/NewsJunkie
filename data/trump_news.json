@@ -14260,5 +14260,62 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-06-03T18:34:04.518Z": [
+    {
+      "summary": "Ukraine says it hit Crimea bridge with underwater explosives",
+      "headlines": [
+        "Ukraine says it hit Crimea bridge with underwater explosives"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tariffs forecast to hurt UK growth",
+      "headlines": [
+        "Trump tariffs forecast to hurt UK growth"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Dutch government collapses after far-right leader quits coalition",
+      "headlines": [
+        "Dutch government collapses after far-right leader quits coalition"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump privately frustrated with Justice Amy Coney Barrett",
+      "headlines": [
+        "Trump privately frustrated with Justice Amy Coney Barrett"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine claims to have damaged Russia’s bridge to annexed Crimea",
+      "headlines": [
+        "Ukraine claims to have damaged Russia’s bridge to annexed Crimea"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
