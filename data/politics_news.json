@@ -18469,5 +18469,84 @@
       "sentiment": 4,
       "topic": "politics"
     }
+  ],
+  "2025-06-03T06:35:58.934Z": [
+    {
+      "summary": "How Ukraine carried out daring 'Spider Web' attack on Russian bombers",
+      "headlines": [
+        "How Ukraine carried out daring 'Spider Web' attack on Russian bombers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia and Ukraine fail again to agree ceasefire but commit to prisoner swap",
+      "headlines": [
+        "Russia and Ukraine fail again to agree ceasefire but commit to prisoner swap"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea votes for new president after failed martial law bid",
+      "headlines": [
+        "South Korea votes for new president after failed martial law bid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada to expedite nation building projects to counter Trump",
+      "headlines": [
+        "Canada to expedite nation building projects to counter Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Three things to know about South Korea's snap election",
+      "headlines": [
+        "Three things to know about South Korea's snap election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Striking from within: Ukraine’s daring attack on Russia",
+      "headlines": [
+        "Striking from within: Ukraine’s daring attack on Russia"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "No ‘Pikachu’: Why is Japan at war against unconventional, ‘glittery’ names?",
+      "headlines": [
+        "No ‘Pikachu’: Why is Japan at war against unconventional, ‘glittery’ names?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
