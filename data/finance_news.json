@@ -1900,5 +1900,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-04T06:34:19.387Z": [
+    {
+      "summary": "Musk calls Trump's tax bill a 'disgusting abomination'",
+      "headlines": [
+        "Musk calls Trump's tax bill a 'disgusting abomination'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

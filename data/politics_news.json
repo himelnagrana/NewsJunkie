@@ -18671,5 +18671,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-04T06:34:17.730Z": [
+    {
+      "summary": "South Korea's new president has a Trump-shaped crisis to avert",
+      "headlines": [
+        "South Korea's new president has a Trump-shaped crisis to avert"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Labour is cosying up to China after years of rollercoaster relations",
+      "headlines": [
+        "Labour is cosying up to China after years of rollercoaster relations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "The Today Debate: Israel-Gaza - are we witnessing war crimes?",
+      "headlines": [
+        "The Today Debate: Israel-Gaza - are we witnessing war crimes?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Man accused of writing Trump assassination letters was framed, officials say",
+      "headlines": [
+        "Man accused of writing Trump assassination letters was framed, officials say"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "China has a tight grip on global pharmaceuticals",
+      "headlines": [
+        "China has a tight grip on global pharmaceuticals"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea’s Lee promises to ‘heal wounds’ in first address as president",
+      "headlines": [
+        "South Korea’s Lee promises to ‘heal wounds’ in first address as president"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who is Lee Jae-myung, South Korea’s new president?",
+      "headlines": [
+        "Who is Lee Jae-myung, South Korea’s new president?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "As Trump raises deportation quotas, advocates fear an expanding ‘dragnet’",
+      "headlines": [
+        "As Trump raises deportation quotas, advocates fear an expanding ‘dragnet’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
