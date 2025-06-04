@@ -1913,5 +1913,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-04T18:33:30.955Z": [
+    {
+      "summary": "What is the ‘revenge tax’ in the US tax bill?",
+      "headlines": [
+        "What is the ‘revenge tax’ in the US tax bill?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

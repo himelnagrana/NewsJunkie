@@ -775,5 +775,29 @@
       "sentiment": 5,
       "topic": "sports"
     }
+  ],
+  "2025-06-04T18:33:30.450Z": [
+    {
+      "summary": "Eleven die in India crush as cricket fans gather for victory parade",
+      "headlines": [
+        "Eleven die in India crush as cricket fans gather for victory parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "sports"
+    },
+    {
+      "summary": "At least 11 dead in stampede outside cricket stadium in southern India",
+      "headlines": [
+        "At least 11 dead in stampede outside cricket stadium in southern India"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "sports"
+    }
   ]
 }

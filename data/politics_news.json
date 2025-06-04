@@ -18761,5 +18761,84 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-06-04T18:33:29.353Z": [
+    {
+      "summary": "Putin will seek revenge for Ukraine drone attack, warns Trump",
+      "headlines": [
+        "Putin will seek revenge for Ukraine drone attack, warns Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Men recruited by Russian mercenaries streamed arson on Ukraine supplier, court hears",
+      "headlines": [
+        "Men recruited by Russian mercenaries streamed arson on Ukraine supplier, court hears"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Eleven die in India crush as cricket fans gather for victory parade",
+      "headlines": [
+        "Eleven die in India crush as cricket fans gather for victory parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Moment girl rescues sister from runaway vehicle in China",
+      "headlines": [
+        "Watch: Moment girl rescues sister from runaway vehicle in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Putin told him Russia will respond to Ukraine drone strikes",
+      "headlines": [
+        "Trump says Putin told him Russia will respond to Ukraine drone strikes"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "At least 11 dead in stampede outside cricket stadium in southern India",
+      "headlines": [
+        "At least 11 dead in stampede outside cricket stadium in southern India"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why did the Dutch government collapse and what’s next?",
+      "headlines": [
+        "Why did the Dutch government collapse and what’s next?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
