@@ -1926,5 +1926,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-05T06:35:21.486Z": [
+    {
+      "summary": "White House makes misleading claims about Democratic opposition to tax bill",
+      "headlines": [
+        "White House makes misleading claims about Democratic opposition to tax bill"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

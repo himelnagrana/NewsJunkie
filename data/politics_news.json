@@ -18840,5 +18840,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-05T06:35:19.959Z": [
+    {
+      "summary": "Trump bans travel from 12 countries to the US",
+      "headlines": [
+        "Trump bans travel from 12 countries to the US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration threatens Columbia University's accreditation",
+      "headlines": [
+        "Trump administration threatens Columbia University's accreditation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump orders inquiry into Biden's actions, alleging 'cognitive decline'",
+      "headlines": [
+        "Trump orders inquiry into Biden's actions, alleging 'cognitive decline'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Are the surprise airfield attacks a turning point for Ukraine?",
+      "headlines": [
+        "Are the surprise airfield attacks a turning point for Ukraine?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump suspends foreign student visas at Harvard",
+      "headlines": [
+        "Trump suspends foreign student visas at Harvard"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What Merz wants from Trump showdown meeting",
+      "headlines": [
+        "What Merz wants from Trump showdown meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump bans travel from 12 countries to the US",
+      "headlines": [
+        "Trump bans travel from 12 countries to the US"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump announces US travel ban on 12 countries, restrictions on seven",
+      "headlines": [
+        "Donald Trump announces US travel ban on 12 countries, restrictions on seven"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Vietnam scraps two-child policy to combat falling birthrate",
+      "headlines": [
+        "Vietnam scraps two-child policy to combat falling birthrate"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,197",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,197"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump: Putin says Russia will ‘have to’ respond to Ukraine attacks",
+      "headlines": [
+        "Trump: Putin says Russia will ‘have to’ respond to Ukraine attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
