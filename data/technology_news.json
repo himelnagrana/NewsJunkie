@@ -458,5 +458,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-06-06T06:35:24.363Z": [
+    {
+      "summary": "Tech giants see emissions surge 150 percent in 3 years amid AI boom: UN",
+      "headlines": [
+        "Tech giants see emissions surge 150 percent in 3 years amid AI boom: UN"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

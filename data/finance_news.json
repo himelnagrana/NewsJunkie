@@ -1939,5 +1939,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-06-06T06:35:25.330Z": [
+    {
+      "summary": "India leads in remittances - but Trump's tax could deal a blow",
+      "headlines": [
+        "India leads in remittances - but Trump's tax could deal a blow"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

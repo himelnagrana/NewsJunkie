@@ -14565,5 +14565,150 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-06-06T06:35:23.168Z": [
+    {
+      "summary": "Trump and Musk trade insults as row erupts in public view",
+      "headlines": [
+        "Trump and Musk trade insults as row erupts in public view"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and Musk enter bitter feud - and Washington buckles up",
+      "headlines": [
+        "Trump and Musk enter bitter feud - and Washington buckles up"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian strikes on Ukraine kill four in Kyiv, mayor says",
+      "headlines": [
+        "Russian strikes on Ukraine kill four in Kyiv, mayor says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: D-Day 'not a pleasant day for you', Trump tells German chancellor",
+      "headlines": [
+        "Watch: D-Day 'not a pleasant day for you', Trump tells German chancellor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Lululemon shares plunge as Trump tariffs bite",
+      "headlines": [
+        "Lululemon shares plunge as Trump tariffs bite"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Former Zambian President Lungu dies aged 68",
+      "headlines": [
+        "Former Zambian President Lungu dies aged 68"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Nato chief is determined to give Trump a win with 5% defence spending plan",
+      "headlines": [
+        "Nato chief is determined to give Trump a win with 5% defence spending plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: How Trump and Musk's break-up played out in real time",
+      "headlines": [
+        "Watch: How Trump and Musk's break-up played out in real time"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump: 'I'm very disappointed in Elon'",
+      "headlines": [
+        "Trump: 'I'm very disappointed in Elon'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "In face-off with Trump, Tesla shares plunge and Musk threatens NASA",
+      "headlines": [
+        "In face-off with Trump, Tesla shares plunge and Musk threatens NASA"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration sanctions International Criminal Court judges",
+      "headlines": [
+        "Trump administration sanctions International Criminal Court judges"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump’s travel ban: Why? And why now?",
+      "headlines": [
+        "Donald Trump’s travel ban: Why? And why now?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Judge blocks new Trump bid to deny US entry for Harvard’s foreign students",
+      "headlines": [
+        "Judge blocks new Trump bid to deny US entry for Harvard’s foreign students"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
