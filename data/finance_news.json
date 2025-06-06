@@ -1952,5 +1952,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-06T18:33:11.122Z": [
+    {
+      "summary": "Interpol red notice issued for Ghana’s former finance minister",
+      "headlines": [
+        "Interpol red notice issued for Ghana’s former finance minister"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "US economy adds 139,000 jobs as growth slows",
+      "headlines": [
+        "US economy adds 139,000 jobs as growth slows"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }

@@ -14710,5 +14710,128 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-06-06T18:33:08.958Z": [
+    {
+      "summary": "Trump says Musk has 'lost his mind' but says he is not focusing on row",
+      "headlines": [
+        "Trump says Musk has 'lost his mind' but says he is not focusing on row"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and Musk: The 10 days that unravelled their relationship",
+      "headlines": [
+        "Trump and Musk: The 10 days that unravelled their relationship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What will Trump travel ban mean for sport?",
+      "headlines": [
+        "What will Trump travel ban mean for sport?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia launches 'massive' strikes days after Ukrainian drone attack",
+      "headlines": [
+        "Russia launches 'massive' strikes days after Ukrainian drone attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "BBC Verify live: Analysing footage of Russian oil depot fire after claims of Ukraine strikes",
+      "headlines": [
+        "BBC Verify live: Analysing footage of Russian oil depot fire after claims of Ukraine strikes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he won't be speaking to Musk",
+      "headlines": [
+        "Trump says he won't be speaking to Musk"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump ‘not interested’ in talking to Musk, White House official says",
+      "headlines": [
+        "Trump ‘not interested’ in talking to Musk, White House official says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "At least four killed in Russian attacks on Ukraine",
+      "headlines": [
+        "At least four killed in Russian attacks on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "What has Musk accused Trump of in relation to the Epstein files?",
+      "headlines": [
+        "What has Musk accused Trump of in relation to the Epstein files?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Where does Poland’s new president stand on Ukraine?",
+      "headlines": [
+        "Where does Poland’s new president stand on Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "The Netherlands to hold election on October 29 after government collapse",
+      "headlines": [
+        "The Netherlands to hold election on October 29 after government collapse"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

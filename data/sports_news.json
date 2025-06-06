@@ -799,5 +799,18 @@
       "sentiment": -5,
       "topic": "sports"
     }
+  ],
+  "2025-06-06T18:33:10.626Z": [
+    {
+      "summary": "Four arrested over India cricket stadium crush",
+      "headlines": [
+        "Four arrested over India cricket stadium crush"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "sports"
+    }
   ]
 }
