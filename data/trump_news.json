@@ -14868,5 +14868,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-06-07T18:30:24.276Z": [
+    {
+      "summary": "Trump: China respects 'very large brain'",
+      "headlines": [
+        "Trump: China respects 'very large brain'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian attacks on Ukraine kill six as prisoner swap hangs in balance",
+      "headlines": [
+        "Russian attacks on Ukraine kill six as prisoner swap hangs in balance"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Yemen’s al-Qaeda leader threatens Trump, Musk over Israel’s war on Gaza",
+      "headlines": [
+        "Yemen’s al-Qaeda leader threatens Trump, Musk over Israel’s war on Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }

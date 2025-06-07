@@ -812,5 +812,18 @@
       "sentiment": -4,
       "topic": "sports"
     }
+  ],
+  "2025-06-07T18:30:25.997Z": [
+    {
+      "summary": "The stunning football pitches hiding in the Arctic Circle",
+      "headlines": [
+        "The stunning football pitches hiding in the Arctic Circle"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "sports"
+    }
   ]
 }
