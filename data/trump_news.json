@@ -14833,5 +14833,40 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-07T06:31:31.138Z": [
+    {
+      "summary": "Will Musk's explosive row with Trump help or harm his businesses?",
+      "headlines": [
+        "Will Musk's explosive row with Trump help or harm his businesses?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Did Trump win the re-election because of Musk?",
+      "headlines": [
+        "Watch: Did Trump win the re-election because of Musk?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Proud Boys sue US government for $100m over Jan 6 prosecutions",
+      "headlines": [
+        "Proud Boys sue US government for $100m over Jan 6 prosecutions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

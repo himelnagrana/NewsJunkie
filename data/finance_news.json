@@ -1976,5 +1976,18 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-06-07T06:31:33.391Z": [
+    {
+      "summary": "‘Open prison’: The forced labour driving India’s $5 trillion economy dream",
+      "headlines": [
+        "‘Open prison’: The forced labour driving India’s $5 trillion economy dream"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
