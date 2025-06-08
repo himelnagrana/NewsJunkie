@@ -19457,5 +19457,62 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-08T18:29:48.318Z": [
+    {
+      "summary": "Troops sent by Trump arrive in LA with more immigration raid protests expected",
+      "headlines": [
+        "Troops sent by Trump arrive in LA with more immigration raid protests expected"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "When can a president deploy National Guard on US soil?",
+      "headlines": [
+        "When can a president deploy National Guard on US soil?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Have my house' - Heavyweight champion Usyk invites Trump to witness Ukraine war",
+      "headlines": [
+        "'Have my house' - Heavyweight champion Usyk invites Trump to witness Ukraine war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine says latest POWs swap with Russia to go ahead after duelling words",
+      "headlines": [
+        "Ukraine says latest POWs swap with Russia to go ahead after duelling words"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Los Angeles unrest: Is Trump allowed to deploy National Guard troops?",
+      "headlines": [
+        "Los Angeles unrest: Is Trump allowed to deploy National Guard troops?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
