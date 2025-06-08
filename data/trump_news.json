@@ -14903,5 +14903,84 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-06-08T06:32:48.615Z": [
+    {
+      "summary": "Donald Trump orders National Guard to LA after clashes over immigration raids",
+      "headlines": [
+        "Donald Trump orders National Guard to LA after clashes over immigration raids"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump orders National Guard to LA after clashes",
+      "headlines": [
+        "Trump orders National Guard to LA after clashes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says relationship with Musk is over",
+      "headlines": [
+        "Trump says relationship with Musk is over"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump deploys National Guard to clashes over immigration enforcement",
+      "headlines": [
+        "Trump deploys National Guard to clashes over immigration enforcement"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump deploys troops to Los Angeles to quell protests against ICE raids",
+      "headlines": [
+        "Trump deploys troops to Los Angeles to quell protests against ICE raids"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia attacks Ukraine’s Kharkiv as prisoner swap hangs in balance",
+      "headlines": [
+        "Russia attacks Ukraine’s Kharkiv as prisoner swap hangs in balance"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump warns Musk of ‘serious consequences’ if he funds Democrats",
+      "headlines": [
+        "Trump warns Musk of ‘serious consequences’ if he funds Democrats"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
