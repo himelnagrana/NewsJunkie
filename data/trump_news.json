@@ -15096,5 +15096,95 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-06-09T18:32:51.208Z": [
+    {
+      "summary": "Trump defends sending National Guard to LA as California governor to sue administration",
+      "headlines": [
+        "Trump defends sending National Guard to LA as California governor to sue administration"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump travel ban barring citizens from 12 countries takes effect",
+      "headlines": [
+        "Trump travel ban barring citizens from 12 countries takes effect"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Prisoner swap between Russia and Ukraine under way",
+      "headlines": [
+        "Prisoner swap between Russia and Ukraine under way"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Anthony Zurcher: This is a political fight Trump is eager to have",
+      "headlines": [
+        "Anthony Zurcher: This is a political fight Trump is eager to have"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "'We were friends of the US': Fearful Afghans face Trump travel ban",
+      "headlines": [
+        "'We were friends of the US': Fearful Afghans face Trump travel ban"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and China meet for trade talks in London",
+      "headlines": [
+        "US and China meet for trade talks in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "California to sue Trump over national guard deployment in Los Angeles",
+      "headlines": [
+        "California to sue Trump over national guard deployment in Los Angeles"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia hits Ukraine with record 479-drone strike ahead of POW swap",
+      "headlines": [
+        "Russia hits Ukraine with record 479-drone strike ahead of POW swap"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

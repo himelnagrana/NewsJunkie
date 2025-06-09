@@ -825,5 +825,18 @@
       "sentiment": 3,
       "topic": "sports"
     }
+  ],
+  "2025-06-09T18:32:52.894Z": [
+    {
+      "summary": "Israel obliterates Gaza’s sports sector, targeting athletes and facilities",
+      "headlines": [
+        "Israel obliterates Gaza’s sports sector, targeting athletes and facilities"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
