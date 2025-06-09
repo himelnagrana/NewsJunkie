@@ -19514,5 +19514,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-09T06:36:18.600Z": [
+    {
+      "summary": "Police order protesters to leave downtown Los Angeles as Trump says 'bring in the troops'",
+      "headlines": [
+        "Police order protesters to leave downtown Los Angeles as Trump says 'bring in the troops'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "US and China set to meet for trade talks in London",
+      "headlines": [
+        "US and China set to meet for trade talks in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump's intervention in LA is a political fight he is eager to have",
+      "headlines": [
+        "Trump's intervention in LA is a political fight he is eager to have"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Did Trump win the election because of Musk?",
+      "headlines": [
+        "Watch: Did Trump win the election because of Musk?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Arrests, clashes in LA as Trump sends in National Guard to quell protests",
+      "headlines": [
+        "Arrests, clashes in LA as Trump sends in National Guard to quell protests"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
