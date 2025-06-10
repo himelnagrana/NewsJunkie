@@ -19661,5 +19661,51 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-06-10T06:34:39.081Z": [
+    {
+      "summary": "Trump orders fresh troop deployment to LA as unrest continues into fourth day",
+      "headlines": [
+        "Trump orders fresh troop deployment to LA as unrest continues into fourth day"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Newsom says Trump 'deranged' as more troops deployed to LA protests",
+      "headlines": [
+        "Newsom says Trump 'deranged' as more troops deployed to LA protests"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump sends 700 Marines to LA, doubles number of National Guard",
+      "headlines": [
+        "Trump sends 700 Marines to LA, doubles number of National Guard"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,202",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,202"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
