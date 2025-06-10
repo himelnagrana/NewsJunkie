@@ -15221,5 +15221,62 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-06-10T18:33:32.269Z": [
+    {
+      "summary": "Trump says LA would be 'burning to the ground' without troop deployment",
+      "headlines": [
+        "Trump says LA would be 'burning to the ground' without troop deployment"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Newsom says Trump 'deranged' as thousands more troops sent to LA",
+      "headlines": [
+        "Newsom says Trump 'deranged' as thousands more troops sent to LA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump defends troop deployment as anti-ICE protests spread to other cities",
+      "headlines": [
+        "Trump defends troop deployment as anti-ICE protests spread to other cities"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia and Ukraine conduct prisoner swap despite heavy tit-for-tat attacks",
+      "headlines": [
+        "Russia and Ukraine conduct prisoner swap despite heavy tit-for-tat attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine says Russia took 20,000 children during war. Will some be returned?",
+      "headlines": [
+        "Ukraine says Russia took 20,000 children during war. Will some be returned?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

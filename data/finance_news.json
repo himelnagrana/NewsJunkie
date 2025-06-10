@@ -1989,5 +1989,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-10T18:33:34.286Z": [
+    {
+      "summary": "Ketamine swapped for salt as smugglers exploit Europe loophole in booming market",
+      "headlines": [
+        "Ketamine swapped for salt as smugglers exploit Europe loophole in booming market"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
