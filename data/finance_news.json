@@ -2002,5 +2002,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-06-11T18:34:09.185Z": [
+    {
+      "summary": "US tariff turmoil makes Spain's flagship foods seek other markets",
+      "headlines": [
+        "US tariff turmoil makes Spain's flagship foods seek other markets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    },
+    {
+      "summary": "US inflation ticks higher but tariff impact remains muted",
+      "headlines": [
+        "US inflation ticks higher but tariff impact remains muted"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

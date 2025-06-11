@@ -19843,5 +19843,106 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-06-11T18:34:07.746Z": [
+    {
+      "summary": "Trump claims rare earths deal 'done' with China",
+      "headlines": [
+        "Trump claims rare earths deal 'done' with China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who has been arrested by ICE under Trump?",
+      "headlines": [
+        "Who has been arrested by ICE under Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Elon Musk says he regrets some posts about Donald Trump",
+      "headlines": [
+        "Elon Musk says he regrets some posts about Donald Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Syria government says women must wear burkinis at public beaches",
+      "headlines": [
+        "Syria government says women must wear burkinis at public beaches"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump is exaggerating disorder to justify using the military on US soil",
+      "headlines": [
+        "Trump is exaggerating disorder to justify using the military on US soil"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Not scared to go further’: Trump administration threatens LA protesters",
+      "headlines": [
+        "‘Not scared to go further’: Trump administration threatens LA protesters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "What’s behind Russia’s ‘evolving’ drone warfare in Ukraine?",
+      "headlines": [
+        "What’s behind Russia’s ‘evolving’ drone warfare in Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Save what we can’: Economic uncertainty, Trump rhetoric hits US travel",
+      "headlines": [
+        "‘Save what we can’: Economic uncertainty, Trump rhetoric hits US travel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Trump right about a ‘migrant invasion’ in Los Angeles? What facts say",
+      "headlines": [
+        "Is Trump right about a ‘migrant invasion’ in Los Angeles? What facts say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

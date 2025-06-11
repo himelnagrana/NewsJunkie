@@ -838,5 +838,29 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-06-11T18:34:08.717Z": [
+    {
+      "summary": "Concacaf monitoring protests ahead of weekend soccer matches in LA",
+      "headlines": [
+        "Concacaf monitoring protests ahead of weekend soccer matches in LA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    },
+    {
+      "summary": "Is Test cricket financially sustainable?",
+      "headlines": [
+        "Is Test cricket financially sustainable?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "sports"
+    }
   ]
 }
