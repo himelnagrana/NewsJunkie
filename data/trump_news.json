@@ -15278,5 +15278,40 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-11T06:34:43.586Z": [
+    {
+      "summary": "US-China talks end with plan for Trump and Xi to approve",
+      "headlines": [
+        "US-China talks end with plan for Trump and Xi to approve"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump vows to 'liberate' Los Angeles as mayor imposes curfew",
+      "headlines": [
+        "Trump vows to 'liberate' Los Angeles as mayor imposes curfew"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US, China agree on ‘framework’ on trade after talks in London",
+      "headlines": [
+        "US, China agree on ‘framework’ on trade after talks in London"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }

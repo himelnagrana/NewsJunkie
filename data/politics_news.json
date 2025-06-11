@@ -19775,5 +19775,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-11T06:34:44.146Z": [
+    {
+      "summary": "Record number of Russian drone attacks signals dangerous shift in war",
+      "headlines": [
+        "Record number of Russian drone attacks signals dangerous shift in war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "US-China talks end with plan for Trump and Xi to approve",
+      "headlines": [
+        "US-China talks end with plan for Trump and Xi to approve"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump vows to 'liberate' Los Angeles as mayor imposes curfew",
+      "headlines": [
+        "Trump vows to 'liberate' Los Angeles as mayor imposes curfew"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Record number of drone attacks signals dangerous shift in war",
+      "headlines": [
+        "Record number of drone attacks signals dangerous shift in war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Are India and Pakistan preparing for a naval face-off in a future conflict?",
+      "headlines": [
+        "Are India and Pakistan preparing for a naval face-off in a future conflict?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US, China agree on ‘framework’ on trade after talks in London",
+      "headlines": [
+        "US, China agree on ‘framework’ on trade after talks in London"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }
