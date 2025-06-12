@@ -484,5 +484,18 @@
       "sentiment": -4,
       "topic": "technology"
     }
+  ],
+  "2025-06-12T06:35:02.612Z": [
+    {
+      "summary": "Disney and Universal sue AI firm Midjourney over images",
+      "headlines": [
+        "Disney and Universal sue AI firm Midjourney over images"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }

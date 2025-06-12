@@ -2026,5 +2026,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-12T06:35:03.628Z": [
+    {
+      "summary": "Reeves to face questions on BBC after UK economy shrinks by 0.3% in April",
+      "headlines": [
+        "Reeves to face questions on BBC after UK economy shrinks by 0.3% in April"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

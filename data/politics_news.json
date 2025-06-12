@@ -19944,5 +19944,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-12T06:35:02.090Z": [
+    {
+      "summary": "Newsom v Trump holds promise and peril for California governor",
+      "headlines": [
+        "Newsom v Trump holds promise and peril for California governor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says rare earths deal 'done' with China",
+      "headlines": [
+        "Trump says rare earths deal 'done' with China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Judge says Trump cannot deport or detain Mahmoud Khalil",
+      "headlines": [
+        "Judge says Trump cannot deport or detain Mahmoud Khalil"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Moment crowd boos and cheers Trump at Kennedy Center",
+      "headlines": [
+        "Watch: Moment crowd boos and cheers Trump at Kennedy Center"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump launches website for $5m ‘gold card’ granting US residency",
+      "headlines": [
+        "Trump launches website for $5m ‘gold card’ granting US residency"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump open to dialogue with North Korea’s Kim Jong Un, White House says",
+      "headlines": [
+        "Trump open to dialogue with North Korea’s Kim Jong Un, White House says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
