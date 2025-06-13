@@ -20012,5 +20012,194 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-13T06:34:53.584Z": [
+    {
+      "summary": "Analysis: Israel chose to act now, whether Trump likes it or not",
+      "headlines": [
+        "Analysis: Israel chose to act now, whether Trump likes it or not"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump has long called for using the military to quash protests. Los Angeles gave him an opening",
+      "headlines": [
+        "Trump has long called for using the military to quash protests. Los Angeles gave him an opening"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration blocked from  deploying National Guard to LA",
+      "headlines": [
+        "Trump administration blocked from  deploying National Guard to LA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "What could have caused Air India plane to crash in 30 seconds?",
+      "headlines": [
+        "What could have caused Air India plane to crash in 30 seconds?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "British man in seat 11A is only passenger to survive India plane crash",
+      "headlines": [
+        "British man in seat 11A is only passenger to survive India plane crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Who are the victims of the Air India plane crash?",
+      "headlines": [
+        "Who are the victims of the Air India plane crash?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air India plane crash - how the day unfolded",
+      "headlines": [
+        "Air India plane crash - how the day unfolded"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What we know so far about Air India flight AI171",
+      "headlines": [
+        "What we know so far about Air India flight AI171"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump vowed to make the world safer - has he?",
+      "headlines": [
+        "Trump vowed to make the world safer - has he?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel chose to act now, whether Trump likes it or not",
+      "headlines": [
+        "Israel chose to act now, whether Trump likes it or not"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "British man is only passenger to survive India plane crash",
+      "headlines": [
+        "British man is only passenger to survive India plane crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What we know so far after Air India flight to London crashes in Ahmedabad",
+      "headlines": [
+        "What we know so far after Air India flight to London crashes in Ahmedabad"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "One survivor as 241 people killed in Air India plane crash, officials say",
+      "headlines": [
+        "One survivor as 241 people killed in Air India plane crash, officials say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,205",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,205"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "California senator handcuffed during Trump administration news conference",
+      "headlines": [
+        "California senator handcuffed during Trump administration news conference"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine keeps up pressure on Russian airfields and war production",
+      "headlines": [
+        "Ukraine keeps up pressure on Russian airfields and war production"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "In nixing EV standards, Trump strikes at two foes: California and Elon Musk",
+      "headlines": [
+        "In nixing EV standards, Trump strikes at two foes: California and Elon Musk"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }

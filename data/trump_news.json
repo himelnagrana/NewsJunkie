@@ -15482,5 +15482,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-06-13T06:34:52.968Z": [
+    {
+      "summary": "Analysis: Israel chose to act now, whether Trump likes it or not",
+      "headlines": [
+        "Analysis: Israel chose to act now, whether Trump likes it or not"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump has long called for using the military to quash protests. Los Angeles gave him an opening",
+      "headlines": [
+        "Trump has long called for using the military to quash protests. Los Angeles gave him an opening"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration blocked from  deploying National Guard to LA",
+      "headlines": [
+        "Trump administration blocked from  deploying National Guard to LA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump vowed to make the world safer - has he?",
+      "headlines": [
+        "Trump vowed to make the world safer - has he?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israel chose to act now, whether Trump likes it or not",
+      "headlines": [
+        "Israel chose to act now, whether Trump likes it or not"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "California senator handcuffed during Trump administration news conference",
+      "headlines": [
+        "California senator handcuffed during Trump administration news conference"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine keeps up pressure on Russian airfields and war production",
+      "headlines": [
+        "Ukraine keeps up pressure on Russian airfields and war production"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "In nixing EV standards, Trump strikes at two foes: California and Elon Musk",
+      "headlines": [
+        "In nixing EV standards, Trump strikes at two foes: California and Elon Musk"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
