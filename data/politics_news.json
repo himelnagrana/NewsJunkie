@@ -20201,5 +20201,161 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-06-13T18:33:35.070Z": [
+    {
+      "summary": "Trump struggles with Iran message as Republicans diverge over attack",
+      "headlines": [
+        "Trump struggles with Iran message as Republicans diverge over attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Black box found at Air India crash site as families wait for answers",
+      "headlines": [
+        "Black box found at Air India crash site as families wait for answers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Student missed Air India flight by minutes after being stuck in traffic",
+      "headlines": [
+        "Student missed Air India flight by minutes after being stuck in traffic"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump loses bid for appeals court to reconsider $5m loss to E Jean Carroll",
+      "headlines": [
+        "Trump loses bid for appeals court to reconsider $5m loss to E Jean Carroll"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Appeals court temporarily allows Trump to keep National Guard in LA",
+      "headlines": [
+        "Appeals court temporarily allows Trump to keep National Guard in LA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "The BBC World Service debate: Is Donald Trump making the world safer or more dangerous?",
+      "headlines": [
+        "The BBC World Service debate: Is Donald Trump making the world safer or more dangerous?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What does the Air India crash mean for Boeing?",
+      "headlines": [
+        "What does the Air India crash mean for Boeing?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Verified video shows Air India plane descending and moment of crash",
+      "headlines": [
+        "Verified video shows Air India plane descending and moment of crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Traffic saved me': Student missed Air India crash by just 10 minutes",
+      "headlines": [
+        "'Traffic saved me': Student missed Air India crash by just 10 minutes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'I walked out of rubble': Survivor on how he escaped Air India wreckage",
+      "headlines": [
+        "'I walked out of rubble': Survivor on how he escaped Air India wreckage"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "How deadly Air India crash shattered dreams, wiped out entire families",
+      "headlines": [
+        "How deadly Air India crash shattered dreams, wiped out entire families"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Investigators search Air India crash site as Modi meets lone survivor",
+      "headlines": [
+        "Investigators search Air India crash site as Modi meets lone survivor"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump urges Iran to ‘make a deal’ as Tehran vows response to Israel attacks",
+      "headlines": [
+        "Trump urges Iran to ‘make a deal’ as Tehran vows response to Israel attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘I realised I was alive’: Sole survivor of Air India crash recounts tragedy",
+      "headlines": [
+        "‘I realised I was alive’: Sole survivor of Air India crash recounts tragedy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

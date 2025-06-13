@@ -497,5 +497,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-06-13T18:33:35.666Z": [
+    {
+      "summary": "Meta AI searches made public - but do all its users realise?",
+      "headlines": [
+        "Meta AI searches made public - but do all its users realise?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

@@ -15572,5 +15572,62 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-06-13T18:33:34.359Z": [
+    {
+      "summary": "Trump struggles with Iran message as Republicans diverge over attack",
+      "headlines": [
+        "Trump struggles with Iran message as Republicans diverge over attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump loses bid for appeals court to reconsider $5m loss to E Jean Carroll",
+      "headlines": [
+        "Trump loses bid for appeals court to reconsider $5m loss to E Jean Carroll"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Appeals court temporarily allows Trump to keep National Guard in LA",
+      "headlines": [
+        "Appeals court temporarily allows Trump to keep National Guard in LA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "The BBC World Service debate: Is Donald Trump making the world safer or more dangerous?",
+      "headlines": [
+        "The BBC World Service debate: Is Donald Trump making the world safer or more dangerous?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urges Iran to ‘make a deal’ as Tehran vows response to Israel attacks",
+      "headlines": [
+        "Trump urges Iran to ‘make a deal’ as Tehran vows response to Israel attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

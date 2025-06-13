@@ -862,5 +862,18 @@
       "sentiment": 2,
       "topic": "sports"
     }
+  ],
+  "2025-06-13T18:33:36.167Z": [
+    {
+      "summary": "Markram helps South Africa close in on World Test Championship win",
+      "headlines": [
+        "Markram helps South Africa close in on World Test Championship win"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 6,
+      "topic": "sports"
+    }
   ]
 }
