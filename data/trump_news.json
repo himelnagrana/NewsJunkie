@@ -15629,5 +15629,29 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-06-14T06:31:10.960Z": [
+    {
+      "summary": "Aukus: Could Trump sink Australia's submarine plans?",
+      "headlines": [
+        "Aukus: Could Trump sink Australia's submarine plans?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia returns 1,200 bodies of fallen Ukrainian soldiers",
+      "headlines": [
+        "Russia returns 1,200 bodies of fallen Ukrainian soldiers"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

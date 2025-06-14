@@ -20357,5 +20357,40 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-14T06:31:11.492Z": [
+    {
+      "summary": "The terrifying moment when Air India plane crashed into a canteen",
+      "headlines": [
+        "The terrifying moment when Air India plane crashed into a canteen"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Aukus: Could Trump sink Australia's submarine plans?",
+      "headlines": [
+        "Aukus: Could Trump sink Australia's submarine plans?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia returns 1,200 bodies of fallen Ukrainian soldiers",
+      "headlines": [
+        "Russia returns 1,200 bodies of fallen Ukrainian soldiers"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
