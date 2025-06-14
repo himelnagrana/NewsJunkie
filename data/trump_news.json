@@ -15653,5 +15653,18 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-14T18:29:37.799Z": [
+    {
+      "summary": "Iran-Israel tensions and an unpredictable Trump to dominate G7",
+      "headlines": [
+        "Iran-Israel tensions and an unpredictable Trump to dominate G7"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

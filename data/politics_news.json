@@ -20392,5 +20392,29 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-14T18:29:38.332Z": [
+    {
+      "summary": "Iran-Israel tensions and an unpredictable Trump to dominate G7",
+      "headlines": [
+        "Iran-Israel tensions and an unpredictable Trump to dominate G7"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "At least 270 bodies recovered from Air India crash site in Ahmedabad",
+      "headlines": [
+        "At least 270 bodies recovered from Air India crash site in Ahmedabad"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

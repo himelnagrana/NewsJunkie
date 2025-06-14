@@ -875,5 +875,29 @@
       "sentiment": 6,
       "topic": "sports"
     }
+  ],
+  "2025-06-14T18:29:39.362Z": [
+    {
+      "summary": "United Rugby Championship Final: Leinster comfortably beat Bulls to win title - reaction",
+      "headlines": [
+        "United Rugby Championship Final: Leinster comfortably beat Bulls to win title - reaction"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 7,
+      "topic": "sports"
+    },
+    {
+      "summary": "Emotional South Africa beat Australia sealing first major cricket title",
+      "headlines": [
+        "Emotional South Africa beat Australia sealing first major cricket title"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
