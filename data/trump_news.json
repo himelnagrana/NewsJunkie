@@ -15666,5 +15666,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-06-15T06:32:14.144Z": [
+    {
+      "summary": "Mass protests against Trump across US as president holds huge military parade",
+      "headlines": [
+        "Mass protests against Trump across US as president holds huge military parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Macron visits Greenland in show of European unity and signal to Trump",
+      "headlines": [
+        "Macron visits Greenland in show of European unity and signal to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: 'No Kings Day' protests against Trump take place across US",
+      "headlines": [
+        "Watch: 'No Kings Day' protests against Trump take place across US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump presides over Army parade: Celebration or ‘dictator behaviour’?",
+      "headlines": [
+        "Trump presides over Army parade: Celebration or ‘dictator behaviour’?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    }
   ]
 }

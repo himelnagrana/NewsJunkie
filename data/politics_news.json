@@ -20416,5 +20416,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-15T06:32:14.853Z": [
+    {
+      "summary": "Mass protests against Trump across US as president holds huge military parade",
+      "headlines": [
+        "Mass protests against Trump across US as president holds huge military parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air India plane crash death toll rises to 270",
+      "headlines": [
+        "Air India plane crash death toll rises to 270"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Macron visits Greenland in show of European unity and signal to Trump",
+      "headlines": [
+        "Macron visits Greenland in show of European unity and signal to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Wait for bodies deepens pain of families after Air India crash",
+      "headlines": [
+        "Wait for bodies deepens pain of families after Air India crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: 'No Kings Day' protests against Trump take place across US",
+      "headlines": [
+        "Watch: 'No Kings Day' protests against Trump take place across US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump presides over Army parade: Celebration or ‘dictator behaviour’?",
+      "headlines": [
+        "Trump presides over Army parade: Celebration or ‘dictator behaviour’?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    }
   ]
 }
