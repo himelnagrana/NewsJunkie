@@ -15712,5 +15712,51 @@
       "sentiment": 3,
       "topic": "trump"
     }
+  ],
+  "2025-06-15T18:30:40.725Z": [
+    {
+      "summary": "Mass protests against Trump across US as president holds military parade",
+      "headlines": [
+        "Mass protests against Trump across US as president holds military parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia returns bodies of 1,200 more Ukrainians as part of POW swap",
+      "headlines": [
+        "Russia returns bodies of 1,200 more Ukrainians as part of POW swap"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump presides over army parade: Celebration or ‘dictator behaviour’?",
+      "headlines": [
+        "Trump presides over army parade: Celebration or ‘dictator behaviour’?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Macron visits Greenland in solidarity amid Trump designs on Arctic island",
+      "headlines": [
+        "Macron visits Greenland in solidarity amid Trump designs on Arctic island"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }

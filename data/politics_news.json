@@ -20484,5 +20484,73 @@
       "sentiment": 3,
       "topic": "politics"
     }
+  ],
+  "2025-06-15T18:30:41.335Z": [
+    {
+      "summary": "Two killed after bridge collapses in India",
+      "headlines": [
+        "Two killed after bridge collapses in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mass protests against Trump across US as president holds military parade",
+      "headlines": [
+        "Mass protests against Trump across US as president holds military parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Thousands attend ‘red line’ protest in The Hague against Israel’s Gaza war",
+      "headlines": [
+        "Thousands attend ‘red line’ protest in The Hague against Israel’s Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia returns bodies of 1,200 more Ukrainians as part of POW swap",
+      "headlines": [
+        "Russia returns bodies of 1,200 more Ukrainians as part of POW swap"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump presides over army parade: Celebration or ‘dictator behaviour’?",
+      "headlines": [
+        "Trump presides over army parade: Celebration or ‘dictator behaviour’?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Macron visits Greenland in solidarity amid Trump designs on Arctic island",
+      "headlines": [
+        "Macron visits Greenland in solidarity amid Trump designs on Arctic island"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }
