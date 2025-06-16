@@ -2052,5 +2052,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-16T18:34:06.073Z": [
+    {
+      "summary": "What would an Israel-Iran war mean for the global economy?",
+      "headlines": [
+        "What would an Israel-Iran war mean for the global economy?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

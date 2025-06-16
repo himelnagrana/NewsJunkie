@@ -20587,5 +20587,73 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-06-16T18:34:04.394Z": [
+    {
+      "summary": "Trump says expelling Russia from G7 was a 'mistake' as he meets Carney",
+      "headlines": [
+        "Trump says expelling Russia from G7 was a 'mistake' as he meets Carney"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Investigators find cockpit voice recorder from crashed Air India flight",
+      "headlines": [
+        "Investigators find cockpit voice recorder from crashed Air India flight"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How does new captain Gill compare to India batting greats?",
+      "headlines": [
+        "How does new captain Gill compare to India batting greats?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What would an Israel-Iran war mean for the global economy?",
+      "headlines": [
+        "What would an Israel-Iran war mean for the global economy?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US senator introduces bill to curb Trump’s power to go to war with Iran",
+      "headlines": [
+        "US senator introduces bill to curb Trump’s power to go to war with Iran"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump Organization announces smartphone targeting conservative consumers",
+      "headlines": [
+        "Trump Organization announces smartphone targeting conservative consumers"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
