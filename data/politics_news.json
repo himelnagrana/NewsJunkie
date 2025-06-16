@@ -20552,5 +20552,40 @@
       "sentiment": 2,
       "topic": "politics"
     }
+  ],
+  "2025-06-16T06:36:39.183Z": [
+    {
+      "summary": "Trump told Israel not to kill Iran's supreme leader, says report",
+      "headlines": [
+        "Trump told Israel not to kill Iran's supreme leader, says report"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump orders increase in migrant deportations",
+      "headlines": [
+        "Trump orders increase in migrant deportations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why India refused to join SCO condemnation of Israel’s attacks on Iran",
+      "headlines": [
+        "Why India refused to join SCO condemnation of Israel’s attacks on Iran"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }

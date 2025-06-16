@@ -2039,5 +2039,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-16T06:36:40.792Z": [
+    {
+      "summary": "The reality behind Trump's incredible investment claims",
+      "headlines": [
+        "The reality behind Trump's incredible investment claims"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

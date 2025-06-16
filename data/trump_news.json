@@ -15758,5 +15758,29 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-06-16T06:36:38.605Z": [
+    {
+      "summary": "Trump told Israel not to kill Iran's supreme leader, says report",
+      "headlines": [
+        "Trump told Israel not to kill Iran's supreme leader, says report"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump orders increase in migrant deportations",
+      "headlines": [
+        "Trump orders increase in migrant deportations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
