@@ -2065,5 +2065,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-06-17T06:35:01.983Z": [
+    {
+      "summary": "Trump signs order confirming parts of UK-US tariff deal",
+      "headlines": [
+        "Trump signs order confirming parts of UK-US tariff deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

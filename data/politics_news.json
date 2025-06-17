@@ -20655,5 +20655,128 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-17T06:35:00.470Z": [
+    {
+      "summary": "Family of Air India crash victims feel 'abandoned'",
+      "headlines": [
+        "Family of Air India crash victims feel 'abandoned'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK expected to announce new sanctions targeting Russia",
+      "headlines": [
+        "UK expected to announce new sanctions targeting Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs order confirming parts of UK-US tariff deal",
+      "headlines": [
+        "Trump signs order confirming parts of UK-US tariff deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump Organization enters mobile phone business",
+      "headlines": [
+        "Trump Organization enters mobile phone business"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "New captain, new blood: Will Gill's India shock England?",
+      "headlines": [
+        "New captain, new blood: Will Gill's India shock England?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump leaves Argentine leader in the lurch",
+      "headlines": [
+        "Trump leaves Argentine leader in the lurch"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia and Ukraine fulfil deal to repatriate dead soldiers",
+      "headlines": [
+        "Russia and Ukraine fulfil deal to repatriate dead soldiers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zambian ex-president's family settle funeral row with government",
+      "headlines": [
+        "Zambian ex-president's family settle funeral row with government"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump leaves G7 early as Israel-Iran conflict rages",
+      "headlines": [
+        "Trump leaves G7 early as Israel-Iran conflict rages"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel, Iran trade attacks for 5th day; Trump urges Tehran evacuation",
+      "headlines": [
+        "Israel, Iran trade attacks for 5th day; Trump urges Tehran evacuation"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "G7 leaders push Trump on trade as talks continue",
+      "headlines": [
+        "G7 leaders push Trump on trade as talks continue"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
