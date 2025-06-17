@@ -20778,5 +20778,183 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-17T18:34:04.028Z": [
+    {
+      "summary": "Trump says no plans to kill Iran's leader 'for now', before calling for 'unconditional surrender'",
+      "headlines": [
+        "Trump says no plans to kill Iran's leader 'for now', before calling for 'unconditional surrender'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iranians describe fear and sadness over Trump evacuation warning",
+      "headlines": [
+        "Iranians describe fear and sadness over Trump evacuation warning"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Carney says support for Ukraine will be ‘unwavering’ on final day of G7 summit",
+      "headlines": [
+        "Carney says support for Ukraine will be ‘unwavering’ on final day of G7 summit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'I saw the plane go down': Teen traumatised after filming Air India crash video",
+      "headlines": [
+        "'I saw the plane go down': Teen traumatised after filming Air India crash video"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Spain's government blames huge blackout on grid regulator and private firms",
+      "headlines": [
+        "Spain's government blames huge blackout on grid regulator and private firms"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump wants 'better than a ceasefire' - what are his options for dealing with Iran?",
+      "headlines": [
+        "Trump wants 'better than a ceasefire' - what are his options for dealing with Iran?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can $499 gold Trump phone really be made in US? Experts have their doubts",
+      "headlines": [
+        "Can $499 gold Trump phone really be made in US? Experts have their doubts"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "The teen who filmed the Air India crash video the world saw",
+      "headlines": [
+        "The teen who filmed the Air India crash video the world saw"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Experts question whether $499 gold Trump phone can be US-made",
+      "headlines": [
+        "Experts question whether $499 gold Trump phone can be US-made"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Iran's supreme leader is safe in hiding 'for now'",
+      "headlines": [
+        "Trump says Iran's supreme leader is safe in hiding 'for now'"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran fires missiles at Israel; Trump claims ‘total control of Iran skies’",
+      "headlines": [
+        "Iran fires missiles at Israel; Trump claims ‘total control of Iran skies’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel, Iran trade further strikes into fifth day; Trump ramps up rhetoric",
+      "headlines": [
+        "Israel, Iran trade further strikes into fifth day; Trump ramps up rhetoric"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump warns Tehran residents to ‘evacuate immediately’. But can they?",
+      "headlines": [
+        "Trump warns Tehran residents to ‘evacuate immediately’. But can they?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he won’t ‘waste time’ calling Minnesota governor after slayings",
+      "headlines": [
+        "Trump says he won’t ‘waste time’ calling Minnesota governor after slayings"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Disrespect to US’: Ukraine slams Russia’s ‘horrific’ bombardment of Kyiv",
+      "headlines": [
+        "‘Disrespect to US’: Ukraine slams Russia’s ‘horrific’ bombardment of Kyiv"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How will Russia respond to the Israel-Iran conflict?",
+      "headlines": [
+        "How will Russia respond to the Israel-Iran conflict?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
