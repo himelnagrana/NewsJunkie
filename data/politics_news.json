@@ -21079,5 +21079,161 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-18T18:33:55.151Z": [
+    {
+      "summary": "Iran and Israel launch more attacks as Trump weighs US involvement",
+      "headlines": [
+        "Iran and Israel launch more attacks as Trump weighs US involvement"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Japan's Nippon seals controversial US Steel deal after Trump pact",
+      "headlines": [
+        "Japan's Nippon seals controversial US Steel deal after Trump pact"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Lone Air India survivor carries coffin of brother killed in crash",
+      "headlines": [
+        "Lone Air India survivor carries coffin of brother killed in crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: How Trump loomed over G7 despite early departure",
+      "headlines": [
+        "Watch: How Trump loomed over G7 despite early departure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "India won't accept third-party mediation on Kashmir, Modi tells Trump",
+      "headlines": [
+        "India won't accept third-party mediation on Kashmir, Modi tells Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump weighs joining Iran strikes after calling for 'unconditional surrender'",
+      "headlines": [
+        "Trump weighs joining Iran strikes after calling for 'unconditional surrender'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "England pick Pope over Bethell for first India Test",
+      "headlines": [
+        "England pick Pope over Bethell for first India Test"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he encouraged Netanyahu to 'keep going'",
+      "headlines": [
+        "Trump says he encouraged Netanyahu to 'keep going'"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Khamenei: Iran won’t accept ‘imposed peace, war’, warns US against strikes",
+      "headlines": [
+        "Khamenei: Iran won’t accept ‘imposed peace, war’, warns US against strikes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel-Iran conflict rages with ongoing aerial strikes amid war of words",
+      "headlines": [
+        "Israel-Iran conflict rages with ongoing aerial strikes amid war of words"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Did Trump approve Israel’s attack on Iran, and is the US preparing for war?",
+      "headlines": [
+        "Did Trump approve Israel’s attack on Iran, and is the US preparing for war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran war gives Netanyahu political breathing room in Israel",
+      "headlines": [
+        "Iran war gives Netanyahu political breathing room in Israel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Iran ‘very close’ to building a nuclear bomb as Trump claims?",
+      "headlines": [
+        "Is Iran ‘very close’ to building a nuclear bomb as Trump claims?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine’s daring drone assault forces Russia to shelter, relocate aircraft",
+      "headlines": [
+        "Ukraine’s daring drone assault forces Russia to shelter, relocate aircraft"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

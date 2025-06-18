@@ -16153,5 +16153,117 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-18T18:33:54.388Z": [
+    {
+      "summary": "Iran and Israel launch more attacks as Trump weighs US involvement",
+      "headlines": [
+        "Iran and Israel launch more attacks as Trump weighs US involvement"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Japan's Nippon seals controversial US Steel deal after Trump pact",
+      "headlines": [
+        "Japan's Nippon seals controversial US Steel deal after Trump pact"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: How Trump loomed over G7 despite early departure",
+      "headlines": [
+        "Watch: How Trump loomed over G7 despite early departure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "India won't accept third-party mediation on Kashmir, Modi tells Trump",
+      "headlines": [
+        "India won't accept third-party mediation on Kashmir, Modi tells Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump weighs joining Iran strikes after calling for 'unconditional surrender'",
+      "headlines": [
+        "Trump weighs joining Iran strikes after calling for 'unconditional surrender'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he encouraged Netanyahu to 'keep going'",
+      "headlines": [
+        "Trump says he encouraged Netanyahu to 'keep going'"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Did Trump approve Israel’s attack on Iran, and is the US preparing for war?",
+      "headlines": [
+        "Did Trump approve Israel’s attack on Iran, and is the US preparing for war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iran war gives Netanyahu political breathing room in Israel",
+      "headlines": [
+        "Iran war gives Netanyahu political breathing room in Israel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is Iran ‘very close’ to building a nuclear bomb as Trump claims?",
+      "headlines": [
+        "Is Iran ‘very close’ to building a nuclear bomb as Trump claims?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine’s daring drone assault forces Russia to shelter, relocate aircraft",
+      "headlines": [
+        "Ukraine’s daring drone assault forces Russia to shelter, relocate aircraft"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
