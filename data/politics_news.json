@@ -20956,5 +20956,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-18T06:34:59.660Z": [
+    {
+      "summary": "Trump considers joining Israel on Iran strikes as IDF targets nuclear sites",
+      "headlines": [
+        "Trump considers joining Israel on Iran strikes as IDF targets nuclear sites"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Steve Rosenberg: Russia fears another loss in Middle East from Iran's conflict with Israel",
+      "headlines": [
+        "Steve Rosenberg: Russia fears another loss in Middle East from Iran's conflict with Israel"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Minnesota's 'nice' culture shattered by  political violence",
+      "headlines": [
+        "Minnesota's 'nice' culture shattered by  political violence"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "How investigators are uncovering what caused 'rarest of the rare' Air India crash",
+      "headlines": [
+        "How investigators are uncovering what caused 'rarest of the rare' Air India crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to extend US TikTok ban deadline, White House says",
+      "headlines": [
+        "Trump to extend US TikTok ban deadline, White House says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: How Trump looms over G7 despite early departure",
+      "headlines": [
+        "Watch: How Trump looms over G7 despite early departure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "How the Air India crash investigation is unfolding",
+      "headlines": [
+        "How the Air India crash investigation is unfolding"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia fears another loss in Middle East from Iran's conflict with Israel",
+      "headlines": [
+        "Russia fears another loss in Middle East from Iran's conflict with Israel"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel-Iran attacks continue; Trump demands ‘unconditional surrender’",
+      "headlines": [
+        "Israel-Iran attacks continue; Trump demands ‘unconditional surrender’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump calls Iran’s leader an ‘easy target’ amid conflict with Israel",
+      "headlines": [
+        "Donald Trump calls Iran’s leader an ‘easy target’ amid conflict with Israel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,210",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,210"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
