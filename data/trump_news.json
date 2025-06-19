@@ -16333,5 +16333,73 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-06-19T18:32:28.277Z": [
+    {
+      "summary": "Trump will decide on US involvement in Israel-Iran conflict within two weeks, White House says",
+      "headlines": [
+        "Trump will decide on US involvement in Israel-Iran conflict within two weeks, White House says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Armenia's PM accuses head of Church of fathering child in febrile political row",
+      "headlines": [
+        "Armenia's PM accuses head of Church of fathering child in febrile political row"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to allow up to 2 weeks for diplomacy before deciding on US strike in Iran",
+      "headlines": [
+        "Trump to allow up to 2 weeks for diplomacy before deciding on US strike in Iran"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to decide whether to attack Iran ‘within two weeks’, White House says",
+      "headlines": [
+        "Trump to decide whether to attack Iran ‘within two weeks’, White House says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "What is the War Powers Act, and can it stop Trump from attacking Iran?",
+      "headlines": [
+        "What is the War Powers Act, and can it stop Trump from attacking Iran?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Thai government in crisis amid fallout from PM’s leaked phone call",
+      "headlines": [
+        "Thai government in crisis amid fallout from PM’s leaked phone call"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }
