@@ -21235,5 +21235,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-19T06:34:53.670Z": [
+    {
+      "summary": "Trump approves Iran attack plan but has not made final decision, reports say",
+      "headlines": [
+        "Trump approves Iran attack plan but has not made final decision, reports say"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ghosts of Iraq War lurk behind Trump and Gabbard split",
+      "headlines": [
+        "Ghosts of Iraq War lurk behind Trump and Gabbard split"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump installs enormous US flags at the White House",
+      "headlines": [
+        "Watch: Trump installs enormous US flags at the White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Slovak bid to arrest ex-defence minister exposes bitter row over war in Ukraine",
+      "headlines": [
+        "Slovak bid to arrest ex-defence minister exposes bitter row over war in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "New Zealand halts Cook Islands funding over China deals",
+      "headlines": [
+        "New Zealand halts Cook Islands funding over China deals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pope, Bumrah, Bashir - how England v India will be won and lost",
+      "headlines": [
+        "Pope, Bumrah, Bashir - how England v India will be won and lost"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Nobody knows what I’m going to do’: Trump embraces ambiguity towards Iran",
+      "headlines": [
+        "‘Nobody knows what I’m going to do’: Trump embraces ambiguity towards Iran"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,211",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,211"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Digital solidarity: How Iran’s Gen Z is dealing with war online",
+      "headlines": [
+        "Digital solidarity: How Iran’s Gen Z is dealing with war online"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

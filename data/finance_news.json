@@ -2078,5 +2078,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-19T06:34:55.187Z": [
+    {
+      "summary": "Texas Instruments pledges 'historic' $60bn US chip investment",
+      "headlines": [
+        "Texas Instruments pledges 'historic' $60bn US chip investment"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Fed holds interest rates for fourth time despite tariff turmoil",
+      "headlines": [
+        "Fed holds interest rates for fourth time despite tariff turmoil"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    }
   ]
 }
