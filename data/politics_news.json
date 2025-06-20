@@ -21437,5 +21437,73 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-06-20T06:34:42.627Z": [
+    {
+      "summary": "UK and EU to hold talks with Iran as Trump sets two-week window over Middle East conflict",
+      "headlines": [
+        "UK and EU to hold talks with Iran as Trump sets two-week window over Middle East conflict"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India to decide on overseas analysis of Air India crash flight recorders",
+      "headlines": [
+        "India to decide on overseas analysis of Air India crash flight recorders"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China criticises UK warship's patrol in Taiwan Strait",
+      "headlines": [
+        "China criticises UK warship's patrol in Taiwan Strait"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump confirms further delay to TikTok ban or sale deadline",
+      "headlines": [
+        "Trump confirms further delay to TikTok ban or sale deadline"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Amid US-Pakistan thaw, two key challenges: Iran and China",
+      "headlines": [
+        "Amid US-Pakistan thaw, two key challenges: Iran and China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Escalate to de-escalate? What options does Iran have to end Israel war?",
+      "headlines": [
+        "Escalate to de-escalate? What options does Iran have to end Israel war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

@@ -16401,5 +16401,51 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-06-20T06:34:42.055Z": [
+    {
+      "summary": "UK and EU to hold talks with Iran as Trump sets two-week window over Middle East conflict",
+      "headlines": [
+        "UK and EU to hold talks with Iran as Trump sets two-week window over Middle East conflict"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China criticises UK warship's patrol in Taiwan Strait",
+      "headlines": [
+        "China criticises UK warship's patrol in Taiwan Strait"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump confirms further delay to TikTok ban or sale deadline",
+      "headlines": [
+        "Trump confirms further delay to TikTok ban or sale deadline"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Amid US-Pakistan thaw, two key challenges: Iran and China",
+      "headlines": [
+        "Amid US-Pakistan thaw, two key challenges: Iran and China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

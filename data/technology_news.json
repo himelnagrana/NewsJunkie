@@ -510,5 +510,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-06-20T06:34:43.237Z": [
+    {
+      "summary": "Tech giants unleash AI on weather forecasts: are they any good?",
+      "headlines": [
+        "Tech giants unleash AI on weather forecasts: are they any good?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "technology"
+    }
   ]
 }

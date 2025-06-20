@@ -899,5 +899,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-06-20T06:34:43.731Z": [
+    {
+      "summary": "McIlroy two behind Scheffler at Travelers Championship",
+      "headlines": [
+        "McIlroy two behind Scheffler at Travelers Championship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
