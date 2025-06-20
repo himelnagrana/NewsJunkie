@@ -912,5 +912,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-06-20T18:33:12.395Z": [
+    {
+      "summary": "US basketball training for Senegal cancelled after visas rejected",
+      "headlines": [
+        "US basketball training for Senegal cancelled after visas rejected"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }

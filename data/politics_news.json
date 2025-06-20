@@ -21505,5 +21505,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-20T18:33:11.388Z": [
+    {
+      "summary": "US court allows Trump to keep control of National Guard in LA",
+      "headlines": [
+        "US court allows Trump to keep control of National Guard in LA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'They are shooting a lot': Voice notes from a Gaza hospital as war closes in",
+      "headlines": [
+        "'They are shooting a lot': Voice notes from a Gaza hospital as war closes in"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Has Trump put off joining the Israel-Iran conflict for two weeks?",
+      "headlines": [
+        "Has Trump put off joining the Israel-Iran conflict for two weeks?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin says Russian recession must not happen ‘under any circumstances’",
+      "headlines": [
+        "Putin says Russian recession must not happen ‘under any circumstances’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Trump planning an ‘Africa visa ban’?",
+      "headlines": [
+        "Is Trump planning an ‘Africa visa ban’?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Thithi president!’: Supporters rally for banned Ivorian opposition hopeful",
+      "headlines": [
+        "‘Thithi president!’: Supporters rally for banned Ivorian opposition hopeful"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }
