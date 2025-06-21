@@ -16493,5 +16493,40 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-06-21T06:32:11.203Z": [
+    {
+      "summary": "China has millions of single men - could dating camp help them find love?",
+      "headlines": [
+        "China has millions of single men - could dating camp help them find love?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "trump"
+    },
+    {
+      "summary": "32 nations but only one man matters - Nato's summit is all about Trump",
+      "headlines": [
+        "32 nations but only one man matters - Nato's summit is all about Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US intelligence ‘wrong’ about Iran not building nuclear bomb",
+      "headlines": [
+        "Trump says US intelligence ‘wrong’ about Iran not building nuclear bomb"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

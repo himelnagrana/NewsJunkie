@@ -21573,5 +21573,62 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-06-21T06:32:11.776Z": [
+    {
+      "summary": "China has millions of single men - could dating camp help them find love?",
+      "headlines": [
+        "China has millions of single men - could dating camp help them find love?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "32 nations but only one man matters - Nato's summit is all about Trump",
+      "headlines": [
+        "32 nations but only one man matters - Nato's summit is all about Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tristan Tate faces probe over alleged Romanian election interference",
+      "headlines": [
+        "Tristan Tate faces probe over alleged Romanian election interference"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says US intelligence ‘wrong’ about Iran not building nuclear bomb",
+      "headlines": [
+        "Trump says US intelligence ‘wrong’ about Iran not building nuclear bomb"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gill and Jaiswal help India hammer England on opening day of first Test",
+      "headlines": [
+        "Gill and Jaiswal help India hammer England on opening day of first Test"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }

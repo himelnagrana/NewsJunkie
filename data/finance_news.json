@@ -2102,5 +2102,18 @@
       "sentiment": 1,
       "topic": "finance"
     }
+  ],
+  "2025-06-21T06:32:13.291Z": [
+    {
+      "summary": "US Supreme Court declines to speed up decision to take up fight over tariff",
+      "headlines": [
+        "US Supreme Court declines to speed up decision to take up fight over tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "finance"
+    }
   ]
 }

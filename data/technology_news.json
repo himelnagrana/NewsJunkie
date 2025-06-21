@@ -536,5 +536,18 @@
       "sentiment": -1,
       "topic": "technology"
     }
+  ],
+  "2025-06-21T06:32:12.361Z": [
+    {
+      "summary": "Israel-Iran conflict unleashes wave of AI disinformation",
+      "headlines": [
+        "Israel-Iran conflict unleashes wave of AI disinformation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }
