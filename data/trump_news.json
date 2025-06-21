@@ -16528,5 +16528,40 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-06-21T18:30:01.057Z": [
+    {
+      "summary": "Pakistan to nominate Trump for Nobel Peace Prize",
+      "headlines": [
+        "Pakistan to nominate Trump for Nobel Peace Prize"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Columbia activist Mahmoud Khalil says Trump administration has failed",
+      "headlines": [
+        "Columbia activist Mahmoud Khalil says Trump administration has failed"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Hundreds of Voice of America reporters fired as Trump guts outlet",
+      "headlines": [
+        "Hundreds of Voice of America reporters fired as Trump guts outlet"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
