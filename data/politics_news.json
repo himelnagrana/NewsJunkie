@@ -21676,5 +21676,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-22T06:32:27.072Z": [
+    {
+      "summary": "Trump takes huge gamble putting US at heart of Iran-Israel conflict",
+      "headlines": [
+        "Trump takes huge gamble putting US at heart of Iran-Israel conflict"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump says strikes on Iran a 'spectacular military success' in address",
+      "headlines": [
+        "Watch: Trump says strikes on Iran a 'spectacular military success' in address"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rosenberg: Russian government clearly nervous as country faces economic challenges",
+      "headlines": [
+        "Rosenberg: Russian government clearly nervous as country faces economic challenges"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "When Dubai almost became a part of India",
+      "headlines": [
+        "When Dubai almost became a part of India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What is the War Powers Act – can it stop Trump from declaring war on Iran?",
+      "headlines": [
+        "What is the War Powers Act – can it stop Trump from declaring war on Iran?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    }
   ]
 }
