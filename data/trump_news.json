@@ -16620,5 +16620,73 @@
       "sentiment": -5,
       "topic": "trump"
     }
+  ],
+  "2025-06-22T18:30:45.132Z": [
+    {
+      "summary": "Iran says US attacks will get 'response', as Trump claims 'we took bomb out of their hands'",
+      "headlines": [
+        "Iran says US attacks will get 'response', as Trump claims 'we took bomb out of their hands'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine still holds ground inside Russia's Kursk, commander says",
+      "headlines": [
+        "Ukraine still holds ground inside Russia's Kursk, commander says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Belarus opposition leader's husband urges Trump to help other prisoners",
+      "headlines": [
+        "Belarus opposition leader's husband urges Trump to help other prisoners"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Senior Trump officials say US attacks on Iran ‘not about regime change’",
+      "headlines": [
+        "Senior Trump officials say US attacks on Iran ‘not about regime change’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iran warns US of consequences after strikes, says Trump betrayed his voters",
+      "headlines": [
+        "Iran warns US of consequences after strikes, says Trump betrayed his voters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "US attacks Iran: How Trump rejoined ‘team’ Netanyahu",
+      "headlines": [
+        "US attacks Iran: How Trump rejoined ‘team’ Netanyahu"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

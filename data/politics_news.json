@@ -21733,5 +21733,106 @@
       "sentiment": -5,
       "topic": "politics"
     }
+  ],
+  "2025-06-22T18:30:45.743Z": [
+    {
+      "summary": "Iran says US attacks will get 'response', as Trump claims 'we took bomb out of their hands'",
+      "headlines": [
+        "Iran says US attacks will get 'response', as Trump claims 'we took bomb out of their hands'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine still holds ground inside Russia's Kursk, commander says",
+      "headlines": [
+        "Ukraine still holds ground inside Russia's Kursk, commander says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Belarus opposition leader's husband urges Trump to help other prisoners",
+      "headlines": [
+        "Belarus opposition leader's husband urges Trump to help other prisoners"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: The US has joined the Iran-Israel war. What happens now?",
+      "headlines": [
+        "Watch: The US has joined the Iran-Israel war. What happens now?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India lead England by 96 with first Test in balance - as it happened",
+      "headlines": [
+        "India lead England by 96 with first Test in balance - as it happened"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Senior Trump officials say US attacks on Iran ‘not about regime change’",
+      "headlines": [
+        "Senior Trump officials say US attacks on Iran ‘not about regime change’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran warns US of consequences after strikes, says Trump betrayed his voters",
+      "headlines": [
+        "Iran warns US of consequences after strikes, says Trump betrayed his voters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "US attacks Iran: How Trump rejoined ‘team’ Netanyahu",
+      "headlines": [
+        "US attacks Iran: How Trump rejoined ‘team’ Netanyahu"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,214",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,214"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
