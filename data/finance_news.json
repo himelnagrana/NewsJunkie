@@ -2115,5 +2115,29 @@
       "sentiment": 3,
       "topic": "finance"
     }
+  ],
+  "2025-06-23T18:34:09.609Z": [
+    {
+      "summary": "Russia's economy is down but not out",
+      "headlines": [
+        "Russia's economy is down but not out"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Let non-doms pay £250,000 and avoid some UK tax - Farage",
+      "headlines": [
+        "Let non-doms pay £250,000 and avoid some UK tax - Farage"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

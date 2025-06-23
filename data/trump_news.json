@@ -16734,5 +16734,40 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-06-23T18:34:07.248Z": [
+    {
+      "summary": "Netanyahu and Trump 'totally aligned' on Iran - Barkat",
+      "headlines": [
+        "Netanyahu and Trump 'totally aligned' on Iran - Barkat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘We’ll end this war’: Iran warns ‘gambler’ Trump as it hits back at Israel",
+      "headlines": [
+        "‘We’ll end this war’: Iran warns ‘gambler’ Trump as it hits back at Israel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US attacks on Iran risk global conflict, Russia and China warn",
+      "headlines": [
+        "US attacks on Iran risk global conflict, Russia and China warn"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -7,
+      "topic": "trump"
+    }
   ]
 }
