@@ -16688,5 +16688,51 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-06-23T06:36:51.713Z": [
+    {
+      "summary": "Trump hails 'bullseye' strikes on Iranian nuclear sites as UN says damage is unclear",
+      "headlines": [
+        "Trump hails 'bullseye' strikes on Iranian nuclear sites as UN says damage is unclear"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "US asks China to stop Iran from closing Strait of Hormuz",
+      "headlines": [
+        "US asks China to stop Iran from closing Strait of Hormuz"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "How China made electric vehicles mainstream",
+      "headlines": [
+        "How China made electric vehicles mainstream"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "History of US-Iran relations: From the 1953 regime change to Trump strikes",
+      "headlines": [
+        "History of US-Iran relations: From the 1953 regime change to Trump strikes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

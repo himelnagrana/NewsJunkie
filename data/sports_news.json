@@ -938,5 +938,18 @@
       "sentiment": -3,
       "topic": "sports"
     }
+  ],
+  "2025-06-23T06:36:53.434Z": [
+    {
+      "summary": "Club World Cup reaction as Man City reach knockouts plus tournament talking points",
+      "headlines": [
+        "Club World Cup reaction as Man City reach knockouts plus tournament talking points"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    }
   ]
 }
