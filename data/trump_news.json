@@ -16837,5 +16837,62 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-06-24T18:33:58.717Z": [
+    {
+      "summary": "Israel-Iran ceasefire appears to hold after Trump outburst at both sides",
+      "headlines": [
+        "Israel-Iran ceasefire appears to hold after Trump outburst at both sides"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Leaders arrive at Hague summit as Nato chief Rutte flatters Trump",
+      "headlines": [
+        "Leaders arrive at Hague summit as Nato chief Rutte flatters Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump in angry outburst aimed at Israel and Iran",
+      "headlines": [
+        "Trump in angry outburst aimed at Israel and Iran"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Under Trump, US strikes on Somalia have doubled since last year. Why?",
+      "headlines": [
+        "Under Trump, US strikes on Somalia have doubled since last year. Why?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Powell says US Fed to wait to reduce rates even as Trump demands cuts",
+      "headlines": [
+        "Powell says US Fed to wait to reduce rates even as Trump demands cuts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

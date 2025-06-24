@@ -22005,5 +22005,95 @@
       "sentiment": 2,
       "topic": "politics"
     }
+  ],
+  "2025-06-24T18:33:59.322Z": [
+    {
+      "summary": "Israel-Iran ceasefire appears to hold after Trump outburst at both sides",
+      "headlines": [
+        "Israel-Iran ceasefire appears to hold after Trump outburst at both sides"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Leaders arrive at Hague summit as Nato chief Rutte flatters Trump",
+      "headlines": [
+        "Leaders arrive at Hague summit as Nato chief Rutte flatters Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump in angry outburst aimed at Israel and Iran",
+      "headlines": [
+        "Trump in angry outburst aimed at Israel and Iran"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sister vs brother: A local Florida election is a family rivalry",
+      "headlines": [
+        "Sister vs brother: A local Florida election is a family rivalry"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "England chase down 371 to seal staggering win over India - reaction",
+      "headlines": [
+        "England chase down 371 to seal staggering win over India - reaction"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Duckett leads England to classic defeat of India",
+      "headlines": [
+        "Duckett leads England to classic defeat of India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Under Trump, US strikes on Somalia have doubled since last year. Why?",
+      "headlines": [
+        "Under Trump, US strikes on Somalia have doubled since last year. Why?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Powell says US Fed to wait to reduce rates even as Trump demands cuts",
+      "headlines": [
+        "Powell says US Fed to wait to reduce rates even as Trump demands cuts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
