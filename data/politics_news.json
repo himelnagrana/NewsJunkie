@@ -21926,5 +21926,84 @@
       "sentiment": -7,
       "topic": "politics"
     }
+  ],
+  "2025-06-24T06:36:01.610Z": [
+    {
+      "summary": "Israel agrees to ceasefire with Iran as Trump tells both countries 'do not violate it'",
+      "headlines": [
+        "Israel agrees to ceasefire with Iran as Trump tells both countries 'do not violate it'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Did Trump have the legal authority to strike Iran?",
+      "headlines": [
+        "Did Trump have the legal authority to strike Iran?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Supreme Court allows Trump to resume deportations to third countries",
+      "headlines": [
+        "US Supreme Court allows Trump to resume deportations to third countries"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Israel-Iran ceasefire is now in effect",
+      "headlines": [
+        "Trump says Israel-Iran ceasefire is now in effect"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump claims ceasefire reached between Israel and Iran",
+      "headlines": [
+        "Trump claims ceasefire reached between Israel and Iran"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Foreigners for both nations’: India pushing Muslims ‘back’ to Bangladesh",
+      "headlines": [
+        "‘Foreigners for both nations’: India pushing Muslims ‘back’ to Bangladesh"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Supreme Court lets Trump restart deporting migrants to ‘third countries’",
+      "headlines": [
+        "Supreme Court lets Trump restart deporting migrants to ‘third countries’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }

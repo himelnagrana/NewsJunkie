@@ -16769,5 +16769,73 @@
       "sentiment": -7,
       "topic": "trump"
     }
+  ],
+  "2025-06-24T06:36:00.898Z": [
+    {
+      "summary": "Israel agrees to ceasefire with Iran as Trump tells both countries 'do not violate it'",
+      "headlines": [
+        "Israel agrees to ceasefire with Iran as Trump tells both countries 'do not violate it'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Did Trump have the legal authority to strike Iran?",
+      "headlines": [
+        "Did Trump have the legal authority to strike Iran?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US Supreme Court allows Trump to resume deportations to third countries",
+      "headlines": [
+        "US Supreme Court allows Trump to resume deportations to third countries"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Israel-Iran ceasefire is now in effect",
+      "headlines": [
+        "Trump says Israel-Iran ceasefire is now in effect"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump claims ceasefire reached between Israel and Iran",
+      "headlines": [
+        "Trump claims ceasefire reached between Israel and Iran"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Supreme Court lets Trump restart deporting migrants to ‘third countries’",
+      "headlines": [
+        "Supreme Court lets Trump restart deporting migrants to ‘third countries’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }
