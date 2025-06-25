@@ -16962,5 +16962,106 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-25T18:34:36.556Z": [
+    {
+      "summary": "Trump says Nato's new 5% defence spending pledge a 'big win'",
+      "headlines": [
+        "Trump says Nato's new 5% defence spending pledge a 'big win'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'I can see it's very upsetting' - Trump asks BBC Ukrainian reporter about her family",
+      "headlines": [
+        "'I can see it's very upsetting' - Trump asks BBC Ukrainian reporter about her family"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump pushes back after leaked report suggests Iran strikes had limited impact",
+      "headlines": [
+        "Trump pushes back after leaked report suggests Iran strikes had limited impact"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US will meet with Iran next week",
+      "headlines": [
+        "Trump says US will meet with Iran next week"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US and Iran to talk next week as ‘war done’ with Israel: Trump",
+      "headlines": [
+        "US and Iran to talk next week as ‘war done’ with Israel: Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "NATO commits to major defence spending hike sought by Trump",
+      "headlines": [
+        "NATO commits to major defence spending hike sought by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israeli attacks kill at least 64 as Trump signals progress in Gaza talks",
+      "headlines": [
+        "Israeli attacks kill at least 64 as Trump signals progress in Gaza talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration sues Maryland court system over deportation rulings",
+      "headlines": [
+        "Trump administration sues Maryland court system over deportation rulings"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "12 posts from ‘12 day war’: How Trump live-posted Israel-Iran conflict",
+      "headlines": [
+        "12 posts from ‘12 day war’: How Trump live-posted Israel-Iran conflict"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

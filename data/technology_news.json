@@ -562,5 +562,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-06-25T18:34:37.779Z": [
+    {
+      "summary": "Personal fans and light-up toilet seats - the problem with 'fast tech'",
+      "headlines": [
+        "Personal fans and light-up toilet seats - the problem with 'fast tech'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }
