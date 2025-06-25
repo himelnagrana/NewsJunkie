@@ -16894,5 +16894,73 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-25T06:35:58.977Z": [
+    {
+      "summary": "Trump rejects leaked intelligence that says strikes did not destroy Iran nuclear programme",
+      "headlines": [
+        "Trump rejects leaked intelligence that says strikes did not destroy Iran nuclear programme"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump takes victory lap but pitfalls remain",
+      "headlines": [
+        "Trump takes victory lap but pitfalls remain"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Three things we learned about Trump's foreign policy from Iran strikes",
+      "headlines": [
+        "Three things we learned about Trump's foreign policy from Iran strikes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Lorry driver trapped in cabin after China bridge collapse",
+      "headlines": [
+        "Watch: Lorry driver trapped in cabin after China bridge collapse"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Large fire breaks out at motorcycle parking lot in China",
+      "headlines": [
+        "Watch: Large fire breaks out at motorcycle parking lot in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump is seeking a quick US exit from Israel-Iran conflict. Will it work?",
+      "headlines": [
+        "Trump is seeking a quick US exit from Israel-Iran conflict. Will it work?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

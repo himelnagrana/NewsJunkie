@@ -549,5 +549,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-06-25T06:36:00.482Z": [
+    {
+      "summary": "US judge allows company to train AI using copyrighted literary materials",
+      "headlines": [
+        "US judge allows company to train AI using copyrighted literary materials"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
