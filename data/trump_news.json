@@ -17063,5 +17063,40 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-26T06:35:59.398Z": [
+    {
+      "summary": "'I can see it's upsetting' - Trump asks BBC Ukrainian reporter about her family",
+      "headlines": [
+        "'I can see it's upsetting' - Trump asks BBC Ukrainian reporter about her family"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump employs a familiar tactic on Iran",
+      "headlines": [
+        "Trump employs a familiar tactic on Iran"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls for cancellation of Netanyahu’s corruption trial in Israel",
+      "headlines": [
+        "Trump calls for cancellation of Netanyahu’s corruption trial in Israel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }

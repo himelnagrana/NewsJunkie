@@ -22308,5 +22308,62 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-26T06:35:59.951Z": [
+    {
+      "summary": "'I can see it's upsetting' - Trump asks BBC Ukrainian reporter about her family",
+      "headlines": [
+        "'I can see it's upsetting' - Trump asks BBC Ukrainian reporter about her family"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump employs a familiar tactic on Iran",
+      "headlines": [
+        "Trump employs a familiar tactic on Iran"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls for cancellation of Netanyahu’s corruption trial in Israel",
+      "headlines": [
+        "Trump calls for cancellation of Netanyahu’s corruption trial in Israel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "The ‘12-Day War’ ended with an attack on Qatar. Why didn’t it escalate?",
+      "headlines": [
+        "The ‘12-Day War’ ended with an attack on Qatar. Why didn’t it escalate?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine’s Zelenskyy urges trial for ‘war criminal’ Putin",
+      "headlines": [
+        "Ukraine’s Zelenskyy urges trial for ‘war criminal’ Putin"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
