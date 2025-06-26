@@ -22365,5 +22365,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-26T18:34:00.506Z": [
+    {
+      "summary": "'Made in the USA' reference disappears from Trump phone listing",
+      "headlines": [
+        "'Made in the USA' reference disappears from Trump phone listing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls for end to Netanyahu corruption trial",
+      "headlines": [
+        "Trump calls for end to Netanyahu corruption trial"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump vs US intelligence: Iran is only the latest chapter",
+      "headlines": [
+        "Trump vs US intelligence: Iran is only the latest chapter"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel’s media amplifies war rhetoric, ignores Gaza’s suffering",
+      "headlines": [
+        "Israel’s media amplifies war rhetoric, ignores Gaza’s suffering"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "The ’12-Day War’ ended with an attack on Qatar. Why didn’t it escalate?",
+      "headlines": [
+        "The ’12-Day War’ ended with an attack on Qatar. Why didn’t it escalate?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }

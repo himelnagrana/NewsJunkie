@@ -17098,5 +17098,40 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-06-26T18:33:59.708Z": [
+    {
+      "summary": "'Made in the USA' reference disappears from Trump phone listing",
+      "headlines": [
+        "'Made in the USA' reference disappears from Trump phone listing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls for end to Netanyahu corruption trial",
+      "headlines": [
+        "Trump calls for end to Netanyahu corruption trial"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump vs US intelligence: Iran is only the latest chapter",
+      "headlines": [
+        "Trump vs US intelligence: Iran is only the latest chapter"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
