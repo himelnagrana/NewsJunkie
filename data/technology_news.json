@@ -575,5 +575,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-06-27T06:35:25.908Z": [
+    {
+      "summary": "India’s innovation push falters with researchers denied timely funding",
+      "headlines": [
+        "India’s innovation push falters with researchers denied timely funding"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }

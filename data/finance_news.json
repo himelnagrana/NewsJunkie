@@ -2139,5 +2139,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-06-27T06:35:26.963Z": [
+    {
+      "summary": "Israeli strike at Gaza market kills 18 Palestinians, doctor and witnesses say",
+      "headlines": [
+        "Israeli strike at Gaza market kills 18 Palestinians, doctor and witnesses say"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    }
   ]
 }

@@ -22422,5 +22422,62 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-06-27T06:35:25.331Z": [
+    {
+      "summary": "Canada passes law fast-tracking 'nation building' projects to counter Trump",
+      "headlines": [
+        "Canada passes law fast-tracking 'nation building' projects to counter Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Weekly quiz: Who called Donald Trump 'daddy'?",
+      "headlines": [
+        "Weekly quiz: Who called Donald Trump 'daddy'?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nike says Trump tariffs could raise its costs by $1bn",
+      "headlines": [
+        "Nike says Trump tariffs could raise its costs by $1bn"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Israel launched attacks from inside Iran to sow chaos during war",
+      "headlines": [
+        "How Israel launched attacks from inside Iran to sow chaos during war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "US government plans to deport Abrego Garcia to a third country: Prosecutors",
+      "headlines": [
+        "US government plans to deport Abrego Garcia to a third country: Prosecutors"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
