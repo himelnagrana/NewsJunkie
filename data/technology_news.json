@@ -588,5 +588,18 @@
       "sentiment": -1,
       "topic": "technology"
     }
+  ],
+  "2025-06-27T18:33:09.184Z": [
+    {
+      "summary": "MrBeast removes YouTube AI tool after backlash",
+      "headlines": [
+        "MrBeast removes YouTube AI tool after backlash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

@@ -17179,5 +17179,106 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-27T18:33:08.093Z": [
+    {
+      "summary": "Trump hails 'giant win' after Supreme Court curbs judges' power to block his orders",
+      "headlines": [
+        "Trump hails 'giant win' after Supreme Court curbs judges' power to block his orders"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says ruling is 'monumental' as he thanks Supreme Court",
+      "headlines": [
+        "Trump says ruling is 'monumental' as he thanks Supreme Court"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tells BBC he would strike Iran again if enrichment levels become concerning",
+      "headlines": [
+        "Trump tells BBC he would strike Iran again if enrichment levels become concerning"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Outrage as Trump compares Iran strikes to Japan atomic bombing",
+      "headlines": [
+        "Outrage as Trump compares Iran strikes to Japan atomic bombing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump hails Supreme Court decision to limit judges' power to block orders",
+      "headlines": [
+        "Trump hails Supreme Court decision to limit judges' power to block orders"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin confirms he wants all of Ukraine, as Europe steps up military aid",
+      "headlines": [
+        "Putin confirms he wants all of Ukraine, as Europe steps up military aid"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia kills 5 in Ukraine’s Samar, as Putin seems ready for new peace talks",
+      "headlines": [
+        "Russia kills 5 in Ukraine’s Samar, as Putin seems ready for new peace talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Nike to raise costs as Trump’s tariffs on China bite",
+      "headlines": [
+        "Nike to raise costs as Trump’s tariffs on China bite"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why the Trump administration is targeting immigration courts for arrests",
+      "headlines": [
+        "Why the Trump administration is targeting immigration courts for arrests"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
