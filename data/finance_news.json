@@ -2152,5 +2152,29 @@
       "sentiment": -4,
       "topic": "finance"
     }
+  ],
+  "2025-06-28T06:32:14.442Z": [
+    {
+      "summary": "'In business, indecision is killer' - Canadian firms seek certainty in tariff war",
+      "headlines": [
+        "'In business, indecision is killer' - Canadian firms seek certainty in tariff war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "US ending all trade negotiations with Canada over digital tax: Trump",
+      "headlines": [
+        "US ending all trade negotiations with Canada over digital tax: Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

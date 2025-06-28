@@ -17280,5 +17280,62 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-06-28T06:32:12.001Z": [
+    {
+      "summary": "Trump says he is cutting off trade talks with Canada",
+      "headlines": [
+        "Trump says he is cutting off trade talks with Canada"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he would 'absolutely' consider bombing Iran again",
+      "headlines": [
+        "Trump says he would 'absolutely' consider bombing Iran again"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump lambasts Khamenei, says he’d bomb Iran if nuclear activities restart",
+      "headlines": [
+        "Trump lambasts Khamenei, says he’d bomb Iran if nuclear activities restart"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Gaza ceasefire possible ‘within the next week’, gives no details",
+      "headlines": [
+        "Trump says Gaza ceasefire possible ‘within the next week’, gives no details"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US ending all trade negotiations with Canada over digital tax: Trump",
+      "headlines": [
+        "US ending all trade negotiations with Canada over digital tax: Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
