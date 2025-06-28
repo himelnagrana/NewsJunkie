@@ -17337,5 +17337,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-06-28T18:30:39.126Z": [
+    {
+      "summary": "Trump on a high after 'tremendous' wins at home and abroad",
+      "headlines": [
+        "Trump on a high after 'tremendous' wins at home and abroad"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "'We have all the cards' - Trump says he is ending Canada trade talks",
+      "headlines": [
+        "'We have all the cards' - Trump says he is ending Canada trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What is Canada’s digital tax and why is Trump killing trade talks over it?",
+      "headlines": [
+        "What is Canada’s digital tax and why is Trump killing trade talks over it?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }

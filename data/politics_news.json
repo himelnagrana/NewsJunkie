@@ -22670,5 +22670,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-06-28T18:30:39.644Z": [
+    {
+      "summary": "Trump on a high after 'tremendous' wins at home and abroad",
+      "headlines": [
+        "Trump on a high after 'tremendous' wins at home and abroad"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "'We have all the cards' - Trump says he is ending Canada trade talks",
+      "headlines": [
+        "'We have all the cards' - Trump says he is ending Canada trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mandhana stars as India inflict record loss on England",
+      "headlines": [
+        "Mandhana stars as India inflict record loss on England"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "What is Canada’s digital tax and why is Trump killing trade talks over it?",
+      "headlines": [
+        "What is Canada’s digital tax and why is Trump killing trade talks over it?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nowhere to run: The Afghan refugees caught in Israel’s war on Iran",
+      "headlines": [
+        "Nowhere to run: The Afghan refugees caught in Israel’s war on Iran"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
