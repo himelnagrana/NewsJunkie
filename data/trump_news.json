@@ -17418,5 +17418,73 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-06-29T18:31:02.691Z": [
+    {
+      "summary": "Israel orders evacuations in northern Gaza as Trump pushes for ceasefire",
+      "headlines": [
+        "Israel orders evacuations in northern Gaza as Trump pushes for ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What Love Island USA can learn from the UK show's own tragedies",
+      "headlines": [
+        "What Love Island USA can learn from the UK show's own tragedies"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump reiterates Iran nuclear talking points despite swirling questions",
+      "headlines": [
+        "Trump reiterates Iran nuclear talking points despite swirling questions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine F-16 pilot killed repelling massive Russian air attack",
+      "headlines": [
+        "Ukraine F-16 pilot killed repelling massive Russian air attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Serbia’s president vows more arrests after huge antigovernment protests",
+      "headlines": [
+        "Serbia’s president vows more arrests after huge antigovernment protests"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Uganda’s President Museveni confirms bid to extend nearly 40-year rule",
+      "headlines": [
+        "Uganda’s President Museveni confirms bid to extend nearly 40-year rule"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }
