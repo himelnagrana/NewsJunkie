@@ -22727,5 +22727,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-29T06:33:34.003Z": [
+    {
+      "summary": "UK government condemns Glastonbury chants aired live on BBC",
+      "headlines": [
+        "UK government condemns Glastonbury chants aired live on BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What Love Island USA can learn from the UK franchise's own tragedies",
+      "headlines": [
+        "What Love Island USA can learn from the UK franchise's own tragedies"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "A pioneering doctor remembers India leader Indira Gandhi's final moments",
+      "headlines": [
+        "A pioneering doctor remembers India leader Indira Gandhi's final moments"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "I feel like I've been gaslit - like the life I had before the war was made up",
+      "headlines": [
+        "I feel like I've been gaslit - like the life I had before the war was made up"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump agenda bill clears key hurdle in the Senate",
+      "headlines": [
+        "Trump agenda bill clears key hurdle in the Senate"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine says drones destroyed Russia’s helicopters, air defences in Crimea",
+      "headlines": [
+        "Ukraine says drones destroyed Russia’s helicopters, air defences in Crimea"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "At least 66 children dead of malnutrition in Gaza amid Israel’s war",
+      "headlines": [
+        "At least 66 children dead of malnutrition in Gaza amid Israel’s war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,221",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,221"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

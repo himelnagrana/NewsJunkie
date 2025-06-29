@@ -17372,5 +17372,51 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-06-29T06:33:33.386Z": [
+    {
+      "summary": "UK government condemns Glastonbury chants aired live on BBC",
+      "headlines": [
+        "UK government condemns Glastonbury chants aired live on BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "What Love Island USA can learn from the UK franchise's own tragedies",
+      "headlines": [
+        "What Love Island USA can learn from the UK franchise's own tragedies"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump agenda bill clears key hurdle in the Senate",
+      "headlines": [
+        "Trump agenda bill clears key hurdle in the Senate"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine says drones destroyed Russia’s helicopters, air defences in Crimea",
+      "headlines": [
+        "Ukraine says drones destroyed Russia’s helicopters, air defences in Crimea"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
