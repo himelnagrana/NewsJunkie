@@ -22986,5 +22986,51 @@
       "sentiment": -5,
       "topic": "politics"
     }
+  ],
+  "2025-06-30T18:33:52.253Z": [
+    {
+      "summary": "At least 85 Palestinians killed in Israeli attacks as war on Gaza rages",
+      "headlines": [
+        "At least 85 Palestinians killed in Israeli attacks as war on Gaza rages"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is Ukraine withdrawing from the Ottawa Treaty banning landmines?",
+      "headlines": [
+        "Why is Ukraine withdrawing from the Ottawa Treaty banning landmines?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Political limits’: Why did India lose jets to Pakistani fire in May fight?",
+      "headlines": [
+        "‘Political limits’: Why did India lose jets to Pakistani fire in May fight?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "China claims Canada’s order for Hikvision closure ‘damages’ trade relations",
+      "headlines": [
+        "China claims Canada’s order for Hikvision closure ‘damages’ trade relations"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

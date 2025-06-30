@@ -601,5 +601,29 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-06-30T18:33:52.820Z": [
+    {
+      "summary": "Canada drops tech tax to restart US trade talks",
+      "headlines": [
+        "Canada drops tech tax to restart US trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    },
+    {
+      "summary": "How generative AI is affecting people’s minds",
+      "headlines": [
+        "How generative AI is affecting people’s minds"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

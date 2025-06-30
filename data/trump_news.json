@@ -17554,5 +17554,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-06-30T18:33:51.702Z": [
+    {
+      "summary": "Why is Ukraine withdrawing from the Ottawa Treaty banning landmines?",
+      "headlines": [
+        "Why is Ukraine withdrawing from the Ottawa Treaty banning landmines?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Political limits’: Why did India lose jets to Pakistani fire in May fight?",
+      "headlines": [
+        "‘Political limits’: Why did India lose jets to Pakistani fire in May fight?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "China claims Canada’s order for Hikvision closure ‘damages’ trade relations",
+      "headlines": [
+        "China claims Canada’s order for Hikvision closure ‘damages’ trade relations"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

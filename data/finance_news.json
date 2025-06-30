@@ -2202,5 +2202,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-06-30T18:33:53.817Z": [
+    {
+      "summary": "Canada drops tech tax to restart US trade talks",
+      "headlines": [
+        "Canada drops tech tax to restart US trade talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "US Senate debates Trump’s big bill of tax breaks and spending cuts",
+      "headlines": [
+        "US Senate debates Trump’s big bill of tax breaks and spending cuts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
