@@ -990,5 +990,29 @@
       "sentiment": -1,
       "topic": "sports"
     }
+  ],
+  "2025-06-30T06:36:48.558Z": [
+    {
+      "summary": "Watch: Humanoid robots stumble through football match in China",
+      "headlines": [
+        "Watch: Humanoid robots stumble through football match in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    },
+    {
+      "summary": "Your complete guide to the UEFA Women’s Euro 2025 championship",
+      "headlines": [
+        "Your complete guide to the UEFA Women’s Euro 2025 championship"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

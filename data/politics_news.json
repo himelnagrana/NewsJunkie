@@ -22896,5 +22896,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-06-30T06:36:47.479Z": [
+    {
+      "summary": "Republican Senator Thom Tillis to leave Congress after clash with Trump",
+      "headlines": [
+        "Republican Senator Thom Tillis to leave Congress after clash with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Every word has come back to haunt me': China cracks down on women who write gay erotica",
+      "headlines": [
+        "'Every word has come back to haunt me': China cracks down on women who write gay erotica"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nearly 12 million estimated to lose health coverage under Trump budget bill",
+      "headlines": [
+        "Nearly 12 million estimated to lose health coverage under Trump budget bill"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Humanoid robots stumble through football match in China",
+      "headlines": [
+        "Watch: Humanoid robots stumble through football match in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Crowds celebrate Pride in New York City, India, Mexico and more",
+      "headlines": [
+        "Crowds celebrate Pride in New York City, India, Mexico and more"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘One Big Beautiful Bill Act’ is another power play for Trump",
+      "headlines": [
+        "‘One Big Beautiful Bill Act’ is another power play for Trump"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada rescinds digital services tax after Trump suspends trade talks",
+      "headlines": [
+        "Canada rescinds digital services tax after Trump suspends trade talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Eleven killed in Sudan gold mine collapse as civil war rages",
+      "headlines": [
+        "Eleven killed in Sudan gold mine collapse as civil war rages"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    }
   ]
 }
