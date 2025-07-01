@@ -17589,5 +17589,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-01T06:36:21.992Z": [
+    {
+      "summary": "Trump global aid cuts risk 14 million deaths in five years, report says",
+      "headlines": [
+        "Trump global aid cuts risk 14 million deaths in five years, report says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump revokes US sanctions on Syria",
+      "headlines": [
+        "Trump revokes US sanctions on Syria"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "White House says Canada's Carney 'caved' to Trump on tech tax",
+      "headlines": [
+        "White House says Canada's Carney 'caved' to Trump on tech tax"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump formally orders lifting of Syria sanctions",
+      "headlines": [
+        "Trump formally orders lifting of Syria sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

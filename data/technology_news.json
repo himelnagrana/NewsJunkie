@@ -625,5 +625,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-07-01T06:36:23.554Z": [
+    {
+      "summary": "White House says Canada's Carney 'caved' to Trump on tech tax",
+      "headlines": [
+        "White House says Canada's Carney 'caved' to Trump on tech tax"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

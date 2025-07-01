@@ -23032,5 +23032,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-01T06:36:22.794Z": [
+    {
+      "summary": "Trump global aid cuts risk 14 million deaths in five years, report says",
+      "headlines": [
+        "Trump global aid cuts risk 14 million deaths in five years, report says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "BBC investigation reveals hidden deaths at India festival crush",
+      "headlines": [
+        "BBC investigation reveals hidden deaths at India festival crush"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Death toll in India factory blast rises to 34",
+      "headlines": [
+        "Death toll in India factory blast rises to 34"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Losing a baby, rescuing a child and dodging air strikes in Sudan's civil war",
+      "headlines": [
+        "Losing a baby, rescuing a child and dodging air strikes in Sudan's civil war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -8,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump revokes US sanctions on Syria",
+      "headlines": [
+        "Trump revokes US sanctions on Syria"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "White House says Canada's Carney 'caved' to Trump on tech tax",
+      "headlines": [
+        "White House says Canada's Carney 'caved' to Trump on tech tax"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump formally orders lifting of Syria sanctions",
+      "headlines": [
+        "Trump formally orders lifting of Syria sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is Prada caught in a sandal scandal in India?",
+      "headlines": [
+        "Why is Prada caught in a sandal scandal in India?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
