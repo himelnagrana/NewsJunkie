@@ -17635,5 +17635,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-01T18:33:23.240Z": [
+    {
+      "summary": "Watch: President Trump tours controversial 'Alligator Alcatraz'",
+      "headlines": [
+        "Watch: President Trump tours controversial 'Alligator Alcatraz'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens to set Doge on Musk as pair feud again over budget plan",
+      "headlines": [
+        "Trump threatens to set Doge on Musk as pair feud again over budget plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Three killed in Ukrainian drone attack on central Russia",
+      "headlines": [
+        "Three killed in Ukrainian drone attack on central Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Trump talks about the dangerous reptiles near 'Alligator Alcatraz'",
+      "headlines": [
+        "Watch: Trump talks about the dangerous reptiles near 'Alligator Alcatraz'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump tightens US policy on Cuba",
+      "headlines": [
+        "Trump tightens US policy on Cuba"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Senate GOP passes Trump megabill after Vance breaks tie",
+      "headlines": [
+        "Senate GOP passes Trump megabill after Vance breaks tie"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israel kills 102 in Gaza as Trump says he will be ‘firm’ with Netanyahu",
+      "headlines": [
+        "Israel kills 102 in Gaza as Trump says he will be ‘firm’ with Netanyahu"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine drone attack on central Russia kills three, wounds 35",
+      "headlines": [
+        "Ukraine drone attack on central Russia kills three, wounds 35"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens to review subsidies on Musk-owned companies",
+      "headlines": [
+        "Trump threatens to review subsidies on Musk-owned companies"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Azerbaijan accuses Russia of ‘unacceptable violence’ over custody deaths",
+      "headlines": [
+        "Azerbaijan accuses Russia of ‘unacceptable violence’ over custody deaths"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }

@@ -23122,5 +23122,128 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-07-01T18:33:23.828Z": [
+    {
+      "summary": "Watch: President Trump tours controversial 'Alligator Alcatraz'",
+      "headlines": [
+        "Watch: President Trump tours controversial 'Alligator Alcatraz'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens to set Doge on Musk as pair feud again over budget plan",
+      "headlines": [
+        "Trump threatens to set Doge on Musk as pair feud again over budget plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Three killed in Ukrainian drone attack on central Russia",
+      "headlines": [
+        "Three killed in Ukrainian drone attack on central Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump talks about the dangerous reptiles near 'Alligator Alcatraz'",
+      "headlines": [
+        "Watch: Trump talks about the dangerous reptiles near 'Alligator Alcatraz'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump tightens US policy on Cuba",
+      "headlines": [
+        "Trump tightens US policy on Cuba"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rodrigues leads India recovery against England in second T20",
+      "headlines": [
+        "Rodrigues leads India recovery against England in second T20"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Senate GOP passes Trump megabill after Vance breaks tie",
+      "headlines": [
+        "Senate GOP passes Trump megabill after Vance breaks tie"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel kills 102 in Gaza as Trump says he will be ‘firm’ with Netanyahu",
+      "headlines": [
+        "Israel kills 102 in Gaza as Trump says he will be ‘firm’ with Netanyahu"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine drone attack on central Russia kills three, wounds 35",
+      "headlines": [
+        "Ukraine drone attack on central Russia kills three, wounds 35"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens to review subsidies on Musk-owned companies",
+      "headlines": [
+        "Trump threatens to review subsidies on Musk-owned companies"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Azerbaijan accuses Russia of ‘unacceptable violence’ over custody deaths",
+      "headlines": [
+        "Azerbaijan accuses Russia of ‘unacceptable violence’ over custody deaths"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
