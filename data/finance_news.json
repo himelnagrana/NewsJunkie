@@ -2239,5 +2239,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-02T06:35:55.053Z": [
+    {
+      "summary": "Trump threatens Japan with tariff up to 35% as deadline looms",
+      "headlines": [
+        "Trump threatens Japan with tariff up to 35% as deadline looms"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

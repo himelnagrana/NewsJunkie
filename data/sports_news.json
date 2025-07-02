@@ -1027,5 +1027,29 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-02T06:35:54.596Z": [
+    {
+      "summary": "UPenn to ban trans athletes after probe stemming from swimmer Lia Thomas",
+      "headlines": [
+        "UPenn to ban trans athletes after probe stemming from swimmer Lia Thomas"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    },
+    {
+      "summary": "US university bars trans athletes from women’s sports after Trump order",
+      "headlines": [
+        "US university bars trans athletes from women’s sports after Trump order"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

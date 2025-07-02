@@ -23245,5 +23245,84 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-07-02T06:35:53.558Z": [
+    {
+      "summary": "Trump says Israel has agreed to conditions for 60-day Gaza ceasefire",
+      "headlines": [
+        "Trump says Israel has agreed to conditions for 60-day Gaza ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US halts some weapons shipments to Ukraine, White House says",
+      "headlines": [
+        "US halts some weapons shipments to Ukraine, White House says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'They took shrapnel from my heart' – the magnets saving lives in Ukraine",
+      "headlines": [
+        "'They took shrapnel from my heart' – the magnets saving lives in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump visits 'Alligator Alcatraz', the next step in his immigration crackdown",
+      "headlines": [
+        "Trump visits 'Alligator Alcatraz', the next step in his immigration crackdown"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens Japan with tariff up to 35% as deadline looms",
+      "headlines": [
+        "Trump threatens Japan with tariff up to 35% as deadline looms"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Israel agrees to a truce in Gaza, urges Hamas to accept deal",
+      "headlines": [
+        "Trump says Israel agrees to a truce in Gaza, urges Hamas to accept deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US university bars trans athletes from women’s sports after Trump order",
+      "headlines": [
+        "US university bars trans athletes from women’s sports after Trump order"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
