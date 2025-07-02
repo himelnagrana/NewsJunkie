@@ -23324,5 +23324,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-02T18:33:54.289Z": [
+    {
+      "summary": "Ukraine fears increased Russian aggression after US halt of weapons supply",
+      "headlines": [
+        "Ukraine fears increased Russian aggression after US halt of weapons supply"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Paramount to pay Trump $16m to settle 60 Minutes lawsuit",
+      "headlines": [
+        "Paramount to pay Trump $16m to settle 60 Minutes lawsuit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gill century holds up battling England against India",
+      "headlines": [
+        "Gill century holds up battling England against India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can Trump strip Musk and Mamdani of their US citizenship?",
+      "headlines": [
+        "Can Trump strip Musk and Mamdani of their US citizenship?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hamas studying new ceasefire proposals, calls for end to Gaza war",
+      "headlines": [
+        "Hamas studying new ceasefire proposals, calls for end to Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran president signs law suspending cooperation with IAEA",
+      "headlines": [
+        "Iran president signs law suspending cooperation with IAEA"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

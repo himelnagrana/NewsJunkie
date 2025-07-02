@@ -1051,5 +1051,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-02T18:33:55.305Z": [
+    {
+      "summary": "'There is space for every girl and woman in football'",
+      "headlines": [
+        "'There is space for every girl and woman in football'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

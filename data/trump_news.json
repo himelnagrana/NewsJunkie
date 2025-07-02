@@ -17826,5 +17826,62 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-02T18:33:53.755Z": [
+    {
+      "summary": "Ukraine fears increased Russian aggression after US halt of weapons supply",
+      "headlines": [
+        "Ukraine fears increased Russian aggression after US halt of weapons supply"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Paramount to pay Trump $16m to settle 60 Minutes lawsuit",
+      "headlines": [
+        "Paramount to pay Trump $16m to settle 60 Minutes lawsuit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump’s One Big Beautiful Bill heads to US House for critical vote",
+      "headlines": [
+        "Donald Trump’s One Big Beautiful Bill heads to US House for critical vote"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can Trump strip Musk and Mamdani of their US citizenship?",
+      "headlines": [
+        "Can Trump strip Musk and Mamdani of their US citizenship?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iran president signs law suspending cooperation with IAEA",
+      "headlines": [
+        "Iran president signs law suspending cooperation with IAEA"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

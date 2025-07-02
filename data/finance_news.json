@@ -2252,5 +2252,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-07-02T18:33:55.844Z": [
+    {
+      "summary": "Tesla global sales fall amid Musk backlash and pressure on EV market",
+      "headlines": [
+        "Tesla global sales fall amid Musk backlash and pressure on EV market"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    }
   ]
 }
