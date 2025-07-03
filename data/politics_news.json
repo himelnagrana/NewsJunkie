@@ -23392,5 +23392,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-03T06:35:59.999Z": [
+    {
+      "summary": "BBC visits heart of Tibetan resistance as showdown looms between Dalai Lama and China",
+      "headlines": [
+        "BBC visits heart of Tibetan resistance as showdown looms between Dalai Lama and China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls on US central bank head to quit immediately",
+      "headlines": [
+        "Trump calls on US central bank head to quit immediately"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces trade deal with Vietnam",
+      "headlines": [
+        "Trump announces trade deal with Vietnam"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump megabill in limbo as key vote stalls",
+      "headlines": [
+        "Trump megabill in limbo as key vote stalls"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says ‘MAGA not happy’ US Republicans taking so long to pass bill",
+      "headlines": [
+        "Trump says ‘MAGA not happy’ US Republicans taking so long to pass bill"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia says it controls Luhansk as US halts some weapons pledged to Ukraine",
+      "headlines": [
+        "Russia says it controls Luhansk as US halts some weapons pledged to Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Powell should resign ‘immediately’ in latest attack on Fed chair",
+      "headlines": [
+        "Trump says Powell should resign ‘immediately’ in latest attack on Fed chair"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU presses China over exports of rare earth elements and Ukraine war",
+      "headlines": [
+        "EU presses China over exports of rare earth elements and Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gill and India dominate England on the first day of second Test",
+      "headlines": [
+        "Gill and India dominate England on the first day of second Test"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
