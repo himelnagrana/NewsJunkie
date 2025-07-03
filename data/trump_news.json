@@ -17973,5 +17973,73 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-03T18:33:49.760Z": [
+    {
+      "summary": "Final vote on Trump spending bill begins after days of debate and delay",
+      "headlines": [
+        "Final vote on Trump spending bill begins after days of debate and delay"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Deputy Russian Navy chief killed in strike near Ukraine border",
+      "headlines": [
+        "Deputy Russian Navy chief killed in strike near Ukraine border"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls on Fed Chair Powell to quit immediately",
+      "headlines": [
+        "Trump calls on Fed Chair Powell to quit immediately"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Korea revises martial law rules after political crisis",
+      "headlines": [
+        "South Korea revises martial law rules after political crisis"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia ‘will not back down’ on Ukraine war goals, Putin tells Trump",
+      "headlines": [
+        "Russia ‘will not back down’ on Ukraine war goals, Putin tells Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Deputy head of Russian navy killed by Ukraine in Kursk, Moscow says",
+      "headlines": [
+        "Deputy head of Russian navy killed by Ukraine in Kursk, Moscow says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }

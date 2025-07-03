@@ -1064,5 +1064,40 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-03T18:33:51.302Z": [
+    {
+      "summary": "US Supreme Court to review bans on trans athletes in female sports",
+      "headlines": [
+        "US Supreme Court to review bans on trans athletes in female sports"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "sports"
+    },
+    {
+      "summary": "Death of Liverpool forward Jota leaves football world in shock",
+      "headlines": [
+        "Death of Liverpool forward Jota leaves football world in shock"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "sports"
+    },
+    {
+      "summary": "What happened to Diogo Jota, the Liverpool and Portugal football star?",
+      "headlines": [
+        "What happened to Diogo Jota, the Liverpool and Portugal football star?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

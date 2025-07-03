@@ -23493,5 +23493,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-03T18:33:50.299Z": [
+    {
+      "summary": "Final vote on Trump spending bill begins after days of debate and delay",
+      "headlines": [
+        "Final vote on Trump spending bill begins after days of debate and delay"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Deputy Russian Navy chief killed in strike near Ukraine border",
+      "headlines": [
+        "Deputy Russian Navy chief killed in strike near Ukraine border"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls on Fed Chair Powell to quit immediately",
+      "headlines": [
+        "Trump calls on Fed Chair Powell to quit immediately"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea revises martial law rules after political crisis",
+      "headlines": [
+        "South Korea revises martial law rules after political crisis"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia ‘will not back down’ on Ukraine war goals, Putin tells Trump",
+      "headlines": [
+        "Russia ‘will not back down’ on Ukraine war goals, Putin tells Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Could far-right Reform really win a UK general election now?",
+      "headlines": [
+        "Could far-right Reform really win a UK general election now?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Deputy head of Russian navy killed by Ukraine in Kursk, Moscow says",
+      "headlines": [
+        "Deputy head of Russian navy killed by Ukraine in Kursk, Moscow says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
