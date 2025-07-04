@@ -23651,5 +23651,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-04T18:32:39.552Z": [
+    {
+      "summary": "Kyiv hit by barrage of drone strikes as Putin rejects Trump's truce bid",
+      "headlines": [
+        "Kyiv hit by barrage of drone strikes as Putin rejects Trump's truce bid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "BBC Verify Live: Dramatic new footage emerges of strike on Tehran during Iran-Israel war",
+      "headlines": [
+        "BBC Verify Live: Dramatic new footage emerges of strike on Tehran during Iran-Israel war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "White House to host UFC fight, Trump announces",
+      "headlines": [
+        "White House to host UFC fight, Trump announces"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Smith epic saves England but India still in control",
+      "headlines": [
+        "Smith epic saves England but India still in control"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China can't accept Russia losing, Chinese official told EU",
+      "headlines": [
+        "China can't accept Russia losing, Chinese official told EU"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rwanda president unsure if DRC peace deal will hold, warns against ‘tricks’",
+      "headlines": [
+        "Rwanda president unsure if DRC peace deal will hold, warns against ‘tricks’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia recognises the Taliban: Which other countries may follow?",
+      "headlines": [
+        "Russia recognises the Taliban: Which other countries may follow?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelenskyy says will work with Trump to ‘strengthen’ Ukraine air defences",
+      "headlines": [
+        "Zelenskyy says will work with Trump to ‘strengthen’ Ukraine air defences"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘I’ve never heard that’: Trump denies knowingly using anti-Semitic term",
+      "headlines": [
+        "‘I’ve never heard that’: Trump denies knowingly using anti-Semitic term"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
