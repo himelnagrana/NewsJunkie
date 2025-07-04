@@ -2300,5 +2300,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-04T06:36:20.272Z": [
+    {
+      "summary": "What will Trump's tax and spending bill do to the US national debt?",
+      "headlines": [
+        "What will Trump's tax and spending bill do to the US national debt?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "What have tariffs really done to the US economy?",
+      "headlines": [
+        "What have tariffs really done to the US economy?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

@@ -23572,5 +23572,84 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-07-04T06:36:18.726Z": [
+    {
+      "summary": "Congress passes Trump's 'big, beautiful bill' cutting taxes and spending",
+      "headlines": [
+        "Congress passes Trump's 'big, beautiful bill' cutting taxes and spending"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "The curious case of the British jet stuck in India",
+      "headlines": [
+        "The curious case of the British jet stuck in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump gets major win now - but it comes with risks down the road",
+      "headlines": [
+        "Trump gets major win now - but it comes with risks down the road"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Anthony Zurcher: Passage of megabill is big win for Trump",
+      "headlines": [
+        "Anthony Zurcher: Passage of megabill is big win for Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump appears at the height of his political power with policy bill passage",
+      "headlines": [
+        "Trump appears at the height of his political power with policy bill passage"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US issues first wave of Iran sanctions after ceasefire in 12-day war",
+      "headlines": [
+        "US issues first wave of Iran sanctions after ceasefire in 12-day war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia becomes first country to recognise Afghanistan’s Taliban government",
+      "headlines": [
+        "Russia becomes first country to recognise Afghanistan’s Taliban government"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
