@@ -18190,5 +18190,29 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-05T18:30:18.991Z": [
+    {
+      "summary": "Iran has not agreed to inspections or given up enrichment, says Trump",
+      "headlines": [
+        "Iran has not agreed to inspections or given up enrichment, says Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "UN chief ‘strongly condemns’ Russian drone assault on Ukraine",
+      "headlines": [
+        "UN chief ‘strongly condemns’ Russian drone assault on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

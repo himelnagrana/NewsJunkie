@@ -23776,5 +23776,51 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-07-05T18:30:19.490Z": [
+    {
+      "summary": "England close on 72-3 as India take control - day four as it happened",
+      "headlines": [
+        "England close on 72-3 as India take control - day four as it happened"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gill-inspired India leave England facing defeat",
+      "headlines": [
+        "Gill-inspired India leave England facing defeat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran has not agreed to inspections or given up enrichment, says Trump",
+      "headlines": [
+        "Iran has not agreed to inspections or given up enrichment, says Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "UN chief ‘strongly condemns’ Russian drone assault on Ukraine",
+      "headlines": [
+        "UN chief ‘strongly condemns’ Russian drone assault on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
