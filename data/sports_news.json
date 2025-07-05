@@ -1099,5 +1099,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-05T06:32:41.916Z": [
+    {
+      "summary": "Limber up for Euro 2025 with our big football quiz",
+      "headlines": [
+        "Limber up for Euro 2025 with our big football quiz"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    }
   ]
 }

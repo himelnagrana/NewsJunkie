@@ -2324,5 +2324,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-05T06:32:42.367Z": [
+    {
+      "summary": "Trump signs sweeping tax and spending bill into law",
+      "headlines": [
+        "Trump signs sweeping tax and spending bill into law"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump claims victory as he signs controversial budget and tax bill into law",
+      "headlines": [
+        "Trump claims victory as he signs controversial budget and tax bill into law"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Don’t rely on Medicaid? Tax bill will drive up costs to your healthcare too",
+      "headlines": [
+        "Don’t rely on Medicaid? Tax bill will drive up costs to your healthcare too"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

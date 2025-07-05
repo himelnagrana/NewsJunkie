@@ -18155,5 +18155,40 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-05T06:32:40.417Z": [
+    {
+      "summary": "Trump signs sweeping tax and spending bill into law",
+      "headlines": [
+        "Trump signs sweeping tax and spending bill into law"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump claims victory as he signs controversial budget and tax bill into law",
+      "headlines": [
+        "Trump claims victory as he signs controversial budget and tax bill into law"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "How Donald Trump’s spending bill could kick US deportations into overdrive",
+      "headlines": [
+        "How Donald Trump’s spending bill could kick US deportations into overdrive"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
