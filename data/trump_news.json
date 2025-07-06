@@ -18214,5 +18214,51 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-06T06:33:26.737Z": [
+    {
+      "summary": "How Trump is using the 'Madman Theory' to try to change the world (and it's working)",
+      "headlines": [
+        "How Trump is using the 'Madman Theory' to try to change the world (and it's working)"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Elon Musk says he is launching new political party",
+      "headlines": [
+        "Elon Musk says he is launching new political party"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Elon Musk launches the America Party as feud with Trump escalates",
+      "headlines": [
+        "Elon Musk launches the America Party as feud with Trump escalates"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Wrong’: Trump administration completes deportations to South Sudan",
+      "headlines": [
+        "‘Wrong’: Trump administration completes deportations to South Sudan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

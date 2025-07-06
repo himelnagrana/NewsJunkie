@@ -23822,5 +23822,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-06T06:33:27.302Z": [
+    {
+      "summary": "Iran supreme leader in first public appearance since Israel war",
+      "headlines": [
+        "Iran supreme leader in first public appearance since Israel war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Trump is using the 'Madman Theory' to try to change the world (and it's working)",
+      "headlines": [
+        "How Trump is using the 'Madman Theory' to try to change the world (and it's working)"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Elon Musk says he is launching new political party",
+      "headlines": [
+        "Elon Musk says he is launching new political party"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Scepticism and hope for end to Gaza war before Trump-Netanyahu meeting",
+      "headlines": [
+        "Scepticism and hope for end to Gaza war before Trump-Netanyahu meeting"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran’s Khamenei makes first public appearance since war with Israel",
+      "headlines": [
+        "Iran’s Khamenei makes first public appearance since war with Israel"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Elon Musk launches the America Party as feud with Trump escalates",
+      "headlines": [
+        "Elon Musk launches the America Party as feud with Trump escalates"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Wrong’: Trump administration completes deportations to South Sudan",
+      "headlines": [
+        "‘Wrong’: Trump administration completes deportations to South Sudan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,228",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,228"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
