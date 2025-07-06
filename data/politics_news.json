@@ -23912,5 +23912,84 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-06T18:31:35.712Z": [
+    {
+      "summary": "Uganda's 80-year-old president in bid to extend 40-year rule",
+      "headlines": [
+        "Uganda's 80-year-old president in bid to extend 40-year rule"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "England swept aside as India level series at 1-1",
+      "headlines": [
+        "England swept aside as India level series at 1-1"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What’s in Trump’s ceasefire proposal and can it end Israel’s war on Gaza?",
+      "headlines": [
+        "What’s in Trump’s ceasefire proposal and can it end Israel’s war on Gaza?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "French intelligence claims China trying to foil global sale of Rafale jets",
+      "headlines": [
+        "French intelligence claims China trying to foil global sale of Rafale jets"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Brazil hosts BRICS summit; Russia’s Putin, China’s Xi skip Rio trip",
+      "headlines": [
+        "Brazil hosts BRICS summit; Russia’s Putin, China’s Xi skip Rio trip"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump-Netanyahu meeting: Observers sceptical yet hope for end to Gaza war",
+      "headlines": [
+        "Trump-Netanyahu meeting: Observers sceptical yet hope for end to Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India crushes England on final day of second Test at Edgbaston",
+      "headlines": [
+        "India crushes England on final day of second Test at Edgbaston"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }

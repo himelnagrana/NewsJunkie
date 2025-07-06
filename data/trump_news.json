@@ -18260,5 +18260,29 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-06T18:31:35.195Z": [
+    {
+      "summary": "Uganda's 80-year-old president in bid to extend 40-year rule",
+      "headlines": [
+        "Uganda's 80-year-old president in bid to extend 40-year rule"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "French intelligence claims China trying to foil global sale of Rafale jets",
+      "headlines": [
+        "French intelligence claims China trying to foil global sale of Rafale jets"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
