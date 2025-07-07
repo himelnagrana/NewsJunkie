@@ -2383,5 +2383,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-07-07T18:34:25.011Z": [
+    {
+      "summary": "Trump threatens extra 10% tariff on nations siding with Brics",
+      "headlines": [
+        "Trump threatens extra 10% tariff on nations siding with Brics"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "What is next for global trade as Trump’s July 9 tariff deadline looms?",
+      "headlines": [
+        "What is next for global trade as Trump’s July 9 tariff deadline looms?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    }
   ]
 }

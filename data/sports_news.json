@@ -1112,5 +1112,18 @@
       "sentiment": 1,
       "topic": "sports"
     }
+  ],
+  "2025-07-07T18:34:24.405Z": [
+    {
+      "summary": "Young campers, teachers and football coach among Texas flood victims",
+      "headlines": [
+        "Young campers, teachers and football coach among Texas flood victims"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "sports"
+    }
   ]
 }

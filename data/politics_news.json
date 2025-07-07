@@ -24070,5 +24070,106 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-07T18:34:23.235Z": [
+    {
+      "summary": "Russian minister sacked by Putin found dead",
+      "headlines": [
+        "Russian minister sacked by Putin found dead"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces 25% tariffs on South Korea and Japan",
+      "headlines": [
+        "Trump announces 25% tariffs on South Korea and Japan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Released Hamas hostage says Trump can bring home those still captive in Gaza",
+      "headlines": [
+        "Released Hamas hostage says Trump can bring home those still captive in Gaza"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens extra 10% tariff on nations siding with Brics",
+      "headlines": [
+        "Trump threatens extra 10% tariff on nations siding with Brics"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump to host Israel’s Benjamin Netanyahu at White House",
+      "headlines": [
+        "Donald Trump to host Israel’s Benjamin Netanyahu at White House"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "BRICS condemns attacks on Iran, Gaza war, Trump tariffs: Key takeaways",
+      "headlines": [
+        "BRICS condemns attacks on Iran, Gaza war, Trump tariffs: Key takeaways"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran’s president says open to dialogue with US after Israel war",
+      "headlines": [
+        "Iran’s president says open to dialogue with US after Israel war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tesla shares tumble as Elon Musk floats new US political party",
+      "headlines": [
+        "Tesla shares tumble as Elon Musk floats new US political party"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel, Hamas to hold Gaza truce talks as Netanyahu due to meet Trump",
+      "headlines": [
+        "Israel, Hamas to hold Gaza truce talks as Netanyahu due to meet Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
