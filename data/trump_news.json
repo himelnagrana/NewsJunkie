@@ -18284,5 +18284,62 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-07T06:37:19.376Z": [
+    {
+      "summary": "A video game on 'gold diggers' is fuelling a sexism debate in China",
+      "headlines": [
+        "A video game on 'gold diggers' is fuelling a sexism debate in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Netanyahu visits US as Trump puts pressure to agree Gaza ceasefire deal",
+      "headlines": [
+        "Netanyahu visits US as Trump puts pressure to agree Gaza ceasefire deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls Musk's new political party 'ridiculous'",
+      "headlines": [
+        "Trump calls Musk's new political party 'ridiculous'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens extra 10% tariff on nations that side with Brics",
+      "headlines": [
+        "Trump threatens extra 10% tariff on nations that side with Brics"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israeli forces kill 82 in Gaza; Trump says ceasefire could happen this week",
+      "headlines": [
+        "Israeli forces kill 82 in Gaza; Trump says ceasefire could happen this week"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }

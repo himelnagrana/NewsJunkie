@@ -23991,5 +23991,84 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-07-07T06:37:19.930Z": [
+    {
+      "summary": "A video game on 'gold diggers' is fuelling a sexism debate in China",
+      "headlines": [
+        "A video game on 'gold diggers' is fuelling a sexism debate in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Netanyahu visits US as Trump puts pressure to agree Gaza ceasefire deal",
+      "headlines": [
+        "Netanyahu visits US as Trump puts pressure to agree Gaza ceasefire deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls Musk's new political party 'ridiculous'",
+      "headlines": [
+        "Trump calls Musk's new political party 'ridiculous'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens extra 10% tariff on nations that side with Brics",
+      "headlines": [
+        "Trump threatens extra 10% tariff on nations that side with Brics"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran demands accountability for Israel and US after ‘war of aggression’",
+      "headlines": [
+        "Iran demands accountability for Israel and US after ‘war of aggression’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israeli forces kill 82 in Gaza; Trump says ceasefire could happen this week",
+      "headlines": [
+        "Israeli forces kill 82 in Gaza; Trump says ceasefire could happen this week"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,229",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,229"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

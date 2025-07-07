@@ -2359,5 +2359,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-07T06:37:21.469Z": [
+    {
+      "summary": "How Trump's tariff chaos could reshape Asia's businesses",
+      "headlines": [
+        "How Trump's tariff chaos could reshape Asia's businesses"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump threatens extra 10% tariff on nations that side with Brics",
+      "headlines": [
+        "Trump threatens extra 10% tariff on nations that side with Brics"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
