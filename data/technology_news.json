@@ -651,5 +651,18 @@
       "sentiment": 1,
       "topic": "technology"
     }
+  ],
+  "2025-07-08T18:34:58.893Z": [
+    {
+      "summary": "Imposter used AI to pose as Marco Rubio and contact foreign ministers",
+      "headlines": [
+        "Imposter used AI to pose as Marco Rubio and contact foreign ministers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }

@@ -18532,5 +18532,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-08T18:34:57.573Z": [
+    {
+      "summary": "Poisoned water and scarred hills: BBC visits the world's rare earths capital in China",
+      "headlines": [
+        "Poisoned water and scarred hills: BBC visits the world's rare earths capital in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Ukraine will receive more weapons after US pause on shipments",
+      "headlines": [
+        "Trump says Ukraine will receive more weapons after US pause on shipments"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "In pictures: French President Macron's UK state visit",
+      "headlines": [
+        "In pictures: French President Macron's UK state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian minister's death serves as warning to political elite",
+      "headlines": [
+        "Russian minister's death serves as warning to political elite"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump's sudden shift on Ukraine avoids turning panic into collapse",
+      "headlines": [
+        "Trump's sudden shift on Ukraine avoids turning panic into collapse"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump lashes out at Putin over Ukraine peace talks, suggests sanctions",
+      "headlines": [
+        "Trump lashes out at Putin over Ukraine peace talks, suggests sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Netanyahu, Trump discuss forced transfer of Palestinians out of Gaza",
+      "headlines": [
+        "Netanyahu, Trump discuss forced transfer of Palestinians out of Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
