@@ -638,5 +638,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-07-08T06:36:37.479Z": [
+    {
+      "summary": "Why little Lithuania has big plans for space tech",
+      "headlines": [
+        "Why little Lithuania has big plans for space tech"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "technology"
+    }
   ]
 }

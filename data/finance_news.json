@@ -2407,5 +2407,29 @@
       "sentiment": -1,
       "topic": "finance"
     }
+  ],
+  "2025-07-08T06:36:38.609Z": [
+    {
+      "summary": "Trump ramps up trade war with tariff blitz targeting 14 countries",
+      "headlines": [
+        "Trump ramps up trade war with tariff blitz targeting 14 countries"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Donald Trump threatens ‘un-American’ BRICS countries with 10 percent tariff",
+      "headlines": [
+        "Donald Trump threatens ‘un-American’ BRICS countries with 10 percent tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

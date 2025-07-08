@@ -24171,5 +24171,117 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-08T06:36:36.811Z": [
+    {
+      "summary": "Poisoned water and scarred hills: BBC visits world's rare earths capital in China",
+      "headlines": [
+        "Poisoned water and scarred hills: BBC visits world's rare earths capital in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump upbeat on Gaza ceasefire talks as he hosts Netanyahu",
+      "headlines": [
+        "Trump upbeat on Gaza ceasefire talks as he hosts Netanyahu"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump accuses Brazil of 'witch hunt' against Bolsonaro",
+      "headlines": [
+        "Trump accuses Brazil of 'witch hunt' against Bolsonaro"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Did US government cuts contribute to the Texas tragedy?",
+      "headlines": [
+        "Did US government cuts contribute to the Texas tragedy?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "From India to Britain and back: The cartoonist who fought censors with a smile",
+      "headlines": [
+        "From India to Britain and back: The cartoonist who fought censors with a smile"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel pounds Gaza; Trump, Netanyahu tout plan to displace Palestinians",
+      "headlines": [
+        "Israel pounds Gaza; Trump, Netanyahu tout plan to displace Palestinians"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump ramps up trade war with tariff blitz targeting 14 countries",
+      "headlines": [
+        "Trump ramps up trade war with tariff blitz targeting 14 countries"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US to send more weapons to Ukraine, Trump says",
+      "headlines": [
+        "US to send more weapons to Ukraine, Trump says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Terrible thing’: Trump defends Brazil’s Jair Bolsonaro against coup trial",
+      "headlines": [
+        "‘Terrible thing’: Trump defends Brazil’s Jair Bolsonaro against coup trial"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump threatens ‘un-American’ BRICS countries with 10 percent tariff",
+      "headlines": [
+        "Donald Trump threatens ‘un-American’ BRICS countries with 10 percent tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
