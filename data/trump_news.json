@@ -18734,5 +18734,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-09T18:35:17.656Z": [
+    {
+      "summary": "Ukraine suffers heaviest attack as Trump criticises Putin",
+      "headlines": [
+        "Ukraine suffers heaviest attack as Trump criticises Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why Trump has invited five African leaders to the White House",
+      "headlines": [
+        "Why Trump has invited five African leaders to the White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia's summer push in Ukraine targets three fronts but faces stern resistance",
+      "headlines": [
+        "Russia's summer push in Ukraine targets three fronts but faces stern resistance"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "President Trump to attend Club World Cup final",
+      "headlines": [
+        "President Trump to attend Club World Cup final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump promised 200 trade deals. He's made 3",
+      "headlines": [
+        "Trump promised 200 trade deals. He's made 3"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces new tariffs on six countries including Iraq and the Philippines",
+      "headlines": [
+        "Trump announces new tariffs on six countries including Iraq and the Philippines"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is MAGA angry with Trump, Pam Bondi over Epstein files?",
+      "headlines": [
+        "Why is MAGA angry with Trump, Pam Bondi over Epstein files?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump threatens copper, pharma tariffs: Who will they hurt?",
+      "headlines": [
+        "Donald Trump threatens copper, pharma tariffs: Who will they hurt?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }

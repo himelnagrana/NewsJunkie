@@ -24518,5 +24518,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-09T18:35:18.238Z": [
+    {
+      "summary": "Ukraine suffers heaviest attack as Trump criticises Putin",
+      "headlines": [
+        "Ukraine suffers heaviest attack as Trump criticises Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Steve Rosenberg: Moscow shrugs off Trump's irritation with Putin",
+      "headlines": [
+        "Steve Rosenberg: Moscow shrugs off Trump's irritation with Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Trump has invited five African leaders to the White House",
+      "headlines": [
+        "Why Trump has invited five African leaders to the White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia's summer push in Ukraine targets three fronts but faces stern resistance",
+      "headlines": [
+        "Russia's summer push in Ukraine targets three fronts but faces stern resistance"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "President Trump to attend Club World Cup final",
+      "headlines": [
+        "President Trump to attend Club World Cup final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump promised 200 trade deals. He's made 3",
+      "headlines": [
+        "Trump promised 200 trade deals. He's made 3"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces new tariffs on six countries including Iraq and the Philippines",
+      "headlines": [
+        "Trump announces new tariffs on six countries including Iraq and the Philippines"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is MAGA angry with Trump, Pam Bondi over Epstein files?",
+      "headlines": [
+        "Why is MAGA angry with Trump, Pam Bondi over Epstein files?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump threatens copper, pharma tariffs: Who will they hurt?",
+      "headlines": [
+        "Donald Trump threatens copper, pharma tariffs: Who will they hurt?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can India stop Pakistan’s river water — and will it spark a new war?",
+      "headlines": [
+        "Can India stop Pakistan’s river water — and will it spark a new war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

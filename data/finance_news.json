@@ -2431,5 +2431,40 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-07-09T18:35:19.866Z": [
+    {
+      "summary": "EU hopes to agree US tariff deal 'in coming days'",
+      "headlines": [
+        "EU hopes to agree US tariff deal 'in coming days'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "finance"
+    },
+    {
+      "summary": "Lesotho declares state of disaster amid US tariff uncertainty",
+      "headlines": [
+        "Lesotho declares state of disaster amid US tariff uncertainty"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Ancelotti gets jail term for tax evasion but will not go to prison",
+      "headlines": [
+        "Ancelotti gets jail term for tax evasion but will not go to prison"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
