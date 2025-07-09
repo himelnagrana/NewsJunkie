@@ -18611,5 +18611,128 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-07-09T06:36:23.073Z": [
+    {
+      "summary": "Trump delays tariffs as the rest of the world plays hardball",
+      "headlines": [
+        "Trump delays tariffs as the rest of the world plays hardball"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and Netanyahu hold second meeting for Gaza ceasefire talks",
+      "headlines": [
+        "Trump and Netanyahu hold second meeting for Gaza ceasefire talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US will hike tariffs on copper to 50%, Trump says",
+      "headlines": [
+        "US will hike tariffs on copper to 50%, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What happens in Taiwan's military exercise to defend against China?",
+      "headlines": [
+        "What happens in Taiwan's military exercise to defend against China?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "The BBC asks about the Trump administration's vision for Gaza",
+      "headlines": [
+        "The BBC asks about the Trump administration's vision for Gaza"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Hegseth authorized Ukraine weapons pause before informing White House, sources say",
+      "headlines": [
+        "Hegseth authorized Ukraine weapons pause before informing White House, sources say"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israel bombs Gaza refugee camp; Trump, Netanyahu meet for second time",
+      "headlines": [
+        "Israel bombs Gaza refugee camp; Trump, Netanyahu meet for second time"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "France’s Macron begins UK state visit, calls for support on Gaza, Ukraine",
+      "headlines": [
+        "France’s Macron begins UK state visit, calls for support on Gaza, Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he is considering Russia sanctions, not happy with Putin",
+      "headlines": [
+        "Trump says he is considering Russia sanctions, not happy with Putin"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump blasts MAGA focus on Jeffrey Epstein after memo causes uproar",
+      "headlines": [
+        "Trump blasts MAGA focus on Jeffrey Epstein after memo causes uproar"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump, Netanyahu meet for a second time about a ceasefire in Gaza",
+      "headlines": [
+        "Trump, Netanyahu meet for a second time about a ceasefire in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
