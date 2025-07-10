@@ -24630,5 +24630,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-10T06:36:48.898Z": [
+    {
+      "summary": "Watch: Trump praises Liberian president's English, the country's official language",
+      "headlines": [
+        "Watch: Trump praises Liberian president's English, the country's official language"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Former Love Island USA contestant apologises for using slur in post",
+      "headlines": [
+        "Former Love Island USA contestant apologises for using slur in post"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Trump was right' - John Kerry says Democrats allowed migrant 'siege' of US border",
+      "headlines": [
+        "'Trump was right' - John Kerry says Democrats allowed migrant 'siege' of US border"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India and China strive to reset ties but with caution",
+      "headlines": [
+        "India and China strive to reset ties but with caution"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens Brazil with 50% tariff and demands Bolsonaro's trial end",
+      "headlines": [
+        "Trump threatens Brazil with 50% tariff and demands Bolsonaro's trial end"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s deadly aerial assault on Ukraine persists for second night",
+      "headlines": [
+        "Russia’s deadly aerial assault on Ukraine persists for second night"
+      ],
+      "sources": [
+        "CNN"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump singles out Brazil for 50 percent tariffs over Bolsonaro trial",
+      "headlines": [
+        "Trump singles out Brazil for 50 percent tariffs over Bolsonaro trial"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is India forcing 80 million people to justify their right to vote?",
+      "headlines": [
+        "Why is India forcing 80 million people to justify their right to vote?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea’s former president detained again over martial law",
+      "headlines": [
+        "South Korea’s former president detained again over martial law"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "If Trump wants Gaza ceasefire, he must pressure Netanyahu, experts say",
+      "headlines": [
+        "If Trump wants Gaza ceasefire, he must pressure Netanyahu, experts say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,232",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,232"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

@@ -2466,5 +2466,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-07-10T06:36:50.558Z": [
+    {
+      "summary": "Trump threatens Brazil with 50% tariff and demands Bolsonaro's trial end",
+      "headlines": [
+        "Trump threatens Brazil with 50% tariff and demands Bolsonaro's trial end"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }
