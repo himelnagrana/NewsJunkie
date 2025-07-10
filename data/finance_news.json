@@ -2479,5 +2479,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-07-10T18:34:31.775Z": [
+    {
+      "summary": "What’s behind Trump’s 50 percent tariff for Brazil despite trade surplus?",
+      "headlines": [
+        "What’s behind Trump’s 50 percent tariff for Brazil despite trade surplus?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
