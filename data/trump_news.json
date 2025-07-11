@@ -19004,5 +19004,73 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-07-11T06:36:30.856Z": [
+    {
+      "summary": "Trump threatens 35% tariffs on Canadian goods",
+      "headlines": [
+        "Trump threatens 35% tariffs on Canadian goods"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Mahmoud Khalil files $20m claim against Trump administration",
+      "headlines": [
+        "Mahmoud Khalil files $20m claim against Trump administration"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump slaps 35 percent tariff on Canada starting August 1",
+      "headlines": [
+        "Trump slaps 35 percent tariff on Canada starting August 1"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Mahmoud Khalil files $20m claim against Trump for wrongful detention",
+      "headlines": [
+        "Mahmoud Khalil files $20m claim against Trump for wrongful detention"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Such good English’: Liberians confused, angry at Trump comments to Boakai",
+      "headlines": [
+        "‘Such good English’: Liberians confused, angry at Trump comments to Boakai"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Six Secret Service agents suspended over Trump assassination failings",
+      "headlines": [
+        "Six Secret Service agents suspended over Trump assassination failings"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }

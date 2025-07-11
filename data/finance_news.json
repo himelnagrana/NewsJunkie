@@ -2492,5 +2492,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-11T06:36:31.470Z": [
+    {
+      "summary": "Asia is reeling from Trump's tariff salvo – is anyone winning?",
+      "headlines": [
+        "Asia is reeling from Trump's tariff salvo – is anyone winning?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump slaps 35 percent tariff on Canada starting August 1",
+      "headlines": [
+        "Trump slaps 35 percent tariff on Canada starting August 1"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

@@ -24865,5 +24865,106 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-07-11T06:36:31.056Z": [
+    {
+      "summary": "Trump threatens 35% tariffs on Canadian goods",
+      "headlines": [
+        "Trump threatens 35% tariffs on Canadian goods"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rosenberg: Putin determined to press on despite threat of tougher sanctions",
+      "headlines": [
+        "Rosenberg: Putin determined to press on despite threat of tougher sanctions"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "War crimes are likely being committed in Darfur, ICC finds",
+      "headlines": [
+        "War crimes are likely being committed in Darfur, ICC finds"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mahmoud Khalil files $20m claim against Trump administration",
+      "headlines": [
+        "Mahmoud Khalil files $20m claim against Trump administration"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump slaps 35 percent tariff on Canada starting August 1",
+      "headlines": [
+        "Trump slaps 35 percent tariff on Canada starting August 1"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mahmoud Khalil files $20m claim against Trump for wrongful detention",
+      "headlines": [
+        "Mahmoud Khalil files $20m claim against Trump for wrongful detention"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Such good English’: Liberians confused, angry at Trump comments to Boakai",
+      "headlines": [
+        "‘Such good English’: Liberians confused, angry at Trump comments to Boakai"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,233",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,233"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Six Secret Service agents suspended over Trump assassination failings",
+      "headlines": [
+        "Six Secret Service agents suspended over Trump assassination failings"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
