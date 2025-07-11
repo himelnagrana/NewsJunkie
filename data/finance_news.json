@@ -2516,5 +2516,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-11T18:34:14.423Z": [
+    {
+      "summary": "Why has Trump hit Canada with a 35 percent trade tariff?",
+      "headlines": [
+        "Why has Trump hit Canada with a 35 percent trade tariff?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

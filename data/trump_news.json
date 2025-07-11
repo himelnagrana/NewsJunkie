@@ -19072,5 +19072,73 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-07-11T18:34:13.847Z": [
+    {
+      "summary": "Trump surveys damage in Texas after floods kill 120 and leave 160 missing",
+      "headlines": [
+        "Trump surveys damage in Texas after floods kill 120 and leave 160 missing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -9,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine to receive US air defence systems, says Trump",
+      "headlines": [
+        "Ukraine to receive US air defence systems, says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russians tell the BBC how they think the Ukraine war will end",
+      "headlines": [
+        "Russians tell the BBC how they think the Ukraine war will end"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Where is Liberia, whose president Trump praised for his ‘good English’?",
+      "headlines": [
+        "Where is Liberia, whose president Trump praised for his ‘good English’?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Rap, memes, graffiti: Bangladesh’s new political tools, a year after Hasina",
+      "headlines": [
+        "Rap, memes, graffiti: Bangladesh’s new political tools, a year after Hasina"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why has Trump hit Canada with a 35 percent trade tariff?",
+      "headlines": [
+        "Why has Trump hit Canada with a 35 percent trade tariff?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
