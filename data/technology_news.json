@@ -664,5 +664,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-07-12T06:33:53.491Z": [
+    {
+      "summary": "Federal judge says voice-over artists' AI lawsuit can move forward",
+      "headlines": [
+        "Federal judge says voice-over artists' AI lawsuit can move forward"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }

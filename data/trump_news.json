@@ -19140,5 +19140,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-12T06:33:53.078Z": [
+    {
+      "summary": "Trade trumps geopolitics as Australia PM visits China",
+      "headlines": [
+        "Trade trumps geopolitics as Australia PM visits China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada's Carney talked tough on Trump - now some say he's backing down",
+      "headlines": [
+        "Canada's Carney talked tough on Trump - now some say he's backing down"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump and the Scots: A not-so special relationship",
+      "headlines": [
+        "Donald Trump and the Scots: A not-so special relationship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is William Ruto the most disliked president in Kenya's history?",
+      "headlines": [
+        "Is William Ruto the most disliked president in Kenya's history?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: 'We're filled with grief' - Trump visits Texas after deadly floods",
+      "headlines": [
+        "Watch: 'We're filled with grief' - Trump visits Texas after deadly floods"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "US has resumed military supplies to Ukraine, Zelensky says",
+      "headlines": [
+        "US has resumed military supplies to Ukraine, Zelensky says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US sanctions Cuban president, ‘regime-controlled’ luxury hotels",
+      "headlines": [
+        "US sanctions Cuban president, ‘regime-controlled’ luxury hotels"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US sending special envoy after weapons deliveries resumed, says Ukraine",
+      "headlines": [
+        "US sending special envoy after weapons deliveries resumed, says Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

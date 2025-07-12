@@ -25056,5 +25056,161 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-12T06:33:53.276Z": [
+    {
+      "summary": "Fuel switches cut off before Air India crash that killed 260, preliminary report says",
+      "headlines": [
+        "Fuel switches cut off before Air India crash that killed 260, preliminary report says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why cockpit audio deepens the mystery of Air India crash",
+      "headlines": [
+        "Why cockpit audio deepens the mystery of Air India crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trade trumps geopolitics as Australia PM visits China",
+      "headlines": [
+        "Trade trumps geopolitics as Australia PM visits China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada's Carney talked tough on Trump - now some say he's backing down",
+      "headlines": [
+        "Canada's Carney talked tough on Trump - now some say he's backing down"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump and the Scots: A not-so special relationship",
+      "headlines": [
+        "Donald Trump and the Scots: A not-so special relationship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is William Ruto the most disliked president in Kenya's history?",
+      "headlines": [
+        "Is William Ruto the most disliked president in Kenya's history?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: 'We're filled with grief' - Trump visits Texas after deadly floods",
+      "headlines": [
+        "Watch: 'We're filled with grief' - Trump visits Texas after deadly floods"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air India report may lead to answers, but not closure for families",
+      "headlines": [
+        "Air India report may lead to answers, but not closure for families"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US has resumed military supplies to Ukraine, Zelensky says",
+      "headlines": [
+        "US has resumed military supplies to Ukraine, Zelensky says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Fuel switches cut off just before deadly Air India crash, early report says",
+      "headlines": [
+        "Fuel switches cut off just before deadly Air India crash, early report says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "US sanctions Cuban president, ‘regime-controlled’ luxury hotels",
+      "headlines": [
+        "US sanctions Cuban president, ‘regime-controlled’ luxury hotels"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,234",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,234"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US sending special envoy after weapons deliveries resumed, says Ukraine",
+      "headlines": [
+        "US sending special envoy after weapons deliveries resumed, says Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pant bats but unable to keep as India battle back against England at Lord’s",
+      "headlines": [
+        "Pant bats but unable to keep as India battle back against England at Lord’s"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
