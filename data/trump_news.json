@@ -19230,5 +19230,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-12T18:32:14.041Z": [
+    {
+      "summary": "Trump says EU and Mexico face 30% tariff from August",
+      "headlines": [
+        "Trump says EU and Mexico face 30% tariff from August"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says 30-percent tariffs against EU and Mexico to begin on August 1",
+      "headlines": [
+        "Trump says 30-percent tariffs against EU and Mexico to begin on August 1"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia’s Lavrov meets Kim Jong Un in North Korea with Ukraine war at fore",
+      "headlines": [
+        "Russia’s Lavrov meets Kim Jong Un in North Korea with Ukraine war at fore"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

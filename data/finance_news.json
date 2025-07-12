@@ -2529,5 +2529,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-12T18:32:14.895Z": [
+    {
+      "summary": "Trump says EU and Mexico face 30% tariff from August",
+      "headlines": [
+        "Trump says EU and Mexico face 30% tariff from August"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

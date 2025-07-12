@@ -25212,5 +25212,84 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-07-12T18:32:14.312Z": [
+    {
+      "summary": "Trump says EU and Mexico face 30% tariff from August",
+      "headlines": [
+        "Trump says EU and Mexico face 30% tariff from August"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mystery of Air India crash deepens after report reveals cockpit audio",
+      "headlines": [
+        "Mystery of Air India crash deepens after report reveals cockpit audio"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: What we know about the fuel switches on Air India flight 171",
+      "headlines": [
+        "Watch: What we know about the fuel switches on Air India flight 171"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Was this avoidable?': Families of Air India crash victims seek answers",
+      "headlines": [
+        "'Was this avoidable?': Families of Air India crash victims seek answers"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says 30-percent tariffs against EU and Mexico to begin on August 1",
+      "headlines": [
+        "Trump says 30-percent tariffs against EU and Mexico to begin on August 1"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s Lavrov meets Kim Jong Un in North Korea with Ukraine war at fore",
+      "headlines": [
+        "Russia’s Lavrov meets Kim Jong Un in North Korea with Ukraine war at fore"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India level up with England as tempers nearly boil over at Lord’s",
+      "headlines": [
+        "India level up with England as tempers nearly boil over at Lord’s"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
