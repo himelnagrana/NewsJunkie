@@ -19265,5 +19265,51 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-13T06:34:31.311Z": [
+    {
+      "summary": "North Korea reaffirms support for Russia's war in Ukraine",
+      "headlines": [
+        "North Korea reaffirms support for Russia's war in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Judge bars Trump administration from 'indiscriminately' detaining immigrants",
+      "headlines": [
+        "Judge bars Trump administration from 'indiscriminately' detaining immigrants"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump slaps 30% tariffs on all goods from EU and Mexico",
+      "headlines": [
+        "Trump slaps 30% tariffs on all goods from EU and Mexico"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "North Korea’s Kim voices ‘unconditional’ support for Russia in Ukraine",
+      "headlines": [
+        "North Korea’s Kim voices ‘unconditional’ support for Russia in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }

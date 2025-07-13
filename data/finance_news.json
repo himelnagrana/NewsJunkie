@@ -2542,5 +2542,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-13T06:34:32.028Z": [
+    {
+      "summary": "EU and Mexico criticise Trump's proposed 30% tariff",
+      "headlines": [
+        "EU and Mexico criticise Trump's proposed 30% tariff"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
