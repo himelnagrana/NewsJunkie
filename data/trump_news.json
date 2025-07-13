@@ -19311,5 +19311,51 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-07-13T18:32:15.260Z": [
+    {
+      "summary": "Russia's agents killed after intelligence officer shot dead, says Ukraine",
+      "headlines": [
+        "Russia's agents killed after intelligence officer shot dead, says Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump defends US Attorney General Pam Bondi over Epstein files",
+      "headlines": [
+        "Trump defends US Attorney General Pam Bondi over Epstein files"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iran president was reportedly injured in Israeli strikes",
+      "headlines": [
+        "Iran president was reportedly injured in Israeli strikes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iranian president lightly wounded while escaping Israeli attack",
+      "headlines": [
+        "Iranian president lightly wounded while escaping Israeli attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
