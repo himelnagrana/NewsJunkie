@@ -677,5 +677,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-07-14T18:37:40.615Z": [
+    {
+      "summary": "How AI is leading to a new fight over this US Civil War battlefield",
+      "headlines": [
+        "How AI is leading to a new fight over this US Civil War battlefield"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }

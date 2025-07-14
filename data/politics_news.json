@@ -25506,5 +25506,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-14T18:37:40.194Z": [
+    {
+      "summary": "Trump threatens 'very severe' tariffs against Russia if no Ukraine deal within 50 days",
+      "headlines": [
+        "Trump threatens 'very severe' tariffs against Russia if no Ukraine deal within 50 days"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens Russia with tariffs while unveiling new Ukraine weapons plan",
+      "headlines": [
+        "Trump threatens Russia with tariffs while unveiling new Ukraine weapons plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India orders airlines to check fuel switches on Boeing jets",
+      "headlines": [
+        "India orders airlines to check fuel switches on Boeing jets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Trump public broadcasting cuts could hit rural America",
+      "headlines": [
+        "How Trump public broadcasting cuts could hit rural America"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "How AI is leading to a new fight over this US Civil War battlefield",
+      "headlines": [
+        "How AI is leading to a new fight over this US Civil War battlefield"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Don't vilify Air India crash crew: Indian pilots' association",
+      "headlines": [
+        "Don't vilify Air India crash crew: Indian pilots' association"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Love Island USA crowns series seven winners",
+      "headlines": [
+        "Love Island USA crowns series seven winners"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Stokes inspires England to defeat stubborn India",
+      "headlines": [
+        "Stokes inspires England to defeat stubborn India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens Russia with ‘severe’ tariffs, announces Ukraine arms deal",
+      "headlines": [
+        "Trump threatens Russia with ‘severe’ tariffs, announces Ukraine arms deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelenskyy nominates Yulia Svyrydenko as new Ukraine PM",
+      "headlines": [
+        "Zelenskyy nominates Yulia Svyrydenko as new Ukraine PM"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Former Nigerian President Buhari to be buried in hometown on Tuesday",
+      "headlines": [
+        "Former Nigerian President Buhari to be buried in hometown on Tuesday"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

@@ -19425,5 +19425,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-14T18:37:39.793Z": [
+    {
+      "summary": "Trump threatens 'very severe' tariffs against Russia if no Ukraine deal within 50 days",
+      "headlines": [
+        "Trump threatens 'very severe' tariffs against Russia if no Ukraine deal within 50 days"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens Russia with tariffs while unveiling new Ukraine weapons plan",
+      "headlines": [
+        "Trump threatens Russia with tariffs while unveiling new Ukraine weapons plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "How Trump public broadcasting cuts could hit rural America",
+      "headlines": [
+        "How Trump public broadcasting cuts could hit rural America"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Love Island USA crowns series seven winners",
+      "headlines": [
+        "Love Island USA crowns series seven winners"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens Russia with ‘severe’ tariffs, announces Ukraine arms deal",
+      "headlines": [
+        "Trump threatens Russia with ‘severe’ tariffs, announces Ukraine arms deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Zelenskyy nominates Yulia Svyrydenko as new Ukraine PM",
+      "headlines": [
+        "Zelenskyy nominates Yulia Svyrydenko as new Ukraine PM"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Former Nigerian President Buhari to be buried in hometown on Tuesday",
+      "headlines": [
+        "Former Nigerian President Buhari to be buried in hometown on Tuesday"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
