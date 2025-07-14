@@ -1125,5 +1125,18 @@
       "sentiment": -3,
       "topic": "sports"
     }
+  ],
+  "2025-07-14T06:38:41.814Z": [
+    {
+      "summary": "Trump, Coldplay and red carpets - was this Super Bowl or soccer?",
+      "headlines": [
+        "Trump, Coldplay and red carpets - was this Super Bowl or soccer?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "sports"
+    }
   ]
 }

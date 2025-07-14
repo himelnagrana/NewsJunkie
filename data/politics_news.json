@@ -25416,5 +25416,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-14T06:38:41.147Z": [
+    {
+      "summary": "Trump says US will send 'sophisticated' equipment to Ukraine as he criticises Putin",
+      "headlines": [
+        "Trump says US will send 'sophisticated' equipment to Ukraine as he criticises Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump will be hosted by King at Windsor during second state visit",
+      "headlines": [
+        "Trump will be hosted by King at Windsor during second state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump, Coldplay and red carpets - was this Super Bowl or soccer?",
+      "headlines": [
+        "Trump, Coldplay and red carpets - was this Super Bowl or soccer?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "'If I wasn't here, people could die': Trump public media cuts could hit rural America",
+      "headlines": [
+        "'If I wasn't here, people could die': Trump public media cuts could hit rural America"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Needle between England and India sets up Lord's classic'",
+      "headlines": [
+        "'Needle between England and India sets up Lord's classic'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says US will send Patriot missiles to Ukraine",
+      "headlines": [
+        "Trump says US will send Patriot missiles to Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Cameroon’s 92-year-old president seeks eighth term in office",
+      "headlines": [
+        "Cameroon’s 92-year-old president seeks eighth term in office"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,236",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,236"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

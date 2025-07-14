@@ -2555,5 +2555,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-07-14T06:38:42.132Z": [
+    {
+      "summary": "RSF storms cattle market and prison in 'death trap' Sudanese city",
+      "headlines": [
+        "RSF storms cattle market and prison in 'death trap' Sudanese city"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Israel bombs Gaza market, water point, as total death toll passes 58,000",
+      "headlines": [
+        "Israel bombs Gaza market, water point, as total death toll passes 58,000"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

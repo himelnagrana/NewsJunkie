@@ -19357,5 +19357,73 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-14T06:38:40.713Z": [
+    {
+      "summary": "Trump says US will send 'sophisticated' equipment to Ukraine as he criticises Putin",
+      "headlines": [
+        "Trump says US will send 'sophisticated' equipment to Ukraine as he criticises Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump will be hosted by King at Windsor during second state visit",
+      "headlines": [
+        "Trump will be hosted by King at Windsor during second state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump, Coldplay and red carpets - was this Super Bowl or soccer?",
+      "headlines": [
+        "Trump, Coldplay and red carpets - was this Super Bowl or soccer?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "'If I wasn't here, people could die': Trump public media cuts could hit rural America",
+      "headlines": [
+        "'If I wasn't here, people could die': Trump public media cuts could hit rural America"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US will send Patriot missiles to Ukraine",
+      "headlines": [
+        "Trump says US will send Patriot missiles to Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Cameroon’s 92-year-old president seeks eighth term in office",
+      "headlines": [
+        "Cameroon’s 92-year-old president seeks eighth term in office"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
