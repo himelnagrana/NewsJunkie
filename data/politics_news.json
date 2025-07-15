@@ -25629,5 +25629,117 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-15T06:38:00.735Z": [
+    {
+      "summary": "I'm 'disappointed but not done' with Putin, Trump tells BBC",
+      "headlines": [
+        "I'm 'disappointed but not done' with Putin, Trump tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rosenberg: Russia more relieved than rattled by US tariff threat",
+      "headlines": [
+        "Rosenberg: Russia more relieved than rattled by US tariff threat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ethiopian troops 'executed' aid workers in Tigray war, charity says",
+      "headlines": [
+        "Ethiopian troops 'executed' aid workers in Tigray war, charity says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China growth beats expectations as Trump tariffs loom",
+      "headlines": [
+        "China growth beats expectations as Trump tariffs loom"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump weapons pledge marks major step forward for Ukraine",
+      "headlines": [
+        "Trump weapons pledge marks major step forward for Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India can't wish away coal - but can it be made cleaner?",
+      "headlines": [
+        "India can't wish away coal - but can it be made cleaner?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nvidia says it will restart AI chip sales to China",
+      "headlines": [
+        "Nvidia says it will restart AI chip sales to China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China’s economy grows at steady pace despite Trump’s trade war",
+      "headlines": [
+        "China’s economy grows at steady pace despite Trump’s trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,237",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,237"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump slaps 17 percent tariff on tomatoes from Mexico",
+      "headlines": [
+        "Trump slaps 17 percent tariff on tomatoes from Mexico"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

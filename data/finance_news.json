@@ -2579,5 +2579,40 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-07-15T06:38:01.173Z": [
+    {
+      "summary": "Rosenberg: Russia more relieved than rattled by US tariff threat",
+      "headlines": [
+        "Rosenberg: Russia more relieved than rattled by US tariff threat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "China’s economy grows at steady pace despite Trump’s trade war",
+      "headlines": [
+        "China’s economy grows at steady pace despite Trump’s trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump slaps 17 percent tariff on tomatoes from Mexico",
+      "headlines": [
+        "Trump slaps 17 percent tariff on tomatoes from Mexico"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
