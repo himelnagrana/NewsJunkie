@@ -2614,5 +2614,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-15T18:37:16.746Z": [
+    {
+      "summary": "Trump imposes 17% tariff on Mexican tomatoes",
+      "headlines": [
+        "Trump imposes 17% tariff on Mexican tomatoes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    }
   ]
 }

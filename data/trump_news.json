@@ -19572,5 +19572,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-15T18:37:16.039Z": [
+    {
+      "summary": "How Trump woke me up for surprise interview  - and the key takeaways",
+      "headlines": [
+        "How Trump woke me up for surprise interview  - and the key takeaways"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Not our war' - Trump's Nato weapons deal for Ukraine sparks MAGA anger",
+      "headlines": [
+        "'Not our war' - Trump's Nato weapons deal for Ukraine sparks MAGA anger"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: How do you get a phone call with the president?",
+      "headlines": [
+        "Watch: How do you get a phone call with the president?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What does the US education department do - and can Trump truly dismantle it?",
+      "headlines": [
+        "What does the US education department do - and can Trump truly dismantle it?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Listen: 'I don't like dwelling' on the assassination attempt, Trump tells BBC",
+      "headlines": [
+        "Listen: 'I don't like dwelling' on the assassination attempt, Trump tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Ukraine should not target Moscow",
+      "headlines": [
+        "Trump says Ukraine should not target Moscow"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump imposes 17% tariff on Mexican tomatoes",
+      "headlines": [
+        "Trump imposes 17% tariff on Mexican tomatoes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Indigenous elders lose landmark climate battle against Australian government",
+      "headlines": [
+        "Indigenous elders lose landmark climate battle against Australian government"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia says it needs time to ‘analyse’ Trump’s Ukraine announcements",
+      "headlines": [
+        "Russia says it needs time to ‘analyse’ Trump’s Ukraine announcements"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens tariffs in 50 days: What harm will it do to Russia?",
+      "headlines": [
+        "Trump threatens tariffs in 50 days: What harm will it do to Russia?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }

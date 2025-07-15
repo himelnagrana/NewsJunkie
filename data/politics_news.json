@@ -25741,5 +25741,150 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-15T18:37:16.261Z": [
+    {
+      "summary": "How Trump woke me up for surprise interview  - and the key takeaways",
+      "headlines": [
+        "How Trump woke me up for surprise interview  - and the key takeaways"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Not our war' - Trump's Nato weapons deal for Ukraine sparks MAGA anger",
+      "headlines": [
+        "'Not our war' - Trump's Nato weapons deal for Ukraine sparks MAGA anger"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "As theories swirl about Air India crash, key details remain unknown",
+      "headlines": [
+        "As theories swirl about Air India crash, key details remain unknown"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: How do you get a phone call with the president?",
+      "headlines": [
+        "Watch: How do you get a phone call with the president?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukrainians unimpressed by Trump's 50-day ultimatum to Putin",
+      "headlines": [
+        "Ukrainians unimpressed by Trump's 50-day ultimatum to Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What does the US education department do - and can Trump truly dismantle it?",
+      "headlines": [
+        "What does the US education department do - and can Trump truly dismantle it?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Listen: 'I don't like dwelling' on the assassination attempt, Trump tells BBC",
+      "headlines": [
+        "Listen: 'I don't like dwelling' on the assassination attempt, Trump tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Ukraine should not target Moscow",
+      "headlines": [
+        "Trump says Ukraine should not target Moscow"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump imposes 17% tariff on Mexican tomatoes",
+      "headlines": [
+        "Trump imposes 17% tariff on Mexican tomatoes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Indigenous elders lose landmark climate battle against Australian government",
+      "headlines": [
+        "Indigenous elders lose landmark climate battle against Australian government"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia says it needs time to ‘analyse’ Trump’s Ukraine announcements",
+      "headlines": [
+        "Russia says it needs time to ‘analyse’ Trump’s Ukraine announcements"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tesla launches Model Y in India with elevated price tag amid high tariffs",
+      "headlines": [
+        "Tesla launches Model Y in India with elevated price tag amid high tariffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens tariffs in 50 days: What harm will it do to Russia?",
+      "headlines": [
+        "Trump threatens tariffs in 50 days: What harm will it do to Russia?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
