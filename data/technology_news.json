@@ -703,5 +703,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-07-16T06:37:52.126Z": [
+    {
+      "summary": "AI and disinformation fuel political tensions in the Philippines",
+      "headlines": [
+        "AI and disinformation fuel political tensions in the Philippines"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

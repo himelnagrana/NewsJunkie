@@ -25886,5 +25886,84 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-07-16T06:37:51.936Z": [
+    {
+      "summary": "Trump says US attorney general should release any 'credible' information on Epstein",
+      "headlines": [
+        "Trump says US attorney general should release any 'credible' information on Epstein"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump launches probe into Brazil's 'unfair' trade practices",
+      "headlines": [
+        "Trump launches probe into Brazil's 'unfair' trade practices"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tesla: Milestone as first showroom opens in India",
+      "headlines": [
+        "Tesla: Milestone as first showroom opens in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Aid workers 'executed' in Ethiopia's Tigray war, charity says",
+      "headlines": [
+        "Aid workers 'executed' in Ethiopia's Tigray war, charity says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "AI and disinformation fuel political tensions in the Philippines",
+      "headlines": [
+        "AI and disinformation fuel political tensions in the Philippines"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces 19 percent tariff on Indonesia",
+      "headlines": [
+        "Trump announces 19 percent tariff on Indonesia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says ‘credible’ Epstein files should be released amid MAGA revolt",
+      "headlines": [
+        "Trump says ‘credible’ Epstein files should be released amid MAGA revolt"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

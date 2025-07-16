@@ -2627,5 +2627,18 @@
       "sentiment": -1,
       "topic": "finance"
     }
+  ],
+  "2025-07-16T06:37:52.360Z": [
+    {
+      "summary": "Trump announces 19 percent tariff on Indonesia",
+      "headlines": [
+        "Trump announces 19 percent tariff on Indonesia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
