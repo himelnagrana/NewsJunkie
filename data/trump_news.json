@@ -19741,5 +19741,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-16T18:36:23.615Z": [
+    {
+      "summary": "Trump discussed firing Fed boss but 'highly unlikely' he will",
+      "headlines": [
+        "Trump discussed firing Fed boss but 'highly unlikely' he will"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is South Korea retrying a spy chief who assassinated a president?",
+      "headlines": [
+        "Why is South Korea retrying a spy chief who assassinated a president?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ojomoh set for debut as Feyi-Waboso back to face USA",
+      "headlines": [
+        "Ojomoh set for debut as Feyi-Waboso back to face USA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump lashes out at ‘PAST supporters’ over ‘Epstein Hoax’",
+      "headlines": [
+        "Trump lashes out at ‘PAST supporters’ over ‘Epstein Hoax’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Second Israeli ultra-Orthodox party to quit government in blow to Netanyahu",
+      "headlines": [
+        "Second Israeli ultra-Orthodox party to quit government in blow to Netanyahu"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Could Trump’s tariff threats force Putin into Ukraine peace deal?",
+      "headlines": [
+        "Could Trump’s tariff threats force Putin into Ukraine peace deal?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia monitoring Western weapons deliveries to Ukraine, Kremlin says",
+      "headlines": [
+        "Russia monitoring Western weapons deliveries to Ukraine, Kremlin says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

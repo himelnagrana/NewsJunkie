@@ -25965,5 +25965,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-16T18:36:23.922Z": [
+    {
+      "summary": "Trump discussed firing Fed boss but 'highly unlikely' he will",
+      "headlines": [
+        "Trump discussed firing Fed boss but 'highly unlikely' he will"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is South Korea retrying a spy chief who assassinated a president?",
+      "headlines": [
+        "Why is South Korea retrying a spy chief who assassinated a president?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India on the charge as England struggle to defend 258 in first ODI",
+      "headlines": [
+        "India on the charge as England struggle to defend 258 in first ODI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ojomoh set for debut as Feyi-Waboso back to face USA",
+      "headlines": [
+        "Ojomoh set for debut as Feyi-Waboso back to face USA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump lashes out at ‘PAST supporters’ over ‘Epstein Hoax’",
+      "headlines": [
+        "Trump lashes out at ‘PAST supporters’ over ‘Epstein Hoax’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Second Israeli ultra-Orthodox party to quit government in blow to Netanyahu",
+      "headlines": [
+        "Second Israeli ultra-Orthodox party to quit government in blow to Netanyahu"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Could Trump’s tariff threats force Putin into Ukraine peace deal?",
+      "headlines": [
+        "Could Trump’s tariff threats force Putin into Ukraine peace deal?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia monitoring Western weapons deliveries to Ukraine, Kremlin says",
+      "headlines": [
+        "Russia monitoring Western weapons deliveries to Ukraine, Kremlin says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

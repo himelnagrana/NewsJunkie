@@ -2640,5 +2640,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-16T18:36:24.608Z": [
+    {
+      "summary": "US and Indonesia reach tariff deal",
+      "headlines": [
+        "US and Indonesia reach tariff deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Could Trump’s tariff threats force Putin into Ukraine peace deal?",
+      "headlines": [
+        "Could Trump’s tariff threats force Putin into Ukraine peace deal?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
