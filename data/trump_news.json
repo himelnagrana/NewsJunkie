@@ -19910,5 +19910,62 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-17T18:37:11.061Z": [
+    {
+      "summary": "Trump's voters want to see the Epstein files - but have faith in their president",
+      "headlines": [
+        "Trump's voters want to see the Epstein files - but have faith in their president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Risky strategy for Trump as he escalates Epstein row with loyal supporters",
+      "headlines": [
+        "Risky strategy for Trump as he escalates Epstein row with loyal supporters"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ramaphosa struggles to mend fences with Trump",
+      "headlines": [
+        "Ramaphosa struggles to mend fences with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Why is Donald Trump asking Coca-Cola to change its recipe?",
+      "headlines": [
+        "Watch: Why is Donald Trump asking Coca-Cola to change its recipe?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Europe assumes financial burden of Ukraine war, angering Russia",
+      "headlines": [
+        "Europe assumes financial burden of Ukraine war, angering Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }
