@@ -26055,5 +26055,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-17T06:37:35.641Z": [
+    {
+      "summary": "'It's just better!' Trump says Coca-Cola to change key US ingredient",
+      "headlines": [
+        "'It's just better!' Trump says Coca-Cola to change key US ingredient"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Jane Street, a US trading giant is in trouble in India",
+      "headlines": [
+        "Why Jane Street, a US trading giant is in trouble in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada curbs steel imports to shield domestic industry from Trump tariffs",
+      "headlines": [
+        "Canada curbs steel imports to shield domestic industry from Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he discussed firing Fed chair but 'highly unlikely' he will",
+      "headlines": [
+        "Trump says he discussed firing Fed chair but 'highly unlikely' he will"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US losing ground to China due to Trump’s policies, Democrats warn",
+      "headlines": [
+        "US losing ground to China due to Trump’s policies, Democrats warn"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration pulls $4bn in funds for high-speed rail in California",
+      "headlines": [
+        "Trump administration pulls $4bn in funds for high-speed rail in California"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘It’s just better!’ Trump says he has convinced Coca-Cola to use cane sugar",
+      "headlines": [
+        "‘It’s just better!’ Trump says he has convinced Coca-Cola to use cane sugar"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "In Wyoming’s mining industry, advocates see profit and peril under Trump",
+      "headlines": [
+        "In Wyoming’s mining industry, advocates see profit and peril under Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump repudiates draft letter to fire US Fed chair Powell",
+      "headlines": [
+        "Trump repudiates draft letter to fire US Fed chair Powell"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
