@@ -716,5 +716,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-07-18T18:35:19.584Z": [
+    {
+      "summary": "Netflix uses AI effects for first time to cut costs",
+      "headlines": [
+        "Netflix uses AI effects for first time to cut costs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }

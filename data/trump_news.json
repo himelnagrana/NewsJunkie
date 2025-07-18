@@ -20035,5 +20035,40 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-07-18T18:35:19.203Z": [
+    {
+      "summary": "Trump threatens to sue Murdoch and denies 'smoking gun' in Epstein controversy",
+      "headlines": [
+        "Trump threatens to sue Murdoch and denies 'smoking gun' in Epstein controversy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -8,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK and EU place further sanctions on Russia",
+      "headlines": [
+        "UK and EU place further sanctions on Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "How well did Trump and Epstein really know each other? A timeline",
+      "headlines": [
+        "How well did Trump and Epstein really know each other? A timeline"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

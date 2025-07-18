@@ -26325,5 +26325,62 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-07-18T18:35:19.370Z": [
+    {
+      "summary": "Trump threatens to sue Murdoch and denies 'smoking gun' in Epstein controversy",
+      "headlines": [
+        "Trump threatens to sue Murdoch and denies 'smoking gun' in Epstein controversy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -8,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kill Russian soldiers, win points: Is Ukraine's new drone scheme gamifying war?",
+      "headlines": [
+        "Kill Russian soldiers, win points: Is Ukraine's new drone scheme gamifying war?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Spud-tacular: How India became a french fry superpower",
+      "headlines": [
+        "Spud-tacular: How India became a french fry superpower"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK and EU place further sanctions on Russia",
+      "headlines": [
+        "UK and EU place further sanctions on Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How well did Trump and Epstein really know each other? A timeline",
+      "headlines": [
+        "How well did Trump and Epstein really know each other? A timeline"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
