@@ -2664,5 +2664,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-18T06:37:18.665Z": [
+    {
+      "summary": "Tesla finally parks in India. But can it survive the tariff war?",
+      "headlines": [
+        "Tesla finally parks in India. But can it survive the tariff war?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Brazil’s Lula slams Trump, says there is no ‘logic’ to US tariff threat",
+      "headlines": [
+        "Brazil’s Lula slams Trump, says there is no ‘logic’ to US tariff threat"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

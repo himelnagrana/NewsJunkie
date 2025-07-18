@@ -19967,5 +19967,73 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-07-18T06:37:18.045Z": [
+    {
+      "summary": "Trump orders officials to 'produce' more Epstein documents after mounting pressure",
+      "headlines": [
+        "Trump orders officials to 'produce' more Epstein documents after mounting pressure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "White House says Trump diagnosed with vein condition after questions about bruises",
+      "headlines": [
+        "White House says Trump diagnosed with vein condition after questions about bruises"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump seeks release of grand jury transcripts as Epstein uproar widens",
+      "headlines": [
+        "Trump seeks release of grand jury transcripts as Epstein uproar widens"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine appoints new prime minister in major government reshuffle",
+      "headlines": [
+        "Ukraine appoints new prime minister in major government reshuffle"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump diagnosed with ‘chronic venous insufficiency’ after leg swelling",
+      "headlines": [
+        "Trump diagnosed with ‘chronic venous insufficiency’ after leg swelling"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Brazil’s Lula slams Trump, says there is no ‘logic’ to US tariff threat",
+      "headlines": [
+        "Brazil’s Lula slams Trump, says there is no ‘logic’ to US tariff threat"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
