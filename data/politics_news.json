@@ -26382,5 +26382,51 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-19T06:34:55.671Z": [
+    {
+      "summary": "Trump sues Murdoch and Wall Street Journal over Epstein article",
+      "headlines": [
+        "Trump sues Murdoch and Wall Street Journal over Epstein article"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Prada – and other luxury brands – keep getting India wrong",
+      "headlines": [
+        "Why Prada – and other luxury brands – keep getting India wrong"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump sues Wall Street Journal, Rupert Murdoch for $10bn over Epstein story",
+      "headlines": [
+        "Trump sues Wall Street Journal, Rupert Murdoch for $10bn over Epstein story"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,241",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,241"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

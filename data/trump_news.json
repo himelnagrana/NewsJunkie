@@ -20070,5 +20070,29 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-19T06:34:55.493Z": [
+    {
+      "summary": "Trump sues Murdoch and Wall Street Journal over Epstein article",
+      "headlines": [
+        "Trump sues Murdoch and Wall Street Journal over Epstein article"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump sues Wall Street Journal, Rupert Murdoch for $10bn over Epstein story",
+      "headlines": [
+        "Trump sues Wall Street Journal, Rupert Murdoch for $10bn over Epstein story"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
