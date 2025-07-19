@@ -20094,5 +20094,51 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-19T18:32:57.184Z": [
+    {
+      "summary": "Buildings burn as another wave of Russian attacks hits Ukraine",
+      "headlines": [
+        "Buildings burn as another wave of Russian attacks hits Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump sues Murdoch and Wall Street Journal for $10bn over Epstein article",
+      "headlines": [
+        "Trump sues Murdoch and Wall Street Journal for $10bn over Epstein article"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK government backs London 2029 World Champs bid",
+      "headlines": [
+        "UK government backs London 2029 World Champs bid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Genocide or tragedy? Ukraine, Poland at odds over Volyn massacre of 1943",
+      "headlines": [
+        "Genocide or tragedy? Ukraine, Poland at odds over Volyn massacre of 1943"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
