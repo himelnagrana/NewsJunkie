@@ -1164,5 +1164,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-20T18:33:28.103Z": [
+    {
+      "summary": "More abuse as women's football grows - Bronze",
+      "headlines": [
+        "More abuse as women's football grows - Bronze"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "sports"
+    }
   ]
 }

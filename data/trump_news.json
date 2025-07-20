@@ -20197,5 +20197,18 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-07-20T18:33:27.376Z": [
+    {
+      "summary": "Moscow airports temporarily closed after Ukraine drone attacks",
+      "headlines": [
+        "Moscow airports temporarily closed after Ukraine drone attacks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
