@@ -26496,5 +26496,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-20T06:34:40.852Z": [
+    {
+      "summary": "Parades, flags and songs: The campaign to force Ukrainian children to love Russia",
+      "headlines": [
+        "Parades, flags and songs: The campaign to force Ukrainian children to love Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine seeks new round of talks with Russia",
+      "headlines": [
+        "Ukraine seeks new round of talks with Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Great British Energy solar panels' were made in China",
+      "headlines": [
+        "'Great British Energy solar panels' were made in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Social media revamp by 92-year-old president struggles to woo young Cameroonians",
+      "headlines": [
+        "Social media revamp by 92-year-old president struggles to woo young Cameroonians"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelenskyy says Ukraine sent Russia offer of new peace talks",
+      "headlines": [
+        "Zelenskyy says Ukraine sent Russia offer of new peace talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,242",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,242"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

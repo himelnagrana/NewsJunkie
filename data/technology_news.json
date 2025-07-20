@@ -742,5 +742,29 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-07-20T06:34:41.037Z": [
+    {
+      "summary": "US tech CEO resigns after Coldplay concert embrace goes viral",
+      "headlines": [
+        "US tech CEO resigns after Coldplay concert embrace goes viral"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    },
+    {
+      "summary": "How the rise of green tech is feeding another environmental crisis",
+      "headlines": [
+        "How the rise of green tech is feeding another environmental crisis"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }
