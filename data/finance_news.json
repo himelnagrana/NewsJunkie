@@ -2688,5 +2688,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-07-21T06:38:21.189Z": [
+    {
+      "summary": "In South Korea, Trump’s tariff threats place US love affair under strain",
+      "headlines": [
+        "In South Korea, Trump’s tariff threats place US love affair under strain"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    }
   ]
 }

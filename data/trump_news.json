@@ -20210,5 +20210,29 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-07-21T06:38:19.764Z": [
+    {
+      "summary": "Ellen DeGeneres: I moved to the UK because of Trump",
+      "headlines": [
+        "Ellen DeGeneres: I moved to the UK because of Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why China is betting on theme parks like Legoland to boost spending",
+      "headlines": [
+        "Why China is betting on theme parks like Legoland to boost spending"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    }
   ]
 }
