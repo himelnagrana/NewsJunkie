@@ -26634,5 +26634,106 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-21T18:37:21.689Z": [
+    {
+      "summary": "China begins building world's largest dam, fuelling fears in India",
+      "headlines": [
+        "China begins building world's largest dam, fuelling fears in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Harvard and Trump lawyers take funding fight to court",
+      "headlines": [
+        "Harvard and Trump lawyers take funding fight to court"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens to block NFL stadium build over team name",
+      "headlines": [
+        "Trump threatens to block NFL stadium build over team name"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Concert by Putin ally Gergiev cancelled in Italy",
+      "headlines": [
+        "Concert by Putin ally Gergiev cancelled in Italy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threat over stadium if Washington do not revert to Redskins name",
+      "headlines": [
+        "Trump threat over stadium if Washington do not revert to Redskins name"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Less than human’: Report details Trump immigration detention centre abuses",
+      "headlines": [
+        "‘Less than human’: Report details Trump immigration detention centre abuses"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hearing begins in Harvard’s case against the Trump administration",
+      "headlines": [
+        "Hearing begins in Harvard’s case against the Trump administration"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Belgian police question Israelis over alleged Gaza war crimes",
+      "headlines": [
+        "Belgian police question Israelis over alleged Gaza war crimes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Philippines’ Marcos to meet Trump seeking trade deal",
+      "headlines": [
+        "Philippines’ Marcos to meet Trump seeking trade deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
