@@ -20313,5 +20313,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-22T06:37:56.394Z": [
+    {
+      "summary": "How Trump is using the courts to get what he wants - and changing the shape of presidential power",
+      "headlines": [
+        "How Trump is using the courts to get what he wants - and changing the shape of presidential power"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China finds cover-up in lead poisoning of 200 children",
+      "headlines": [
+        "China finds cover-up in lead poisoning of 200 children"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine and Russia set for fresh peace talks, Zelensky says",
+      "headlines": [
+        "Ukraine and Russia set for fresh peace talks, Zelensky says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Harvard and Trump lawyers clash in court over funding fight",
+      "headlines": [
+        "Harvard and Trump lawyers clash in court over funding fight"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration releases files on Martin Luther King Jr",
+      "headlines": [
+        "Trump administration releases files on Martin Luther King Jr"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US government employee barred from leaving China, Washington says",
+      "headlines": [
+        "US government employee barred from leaving China, Washington says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China starts construction of world’s biggest hydropower dam in Tibet",
+      "headlines": [
+        "China starts construction of world’s biggest hydropower dam in Tibet"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration bars Wall Street Journal from trip amid Epstein spat",
+      "headlines": [
+        "Trump administration bars Wall Street Journal from trip amid Epstein spat"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

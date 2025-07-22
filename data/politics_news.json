@@ -26735,5 +26735,117 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-22T06:37:56.593Z": [
+    {
+      "summary": "The voices in the cockpit fuelling controversy over Air India crash",
+      "headlines": [
+        "The voices in the cockpit fuelling controversy over Air India crash"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Trump is using the courts to get what he wants - and changing the shape of presidential power",
+      "headlines": [
+        "How Trump is using the courts to get what he wants - and changing the shape of presidential power"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China finds cover-up in lead poisoning of 200 children",
+      "headlines": [
+        "China finds cover-up in lead poisoning of 200 children"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine and Russia set for fresh peace talks, Zelensky says",
+      "headlines": [
+        "Ukraine and Russia set for fresh peace talks, Zelensky says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Harvard and Trump lawyers clash in court over funding fight",
+      "headlines": [
+        "Harvard and Trump lawyers clash in court over funding fight"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration releases files on Martin Luther King Jr",
+      "headlines": [
+        "Trump administration releases files on Martin Luther King Jr"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US government employee barred from leaving China, Washington says",
+      "headlines": [
+        "US government employee barred from leaving China, Washington says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK, France and 23 other nations demand Israel’s war on Gaza ‘must end now’",
+      "headlines": [
+        "UK, France and 23 other nations demand Israel’s war on Gaza ‘must end now’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "China starts construction of world’s biggest hydropower dam in Tibet",
+      "headlines": [
+        "China starts construction of world’s biggest hydropower dam in Tibet"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration bars Wall Street Journal from trip amid Epstein spat",
+      "headlines": [
+        "Trump administration bars Wall Street Journal from trip amid Epstein spat"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

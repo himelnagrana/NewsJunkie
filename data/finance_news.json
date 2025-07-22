@@ -2701,5 +2701,29 @@
       "sentiment": 1,
       "topic": "finance"
     }
+  ],
+  "2025-07-22T06:37:57.038Z": [
+    {
+      "summary": "As Trump’s tariff deadline looms, economists see calm before the storm",
+      "headlines": [
+        "As Trump’s tariff deadline looms, economists see calm before the storm"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Will Zohran Mamdani help or hurt New York’s economy?",
+      "headlines": [
+        "Will Zohran Mamdani help or hurt New York’s economy?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

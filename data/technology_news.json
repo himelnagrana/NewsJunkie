@@ -766,5 +766,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-07-22T06:37:56.790Z": [
+    {
+      "summary": "Trucking's uneasy relationship with new tech",
+      "headlines": [
+        "Trucking's uneasy relationship with new tech"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }
