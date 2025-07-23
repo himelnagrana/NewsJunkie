@@ -792,5 +792,29 @@
       "sentiment": -5,
       "topic": "technology"
     }
+  ],
+  "2025-07-23T18:36:51.874Z": [
+    {
+      "summary": "Trump unveils AI plan that aims to clamp down on regulations and 'bias'",
+      "headlines": [
+        "Trump unveils AI plan that aims to clamp down on regulations and 'bias'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    },
+    {
+      "summary": "Gaps in our knowledge of ancient Rome could be filled by AI",
+      "headlines": [
+        "Gaps in our knowledge of ancient Rome could be filled by AI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

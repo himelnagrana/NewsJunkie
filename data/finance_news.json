@@ -2725,5 +2725,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-23T18:36:52.237Z": [
+    {
+      "summary": "Faisal Islam: Trump's tough tariff tactics are getting results",
+      "headlines": [
+        "Faisal Islam: Trump's tough tariff tactics are getting results"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump’s hefty tariff on Brazil expected to push the country towards China",
+      "headlines": [
+        "Trump’s hefty tariff on Brazil expected to push the country towards China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

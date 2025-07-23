@@ -20528,5 +20528,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-23T18:36:51.396Z": [
+    {
+      "summary": "Trump unveils AI plan that aims to clamp down on regulations and 'bias'",
+      "headlines": [
+        "Trump unveils AI plan that aims to clamp down on regulations and 'bias'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration opens investigation into Harvard's use of visas",
+      "headlines": [
+        "Trump administration opens investigation into Harvard's use of visas"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ethiopian official denies Donald Trump's claim that US funded River Nile dam",
+      "headlines": [
+        "Ethiopian official denies Donald Trump's claim that US funded River Nile dam"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Unbearable’: Ukrainians deported by Russia, stranded at Georgia border",
+      "headlines": [
+        "‘Unbearable’: Ukrainians deported by Russia, stranded at Georgia border"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "EU steps up air defences for Ukraine and sanctions for Russia",
+      "headlines": [
+        "EU steps up air defences for Ukraine and sanctions for Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump’s hefty tariff on Brazil expected to push the country towards China",
+      "headlines": [
+        "Trump’s hefty tariff on Brazil expected to push the country towards China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump White House probes Harvard University’s scholar exchange programme",
+      "headlines": [
+        "Trump White House probes Harvard University’s scholar exchange programme"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

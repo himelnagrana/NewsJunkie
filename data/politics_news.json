@@ -27049,5 +27049,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-23T18:36:51.638Z": [
+    {
+      "summary": "Trump unveils AI plan that aims to clamp down on regulations and 'bias'",
+      "headlines": [
+        "Trump unveils AI plan that aims to clamp down on regulations and 'bias'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration opens investigation into Harvard's use of visas",
+      "headlines": [
+        "Trump administration opens investigation into Harvard's use of visas"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air India crash victim's son says he received wrong remains",
+      "headlines": [
+        "Air India crash victim's son says he received wrong remains"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "The boy who shot the Vietnam War",
+      "headlines": [
+        "The boy who shot the Vietnam War"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK archaeologists identify wreck of ship dating to American Revolutionary War",
+      "headlines": [
+        "UK archaeologists identify wreck of ship dating to American Revolutionary War"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran ready for war with Israel, will not halt nuclear programme: Pezeshkian",
+      "headlines": [
+        "Iran ready for war with Israel, will not halt nuclear programme: Pezeshkian"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Unbearable’: Ukrainians deported by Russia, stranded at Georgia border",
+      "headlines": [
+        "‘Unbearable’: Ukrainians deported by Russia, stranded at Georgia border"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU steps up air defences for Ukraine and sanctions for Russia",
+      "headlines": [
+        "EU steps up air defences for Ukraine and sanctions for Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump’s hefty tariff on Brazil expected to push the country towards China",
+      "headlines": [
+        "Trump’s hefty tariff on Brazil expected to push the country towards China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Turkiye calls for end to ‘bloody war’ at new round of Russia-Ukraine talks",
+      "headlines": [
+        "Turkiye calls for end to ‘bloody war’ at new round of Russia-Ukraine talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump White House probes Harvard University’s scholar exchange programme",
+      "headlines": [
+        "Trump White House probes Harvard University’s scholar exchange programme"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
