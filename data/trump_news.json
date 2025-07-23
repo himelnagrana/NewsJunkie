@@ -20471,5 +20471,62 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-07-23T06:38:20.600Z": [
+    {
+      "summary": "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies",
+      "headlines": [
+        "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Obama blasts 'bizarre' Trump claim of 2016 election 'treason'",
+      "headlines": [
+        "Obama blasts 'bizarre' Trump claim of 2016 election 'treason'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces 'massive' trade deal with Japan",
+      "headlines": [
+        "Trump announces 'massive' trade deal with Japan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces ‘massive’ trade deal with Japan",
+      "headlines": [
+        "Trump announces ‘massive’ trade deal with Japan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims",
+      "headlines": [
+        "Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

@@ -26970,5 +26970,84 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-07-23T06:38:20.839Z": [
+    {
+      "summary": "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies",
+      "headlines": [
+        "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Obama blasts 'bizarre' Trump claim of 2016 election 'treason'",
+      "headlines": [
+        "Obama blasts 'bizarre' Trump claim of 2016 election 'treason'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "The Today Debate: What can stop the war in Gaza",
+      "headlines": [
+        "The Today Debate: What can stop the war in Gaza"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gaza war: Is the UK selling arms to Israel?",
+      "headlines": [
+        "Gaza war: Is the UK selling arms to Israel?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces 'massive' trade deal with Japan",
+      "headlines": [
+        "Trump announces 'massive' trade deal with Japan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces ‘massive’ trade deal with Japan",
+      "headlines": [
+        "Trump announces ‘massive’ trade deal with Japan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims",
+      "headlines": [
+        "Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
