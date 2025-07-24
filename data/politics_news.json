@@ -27172,5 +27172,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-24T06:38:31.214Z": [
+    {
+      "summary": "White House hits back at reports Trump named in Epstein files",
+      "headlines": [
+        "White House hits back at reports Trump named in Epstein files"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Park to stream on Paramount+ after bidding war",
+      "headlines": [
+        "South Park to stream on Paramount+ after bidding war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air India crash victim's son says he received 'other' remains",
+      "headlines": [
+        "Air India crash victim's son says he received 'other' remains"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia to lift import ban on US beef after Trump tariffs tiff",
+      "headlines": [
+        "Australia to lift import ban on US beef after Trump tariffs tiff"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Columbia University to pay $200m in settlement with Trump administration",
+      "headlines": [
+        "Columbia University to pay $200m in settlement with Trump administration"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia lifts US beef restrictions slammed by Trump",
+      "headlines": [
+        "Australia lifts US beef restrictions slammed by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump was briefed that his name appears in Epstein files, reports say",
+      "headlines": [
+        "Trump was briefed that his name appears in Epstein files, reports say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
