@@ -27251,5 +27251,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-24T18:36:35.910Z": [
+    {
+      "summary": "Trump to visit Fed as pressure on Powell mounts",
+      "headlines": [
+        "Trump to visit Fed as pressure on Powell mounts"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Jeremy Corbyn launches new political party in UK",
+      "headlines": [
+        "Jeremy Corbyn launches new political party in UK"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "White House pushes back after reports Trump is named in Epstein files",
+      "headlines": [
+        "White House pushes back after reports Trump is named in Epstein files"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Stokes and openers put England on top against India",
+      "headlines": [
+        "Stokes and openers put England on top against India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "ICC convicts Central African Republic rebels over war crimes",
+      "headlines": [
+        "ICC convicts Central African Republic rebels over war crimes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK and India sign free trade agreement during Modi visit",
+      "headlines": [
+        "UK and India sign free trade agreement during Modi visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }

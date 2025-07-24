@@ -20664,5 +20664,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-24T18:36:35.690Z": [
+    {
+      "summary": "Trump to visit Fed as pressure on Powell mounts",
+      "headlines": [
+        "Trump to visit Fed as pressure on Powell mounts"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Jeremy Corbyn launches new political party in UK",
+      "headlines": [
+        "Jeremy Corbyn launches new political party in UK"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "White House pushes back after reports Trump is named in Epstein files",
+      "headlines": [
+        "White House pushes back after reports Trump is named in Epstein files"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

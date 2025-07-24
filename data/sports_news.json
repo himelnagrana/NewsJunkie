@@ -1190,5 +1190,18 @@
       "sentiment": -1,
       "topic": "sports"
     }
+  ],
+  "2025-07-24T18:36:36.303Z": [
+    {
+      "summary": "Indian football ‘hurt, scared’ as domestic game hits new low",
+      "headlines": [
+        "Indian football ‘hurt, scared’ as domestic game hits new low"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
