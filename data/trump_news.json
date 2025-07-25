@@ -20778,5 +20778,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-25T18:37:06.930Z": [
+    {
+      "summary": "Trump says US may not reach trade deal with Canada",
+      "headlines": [
+        "Trump says US may not reach trade deal with Canada"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Park creator makes mock apology over episode that ridicules Trump",
+      "headlines": [
+        "South Park creator makes mock apology over episode that ridicules Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Hamas 'didn't want deal' as US and Israel leave Gaza talks",
+      "headlines": [
+        "Trump says Hamas 'didn't want deal' as US and Israel leave Gaza talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Trump voters in Florida react to Epstein controversy",
+      "headlines": [
+        "Watch: Trump voters in Florida react to Epstein controversy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Trump jokes he wants Powell to lower interest rates in tense exchange",
+      "headlines": [
+        "Watch: Trump jokes he wants Powell to lower interest rates in tense exchange"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Trump bickers with Powell over Fed renovation costs",
+      "headlines": [
+        "Watch: Trump bickers with Powell over Fed renovation costs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Park creators make mock apology to Trump",
+      "headlines": [
+        "South Park creators make mock apology to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Hamas will be ‘hunted down’ as Gaza ceasefire talks wane",
+      "headlines": [
+        "Trump says Hamas will be ‘hunted down’ as Gaza ceasefire talks wane"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is Trump using Africa as a ‘dumping ground’ for criminals?",
+      "headlines": [
+        "Is Trump using Africa as a ‘dumping ground’ for criminals?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Meta to suspend political advertising as EU transparency law looms",
+      "headlines": [
+        "Meta to suspend political advertising as EU transparency law looms"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
