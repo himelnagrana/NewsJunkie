@@ -20699,5 +20699,84 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-25T06:38:22.308Z": [
+    {
+      "summary": "Trump to fly to Scotland for golf club visits - and a meeting with UK PM",
+      "headlines": [
+        "Trump to fly to Scotland for golf club visits - and a meeting with UK PM"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump assassination attempt suspect can represent himself at trial, judge rules",
+      "headlines": [
+        "Trump assassination attempt suspect can represent himself at trial, judge rules"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Trump jokes he wants Powell to lower interest rates in awkward exchange",
+      "headlines": [
+        "Watch: Trump jokes he wants Powell to lower interest rates in awkward exchange"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Moment landslide is triggered by heavy rain in southern China",
+      "headlines": [
+        "Watch: Moment landslide is triggered by heavy rain in southern China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump heads to Scotland: What to expect from his visit",
+      "headlines": [
+        "Trump heads to Scotland: What to expect from his visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump takes time out to open Scottish golf course",
+      "headlines": [
+        "Trump takes time out to open Scottish golf course"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US doctors, veterans urge Trump to end Israel support as hunger grips Gaza",
+      "headlines": [
+        "US doctors, veterans urge Trump to end Israel support as hunger grips Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

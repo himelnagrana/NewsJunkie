@@ -27319,5 +27319,139 @@
       "sentiment": 2,
       "topic": "politics"
     }
+  ],
+  "2025-07-25T06:38:22.488Z": [
+    {
+      "summary": "Thailand warns clashes with Cambodia could 'move towards war'",
+      "headlines": [
+        "Thailand warns clashes with Cambodia could 'move towards war'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to fly to Scotland for golf club visits - and a meeting with UK PM",
+      "headlines": [
+        "Trump to fly to Scotland for golf club visits - and a meeting with UK PM"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump assassination attempt suspect can represent himself at trial, judge rules",
+      "headlines": [
+        "Trump assassination attempt suspect can represent himself at trial, judge rules"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump jokes he wants Powell to lower interest rates in awkward exchange",
+      "headlines": [
+        "Watch: Trump jokes he wants Powell to lower interest rates in awkward exchange"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Moment landslide is triggered by heavy rain in southern China",
+      "headlines": [
+        "Watch: Moment landslide is triggered by heavy rain in southern China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump heads to Scotland: What to expect from his visit",
+      "headlines": [
+        "Trump heads to Scotland: What to expect from his visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump takes time out to open Scottish golf course",
+      "headlines": [
+        "Trump takes time out to open Scottish golf course"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Thailand’s acting PM says border clashes ‘could develop into war’",
+      "headlines": [
+        "Thailand’s acting PM says border clashes ‘could develop into war’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Could Israel be planning a second war on Iran?",
+      "headlines": [
+        "Could Israel be planning a second war on Iran?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US doctors, veterans urge Trump to end Israel support as hunger grips Gaza",
+      "headlines": [
+        "US doctors, veterans urge Trump to end Israel support as hunger grips Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "At least four children dead in school roof collapse in India",
+      "headlines": [
+        "At least four children dead in school roof collapse in India"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,247",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,247"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
