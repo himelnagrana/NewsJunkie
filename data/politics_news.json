@@ -27688,5 +27688,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-26T18:33:41.859Z": [
+    {
+      "summary": "Security tightens as Trump plays golf on Scotland visit",
+      "headlines": [
+        "Security tightens as Trump plays golf on Scotland visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Guardiola and Xavi 'applications' to manage football team a hoax, India says",
+      "headlines": [
+        "Guardiola and Xavi 'applications' to manage football team a hoax, India says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Security tightens as Donald Trump plays golf at Turnberry",
+      "headlines": [
+        "Security tightens as Donald Trump plays golf at Turnberry"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Horrors upon horrors’: How US Congress responded to mass hunger in Gaza",
+      "headlines": [
+        "‘Horrors upon horrors’: How US Congress responded to mass hunger in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump wades in on Thailand-Cambodia fighting during golf visit in Scotland",
+      "headlines": [
+        "Trump wades in on Thailand-Cambodia fighting during golf visit in Scotland"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Folk music and raids: How ultranationalists target migrants in Russia",
+      "headlines": [
+        "Folk music and raids: How ultranationalists target migrants in Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump in Scotland: How’s his trip going and what’s on the agenda?",
+      "headlines": [
+        "Trump in Scotland: How’s his trip going and what’s on the agenda?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What is the Nipah virus and is it spreading in southern India?",
+      "headlines": [
+        "What is the Nipah virus and is it spreading in southern India?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

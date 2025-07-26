@@ -1203,5 +1203,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-26T18:33:42.300Z": [
+    {
+      "summary": "Guardiola and Xavi 'applications' to manage football team a hoax, India says",
+      "headlines": [
+        "Guardiola and Xavi 'applications' to manage football team a hoax, India says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }
