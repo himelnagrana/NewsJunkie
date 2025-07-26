@@ -27576,5 +27576,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-26T06:35:36.052Z": [
+    {
+      "summary": "School-leavers losing their lives for Russia in Putin's war with Ukraine",
+      "headlines": [
+        "School-leavers losing their lives for Russia in Putin's war with Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump praises PM Starmer as he arrives in Scotland for four-day trip",
+      "headlines": [
+        "Trump praises PM Starmer as he arrives in Scotland for four-day trip"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "'I witnessed war crimes' in Gaza, former worker at GHF aid site tells BBC",
+      "headlines": [
+        "'I witnessed war crimes' in Gaza, former worker at GHF aid site tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tee time with Trump - striking balls and deals over 18 holes",
+      "headlines": [
+        "Tee time with Trump - striking balls and deals over 18 holes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Former Congolese president on trial for treason",
+      "headlines": [
+        "Former Congolese president on trial for treason"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Philippines top court blocks impeachment bid against vice president",
+      "headlines": [
+        "Philippines top court blocks impeachment bid against vice president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says 'great to be in Scotland', as he lands for four-day trip",
+      "headlines": [
+        "Trump says 'great to be in Scotland', as he lands for four-day trip"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Dahiyeh families displaced by war now trapped by identity",
+      "headlines": [
+        "Dahiyeh families displaced by war now trapped by identity"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Polls open in Taiwan’s key ‘recall election’ closely watched by China",
+      "headlines": [
+        "Polls open in Taiwan’s key ‘recall election’ closely watched by China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,248",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,248"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

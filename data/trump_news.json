@@ -20890,5 +20890,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-26T06:35:35.751Z": [
+    {
+      "summary": "School-leavers losing their lives for Russia in Putin's war with Ukraine",
+      "headlines": [
+        "School-leavers losing their lives for Russia in Putin's war with Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump praises PM Starmer as he arrives in Scotland for four-day trip",
+      "headlines": [
+        "Trump praises PM Starmer as he arrives in Scotland for four-day trip"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Tee time with Trump - striking balls and deals over 18 holes",
+      "headlines": [
+        "Tee time with Trump - striking balls and deals over 18 holes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Former Congolese president on trial for treason",
+      "headlines": [
+        "Former Congolese president on trial for treason"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Philippines top court blocks impeachment bid against vice president",
+      "headlines": [
+        "Philippines top court blocks impeachment bid against vice president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says 'great to be in Scotland', as he lands for four-day trip",
+      "headlines": [
+        "Trump says 'great to be in Scotland', as he lands for four-day trip"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Polls open in Taiwan’s key ‘recall election’ closely watched by China",
+      "headlines": [
+        "Polls open in Taiwan’s key ‘recall election’ closely watched by China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
