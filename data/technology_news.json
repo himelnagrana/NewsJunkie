@@ -816,5 +816,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-07-27T06:36:22.947Z": [
+    {
+      "summary": "Does this look like a real woman? AI Vogue model raises concerns about beauty standards",
+      "headlines": [
+        "Does this look like a real woman? AI Vogue model raises concerns about beauty standards"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "technology"
+    }
   ]
 }

@@ -27778,5 +27778,29 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-27T06:36:22.534Z": [
+    {
+      "summary": "Thailand and Cambodia thank Trump for mediation, but shelling continues",
+      "headlines": [
+        "Thailand and Cambodia thank Trump for mediation, but shelling continues"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "RSF paramilitary-led coalition forms parallel government in war-torn Sudan",
+      "headlines": [
+        "RSF paramilitary-led coalition forms parallel government in war-torn Sudan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
