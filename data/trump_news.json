@@ -21050,5 +21050,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-27T18:34:13.408Z": [
+    {
+      "summary": "Cameroon opposition leader banned from challenging world's oldest president",
+      "headlines": [
+        "Cameroon opposition leader banned from challenging world's oldest president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump agrees trade lead with EU president after round of golf",
+      "headlines": [
+        "Trump agrees trade lead with EU president after round of golf"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US-EU trade talks: Will the EU chief clinch a deal with Trump?",
+      "headlines": [
+        "US-EU trade talks: Will the EU chief clinch a deal with Trump?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

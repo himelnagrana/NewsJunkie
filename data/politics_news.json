@@ -27802,5 +27802,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-27T18:34:13.621Z": [
+    {
+      "summary": "India save fourth Test to set up Oval decider - as it happened",
+      "headlines": [
+        "India save fourth Test to set up Oval decider - as it happened"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Cameroon opposition leader banned from challenging world's oldest president",
+      "headlines": [
+        "Cameroon opposition leader banned from challenging world's oldest president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump agrees trade lead with EU president after round of golf",
+      "headlines": [
+        "Trump agrees trade lead with EU president after round of golf"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Superb India defy England to keep series alive",
+      "headlines": [
+        "Superb India defy England to keep series alive"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Two friends, one war and the RSF’s reign of terror in Khartoum",
+      "headlines": [
+        "Two friends, one war and the RSF’s reign of terror in Khartoum"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "US-EU trade talks: Will the EU chief clinch a deal with Trump?",
+      "headlines": [
+        "US-EU trade talks: Will the EU chief clinch a deal with Trump?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
