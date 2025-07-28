@@ -1216,5 +1216,29 @@
       "sentiment": -2,
       "topic": "sports"
     }
+  ],
+  "2025-07-28T06:40:24.707Z": [
+    {
+      "summary": "England's women defy odds to create football history",
+      "headlines": [
+        "England's women defy odds to create football history"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    },
+    {
+      "summary": "Lionesses defy odds to create English football history",
+      "headlines": [
+        "Lionesses defy odds to create English football history"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

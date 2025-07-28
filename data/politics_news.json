@@ -27870,5 +27870,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-28T06:40:24.266Z": [
+    {
+      "summary": "US-EU tariff deal a big Trump win but not a total defeat for Brussels",
+      "headlines": [
+        "US-EU tariff deal a big Trump win but not a total defeat for Brussels"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "The rise of Japan's far right was supercharged by Trump - and tourists",
+      "headlines": [
+        "The rise of Japan's far right was supercharged by Trump - and tourists"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ancient site stirs heated political debate on India's past",
+      "headlines": [
+        "Ancient site stirs heated political debate on India's past"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US-China talks to restart as hopes grow for trade war truce extension",
+      "headlines": [
+        "US-China talks to restart as hopes grow for trade war truce extension"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Trump wants the US to cash in on mineral-rich DR Congo's peace deal",
+      "headlines": [
+        "How Trump wants the US to cash in on mineral-rich DR Congo's peace deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US and EU agree on 15 percent tariffs, averting transatlantic trade war",
+      "headlines": [
+        "US and EU agree on 15 percent tariffs, averting transatlantic trade war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gill, India keep series alive with drawn fourth Test against England",
+      "headlines": [
+        "Gill, India keep series alive with drawn fourth Test against England"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,250",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,250"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

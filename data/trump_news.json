@@ -21085,5 +21085,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-28T06:40:24.054Z": [
+    {
+      "summary": "US-EU tariff deal a big Trump win but not a total defeat for Brussels",
+      "headlines": [
+        "US-EU tariff deal a big Trump win but not a total defeat for Brussels"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "The rise of Japan's far right was supercharged by Trump - and tourists",
+      "headlines": [
+        "The rise of Japan's far right was supercharged by Trump - and tourists"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ancient site stirs heated political debate on India's past",
+      "headlines": [
+        "Ancient site stirs heated political debate on India's past"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "How Trump wants the US to cash in on mineral-rich DR Congo's peace deal",
+      "headlines": [
+        "How Trump wants the US to cash in on mineral-rich DR Congo's peace deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }

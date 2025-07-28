@@ -2749,5 +2749,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-28T06:40:24.894Z": [
+    {
+      "summary": "US-EU tariff deal a big Trump win but not a total defeat for Brussels",
+      "headlines": [
+        "US-EU tariff deal a big Trump win but not a total defeat for Brussels"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "finance"
+    }
   ]
 }
