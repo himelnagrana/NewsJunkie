@@ -21131,5 +21131,106 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-07-28T18:38:23.597Z": [
+    {
+      "summary": "Gaza is experiencing 'real starvation', Donald Trump says",
+      "headlines": [
+        "Gaza is experiencing 'real starvation', Donald Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin must agree Ukraine ceasefire in 10 or 12 days, says Trump",
+      "headlines": [
+        "Putin must agree Ukraine ceasefire in 10 or 12 days, says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Five things that could get more expensive for Americans under Trump tariffs",
+      "headlines": [
+        "Five things that could get more expensive for Americans under Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump takes another swipe at London's mayor",
+      "headlines": [
+        "Trump takes another swipe at London's mayor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China investigates head monk of Shaolin 'Kung Fu' temple",
+      "headlines": [
+        "China investigates head monk of Shaolin 'Kung Fu' temple"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Gaza experiencing 'real starvation', Trump says",
+      "headlines": [
+        "Gaza experiencing 'real starvation', Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Wipe it out faster’: Trump again threatens Iran over nuclear enrichment",
+      "headlines": [
+        "‘Wipe it out faster’: Trump again threatens Iran over nuclear enrichment"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump gives Russia 10 or 12 days to end war on Ukraine",
+      "headlines": [
+        "Trump gives Russia 10 or 12 days to end war on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Baby dies from malnutrition as Trump warns of ‘real starvation’ in Gaza",
+      "headlines": [
+        "Baby dies from malnutrition as Trump warns of ‘real starvation’ in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

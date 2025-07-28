@@ -1240,5 +1240,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-28T18:38:24.327Z": [
+    {
+      "summary": "How did England's Bronze play whole tournament with fractured tibia?",
+      "headlines": [
+        "How did England's Bronze play whole tournament with fractured tibia?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

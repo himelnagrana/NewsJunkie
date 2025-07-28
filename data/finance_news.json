@@ -2762,5 +2762,29 @@
       "sentiment": 3,
       "topic": "finance"
     }
+  ],
+  "2025-07-28T18:38:24.480Z": [
+    {
+      "summary": "Five killed in Bangkok market mass shooting",
+      "headlines": [
+        "Five killed in Bangkok market mass shooting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    },
+    {
+      "summary": "Five people killed in shooting at market in Thailand’s Bangkok",
+      "headlines": [
+        "Five people killed in shooting at market in Thailand’s Bangkok"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }
