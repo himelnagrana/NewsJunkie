@@ -28083,5 +28083,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-07-29T06:38:49.949Z": [
+    {
+      "summary": "Thirty dead in Beijing as parts of China reel from heavy rains and flooding",
+      "headlines": [
+        "Thirty dead in Beijing as parts of China reel from heavy rains and flooding"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump cites Murdoch's age to seek swift deposition in Epstein case",
+      "headlines": [
+        "Trump cites Murdoch's age to seek swift deposition in Epstein case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China offers parents $1,500 in bid to boost births",
+      "headlines": [
+        "China offers parents $1,500 in bid to boost births"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Nursing home residents rescued from China floods",
+      "headlines": [
+        "Watch: Nursing home residents rescued from China floods"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India denies it was pressured into ending conflict with Pakistan",
+      "headlines": [
+        "India denies it was pressured into ending conflict with Pakistan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "How personal tragedy motivates India seamer Deep",
+      "headlines": [
+        "How personal tragedy motivates India seamer Deep"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump denies seeking summit with Xi, says he ‘may’ visit China",
+      "headlines": [
+        "Trump denies seeking summit with Xi, says he ‘may’ visit China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Sudan’s RSF chose this parallel government ahead of peace talks",
+      "headlines": [
+        "Why Sudan’s RSF chose this parallel government ahead of peace talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }

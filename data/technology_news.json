@@ -829,5 +829,18 @@
       "sentiment": 5,
       "topic": "technology"
     }
+  ],
+  "2025-07-29T06:38:50.144Z": [
+    {
+      "summary": "India's AI-driven tech firings could derail middle class dreams",
+      "headlines": [
+        "India's AI-driven tech firings could derail middle class dreams"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }

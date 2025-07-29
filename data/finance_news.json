@@ -2786,5 +2786,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-07-29T06:38:50.375Z": [
+    {
+      "summary": "US companies up against 'nightmare' tariff wall",
+      "headlines": [
+        "US companies up against 'nightmare' tariff wall"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

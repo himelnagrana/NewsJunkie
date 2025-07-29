@@ -21232,5 +21232,73 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-07-29T06:38:49.745Z": [
+    {
+      "summary": "Thirty dead in Beijing as parts of China reel from heavy rains and flooding",
+      "headlines": [
+        "Thirty dead in Beijing as parts of China reel from heavy rains and flooding"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump cites Murdoch's age to seek swift deposition in Epstein case",
+      "headlines": [
+        "Trump cites Murdoch's age to seek swift deposition in Epstein case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China offers parents $1,500 in bid to boost births",
+      "headlines": [
+        "China offers parents $1,500 in bid to boost births"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Nursing home residents rescued from China floods",
+      "headlines": [
+        "Watch: Nursing home residents rescued from China floods"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump denies seeking summit with Xi, says he ‘may’ visit China",
+      "headlines": [
+        "Trump denies seeking summit with Xi, says he ‘may’ visit China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why Sudan’s RSF chose this parallel government ahead of peace talks",
+      "headlines": [
+        "Why Sudan’s RSF chose this parallel government ahead of peace talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }
