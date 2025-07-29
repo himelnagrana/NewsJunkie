@@ -21300,5 +21300,106 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-07-29T18:38:56.316Z": [
+    {
+      "summary": "Scotland gives Trump three things he likes - and one thing he doesn't",
+      "headlines": [
+        "Scotland gives Trump three things he likes - and one thing he doesn't"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian strikes kill 25 as prison and hospital hit, Ukraine says",
+      "headlines": [
+        "Russian strikes kill 25 as prison and hospital hit, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "'How will we survive?' Lesotho factory that made Trump golf shirts hit hard by US tariffs",
+      "headlines": [
+        "'How will we survive?' Lesotho factory that made Trump golf shirts hit hard by US tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Mining billionaire welcomes Trump tariffs on copper",
+      "headlines": [
+        "Mining billionaire welcomes Trump tariffs on copper"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ex-Colombian president Álvaro Uribe guilty of witness-tampering",
+      "headlines": [
+        "Ex-Colombian president Álvaro Uribe guilty of witness-tampering"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump ally Marjorie Taylor Greene decries ‘genocide’ in Gaza",
+      "headlines": [
+        "Trump ally Marjorie Taylor Greene decries ‘genocide’ in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Inmates, pregnant woman among 27 killed in Russia’s attacks on Ukraine",
+      "headlines": [
+        "Inmates, pregnant woman among 27 killed in Russia’s attacks on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ivory Coast’s president says will seek fourth term in office",
+      "headlines": [
+        "Ivory Coast’s president says will seek fourth term in office"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration moves to nix key finding on greenhouse gas emissions",
+      "headlines": [
+        "Trump administration moves to nix key finding on greenhouse gas emissions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

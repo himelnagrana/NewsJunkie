@@ -28173,5 +28173,161 @@
       "sentiment": 2,
       "topic": "politics"
     }
+  ],
+  "2025-07-29T18:38:56.534Z": [
+    {
+      "summary": "Scotland gives Trump three things he likes - and one thing he doesn't",
+      "headlines": [
+        "Scotland gives Trump three things he likes - and one thing he doesn't"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russian strikes kill 25 as prison and hospital hit, Ukraine says",
+      "headlines": [
+        "Russian strikes kill 25 as prison and hospital hit, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "'How will we survive?' Lesotho factory that made Trump golf shirts hit hard by US tariffs",
+      "headlines": [
+        "'How will we survive?' Lesotho factory that made Trump golf shirts hit hard by US tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Mining billionaire welcomes Trump tariffs on copper",
+      "headlines": [
+        "Mining billionaire welcomes Trump tariffs on copper"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India says it killed militants who shot dead tourists in Kashmir",
+      "headlines": [
+        "India says it killed militants who shot dead tourists in Kashmir"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ex-Colombian president Álvaro Uribe guilty of witness-tampering",
+      "headlines": [
+        "Ex-Colombian president Álvaro Uribe guilty of witness-tampering"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "India coach Gambhir in confrontation with Surrey ground staff",
+      "headlines": [
+        "India coach Gambhir in confrontation with Surrey ground staff"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK plans to recognise Palestine in September unless Israel halts Gaza war",
+      "headlines": [
+        "UK plans to recognise Palestine in September unless Israel halts Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump ally Marjorie Taylor Greene decries ‘genocide’ in Gaza",
+      "headlines": [
+        "Trump ally Marjorie Taylor Greene decries ‘genocide’ in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Inmates, pregnant woman among 27 killed in Russia’s attacks on Ukraine",
+      "headlines": [
+        "Inmates, pregnant woman among 27 killed in Russia’s attacks on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ivory Coast’s president says will seek fourth term in office",
+      "headlines": [
+        "Ivory Coast’s president says will seek fourth term in office"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India claims to have killed all suspects of Kashmir’s Pahalgam attack",
+      "headlines": [
+        "India claims to have killed all suspects of Kashmir’s Pahalgam attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Death toll in Israel’s war on Gaza surpasses 60,000",
+      "headlines": [
+        "Death toll in Israel’s war on Gaza surpasses 60,000"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration moves to nix key finding on greenhouse gas emissions",
+      "headlines": [
+        "Trump administration moves to nix key finding on greenhouse gas emissions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
