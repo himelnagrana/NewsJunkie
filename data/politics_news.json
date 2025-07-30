@@ -28329,5 +28329,150 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-30T06:39:52.548Z": [
+    {
+      "summary": "Tsunami waves hit Hawaii as massive earthquake off Russia triggers evacuations across Pacific",
+      "headlines": [
+        "Tsunami waves hit Hawaii as massive earthquake off Russia triggers evacuations across Pacific"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Epstein 'stole' young women from his Mar-a-Lago spa",
+      "headlines": [
+        "Trump says Epstein 'stole' young women from his Mar-a-Lago spa"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "No deal on China tariffs until Trump agrees, says Bessent",
+      "headlines": [
+        "No deal on China tariffs until Trump agrees, says Bessent"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russian soldiers scammed and robbed of war cash on return from Ukraine",
+      "headlines": [
+        "Russian soldiers scammed and robbed of war cash on return from Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Major earthquake off Russia triggers widespread tsunami warnings",
+      "headlines": [
+        "Watch: Major earthquake off Russia triggers widespread tsunami warnings"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks",
+      "headlines": [
+        "Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Japan and US issue tsunami warnings after magnitude 8.8 quake off Russia",
+      "headlines": [
+        "Japan and US issue tsunami warnings after magnitude 8.8 quake off Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tsunami alerts for US, Russia, Japan after 8.8 quake off Russian east coast",
+      "headlines": [
+        "Tsunami alerts for US, Russia, Japan after 8.8 quake off Russian east coast"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tsunami alerts for US, Japan, Philippines after massive Russia earthquake",
+      "headlines": [
+        "Tsunami alerts for US, Japan, Philippines after massive Russia earthquake"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "New poll shows plunging US public support for Israel’s war on Gaza",
+      "headlines": [
+        "New poll shows plunging US public support for Israel’s war on Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Israel will ‘preside over’ US aid distribution in Gaza",
+      "headlines": [
+        "Trump says Israel will ‘preside over’ US aid distribution in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,252",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,252"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Epstein ‘stole’ young women staff from his Mar-a-Lago resort",
+      "headlines": [
+        "Trump says Epstein ‘stole’ young women staff from his Mar-a-Lago resort"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

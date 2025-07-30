@@ -21401,5 +21401,128 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-07-30T06:39:52.308Z": [
+    {
+      "summary": "Tsunami waves hit Hawaii as massive earthquake off Russia triggers evacuations across Pacific",
+      "headlines": [
+        "Tsunami waves hit Hawaii as massive earthquake off Russia triggers evacuations across Pacific"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Epstein 'stole' young women from his Mar-a-Lago spa",
+      "headlines": [
+        "Trump says Epstein 'stole' young women from his Mar-a-Lago spa"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "No deal on China tariffs until Trump agrees, says Bessent",
+      "headlines": [
+        "No deal on China tariffs until Trump agrees, says Bessent"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian soldiers scammed and robbed of war cash on return from Ukraine",
+      "headlines": [
+        "Russian soldiers scammed and robbed of war cash on return from Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Major earthquake off Russia triggers widespread tsunami warnings",
+      "headlines": [
+        "Watch: Major earthquake off Russia triggers widespread tsunami warnings"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks",
+      "headlines": [
+        "Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Japan and US issue tsunami warnings after magnitude 8.8 quake off Russia",
+      "headlines": [
+        "Japan and US issue tsunami warnings after magnitude 8.8 quake off Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Tsunami alerts for US, Russia, Japan after 8.8 quake off Russian east coast",
+      "headlines": [
+        "Tsunami alerts for US, Russia, Japan after 8.8 quake off Russian east coast"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Tsunami alerts for US, Japan, Philippines after massive Russia earthquake",
+      "headlines": [
+        "Tsunami alerts for US, Japan, Philippines after massive Russia earthquake"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Israel will ‘preside over’ US aid distribution in Gaza",
+      "headlines": [
+        "Trump says Israel will ‘preside over’ US aid distribution in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Epstein ‘stole’ young women staff from his Mar-a-Lago resort",
+      "headlines": [
+        "Trump says Epstein ‘stole’ young women staff from his Mar-a-Lago resort"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
