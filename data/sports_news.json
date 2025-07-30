@@ -1253,5 +1253,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-30T18:37:43.590Z": [
+    {
+      "summary": "Football coach Priestman 'felt unsafe' in Canada after spying ban",
+      "headlines": [
+        "Football coach Priestman 'felt unsafe' in Canada after spying ban"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }

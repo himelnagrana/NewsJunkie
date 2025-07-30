@@ -28474,5 +28474,106 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-30T18:37:42.814Z": [
+    {
+      "summary": "Fed holds interest rates steady despite Trump pressure",
+      "headlines": [
+        "Fed holds interest rates steady despite Trump pressure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to hit India with 25% tariffs - plus 'penalty' for trade with Russia",
+      "headlines": [
+        "Trump to hit India with 25% tariffs - plus 'penalty' for trade with Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Eric Trump not ruling out White House family 'dynasty'",
+      "headlines": [
+        "Watch: Eric Trump not ruling out White House family 'dynasty'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India and US launch 'first-of-its-kind' satellite",
+      "headlines": [
+        "India and US launch 'first-of-its-kind' satellite"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air India watchdog audit reveals 51 safety violations",
+      "headlines": [
+        "Air India watchdog audit reveals 51 safety violations"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump parting shot at 'terrible first minister' Sturgeon",
+      "headlines": [
+        "Trump parting shot at 'terrible first minister' Sturgeon"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump deserves Open at Turnberry, says son",
+      "headlines": [
+        "Trump deserves Open at Turnberry, says son"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump hits India with 25% tariff, extra ‘penalty’ for Russian oil purchases",
+      "headlines": [
+        "Trump hits India with 25% tariff, extra ‘penalty’ for Russian oil purchases"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Democrats use obscure law to pressure Trump on Epstein case",
+      "headlines": [
+        "US Democrats use obscure law to pressure Trump on Epstein case"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }

@@ -2799,5 +2799,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-30T18:37:43.909Z": [
+    {
+      "summary": "Trump hits India with 25% tariff, extra ‘penalty’ for Russian oil purchases",
+      "headlines": [
+        "Trump hits India with 25% tariff, extra ‘penalty’ for Russian oil purchases"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
