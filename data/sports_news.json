@@ -1279,5 +1279,29 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-07-31T18:37:51.480Z": [
+    {
+      "summary": "Barcelona agree football shirt sponsorship deal with DR Congo",
+      "headlines": [
+        "Barcelona agree football shirt sponsorship deal with DR Congo"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    },
+    {
+      "summary": "'I'd be lost without football' - the ex-Premier League striker playing at 49",
+      "headlines": [
+        "'I'd be lost without football' - the ex-Premier League striker playing at 49"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "sports"
+    }
   ]
 }

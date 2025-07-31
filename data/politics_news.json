@@ -28698,5 +28698,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-07-31T18:37:51.157Z": [
+    {
+      "summary": "Trump envoy to visit Gaza, White House says, after 'productive' meeting with Israel's PM",
+      "headlines": [
+        "Trump envoy to visit Gaza, White House says, after 'productive' meeting with Israel's PM"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Virginia Giuffre's family asks Trump not to pardon Maxwell",
+      "headlines": [
+        "Virginia Giuffre's family asks Trump not to pardon Maxwell"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump postpones higher tariffs on Mexico as other countries try to reach deals before deadline",
+      "headlines": [
+        "Trump postpones higher tariffs on Mexico as other countries try to reach deals before deadline"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kyiv toll rises to 15 as wave of Russian strikes defies Trump ceasefire demand",
+      "headlines": [
+        "Kyiv toll rises to 15 as wave of Russian strikes defies Trump ceasefire demand"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nair's half-century leads India to 204-6 at stumps on day one - reaction",
+      "headlines": [
+        "Nair's half-century leads India to 204-6 at stumps on day one - reaction"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China flooding kills dozens, including 31 trapped at elderly care home",
+      "headlines": [
+        "China flooding kills dozens, including 31 trapped at elderly care home"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Syria wants Russia ‘by our side’ in new government’s first Moscow visit",
+      "headlines": [
+        "Syria wants Russia ‘by our side’ in new government’s first Moscow visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump sells the EU more energy and protection, muscling Russia out",
+      "headlines": [
+        "Trump sells the EU more energy and protection, muscling Russia out"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

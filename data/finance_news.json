@@ -2836,5 +2836,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-31T18:37:51.600Z": [
+    {
+      "summary": "EU-US tariff deal not finished yet, say Europeans unhappy with Trump's terms",
+      "headlines": [
+        "EU-US tariff deal not finished yet, say Europeans unhappy with Trump's terms"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Microsoft becomes second company to surpass $4 trillion in market value",
+      "headlines": [
+        "Microsoft becomes second company to surpass $4 trillion in market value"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
