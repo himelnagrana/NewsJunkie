@@ -2812,5 +2812,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-07-31T06:38:39.998Z": [
+    {
+      "summary": "Trump announces deal to impose 15% tariff on South Korea",
+      "headlines": [
+        "Trump announces deal to impose 15% tariff on South Korea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump announces trade deal with South Korea, setting tariff at 15 percent",
+      "headlines": [
+        "Trump announces trade deal with South Korea, setting tariff at 15 percent"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

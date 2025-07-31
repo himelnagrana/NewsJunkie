@@ -842,5 +842,18 @@
       "sentiment": -1,
       "topic": "technology"
     }
+  ],
+  "2025-07-31T06:38:39.697Z": [
+    {
+      "summary": "British 999 caller's voice cloned by Russian network using AI",
+      "headlines": [
+        "British 999 caller's voice cloned by Russian network using AI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

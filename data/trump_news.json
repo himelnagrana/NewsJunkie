@@ -21603,5 +21603,106 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-07-31T06:38:39.226Z": [
+    {
+      "summary": "Trump says Canada's move to recognise Palestinian state threatens trade deal",
+      "headlines": [
+        "Trump says Canada's move to recognise Palestinian state threatens trade deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US allies break with Trump to force diplomatic shift on Gaza",
+      "headlines": [
+        "US allies break with Trump to force diplomatic shift on Gaza"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump sanctions judge in Bolsonaro coup case and hits Brazil with 50% tariffs",
+      "headlines": [
+        "Trump sanctions judge in Bolsonaro coup case and hits Brazil with 50% tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ford says Trump tariffs to cost it about $2bn this year",
+      "headlines": [
+        "Ford says Trump tariffs to cost it about $2bn this year"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why Trump's tariffs on Brazil are more about political retaliation than trade",
+      "headlines": [
+        "Why Trump's tariffs on Brazil are more about political retaliation than trade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces deal to impose 15% tariff on South Korea",
+      "headlines": [
+        "Trump announces deal to impose 15% tariff on South Korea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Fed holds US interest rates steady despite Trump pressure",
+      "headlines": [
+        "Fed holds US interest rates steady despite Trump pressure"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "In the shadow of China, Taiwan is building a drone army to stop an invasion",
+      "headlines": [
+        "In the shadow of China, Taiwan is building a drone army to stop an invasion"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces trade deal with South Korea, setting tariff at 15 percent",
+      "headlines": [
+        "Trump announces trade deal with South Korea, setting tariff at 15 percent"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -1266,5 +1266,18 @@
       "sentiment": -2,
       "topic": "sports"
     }
+  ],
+  "2025-07-31T06:38:39.869Z": [
+    {
+      "summary": "How 'Wrexham effect' is transforming non-league football",
+      "headlines": [
+        "How 'Wrexham effect' is transforming non-league football"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
