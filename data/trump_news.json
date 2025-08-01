@@ -21895,5 +21895,95 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-08-01T18:37:30.001Z": [
+    {
+      "summary": "Global markets take hit as scale of Trump tariffs sets in",
+      "headlines": [
+        "Global markets take hit as scale of Trump tariffs sets in"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump envoy visits controversial Gaza aid distribution site",
+      "headlines": [
+        "Trump envoy visits controversial Gaza aid distribution site"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump moves nuclear submarines after ex-Russian president's comments",
+      "headlines": [
+        "Trump moves nuclear submarines after ex-Russian president's comments"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Shock and relief - businesses worldwide react to new Trump tariffs",
+      "headlines": [
+        "Shock and relief - businesses worldwide react to new Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Carney 'disappointed' as Trump increases tariffs on Canada to 35%",
+      "headlines": [
+        "Carney 'disappointed' as Trump increases tariffs on Canada to 35%"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Some Gaza and Ukraine posts blocked under new age checks",
+      "headlines": [
+        "Some Gaza and Ukraine posts blocked under new age checks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls on Fed board to take control from Powell over interest rates",
+      "headlines": [
+        "Trump calls on Fed board to take control from Powell over interest rates"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Switzerland says ‘disappointed’ by Trump tariffs, will try to negotiate",
+      "headlines": [
+        "Switzerland says ‘disappointed’ by Trump tariffs, will try to negotiate"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

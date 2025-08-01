@@ -1303,5 +1303,18 @@
       "sentiment": -3,
       "topic": "sports"
     }
+  ],
+  "2025-08-01T18:37:30.646Z": [
+    {
+      "summary": "Infantino says ‘important step’ taken for Afghan women’s football",
+      "headlines": [
+        "Infantino says ‘important step’ taken for Afghan women’s football"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

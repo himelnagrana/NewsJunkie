@@ -28911,5 +28911,106 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-01T18:37:30.251Z": [
+    {
+      "summary": "Global markets take hit as scale of Trump tariffs sets in",
+      "headlines": [
+        "Global markets take hit as scale of Trump tariffs sets in"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump envoy visits controversial Gaza aid distribution site",
+      "headlines": [
+        "Trump envoy visits controversial Gaza aid distribution site"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump moves nuclear submarines after ex-Russian president's comments",
+      "headlines": [
+        "Trump moves nuclear submarines after ex-Russian president's comments"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Shock and relief - businesses worldwide react to new Trump tariffs",
+      "headlines": [
+        "Shock and relief - businesses worldwide react to new Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Carney 'disappointed' as Trump increases tariffs on Canada to 35%",
+      "headlines": [
+        "Carney 'disappointed' as Trump increases tariffs on Canada to 35%"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Some Gaza and Ukraine posts blocked under new age checks",
+      "headlines": [
+        "Some Gaza and Ukraine posts blocked under new age checks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "India lead by 52 runs as bad light brings end to day two in fifth Test",
+      "headlines": [
+        "India lead by 52 runs as bad light brings end to day two in fifth Test"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls on Fed board to take control from Powell over interest rates",
+      "headlines": [
+        "Trump calls on Fed board to take control from Powell over interest rates"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Switzerland says ‘disappointed’ by Trump tariffs, will try to negotiate",
+      "headlines": [
+        "Switzerland says ‘disappointed’ by Trump tariffs, will try to negotiate"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

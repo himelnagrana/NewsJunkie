@@ -2906,5 +2906,18 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-08-01T18:37:30.772Z": [
+    {
+      "summary": "Millions denied car finance compensation payouts after UK Supreme Court ruling",
+      "headlines": [
+        "Millions denied car finance compensation payouts after UK Supreme Court ruling"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }
