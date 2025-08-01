@@ -21783,5 +21783,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-01T06:40:30.001Z": [
+    {
+      "summary": "Trump raises Canada tariff to 35% as US announces new levies on dozens of countries",
+      "headlines": [
+        "Trump raises Canada tariff to 35% as US announces new levies on dozens of countries"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Shock, chaos and a hollow win: What it's like to do a tariff deal with Trump",
+      "headlines": [
+        "Shock, chaos and a hollow win: What it's like to do a tariff deal with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Tech giants blocking some Ukraine and Gaza posts under new online rules",
+      "headlines": [
+        "Tech giants blocking some Ukraine and Gaza posts under new online rules"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Weekly quiz: How did South Park annoy Donald Trump?",
+      "headlines": [
+        "Weekly quiz: How did South Park annoy Donald Trump?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Kyiv toll rises to 26 after wave of Russian strikes defies Trump ceasefire demand",
+      "headlines": [
+        "Kyiv toll rises to 26 after wave of Russian strikes defies Trump ceasefire demand"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump raises Canada trade tariff to 35%",
+      "headlines": [
+        "Trump raises Canada trade tariff to 35%"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump sets new tariffs on dozens of countries’ exports",
+      "headlines": [
+        "Trump sets new tariffs on dozens of countries’ exports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump envoy to visit Gaza aid sites as Israel accused of starvation policy",
+      "headlines": [
+        "Trump envoy to visit Gaza aid sites as Israel accused of starvation policy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Family speaks out after Trump said Jeffrey Epstein ‘stole’ Virginia Giuffre",
+      "headlines": [
+        "Family speaks out after Trump said Jeffrey Epstein ‘stole’ Virginia Giuffre"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Tariff wars: Has Donald Trump killed the WTO?",
+      "headlines": [
+        "Tariff wars: Has Donald Trump killed the WTO?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }

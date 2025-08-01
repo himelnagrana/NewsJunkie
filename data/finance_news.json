@@ -2860,5 +2860,51 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-08-01T06:40:31.468Z": [
+    {
+      "summary": "Trump raises Canada tariff to 35% as US announces new levies on dozens of countries",
+      "headlines": [
+        "Trump raises Canada tariff to 35% as US announces new levies on dozens of countries"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Shock, chaos and a hollow win: What it's like to do a tariff deal with Trump",
+      "headlines": [
+        "Shock, chaos and a hollow win: What it's like to do a tariff deal with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump raises Canada trade tariff to 35%",
+      "headlines": [
+        "Trump raises Canada trade tariff to 35%"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Tariff wars: Has Donald Trump killed the WTO?",
+      "headlines": [
+        "Tariff wars: Has Donald Trump killed the WTO?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

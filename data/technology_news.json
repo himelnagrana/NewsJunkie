@@ -855,5 +855,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-01T06:40:30.840Z": [
+    {
+      "summary": "Tech giants blocking some Ukraine and Gaza posts under new online rules",
+      "headlines": [
+        "Tech giants blocking some Ukraine and Gaza posts under new online rules"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }
