@@ -29091,5 +29091,40 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-02T18:34:38.418Z": [
+    {
+      "summary": "Steve Rosenberg: Russia is staying quiet on Trump's nuclear move",
+      "headlines": [
+        "Steve Rosenberg: Russia is staying quiet on Trump's nuclear move"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine drone attacks kill three in Russia, cause fire at oil refinery",
+      "headlines": [
+        "Ukraine drone attacks kill three in Russia, cause fire at oil refinery"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is Trump moving nuclear submarines after spat with Medvedev?",
+      "headlines": [
+        "Why is Trump moving nuclear submarines after spat with Medvedev?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
