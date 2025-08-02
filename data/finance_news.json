@@ -2919,5 +2919,40 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-08-02T06:35:02.812Z": [
+    {
+      "summary": "Trump fires lead official on economic data as tariffs cause market drop",
+      "headlines": [
+        "Trump fires lead official on economic data as tariffs cause market drop"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Watch: Why Mexico got a tariff reprieve... and Canada didn't",
+      "headlines": [
+        "Watch: Why Mexico got a tariff reprieve... and Canada didn't"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Millions denied car finance payouts after UK Supreme Court ruling",
+      "headlines": [
+        "Millions denied car finance payouts after UK Supreme Court ruling"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }
