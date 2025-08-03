@@ -22156,5 +22156,51 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-08-03T18:35:09.790Z": [
+    {
+      "summary": "Ukraine drone attack causes fire at Sochi oil depot, Russia says",
+      "headlines": [
+        "Ukraine drone attack causes fire at Sochi oil depot, Russia says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine officials held in military drone corruption investigation",
+      "headlines": [
+        "Ukraine officials held in military drone corruption investigation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Government plans to bring more Gazan children to UK for treatment",
+      "headlines": [
+        "Government plans to bring more Gazan children to UK for treatment"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukrainian drone attack sparks fire at oil depot in Sochi, southwest Russia",
+      "headlines": [
+        "Ukrainian drone attack sparks fire at oil depot in Sochi, southwest Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }

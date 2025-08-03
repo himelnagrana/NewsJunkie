@@ -29216,5 +29216,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-03T18:35:09.987Z": [
+    {
+      "summary": "Ukraine drone attack causes fire at Sochi oil depot, Russia says",
+      "headlines": [
+        "Ukraine drone attack causes fire at Sochi oil depot, Russia says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine officials held in military drone corruption investigation",
+      "headlines": [
+        "Ukraine officials held in military drone corruption investigation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Grieving for our parents killed in Air India crash will never end'",
+      "headlines": [
+        "'Grieving for our parents killed in Air India crash will never end'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Government plans to bring more Gazan children to UK for treatment",
+      "headlines": [
+        "Government plans to bring more Gazan children to UK for treatment"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tens of thousands protest Israel’s war on Gaza in Australia’s Sydney",
+      "headlines": [
+        "Tens of thousands protest Israel’s war on Gaza in Australia’s Sydney"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukrainian drone attack sparks fire at oil depot in Sochi, southwest Russia",
+      "headlines": [
+        "Ukrainian drone attack sparks fire at oil depot in Sochi, southwest Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
