@@ -29126,5 +29126,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-03T06:35:42.243Z": [
+    {
+      "summary": "Ukraine hits oil depot and Russia strikes homes near Black Sea",
+      "headlines": [
+        "Ukraine hits oil depot and Russia strikes homes near Black Sea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "How South Korea's K-beauty industry is being hit by Trump tariffs",
+      "headlines": [
+        "How South Korea's K-beauty industry is being hit by Trump tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: How many pull-ups can you do? Trump revives fitness test for school kids",
+      "headlines": [
+        "Watch: How many pull-ups can you do? Trump revives fitness test for school kids"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine officials held in military drone corruption probe",
+      "headlines": [
+        "Ukraine officials held in military drone corruption probe"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s drone attacks on Ukraine hit record high in July",
+      "headlines": [
+        "Russia’s drone attacks on Ukraine hit record high in July"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US museum denies political pressure in removal of Trump impeachment display",
+      "headlines": [
+        "US museum denies political pressure in removal of Trump impeachment display"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine says defence sector corruption scheme uncovered",
+      "headlines": [
+        "Ukraine says defence sector corruption scheme uncovered"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,256",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,256"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
