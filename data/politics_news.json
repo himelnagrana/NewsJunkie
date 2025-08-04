@@ -29284,5 +29284,51 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-08-04T06:45:17.570Z": [
+    {
+      "summary": "Democrats flee Texas to block Republican redistricting map backed by Trump",
+      "headlines": [
+        "Democrats flee Texas to block Republican redistricting map backed by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says US envoy Witkoff to travel to Russia ‘next week’",
+      "headlines": [
+        "Trump says US envoy Witkoff to travel to Russia ‘next week’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Texas Democrats leave state to block vote on new House map backed by Trump",
+      "headlines": [
+        "Texas Democrats leave state to block vote on new House map backed by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,257",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,257"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
