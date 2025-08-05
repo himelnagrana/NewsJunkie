@@ -22329,5 +22329,95 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-08-05T18:40:20.113Z": [
+    {
+      "summary": "Zelensky thanks Trump for 'productive' talks ahead of ceasefire deadline",
+      "headlines": [
+        "Zelensky thanks Trump for 'productive' talks ahead of ceasefire deadline"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Former Romanian President Ion Iliescu dies aged 95",
+      "headlines": [
+        "Former Romanian President Ion Iliescu dies aged 95"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin and Trump's relationship has soured - but behind the posturing, a Ukraine deal is still possible",
+      "headlines": [
+        "Putin and Trump's relationship has soured - but behind the posturing, a Ukraine deal is still possible"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China reports 7,000 cases of chikungunya virus",
+      "headlines": [
+        "China reports 7,000 cases of chikungunya virus"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Protests in China over viral school bullying case",
+      "headlines": [
+        "Protests in China over viral school bullying case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "US House panel subpoenas Epstein files from Trump administration",
+      "headlines": [
+        "US House panel subpoenas Epstein files from Trump administration"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "India accuses US, EU of Russia trade double standards: Who is right?",
+      "headlines": [
+        "India accuses US, EU of Russia trade double standards: Who is right?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump accuses banks of discriminating against his supporters",
+      "headlines": [
+        "Trump accuses banks of discriminating against his supporters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
