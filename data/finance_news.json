@@ -2954,5 +2954,18 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-08-05T06:40:11.594Z": [
+    {
+      "summary": "India calls Trump's tariff threat over Russian oil 'unjustified'",
+      "headlines": [
+        "India calls Trump's tariff threat over Russian oil 'unjustified'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

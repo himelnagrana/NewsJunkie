@@ -22294,5 +22294,40 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-08-05T06:40:10.980Z": [
+    {
+      "summary": "Why Donald Trump is talking about actress Sydney Sweeney",
+      "headlines": [
+        "Why Donald Trump is talking about actress Sydney Sweeney"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why were US job numbers which riled Trump revised down by so much?",
+      "headlines": [
+        "Why were US job numbers which riled Trump revised down by so much?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump attacks 'woke' Jaguar as firm names new boss",
+      "headlines": [
+        "Trump attacks 'woke' Jaguar as firm names new boss"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

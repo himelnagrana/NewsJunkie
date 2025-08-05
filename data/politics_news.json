@@ -29398,5 +29398,84 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-05T06:40:11.176Z": [
+    {
+      "summary": "Why Putin and Trump’s relationship shifted - and could be nearing a ‘head-on collision’",
+      "headlines": [
+        "Why Putin and Trump’s relationship shifted - and could be nearing a ‘head-on collision’"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Donald Trump is talking about actress Sydney Sweeney",
+      "headlines": [
+        "Why Donald Trump is talking about actress Sydney Sweeney"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India calls Trump's tariff threat over Russian oil 'unjustified'",
+      "headlines": [
+        "India calls Trump's tariff threat over Russian oil 'unjustified'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why were US job numbers which riled Trump revised down by so much?",
+      "headlines": [
+        "Why were US job numbers which riled Trump revised down by so much?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump attacks 'woke' Jaguar as firm names new boss",
+      "headlines": [
+        "Trump attacks 'woke' Jaguar as firm names new boss"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Putin and Trump's relationship soured – they could now be nearing a 'head-on collision'",
+      "headlines": [
+        "Why Putin and Trump's relationship soured – they could now be nearing a 'head-on collision'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Democrats flee Texas to block Trump-backed election redistricting",
+      "headlines": [
+        "US Democrats flee Texas to block Trump-backed election redistricting"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
