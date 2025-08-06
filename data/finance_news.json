@@ -2967,5 +2967,29 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-08-06T06:40:31.791Z": [
+    {
+      "summary": "How Trump's secondary tariffs on Russia could hit the global economy",
+      "headlines": [
+        "How Trump's secondary tariffs on Russia could hit the global economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "How secondary US tariffs on Russia could hit the global economy",
+      "headlines": [
+        "How secondary US tariffs on Russia could hit the global economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

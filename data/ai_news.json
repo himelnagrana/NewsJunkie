@@ -115,5 +115,18 @@
       "sentiment": 0,
       "topic": "ai"
     }
+  ],
+  "2025-08-06T06:40:30.982Z": [
+    {
+      "summary": "US charges Chinese nationals with illegally shipping Nvidia chips to China",
+      "headlines": [
+        "US charges Chinese nationals with illegally shipping Nvidia chips to China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "ai"
+    }
   ]
 }

@@ -22419,5 +22419,106 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-08-06T06:40:31.119Z": [
+    {
+      "summary": "Despite Trump's peace calls, Russian attacks on Ukraine double since inauguration",
+      "headlines": [
+        "Despite Trump's peace calls, Russian attacks on Ukraine double since inauguration"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Stay or go? Under Trump, dreams fade for Chinese who trekked to US",
+      "headlines": [
+        "Stay or go? Under Trump, dreams fade for Chinese who trekked to US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "How Trump's secondary tariffs on Russia could hit the global economy",
+      "headlines": [
+        "How Trump's secondary tariffs on Russia could hit the global economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "How secondary US tariffs on Russia could hit the global economy",
+      "headlines": [
+        "How secondary US tariffs on Russia could hit the global economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia protests Israeli settler attack on diplomatic vehicle in West Bank",
+      "headlines": [
+        "Russia protests Israeli settler attack on diplomatic vehicle in West Bank"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "What is the chikungunya virus, how are countries such as China battling it?",
+      "headlines": [
+        "What is the chikungunya virus, how are countries such as China battling it?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says four candidates in running for Fed chair, rules out Bessent",
+      "headlines": [
+        "Trump says four candidates in running for Fed chair, rules out Bessent"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia, China naval forces to carry out joint Asia Pacific patrol: Report",
+      "headlines": [
+        "Russia, China naval forces to carry out joint Asia Pacific patrol: Report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US charges Chinese nationals with illegally shipping Nvidia chips to China",
+      "headlines": [
+        "US charges Chinese nationals with illegally shipping Nvidia chips to China"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }
