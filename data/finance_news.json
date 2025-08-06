@@ -2991,5 +2991,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-08-06T18:37:15.858Z": [
+    {
+      "summary": "Trump slaps 50 percent tariff on Indian goods over imports of Russian oil",
+      "headlines": [
+        "Trump slaps 50 percent tariff on Indian goods over imports of Russian oil"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

@@ -22520,5 +22520,73 @@
       "sentiment": -5,
       "topic": "trump"
     }
+  ],
+  "2025-08-06T18:37:15.233Z": [
+    {
+      "summary": "Trump threatens 50% tariffs on India for buying Russian oil",
+      "headlines": [
+        "Trump threatens 50% tariffs on India for buying Russian oil"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "The secret system Hamas uses to pay government salaries",
+      "headlines": [
+        "The secret system Hamas uses to pay government salaries"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Apple to invest $100bn after pressure from Trump",
+      "headlines": [
+        "Apple to invest $100bn after pressure from Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says 'great progress' made on Ukraine at US-Russia talks as ceasefire deadline looms",
+      "headlines": [
+        "Trump says 'great progress' made on Ukraine at US-Russia talks as ceasefire deadline looms"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump slaps 50 percent tariff on Indian goods over imports of Russian oil",
+      "headlines": [
+        "Trump slaps 50 percent tariff on Indian goods over imports of Russian oil"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US envoy Witkoff’s meeting with Putin was ‘highly productive’",
+      "headlines": [
+        "Trump says US envoy Witkoff’s meeting with Putin was ‘highly productive’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
