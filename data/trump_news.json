@@ -22588,5 +22588,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-07T06:40:34.569Z": [
+    {
+      "summary": "'Good prospect' of summit with Putin and Zelensky, Trump says",
+      "headlines": [
+        "'Good prospect' of summit with Putin and Zelensky, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "On Ukraine's front line, twisted wreckage shows sanctions haven't yet stopped Russia",
+      "headlines": [
+        "On Ukraine's front line, twisted wreckage shows sanctions haven't yet stopped Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russian attacks on Ukraine double since Trump inauguration",
+      "headlines": [
+        "Russian attacks on Ukraine double since Trump inauguration"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "How Europe is vying for rare earth independence from China",
+      "headlines": [
+        "How Europe is vying for rare earth independence from China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China asked to explain redacted mega-embassy plans in London",
+      "headlines": [
+        "China asked to explain redacted mega-embassy plans in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Rayner asks China to explain redacted embassy plans",
+      "headlines": [
+        "Rayner asks China to explain redacted embassy plans"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US-India relations at their ‘worst’ as Trump slaps 50 percent tariff",
+      "headlines": [
+        "US-India relations at their ‘worst’ as Trump slaps 50 percent tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why Trump’s secondary tariffs on Russia could bite the US, its allies too",
+      "headlines": [
+        "Why Trump’s secondary tariffs on Russia could bite the US, its allies too"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US soldier charged with attempt to provide Russia with battle tank info",
+      "headlines": [
+        "US soldier charged with attempt to provide Russia with battle tank info"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces 100 percent tariff on semiconductor imports",
+      "headlines": [
+        "Trump announces 100 percent tariff on semiconductor imports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

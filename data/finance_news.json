@@ -3004,5 +3004,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-08-07T06:40:35.400Z": [
+    {
+      "summary": "US-India relations at their ‘worst’ as Trump slaps 50 percent tariff",
+      "headlines": [
+        "US-India relations at their ‘worst’ as Trump slaps 50 percent tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Trump announces 100 percent tariff on semiconductor imports",
+      "headlines": [
+        "Trump announces 100 percent tariff on semiconductor imports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

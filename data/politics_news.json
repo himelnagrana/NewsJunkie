@@ -29802,5 +29802,117 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-07T06:40:34.873Z": [
+    {
+      "summary": "'Good prospect' of summit with Putin and Zelensky, Trump says",
+      "headlines": [
+        "'Good prospect' of summit with Putin and Zelensky, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Myanmar's figurehead president dies after long illness",
+      "headlines": [
+        "Myanmar's figurehead president dies after long illness"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "On Ukraine's front line, twisted wreckage shows sanctions haven't yet stopped Russia",
+      "headlines": [
+        "On Ukraine's front line, twisted wreckage shows sanctions haven't yet stopped Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russian attacks on Ukraine double since Trump inauguration",
+      "headlines": [
+        "Russian attacks on Ukraine double since Trump inauguration"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Europe is vying for rare earth independence from China",
+      "headlines": [
+        "How Europe is vying for rare earth independence from China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China asked to explain redacted mega-embassy plans in London",
+      "headlines": [
+        "China asked to explain redacted mega-embassy plans in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US-India relations at their ‘worst’ as Trump slaps 50 percent tariff",
+      "headlines": [
+        "US-India relations at their ‘worst’ as Trump slaps 50 percent tariff"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Trump’s secondary tariffs on Russia could bite the US, its allies too",
+      "headlines": [
+        "Why Trump’s secondary tariffs on Russia could bite the US, its allies too"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US soldier charged with attempt to provide Russia with battle tank info",
+      "headlines": [
+        "US soldier charged with attempt to provide Russia with battle tank info"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces 100 percent tariff on semiconductor imports",
+      "headlines": [
+        "Trump announces 100 percent tariff on semiconductor imports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
