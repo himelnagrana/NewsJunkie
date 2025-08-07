@@ -29914,5 +29914,150 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-07T18:39:07.798Z": [
+    {
+      "summary": "Why Trump-Putin talks unlikely to bring rapid end to Ukraine war",
+      "headlines": [
+        "Why Trump-Putin talks unlikely to bring rapid end to Ukraine war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: See where China plans to put its controversial London mega-embassy",
+      "headlines": [
+        "Watch: See where China plans to put its controversial London mega-embassy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls for Intel boss to resign immediately, alleging China ties",
+      "headlines": [
+        "Trump calls for Intel boss to resign immediately, alleging China ties"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "India has 20 days to avoid 50% Trump tariffs - what are its options?",
+      "headlines": [
+        "India has 20 days to avoid 50% Trump tariffs - what are its options?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "What are semiconductors and why is Trump threatening 100% tariffs?",
+      "headlines": [
+        "What are semiconductors and why is Trump threatening 100% tariffs?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: See where China plans to put its controversial mega-embassy",
+      "headlines": [
+        "Watch: See where China plans to put its controversial mega-embassy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Apple's Tim Cook gives 'unique' golden gift to President Trump",
+      "headlines": [
+        "Apple's Tim Cook gives 'unique' golden gift to President Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US soldier arrested for allegedly leaking tank secrets to Russia",
+      "headlines": [
+        "US soldier arrested for allegedly leaking tank secrets to Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "AIPAC slams Trump ally Marjorie Taylor Greene over Gaza genocide remark",
+      "headlines": [
+        "AIPAC slams Trump ally Marjorie Taylor Greene over Gaza genocide remark"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Police raid Kashmir bookshops after India bans titles for ‘secessionism’",
+      "headlines": [
+        "Police raid Kashmir bookshops after India bans titles for ‘secessionism’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Cambodia nominates Trump for Nobel Prize after Thai border truce",
+      "headlines": [
+        "Cambodia nominates Trump for Nobel Prize after Thai border truce"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump and Vladimir Putin to meet in coming days, Kremlin aide says",
+      "headlines": [
+        "Donald Trump and Vladimir Putin to meet in coming days, Kremlin aide says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he wants all Middle Eastern countries to have formal Israel ties",
+      "headlines": [
+        "Trump says he wants all Middle Eastern countries to have formal Israel ties"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

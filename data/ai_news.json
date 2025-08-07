@@ -128,5 +128,18 @@
       "sentiment": -5,
       "topic": "ai"
     }
+  ],
+  "2025-08-07T18:39:07.403Z": [
+    {
+      "summary": "OpenAI claims GPT-5 model boosts ChatGPT to 'PhD level'",
+      "headlines": [
+        "OpenAI claims GPT-5 model boosts ChatGPT to 'PhD level'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "ai"
+    }
   ]
 }
