@@ -1316,5 +1316,40 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-08-08T18:34:53.982Z": [
+    {
+      "summary": "OpenAI beats Elon Musk's Grok in AI chess tournament",
+      "headlines": [
+        "OpenAI beats Elon Musk's Grok in AI chess tournament"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    },
+    {
+      "summary": "Build-up as Birmingham host Ipswich in Championship curtain-raiser",
+      "headlines": [
+        "Build-up as Birmingham host Ipswich in Championship curtain-raiser"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    },
+    {
+      "summary": "Far-right Israeli football fans set off pyrotechnics in Latvia’s capital",
+      "headlines": [
+        "Far-right Israeli football fans set off pyrotechnics in Latvia’s capital"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

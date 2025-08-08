@@ -30083,5 +30083,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-08T18:34:53.684Z": [
+    {
+      "summary": "Heartbreaking search for missing children after India flash floods",
+      "headlines": [
+        "Heartbreaking search for missing children after India flash floods"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Germany to halt military exports to Israel for use in Gaza war",
+      "headlines": [
+        "Germany to halt military exports to Israel for use in Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs order authorising military action against cartels: Reports",
+      "headlines": [
+        "Trump signs order authorising military action against cartels: Reports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India may pause plans to buy US arms after Trump’s tariffs: Report",
+      "headlines": [
+        "India may pause plans to buy US arms after Trump’s tariffs: Report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China welcomes new US-Russia contact as Trump seeks end to Ukraine war",
+      "headlines": [
+        "China welcomes new US-Russia contact as Trump seeks end to Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada sheds tens of thousands of jobs as Trump tariffs hit",
+      "headlines": [
+        "Canada sheds tens of thousands of jobs as Trump tariffs hit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to host Azerbaijan, Armenia leaders to sign US-brokered deal",
+      "headlines": [
+        "Trump to host Azerbaijan, Armenia leaders to sign US-brokered deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

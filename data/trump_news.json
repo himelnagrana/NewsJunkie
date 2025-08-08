@@ -22847,5 +22847,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-08T18:34:53.497Z": [
+    {
+      "summary": "Trump signs order authorising military action against cartels: Reports",
+      "headlines": [
+        "Trump signs order authorising military action against cartels: Reports"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China welcomes new US-Russia contact as Trump seeks end to Ukraine war",
+      "headlines": [
+        "China welcomes new US-Russia contact as Trump seeks end to Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada sheds tens of thousands of jobs as Trump tariffs hit",
+      "headlines": [
+        "Canada sheds tens of thousands of jobs as Trump tariffs hit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to host Azerbaijan, Armenia leaders to sign US-brokered deal",
+      "headlines": [
+        "Trump to host Azerbaijan, Armenia leaders to sign US-brokered deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
