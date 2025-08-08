@@ -30059,5 +30059,29 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-08T06:40:21.073Z": [
+    {
+      "summary": "Why has an AI-altered Bollywood movie sparked uproar in India?",
+      "headlines": [
+        "Why has an AI-altered Bollywood movie sparked uproar in India?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "US doubles reward for arrest of Venezuela’s President Maduro to $50m",
+      "headlines": [
+        "US doubles reward for arrest of Venezuela’s President Maduro to $50m"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
