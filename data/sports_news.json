@@ -1364,5 +1364,18 @@
       "sentiment": -4,
       "topic": "sports"
     }
+  ],
+  "2025-08-09T18:33:44.964Z": [
+    {
+      "summary": "Championship: Bristol City put four past Sheff Utd in outstanding display - reaction",
+      "headlines": [
+        "Championship: Bristol City put four past Sheff Utd in outstanding display - reaction"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "sports"
+    }
   ]
 }

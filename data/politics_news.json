@@ -30219,5 +30219,62 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-09T18:33:44.618Z": [
+    {
+      "summary": "Vance and Lammy host Ukraine talks ahead of US-Russia summit",
+      "headlines": [
+        "Vance and Lammy host Ukraine talks ahead of US-Russia summit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin gives Trump envoy award for CIA official's son killed fighting in Ukraine",
+      "headlines": [
+        "Putin gives Trump envoy award for CIA official's son killed fighting in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Azerbaijan and Armenia sign peace pledge at White House summit with Trump",
+      "headlines": [
+        "Azerbaijan and Armenia sign peace pledge at White House summit with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Before Trump-Putin talks, Ukraine rules out ‘gifting land to occupier’",
+      "headlines": [
+        "Before Trump-Putin talks, Ukraine rules out ‘gifting land to occupier’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India says six Pakistani aircraft shot down during May conflict",
+      "headlines": [
+        "India says six Pakistani aircraft shot down during May conflict"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
