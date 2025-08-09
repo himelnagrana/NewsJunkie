@@ -894,5 +894,29 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-09T06:35:08.310Z": [
+    {
+      "summary": "I made an AI clone of my dead son - and let a journalist interview him",
+      "headlines": [
+        "I made an AI clone of my dead son - and let a journalist interview him"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "technology"
+    },
+    {
+      "summary": "Elon Musk's AI accused of making explicit Taylor Swift videos",
+      "headlines": [
+        "Elon Musk's AI accused of making explicit Taylor Swift videos"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

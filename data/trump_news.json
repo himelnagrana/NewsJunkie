@@ -22893,5 +22893,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-09T06:35:07.851Z": [
+    {
+      "summary": "Trump and Putin to meet in Alaska for Ukraine talks next week",
+      "headlines": [
+        "Trump and Putin to meet in Alaska for Ukraine talks next week"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Azerbaijan and Armenia sign peace deal at White House summit with Trump",
+      "headlines": [
+        "Azerbaijan and Armenia sign peace deal at White House summit with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and Putin to meet in Alaska next week to discuss Ukraine war",
+      "headlines": [
+        "Trump and Putin to meet in Alaska next week to discuss Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

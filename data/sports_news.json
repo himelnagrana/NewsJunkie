@@ -1351,5 +1351,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-08-09T06:35:08.525Z": [
+    {
+      "summary": "Penalty dispute as Ipswich draw at Birmingham on Championship first night",
+      "headlines": [
+        "Penalty dispute as Ipswich draw at Birmingham on Championship first night"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "sports"
+    }
   ]
 }

@@ -30162,5 +30162,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-09T06:35:08.104Z": [
+    {
+      "summary": "Trump and Putin to meet in Alaska for Ukraine talks next week",
+      "headlines": [
+        "Trump and Putin to meet in Alaska for Ukraine talks next week"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Nagasaki mayor warns of nuclear war 80 years after atom bomb attack",
+      "headlines": [
+        "Nagasaki mayor warns of nuclear war 80 years after atom bomb attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "From underdogs to equals: How India forced England to draw Test series",
+      "headlines": [
+        "From underdogs to equals: How India forced England to draw Test series"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Azerbaijan and Armenia sign peace deal at White House summit with Trump",
+      "headlines": [
+        "Azerbaijan and Armenia sign peace deal at White House summit with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump and Putin to meet in Alaska next week to discuss Ukraine war",
+      "headlines": [
+        "Trump and Putin to meet in Alaska next week to discuss Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
