@@ -30276,5 +30276,40 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-10T06:34:50.616Z": [
+    {
+      "summary": "France's last newspaper hawker gets Order of Merit from his old customer - President Macron",
+      "headlines": [
+        "France's last newspaper hawker gets Order of Merit from his old customer - President Macron"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Europe promises to ‘stand firmly’ with Ukraine as Trump, Putin plan summit",
+      "headlines": [
+        "Europe promises to ‘stand firmly’ with Ukraine as Trump, Putin plan summit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,263",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,263"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

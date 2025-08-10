@@ -3028,5 +3028,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-08-10T06:34:51.046Z": [
+    {
+      "summary": "It shocked the market but has China's DeepSeek changed AI?",
+      "headlines": [
+        "It shocked the market but has China's DeepSeek changed AI?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }
