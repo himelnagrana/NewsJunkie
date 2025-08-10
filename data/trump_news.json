@@ -22998,5 +22998,40 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-08-10T18:32:55.013Z": [
+    {
+      "summary": "Why are Trump and Putin meeting in Alaska and when will it happen?",
+      "headlines": [
+        "Why are Trump and Putin meeting in Alaska and when will it happen?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Aerial footage shows devastation after deadly floods in China",
+      "headlines": [
+        "Aerial footage shows devastation after deadly floods in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom",
+      "headlines": [
+        "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
