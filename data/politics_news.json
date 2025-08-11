@@ -30414,5 +30414,139 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-11T18:37:33.584Z": [
+    {
+      "summary": "Trump says he will try to get back territory for Ukraine in talks with Putin",
+      "headlines": [
+        "Trump says he will try to get back territory for Ukraine in talks with Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump deploys National Guard to Washington DC as he pledges crime crackdown",
+      "headlines": [
+        "Trump deploys National Guard to Washington DC as he pledges crime crackdown"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "The US is taking a cut from chip sales to China - what does it mean?",
+      "headlines": [
+        "The US is taking a cut from chip sales to China - what does it mean?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "The unemployed young adults in China pretending to have jobs",
+      "headlines": [
+        "The unemployed young adults in China pretending to have jobs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: 'We're going to change the battle lines' Trump on the war in Ukraine",
+      "headlines": [
+        "Watch: 'We're going to change the battle lines' Trump on the war in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump announces deployment of National Guard in Washington DC",
+      "headlines": [
+        "Watch: Trump announces deployment of National Guard in Washington DC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China rams own warship while chasing Philippine vessel",
+      "headlines": [
+        "China rams own warship while chasing Philippine vessel"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Spanish FA approves plans for La Liga match in USA",
+      "headlines": [
+        "Spanish FA approves plans for La Liga match in USA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he will deploy US National Guard in Washington, DC",
+      "headlines": [
+        "Trump says he will deploy US National Guard in Washington, DC"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU holds talks amid fear that Trump-Putin meeting will sideline Ukraine",
+      "headlines": [
+        "EU holds talks amid fear that Trump-Putin meeting will sideline Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Putin will fool Trump’: Why Ukrainians are wary about Alaska talks",
+      "headlines": [
+        "‘Putin will fool Trump’: Why Ukrainians are wary about Alaska talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump expected to meet with Intel CEO after calling for his ouster",
+      "headlines": [
+        "Trump expected to meet with Intel CEO after calling for his ouster"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
