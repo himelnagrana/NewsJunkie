@@ -154,5 +154,29 @@
       "sentiment": 0,
       "topic": "ai"
     }
+  ],
+  "2025-08-11T06:39:55.950Z": [
+    {
+      "summary": "Chip giants Nvidia and AMD to pay 15% of sales revenue in China to US",
+      "headlines": [
+        "Chip giants Nvidia and AMD to pay 15% of sales revenue in China to US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "ai"
+    },
+    {
+      "summary": "Chip giants Nvidia and AMD to pay 15% of China revenue to US",
+      "headlines": [
+        "Chip giants Nvidia and AMD to pay 15% of China revenue to US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "ai"
+    }
   ]
 }

@@ -30346,5 +30346,73 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-08-11T06:39:56.350Z": [
+    {
+      "summary": "Trump demands homeless people 'immediately' move out of Washington DC",
+      "headlines": [
+        "Trump demands homeless people 'immediately' move out of Washington DC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Chip giants Nvidia and AMD to pay 15% of sales revenue in China to US",
+      "headlines": [
+        "Chip giants Nvidia and AMD to pay 15% of sales revenue in China to US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Their loved ones are missing at war. So these Ukrainian children spend summer together",
+      "headlines": [
+        "Their loved ones are missing at war. So these Ukrainian children spend summer together"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel protesters intensify pressure against plan to expand Gaza war",
+      "headlines": [
+        "Israel protesters intensify pressure against plan to expand Gaza war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Chip giants Nvidia and AMD to pay 15% of China revenue to US",
+      "headlines": [
+        "Chip giants Nvidia and AMD to pay 15% of China revenue to US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump pledges to move homeless people in Washington, DC ‘far’ from the city",
+      "headlines": [
+        "Trump pledges to move homeless people in Washington, DC ‘far’ from the city"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
