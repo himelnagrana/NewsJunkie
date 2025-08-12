@@ -1377,5 +1377,18 @@
       "sentiment": 5,
       "topic": "sports"
     }
+  ],
+  "2025-08-12T18:36:26.948Z": [
+    {
+      "summary": "EFL Cup first round: 29 games with 20 Championship sides in action",
+      "headlines": [
+        "EFL Cup first round: 29 games with 20 Championship sides in action"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

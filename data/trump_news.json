@@ -23325,5 +23325,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-12T18:36:26.190Z": [
+    {
+      "summary": "Alaska summit with Putin will be 'listening exercise' for Trump, White House says",
+      "headlines": [
+        "Alaska summit with Putin will be 'listening exercise' for Trump, White House says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy",
+      "headlines": [
+        "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "The view from Russia: Putin will take ‘symbolic steps’ during Trump talks",
+      "headlines": [
+        "The view from Russia: Putin will take ‘symbolic steps’ during Trump talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens ‘major lawsuit’ against Federal Reserve Chief Jerome Powell",
+      "headlines": [
+        "Trump threatens ‘major lawsuit’ against Federal Reserve Chief Jerome Powell"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
