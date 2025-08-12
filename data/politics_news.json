@@ -30548,5 +30548,150 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-12T06:36:50.376Z": [
+    {
+      "summary": "North Koreans tell BBC they are being sent to work 'like slaves' in Russia",
+      "headlines": [
+        "North Koreans tell BBC they are being sent to work 'like slaves' in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia PM says Israel's Netanyahu 'in denial' about Gaza war",
+      "headlines": [
+        "Australia PM says Israel's Netanyahu 'in denial' about Gaza war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US and China extend trade truce to avoid tariffs hike",
+      "headlines": [
+        "US and China extend trade truce to avoid tariffs hike"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is crime in Washington DC 'out of control', as Trump claims?",
+      "headlines": [
+        "Is crime in Washington DC 'out of control', as Trump claims?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Migrant sentenced to life for murdering Maryland mum in case invoked by Trump",
+      "headlines": [
+        "Migrant sentenced to life for murdering Maryland mum in case invoked by Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Tibetans in India long for identity and homeland",
+      "headlines": [
+        "Tibetans in India long for identity and homeland"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump picks conservative economist to lead jobs data agency",
+      "headlines": [
+        "Trump picks conservative economist to lead jobs data agency"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US protesters say Trump using ‘crime emergency’ to justify DC takeover",
+      "headlines": [
+        "US protesters say Trump using ‘crime emergency’ to justify DC takeover"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is Trump sending US National Guard to Washington, DC?",
+      "headlines": [
+        "Why is Trump sending US National Guard to Washington, DC?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelenskyy says Putin readying for ‘new offensive’ in Ukraine, not ceasefire",
+      "headlines": [
+        "Zelenskyy says Putin readying for ‘new offensive’ in Ukraine, not ceasefire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he may reclassify cannabis as less dangerous drug",
+      "headlines": [
+        "Trump says he may reclassify cannabis as less dangerous drug"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump names conservative economist to lead labour statistics agency",
+      "headlines": [
+        "Trump names conservative economist to lead labour statistics agency"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,265",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,265"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
