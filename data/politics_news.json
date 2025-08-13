@@ -30761,5 +30761,84 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-13T06:37:04.930Z": [
+    {
+      "summary": "Why is the opposition protesting against India's Election Commission?",
+      "headlines": [
+        "Why is the opposition protesting against India's Election Commission?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration rewrites and scales back annual human rights report",
+      "headlines": [
+        "Trump administration rewrites and scales back annual human rights report"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin reaffirms 'friendship' with North Korea ahead of Trump talks",
+      "headlines": [
+        "Putin reaffirms 'friendship' with North Korea ahead of Trump talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK firms chase $38bn India contracts but challenges loom",
+      "headlines": [
+        "UK firms chase $38bn India contracts but challenges loom"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?",
+      "headlines": [
+        "Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
+      "headlines": [
+        "UN chief warns Israel, Russia over reports of sexual abuse by armed forces"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin lauds ‘heroism’ of North Koreans in liberating Kursk, Pyongyang says",
+      "headlines": [
+        "Putin lauds ‘heroism’ of North Koreans in liberating Kursk, Pyongyang says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

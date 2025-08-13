@@ -944,5 +944,29 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-13T06:37:05.193Z": [
+    {
+      "summary": "AI can make us UK's biggest firm, Rolls-Royce says",
+      "headlines": [
+        "AI can make us UK's biggest firm, Rolls-Royce says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    },
+    {
+      "summary": "AI start-up Perplexity makes surprise bid for Google Chrome",
+      "headlines": [
+        "AI start-up Perplexity makes surprise bid for Google Chrome"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
