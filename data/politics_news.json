@@ -30840,5 +30840,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-13T18:34:32.171Z": [
+    {
+      "summary": "Trump says Russia will face 'severe consequences' unless it agrees to end Ukraine war",
+      "headlines": [
+        "Trump says Russia will face 'severe consequences' unless it agrees to end Ukraine war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "What to know about Trump and Putin's meeting at an Alaska military base",
+      "headlines": [
+        "What to know about Trump and Putin's meeting at an Alaska military base"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump touts second trilateral meeting before Putin summit; Zelenskyy pushes",
+      "headlines": [
+        "Trump touts second trilateral meeting before Putin summit; Zelenskyy pushes"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Donald Trump names Kiss, Sylvester Stallone as Kennedy Center Honors picks",
+      "headlines": [
+        "Donald Trump names Kiss, Sylvester Stallone as Kennedy Center Honors picks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Clinton to Trump: How Putin has met, courted and frustrated US presidents",
+      "headlines": [
+        "Clinton to Trump: How Putin has met, courted and frustrated US presidents"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What are Zelenskyy, Europe demanding of Trump ahead of Putin summit?",
+      "headlines": [
+        "What are Zelenskyy, Europe demanding of Trump ahead of Putin summit?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Does a Trump-brokered deal squeeze Russia, Iran out of the South Caucasus?",
+      "headlines": [
+        "Does a Trump-brokered deal squeeze Russia, Iran out of the South Caucasus?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump nominee to lead labour statistics agency faces wave of criticism",
+      "headlines": [
+        "Trump nominee to lead labour statistics agency faces wave of criticism"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
