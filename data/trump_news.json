@@ -23496,5 +23496,73 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-08-14T06:37:29.703Z": [
+    {
+      "summary": "European leaders tentatively hopeful after call with Trump ahead of Putin summit",
+      "headlines": [
+        "European leaders tentatively hopeful after call with Trump ahead of Putin summit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Peru president issues amnesty for hundreds accused of atrocities",
+      "headlines": [
+        "Peru president issues amnesty for hundreds accused of atrocities"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Melania Trump threatens to sue Hunter Biden for $1bn over Epstein claim",
+      "headlines": [
+        "Melania Trump threatens to sue Hunter Biden for $1bn over Epstein claim"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine, EU, US leaders speak ahead of Trump-Putin meeting: Key takeaways",
+      "headlines": [
+        "Ukraine, EU, US leaders speak ahead of Trump-Putin meeting: Key takeaways"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia restricts calls on WhatsApp, Telegram as internet control tightens",
+      "headlines": [
+        "Russia restricts calls on WhatsApp, Telegram as internet control tightens"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens ‘severe consequences’ if Putin refuses to end Ukraine war",
+      "headlines": [
+        "Trump threatens ‘severe consequences’ if Putin refuses to end Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    }
   ]
 }

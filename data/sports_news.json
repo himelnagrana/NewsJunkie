@@ -1390,5 +1390,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-08-14T06:37:30.253Z": [
+    {
+      "summary": "A bold new era of football on BBC Sport: Your game, your season",
+      "headlines": [
+        "A bold new era of football on BBC Sport: Your game, your season"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "sports"
+    }
   ]
 }
