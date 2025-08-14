@@ -23564,5 +23564,95 @@
       "sentiment": -6,
       "topic": "trump"
     }
+  ],
+  "2025-08-14T18:36:01.014Z": [
+    {
+      "summary": "Trump says he thinks Putin and Zelensky can ‘make peace’ after Alaska summit",
+      "headlines": [
+        "Trump says he thinks Putin and Zelensky can ‘make peace’ after Alaska summit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Son of Brazil's former president praises Trump's tariff hike on country",
+      "headlines": [
+        "Son of Brazil's former president praises Trump's tariff hike on country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "What do Putin and Trump each want from the Alaska summit?",
+      "headlines": [
+        "What do Putin and Trump each want from the Alaska summit?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Passengers escape car hit by drone in Russia",
+      "headlines": [
+        "Watch: Passengers escape car hit by drone in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US court says Trump administration can cut billions in foreign aid",
+      "headlines": [
+        "US court says Trump administration can cut billions in foreign aid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration sanctions two Mexican drug cartels, announces bounties",
+      "headlines": [
+        "Trump administration sanctions two Mexican drug cartels, announces bounties"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he thinks Putin will ‘make a deal’ on Ukraine",
+      "headlines": [
+        "Trump says he thinks Putin will ‘make a deal’ on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia pounds Ukraine, boosts army as world braces for Putin-Trump talks",
+      "headlines": [
+        "Russia pounds Ukraine, boosts army as world braces for Putin-Trump talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }

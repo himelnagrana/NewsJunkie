@@ -30998,5 +30998,128 @@
       "sentiment": -6,
       "topic": "politics"
     }
+  ],
+  "2025-08-14T18:36:01.265Z": [
+    {
+      "summary": "Trump says he thinks Putin and Zelensky can ‘make peace’ after Alaska summit",
+      "headlines": [
+        "Trump says he thinks Putin and Zelensky can ‘make peace’ after Alaska summit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Son of Brazil's former president praises Trump's tariff hike on country",
+      "headlines": [
+        "Son of Brazil's former president praises Trump's tariff hike on country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "What do Putin and Trump each want from the Alaska summit?",
+      "headlines": [
+        "What do Putin and Trump each want from the Alaska summit?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Passengers escape car hit by drone in Russia",
+      "headlines": [
+        "Watch: Passengers escape car hit by drone in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Flash floods hit villages in northern India and Indian-administered Kashmir",
+      "headlines": [
+        "Flash floods hit villages in northern India and Indian-administered Kashmir"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US court says Trump administration can cut billions in foreign aid",
+      "headlines": [
+        "US court says Trump administration can cut billions in foreign aid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US warns of additional tariffs on India if Trump-Putin peace talks fail",
+      "headlines": [
+        "US warns of additional tariffs on India if Trump-Putin peace talks fail"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration sanctions two Mexican drug cartels, announces bounties",
+      "headlines": [
+        "Trump administration sanctions two Mexican drug cartels, announces bounties"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he thinks Putin will ‘make a deal’ on Ukraine",
+      "headlines": [
+        "Trump says he thinks Putin will ‘make a deal’ on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Will Evo Morales sink the left’s hopes in Bolivia’s presidential election?",
+      "headlines": [
+        "Will Evo Morales sink the left’s hopes in Bolivia’s presidential election?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia pounds Ukraine, boosts army as world braces for Putin-Trump talks",
+      "headlines": [
+        "Russia pounds Ukraine, boosts army as world braces for Putin-Trump talks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }

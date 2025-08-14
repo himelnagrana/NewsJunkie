@@ -3041,5 +3041,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-08-14T18:36:01.823Z": [
+    {
+      "summary": "Son of Brazil's former president praises Trump's tariff hike on country",
+      "headlines": [
+        "Son of Brazil's former president praises Trump's tariff hike on country"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "finance"
+    }
   ]
 }

@@ -968,5 +968,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-14T18:36:01.526Z": [
+    {
+      "summary": "AI designs antibiotics for gonorrhoea and MRSA superbugs",
+      "headlines": [
+        "AI designs antibiotics for gonorrhoea and MRSA superbugs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
