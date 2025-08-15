@@ -981,5 +981,29 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-15T06:36:35.264Z": [
+    {
+      "summary": "AI invents new antibiotics that could kill superbugs gonorrhoea and MRSA",
+      "headlines": [
+        "AI invents new antibiotics that could kill superbugs gonorrhoea and MRSA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "technology"
+    },
+    {
+      "summary": "Will AI make language dubbing easy for film and TV?",
+      "headlines": [
+        "Will AI make language dubbing easy for film and TV?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "technology"
+    }
   ]
 }

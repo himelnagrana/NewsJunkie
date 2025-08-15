@@ -23654,5 +23654,84 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-08-15T06:36:34.844Z": [
+    {
+      "summary": "Trump says Putin won't 'mess around with me' as pair prepare for Ukraine talks in Alaska",
+      "headlines": [
+        "Trump says Putin won't 'mess around with me' as pair prepare for Ukraine talks in Alaska"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "How Trump and Putin's past meetings went - and what to expect this time",
+      "headlines": [
+        "How Trump and Putin's past meetings went - and what to expect this time"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "The president's path to Alaska – how Trump's positions on Ukraine shifted",
+      "headlines": [
+        "The president's path to Alaska – how Trump's positions on Ukraine shifted"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "As Trump splits from India, is the US abandoning its pivot to Asia?",
+      "headlines": [
+        "As Trump splits from India, is the US abandoning its pivot to Asia?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why did Russia sell Alaska to the United States?",
+      "headlines": [
+        "Why did Russia sell Alaska to the United States?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump promises to ‘save’ jailed Hong Kong media tycoon Jimmy Lai",
+      "headlines": [
+        "Trump promises to ‘save’ jailed Hong Kong media tycoon Jimmy Lai"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "California governor boosts redistricting effort in growing feud with Trump",
+      "headlines": [
+        "California governor boosts redistricting effort in growing feud with Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }
