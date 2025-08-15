@@ -23733,5 +23733,95 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-08-15T18:35:25.138Z": [
+    {
+      "summary": "Trump lands in Alaska ahead of Ukraine talks with Putin",
+      "headlines": [
+        "Trump lands in Alaska ahead of Ukraine talks with Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What do Putin and Trump each want?",
+      "headlines": [
+        "What do Putin and Trump each want?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Washington DC sues federal government over police takeover",
+      "headlines": [
+        "Washington DC sues federal government over police takeover"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Putin, Trump to meet in Alaska to discuss settling Ukraine conflict",
+      "headlines": [
+        "Putin, Trump to meet in Alaska to discuss settling Ukraine conflict"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia gains in east before Trump-Putin summit, Ukraine says holding off",
+      "headlines": [
+        "Russia gains in east before Trump-Putin summit, Ukraine says holding off"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Afghans in US mark Taliban Kabul takeover amid Trump immigration crackdown",
+      "headlines": [
+        "Afghans in US mark Taliban Kabul takeover amid Trump immigration crackdown"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can Putin sway Trump with economic offers in Alaska?",
+      "headlines": [
+        "Can Putin sway Trump with economic offers in Alaska?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "A political shift ahead? What to know about Bolivia’s presidential election",
+      "headlines": [
+        "A political shift ahead? What to know about Bolivia’s presidential election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

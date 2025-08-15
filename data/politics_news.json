@@ -31211,5 +31211,128 @@
       "sentiment": 2,
       "topic": "politics"
     }
+  ],
+  "2025-08-15T18:35:25.356Z": [
+    {
+      "summary": "Trump lands in Alaska ahead of Ukraine talks with Putin",
+      "headlines": [
+        "Trump lands in Alaska ahead of Ukraine talks with Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Putin is a master of persuasion' - BBC correspondents discuss summit strategy",
+      "headlines": [
+        "'Putin is a master of persuasion' - BBC correspondents discuss summit strategy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What do Putin and Trump each want?",
+      "headlines": [
+        "What do Putin and Trump each want?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Washington DC sues federal government over police takeover",
+      "headlines": [
+        "Washington DC sues federal government over police takeover"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "War crimes likely committed in Syria coastal violence, UN says",
+      "headlines": [
+        "War crimes likely committed in Syria coastal violence, UN says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: World War Two victory marked around the world in 1945",
+      "headlines": [
+        "Watch: World War Two victory marked around the world in 1945"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin, Trump to meet in Alaska to discuss settling Ukraine conflict",
+      "headlines": [
+        "Putin, Trump to meet in Alaska to discuss settling Ukraine conflict"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia gains in east before Trump-Putin summit, Ukraine says holding off",
+      "headlines": [
+        "Russia gains in east before Trump-Putin summit, Ukraine says holding off"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Afghans in US mark Taliban Kabul takeover amid Trump immigration crackdown",
+      "headlines": [
+        "Afghans in US mark Taliban Kabul takeover amid Trump immigration crackdown"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can Putin sway Trump with economic offers in Alaska?",
+      "headlines": [
+        "Can Putin sway Trump with economic offers in Alaska?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "A political shift ahead? What to know about Bolivia’s presidential election",
+      "headlines": [
+        "A political shift ahead? What to know about Bolivia’s presidential election"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
