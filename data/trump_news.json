@@ -23823,5 +23823,128 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-16T06:33:49.247Z": [
+    {
+      "summary": "Trump says no deal but 'progress made' after Ukraine talks with Putin",
+      "headlines": [
+        "Trump says no deal but 'progress made' after Ukraine talks with Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Next time in Moscow?': Five takeaways after Trump and Putin's Alaska summit",
+      "headlines": [
+        "'Next time in Moscow?': Five takeaways after Trump and Putin's Alaska summit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "What summit means for Trump, Putin and Ukraine",
+      "headlines": [
+        "What summit means for Trump, Putin and Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "In pictures: Trump rolls out the red carpet for Putin",
+      "headlines": [
+        "In pictures: Trump rolls out the red carpet for Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "DC police chief retains command after deal with Trump administration",
+      "headlines": [
+        "DC police chief retains command after deal with Trump administration"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "An artist on the run, an exhibition censored: How China tried to silence a Thai art show",
+      "headlines": [
+        "An artist on the run, an exhibition censored: How China tried to silence a Thai art show"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "The US island where you can walk to Russia",
+      "headlines": [
+        "The US island where you can walk to Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Next time in Moscow?' - Putin invites Trump to Russia with rare use of English",
+      "headlines": [
+        "'Next time in Moscow?' - Putin invites Trump to Russia with rare use of English"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Moment Trump and Putin meet in Alaska for Ukraine talks",
+      "headlines": [
+        "Watch: Moment Trump and Putin meet in Alaska for Ukraine talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "No ceasefire, no deal. What summit means for Trump, Putin and Ukraine",
+      "headlines": [
+        "No ceasefire, no deal. What summit means for Trump, Putin and Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump-Putin talks end without a deal, but Trump says ‘great progress’ made",
+      "headlines": [
+        "Trump-Putin talks end without a deal, but Trump says ‘great progress’ made"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
