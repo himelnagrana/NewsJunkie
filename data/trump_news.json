@@ -24049,5 +24049,51 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-08-17T18:32:54.286Z": [
+    {
+      "summary": "Zelensky hails 'historic' US commitment to offer Ukraine security guarantees in event of peace",
+      "headlines": [
+        "Zelensky hails 'historic' US commitment to offer Ukraine security guarantees in event of peace"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Resignation and betrayal: What handing Donbas to Putin would mean for Ukraine",
+      "headlines": [
+        "Resignation and betrayal: What handing Donbas to Putin would mean for Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "European leaders to join Zelensky at White House meeting with Trump",
+      "headlines": [
+        "European leaders to join Zelensky at White House meeting with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "European leaders to shore up Ukraine’s Zelenskyy for DC talks with Trump",
+      "headlines": [
+        "European leaders to shore up Ukraine’s Zelenskyy for DC talks with Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

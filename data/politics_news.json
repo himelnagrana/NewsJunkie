@@ -31604,5 +31604,62 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-17T18:32:54.498Z": [
+    {
+      "summary": "Zelensky hails 'historic' US commitment to offer Ukraine security guarantees in event of peace",
+      "headlines": [
+        "Zelensky hails 'historic' US commitment to offer Ukraine security guarantees in event of peace"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Resignation and betrayal: What handing Donbas to Putin would mean for Ukraine",
+      "headlines": [
+        "Resignation and betrayal: What handing Donbas to Putin would mean for Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "European leaders to join Zelensky at White House meeting with Trump",
+      "headlines": [
+        "European leaders to join Zelensky at White House meeting with Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "European leaders to shore up Ukraine’s Zelenskyy for DC talks with Trump",
+      "headlines": [
+        "European leaders to shore up Ukraine’s Zelenskyy for DC talks with Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israelis hold protest to end Gaza war and ‘bring back the hostages’",
+      "headlines": [
+        "Israelis hold protest to end Gaza war and ‘bring back the hostages’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }

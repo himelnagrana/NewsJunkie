@@ -1416,5 +1416,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-08-17T18:32:54.786Z": [
+    {
+      "summary": "BMW Championship: MacIntyre leads Scheffler by two after three holes",
+      "headlines": [
+        "BMW Championship: MacIntyre leads Scheffler by two after three holes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
