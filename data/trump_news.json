@@ -24003,5 +24003,51 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-08-17T06:34:30.146Z": [
+    {
+      "summary": "Russia complicating end to war, says Zelensky, as Trump pursues peace deal",
+      "headlines": [
+        "Russia complicating end to war, says Zelensky, as Trump pursues peace deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Beyond chow mein: Can a new wave of restaurants help China win hearts?",
+      "headlines": [
+        "Beyond chow mein: Can a new wave of restaurants help China win hearts?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump posted a photo of me sitting by my tent - then a bulldozer arrived",
+      "headlines": [
+        "Trump posted a photo of me sitting by my tent - then a bulldozer arrived"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canadian government moves to end airline strike, ordering both sides to table",
+      "headlines": [
+        "Canadian government moves to end airline strike, ordering both sides to table"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
