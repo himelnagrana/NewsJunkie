@@ -31795,5 +31795,117 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-08-18T18:36:16.518Z": [
+    {
+      "summary": "Trump says US will ensure any Ukraine-Russia peace deal 'works' as he meets Zelensky in White House",
+      "headlines": [
+        "Trump says US will ensure any Ukraine-Russia peace deal 'works' as he meets Zelensky in White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "'No-one was expecting this': European leaders rush to US to help Ukraine avoid 'capitulation'",
+      "headlines": [
+        "'No-one was expecting this': European leaders rush to US to help Ukraine avoid 'capitulation'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "What each side wants from Ukraine talks at White House",
+      "headlines": [
+        "What each side wants from Ukraine talks at White House"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How much has the US given to Ukraine?",
+      "headlines": [
+        "How much has the US given to Ukraine?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada's conservative leader faces crucial election test",
+      "headlines": [
+        "Canada's conservative leader faces crucial election test"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump meets Zelenskyy, say US to be ‘involved’ in security of Ukraine",
+      "headlines": [
+        "Trump meets Zelenskyy, say US to be ‘involved’ in security of Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia pounds Ukraine, kills more civilians before White House meeting",
+      "headlines": [
+        "Russia pounds Ukraine, kills more civilians before White House meeting"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
+      "headlines": [
+        "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How much territory does Russia control in Ukraine?",
+      "headlines": [
+        "How much territory does Russia control in Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Right-wing US network Newsmax to pay $67m over false 2020 election claims",
+      "headlines": [
+        "Right-wing US network Newsmax to pay $67m over false 2020 election claims"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

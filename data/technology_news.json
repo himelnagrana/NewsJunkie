@@ -1018,5 +1018,29 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-18T18:36:16.769Z": [
+    {
+      "summary": "Should Europe wean itself off US tech?",
+      "headlines": [
+        "Should Europe wean itself off US tech?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    },
+    {
+      "summary": "Meta investigated over AI having 'sensual' chats with children",
+      "headlines": [
+        "Meta investigated over AI having 'sensual' chats with children"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
