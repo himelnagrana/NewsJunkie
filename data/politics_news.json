@@ -31661,5 +31661,139 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-08-18T06:39:48.247Z": [
+    {
+      "summary": "Trump rules out Ukraine reclaiming Crimea or joining Nato ahead of Zelensky White House talks",
+      "headlines": [
+        "Trump rules out Ukraine reclaiming Crimea or joining Nato ahead of Zelensky White House talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Health v heritage: Pigeon feeding ban sparks debate in India",
+      "headlines": [
+        "Health v heritage: Pigeon feeding ban sparks debate in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "'The cemetery of living men': Trump deportees tell of abuse in secretive mega-jail",
+      "headlines": [
+        "'The cemetery of living men': Trump deportees tell of abuse in secretive mega-jail"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Huge crowds gather in Israel calling for hostage deal and end to Gaza war",
+      "headlines": [
+        "Huge crowds gather in Israel calling for hostage deal and end to Gaza war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Bolivia set to elect first non-left wing president in two decades",
+      "headlines": [
+        "Bolivia set to elect first non-left wing president in two decades"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air Canada delays return to flights after union defies government order",
+      "headlines": [
+        "Air Canada delays return to flights after union defies government order"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'No going into Nato by Ukraine,' says Trump as Zelensky prepares for White House talks",
+      "headlines": [
+        "'No going into Nato by Ukraine,' says Trump as Zelensky prepares for White House talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Swatch sorry for 'slanted eyes' ad after China uproar",
+      "headlines": [
+        "Swatch sorry for 'slanted eyes' ad after China uproar"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says Ukraine’s Zelenskyy could end war ‘almost immediately’",
+      "headlines": [
+        "Trump says Ukraine’s Zelenskyy could end war ‘almost immediately’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,271",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,271"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israelis protest to end Gaza war as anger over fate of captives boils over",
+      "headlines": [
+        "Israelis protest to end Gaza war as anger over fate of captives boils over"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air Canada flight attendants to continue strike despite government order",
+      "headlines": [
+        "Air Canada flight attendants to continue strike despite government order"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }

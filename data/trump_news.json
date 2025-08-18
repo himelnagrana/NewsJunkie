@@ -24095,5 +24095,95 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-18T06:39:47.699Z": [
+    {
+      "summary": "Trump rules out Ukraine reclaiming Crimea or joining Nato ahead of Zelensky White House talks",
+      "headlines": [
+        "Trump rules out Ukraine reclaiming Crimea or joining Nato ahead of Zelensky White House talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'The cemetery of living men': Trump deportees tell of abuse in secretive mega-jail",
+      "headlines": [
+        "'The cemetery of living men': Trump deportees tell of abuse in secretive mega-jail"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Bolivia set to elect first non-left wing president in two decades",
+      "headlines": [
+        "Bolivia set to elect first non-left wing president in two decades"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Air Canada delays return to flights after union defies government order",
+      "headlines": [
+        "Air Canada delays return to flights after union defies government order"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'No going into Nato by Ukraine,' says Trump as Zelensky prepares for White House talks",
+      "headlines": [
+        "'No going into Nato by Ukraine,' says Trump as Zelensky prepares for White House talks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Swatch sorry for 'slanted eyes' ad after China uproar",
+      "headlines": [
+        "Swatch sorry for 'slanted eyes' ad after China uproar"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Ukraine’s Zelenskyy could end war ‘almost immediately’",
+      "headlines": [
+        "Trump says Ukraine’s Zelenskyy could end war ‘almost immediately’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Air Canada flight attendants to continue strike despite government order",
+      "headlines": [
+        "Air Canada flight attendants to continue strike despite government order"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
