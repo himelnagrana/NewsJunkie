@@ -24275,5 +24275,62 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-19T06:36:02.041Z": [
+    {
+      "summary": "Trump calls Putin to propose Zelensky meeting after White House talks on Ukraine 'security guarantee'",
+      "headlines": [
+        "Trump calls Putin to propose Zelensky meeting after White House talks on Ukraine 'security guarantee'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Four key takeaways from Ukraine talks in Washington",
+      "headlines": [
+        "Four key takeaways from Ukraine talks in Washington"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Zelensky's 'fabulous' suit and other moments from Trump meeting",
+      "headlines": [
+        "Watch: Zelensky's 'fabulous' suit and other moments from Trump meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "How much support has the US given to Ukraine?",
+      "headlines": [
+        "How much support has the US given to Ukraine?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump proposes Putin-Zelenskyy summit in push to end Ukraine war",
+      "headlines": [
+        "Trump proposes Putin-Zelenskyy summit in push to end Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

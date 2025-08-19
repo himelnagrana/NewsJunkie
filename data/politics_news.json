@@ -31907,5 +31907,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-19T06:36:02.241Z": [
+    {
+      "summary": "Trump calls Putin to propose Zelensky meeting after White House talks on Ukraine 'security guarantee'",
+      "headlines": [
+        "Trump calls Putin to propose Zelensky meeting after White House talks on Ukraine 'security guarantee'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Four key takeaways from Ukraine talks in Washington",
+      "headlines": [
+        "Four key takeaways from Ukraine talks in Washington"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Zelensky's 'fabulous' suit and other moments from Trump meeting",
+      "headlines": [
+        "Watch: Zelensky's 'fabulous' suit and other moments from Trump meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How much support has the US given to Ukraine?",
+      "headlines": [
+        "How much support has the US given to Ukraine?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why India tops the list of abandoned sailors",
+      "headlines": [
+        "Why India tops the list of abandoned sailors"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Newsmax settles Dominion election defamation case for $67m",
+      "headlines": [
+        "Newsmax settles Dominion election defamation case for $67m"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump proposes Putin-Zelenskyy summit in push to end Ukraine war",
+      "headlines": [
+        "Trump proposes Putin-Zelenskyy summit in push to end Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hamas accepts Gaza truce proposal as Israel signals will continue war",
+      "headlines": [
+        "Hamas accepts Gaza truce proposal as Israel signals will continue war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
