@@ -31997,5 +31997,106 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-08-19T18:32:01.256Z": [
+    {
+      "summary": "Trump rules out sending US troops to Ukraine as part of security guarantees",
+      "headlines": [
+        "Trump rules out sending US troops to Ukraine as part of security guarantees"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Oval Office map has played crucial role in Trump's view of Ukraine war",
+      "headlines": [
+        "Why Oval Office map has played crucial role in Trump's view of Ukraine war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why Ukraine's first lady wrote Melania Trump a letter",
+      "headlines": [
+        "Why Ukraine's first lady wrote Melania Trump a letter"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "The reason India tops the list of abandoned sailors",
+      "headlines": [
+        "The reason India tops the list of abandoned sailors"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China and India should be partners, not adversaries, says foreign minister Wang Yi",
+      "headlines": [
+        "China and India should be partners, not adversaries, says foreign minister Wang Yi"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israeli government yet to respond to Gaza ceasefire proposal",
+      "headlines": [
+        "Israeli government yet to respond to Gaza ceasefire proposal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine hit by multiple Russian strikes amid US-led push for end to war",
+      "headlines": [
+        "Ukraine hit by multiple Russian strikes amid US-led push for end to war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "What US, Europe security guarantees for Ukraine could look like",
+      "headlines": [
+        "What US, Europe security guarantees for Ukraine could look like"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Inside the Nuba Mountains and the alliance reshaping Sudan’s civil war",
+      "headlines": [
+        "Inside the Nuba Mountains and the alliance reshaping Sudan’s civil war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
