@@ -32188,5 +32188,51 @@
       "sentiment": -6,
       "topic": "politics"
     }
+  ],
+  "2025-08-20T18:34:18.271Z": [
+    {
+      "summary": "Trump under pressure as obstacles to progress on Ukraine persist",
+      "headlines": [
+        "Trump under pressure as obstacles to progress on Ukraine persist"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia says talks on Ukraine security guarantees must include Moscow",
+      "headlines": [
+        "Russia says talks on Ukraine security guarantees must include Moscow"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Ukraine closer to peace after Trump’s meetings with Zelenskyy, Putin?",
+      "headlines": [
+        "Is Ukraine closer to peace after Trump’s meetings with Zelenskyy, Putin?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Confrontation between Tunisia’s General Union, President Saied escalates",
+      "headlines": [
+        "Confrontation between Tunisia’s General Union, President Saied escalates"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

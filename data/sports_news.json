@@ -1429,5 +1429,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-08-20T18:34:18.760Z": [
+    {
+      "summary": "Italian football coaches seek suspension of Israel World Cup ties",
+      "headlines": [
+        "Italian football coaches seek suspension of Israel World Cup ties"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
