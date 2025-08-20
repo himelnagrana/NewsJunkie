@@ -24411,5 +24411,95 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-08-20T06:35:48.570Z": [
+    {
+      "summary": "Kremlin plays down Zelensky talks as Trump warns Putin may not want to make deal",
+      "headlines": [
+        "Kremlin plays down Zelensky talks as Trump warns Putin may not want to make deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "What security guarantees for Ukraine would actually mean",
+      "headlines": [
+        "What security guarantees for Ukraine would actually mean"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "How many wars has President Trump really ended?",
+      "headlines": [
+        "How many wars has President Trump really ended?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Two summits later, Trump still faces tough obstacles in quest for peace in Ukraine",
+      "headlines": [
+        "Two summits later, Trump still faces tough obstacles in quest for peace in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is the US sparing China, but not India, for importing Russian oil?",
+      "headlines": [
+        "Why is the US sparing China, but not India, for importing Russian oil?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "No US troops in Ukraine, Trump says",
+      "headlines": [
+        "No US troops in Ukraine, Trump says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "China to unveil advanced weapons at huge military parade to mark WWII end",
+      "headlines": [
+        "China to unveil advanced weapons at huge military parade to mark WWII end"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Smithsonian museums only cover ‘how bad Slavery was’ in US",
+      "headlines": [
+        "Trump says Smithsonian museums only cover ‘how bad Slavery was’ in US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    }
   ]
 }
