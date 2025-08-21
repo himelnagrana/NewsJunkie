@@ -3067,5 +3067,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-08-21T06:44:17.433Z": [
+    {
+      "summary": "Sony raises PlayStation 5 prices in US as tariff fears persist",
+      "headlines": [
+        "Sony raises PlayStation 5 prices in US as tariff fears persist"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Did Trump’s tariff war force India and China to mend ties?",
+      "headlines": [
+        "Did Trump’s tariff war force India and China to mend ties?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

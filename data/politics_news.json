@@ -32234,5 +32234,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-21T06:44:17.035Z": [
+    {
+      "summary": "Fed governor says she won't be 'bullied' as Trump demands she quit over mortgage claim",
+      "headlines": [
+        "Fed governor says she won't be 'bullied' as Trump demands she quit over mortgage claim"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "A fierce war of words keeps Thailand and Cambodia on edge",
+      "headlines": [
+        "A fierce war of words keeps Thailand and Cambodia on edge"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump has bought more than $100m in bonds in office, disclosure shows",
+      "headlines": [
+        "Trump has bought more than $100m in bonds in office, disclosure shows"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Did Trump’s tariff war force India and China to mend ties?",
+      "headlines": [
+        "Did Trump’s tariff war force India and China to mend ties?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US court allows Trump to end temporary protections for 60,000 migrants",
+      "headlines": [
+        "US court allows Trump to end temporary protections for 60,000 migrants"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
