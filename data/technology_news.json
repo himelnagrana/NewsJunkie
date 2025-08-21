@@ -1055,5 +1055,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-21T18:32:43.337Z": [
+    {
+      "summary": "Top men’s tennis names shielded from ‘severe’ abuse by ATP AI tool",
+      "headlines": [
+        "Top men’s tennis names shielded from ‘severe’ abuse by ATP AI tool"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }

@@ -32291,5 +32291,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-21T18:32:43.182Z": [
+    {
+      "summary": "Russia launches biggest wave of strikes on Ukraine for weeks",
+      "headlines": [
+        "Russia launches biggest wave of strikes on Ukraine for weeks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump backs down from 250% EU pharma tariff in deal",
+      "headlines": [
+        "Trump backs down from 250% EU pharma tariff in deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "FBI arrests woman charged with killing her 6-year-old son and fleeing to India",
+      "headlines": [
+        "FBI arrests woman charged with killing her 6-year-old son and fleeing to India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -8,
+      "topic": "politics"
+    },
+    {
+      "summary": "New York appeals court tosses $515m civil fraud penalty against Trump",
+      "headlines": [
+        "New York appeals court tosses $515m civil fraud penalty against Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can China make Pakistan and the Taliban friends again?",
+      "headlines": [
+        "Can China make Pakistan and the Taliban friends again?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "A week of summits reveals Trump is closer to Moscow than Europe",
+      "headlines": [
+        "A week of summits reveals Trump is closer to Moscow than Europe"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

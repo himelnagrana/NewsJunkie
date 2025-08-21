@@ -3091,5 +3091,18 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-08-21T18:32:43.554Z": [
+    {
+      "summary": "Trump backs down from 250% EU pharma tariff in deal",
+      "headlines": [
+        "Trump backs down from 250% EU pharma tariff in deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    }
   ]
 }
