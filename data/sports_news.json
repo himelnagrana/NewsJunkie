@@ -1442,5 +1442,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-08-22T18:32:35.679Z": [
+    {
+      "summary": "Diamond League: Muir & Caudery among British athletes in action in Brussels",
+      "headlines": [
+        "Diamond League: Muir & Caudery among British athletes in action in Brussels"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "sports"
+    }
   ]
 }

@@ -32427,5 +32427,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-22T18:32:35.281Z": [
+    {
+      "summary": "FBI searches home of Trump adviser-turned-critic John Bolton",
+      "headlines": [
+        "FBI searches home of Trump adviser-turned-critic John Bolton"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia trying to stop meeting on peace and prolong war, says Zelensky",
+      "headlines": [
+        "Russia trying to stop meeting on peace and prolong war, says Zelensky"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "'The biggest event in sport' - Trump announces 2026 World Cup draw",
+      "headlines": [
+        "'The biggest event in sport' - Trump announces 2026 World Cup draw"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Biggest event in sport' - Trump says Washington to host 2026 World Cup draw",
+      "headlines": [
+        "'Biggest event in sport' - Trump says Washington to host 2026 World Cup draw"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "FBI raids home of John Bolton, former Trump adviser turned critic",
+      "headlines": [
+        "FBI raids home of John Bolton, former Trump adviser turned critic"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Former Sri Lanka President Ranil Wickremesinghe arrested",
+      "headlines": [
+        "Former Sri Lanka President Ranil Wickremesinghe arrested"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
