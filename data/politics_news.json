@@ -32359,5 +32359,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-22T06:35:15.077Z": [
+    {
+      "summary": "Proposed Ukraine land concessions are Putin's trap, EU's top diplomat tells BBC",
+      "headlines": [
+        "Proposed Ukraine land concessions are Putin's trap, EU's top diplomat tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "The race for the two miles-a-second super weapons that Putin says turn targets to dust",
+      "headlines": [
+        "The race for the two miles-a-second super weapons that Putin says turn targets to dust"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine’s Zelenskyy rules out China as security guarantor in any peace deal",
+      "headlines": [
+        "Ukraine’s Zelenskyy rules out China as security guarantor in any peace deal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration says it’s reviewing all 55 million US visa holders",
+      "headlines": [
+        "Trump administration says it’s reviewing all 55 million US visa holders"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "North Korea’s Kim Jong Un hails troops killed in ‘heroic’ war with Ukraine",
+      "headlines": [
+        "North Korea’s Kim Jong Un hails troops killed in ‘heroic’ war with Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Judge rules Trump lawyer Alina Habba is unlawfully serving as US attorney",
+      "headlines": [
+        "Judge rules Trump lawyer Alina Habba is unlawfully serving as US attorney"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
