@@ -1068,5 +1068,18 @@
       "sentiment": -1,
       "topic": "technology"
     }
+  ],
+  "2025-08-23T18:29:51.563Z": [
+    {
+      "summary": "30 Rock star Tina Fey says AI can't write comedy",
+      "headlines": [
+        "30 Rock star Tina Fey says AI can't write comedy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "technology"
+    }
   ]
 }
