@@ -32495,5 +32495,95 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-08-23T06:31:37.691Z": [
+    {
+      "summary": "Russia is trying to stop meeting on peace and prolong war, Zelensky says",
+      "headlines": [
+        "Russia is trying to stop meeting on peace and prolong war, Zelensky says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why India's Election Commission is facing a test of credibility",
+      "headlines": [
+        "Why India's Election Commission is facing a test of credibility"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sri Lanka's former president Wickremesinghe arrested over alleged funds misuse",
+      "headlines": [
+        "Sri Lanka's former president Wickremesinghe arrested over alleged funds misuse"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "England's appetite for destruction undimmed by thrashing of USA",
+      "headlines": [
+        "England's appetite for destruction undimmed by thrashing of USA"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "China, India watch as Myanmar rebels advance on strategic western frontier",
+      "headlines": [
+        "China, India watch as Myanmar rebels advance on strategic western frontier"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US general whose report on Iran nuclear sites angered Trump fired",
+      "headlines": [
+        "US general whose report on Iran nuclear sites angered Trump fired"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ghislaine Maxwell praises Trump in transcripts released by government",
+      "headlines": [
+        "Ghislaine Maxwell praises Trump in transcripts released by government"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Chicago ‘will be next’: Trump teases troop expansion in Democrat-led cities",
+      "headlines": [
+        "Chicago ‘will be next’: Trump teases troop expansion in Democrat-led cities"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
