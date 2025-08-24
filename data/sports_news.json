@@ -1468,5 +1468,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-08-24T18:30:54.939Z": [
+    {
+      "summary": "Tour Championship: Fleetwood two clear chasing first PGA Tour win",
+      "headlines": [
+        "Tour Championship: Fleetwood two clear chasing first PGA Tour win"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "sports"
+    }
   ]
 }

@@ -32688,5 +32688,62 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-24T18:30:54.127Z": [
+    {
+      "summary": "Zelensky vows to continue fighting as Ukraine marks independence day",
+      "headlines": [
+        "Zelensky vows to continue fighting as Ukraine marks independence day"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia accuses Ukraine of attacking nuclear plant, causing a fire",
+      "headlines": [
+        "Russia accuses Ukraine of attacking nuclear plant, causing a fire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "China, India watch as Arakan Army advances on key western frontier",
+      "headlines": [
+        "China, India watch as Arakan Army advances on key western frontier"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Moscow says Russia and Ukraine exchange 146 prisoners each",
+      "headlines": [
+        "Moscow says Russia and Ukraine exchange 146 prisoners each"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Turkish first lady urges Melania Trump to speak out for Gaza’s children",
+      "headlines": [
+        "Turkish first lady urges Melania Trump to speak out for Gaza’s children"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
