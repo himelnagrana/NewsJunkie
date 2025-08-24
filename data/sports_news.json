@@ -1455,5 +1455,18 @@
       "sentiment": 1,
       "topic": "sports"
     }
+  ],
+  "2025-08-24T06:32:50.348Z": [
+    {
+      "summary": "Argentina stun All Blacks in Rugby Championship",
+      "headlines": [
+        "Argentina stun All Blacks in Rugby Championship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

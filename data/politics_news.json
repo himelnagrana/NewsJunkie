@@ -32653,5 +32653,40 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-24T06:32:50.042Z": [
+    {
+      "summary": "Russia blames nuclear site attack on Ukraine as Kyiv marks independence day",
+      "headlines": [
+        "Russia blames nuclear site attack on Ukraine as Kyiv marks independence day"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "How researchers recreated faces of 2,500-year-old skulls found in India",
+      "headlines": [
+        "How researchers recreated faces of 2,500-year-old skulls found in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,277",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,277"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
