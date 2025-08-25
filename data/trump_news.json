@@ -25038,5 +25038,62 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-08-25T18:34:13.527Z": [
+    {
+      "summary": "South Korean leader visits White House after Trump questions nation's stability",
+      "headlines": [
+        "South Korean leader visits White House after Trump questions nation's stability"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "India will buy oil from where it gets 'the best deal, says envoy to Russia",
+      "headlines": [
+        "India will buy oil from where it gets 'the best deal, says envoy to Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "India will buy oil from where it gets 'the best deal' - envoy to Russia",
+      "headlines": [
+        "India will buy oil from where it gets 'the best deal' - envoy to Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump Live News: President threatens more National Guard deployments",
+      "headlines": [
+        "Trump Live News: President threatens more National Guard deployments"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump predicts ‘conclusive ending’ to Gaza war within three weeks",
+      "headlines": [
+        "Trump predicts ‘conclusive ending’ to Gaza war within three weeks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

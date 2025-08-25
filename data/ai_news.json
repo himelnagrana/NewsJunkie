@@ -191,5 +191,18 @@
       "sentiment": -5,
       "topic": "ai"
     }
+  ],
+  "2025-08-25T18:34:13.362Z": [
+    {
+      "summary": "Musk firms sue Apple and OpenAI, alleging they hurt competition",
+      "headlines": [
+        "Musk firms sue Apple and OpenAI, alleging they hurt competition"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "ai"
+    }
   ]
 }
