@@ -1481,5 +1481,18 @@
       "sentiment": 5,
       "topic": "sports"
     }
+  ],
+  "2025-08-25T06:37:03.779Z": [
+    {
+      "summary": "Fleetwood wins Tour Championship for first PGA Tour title",
+      "headlines": [
+        "Fleetwood wins Tour Championship for first PGA Tour title"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "sports"
+    }
   ]
 }

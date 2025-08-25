@@ -24992,5 +24992,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-25T06:37:03.258Z": [
+    {
+      "summary": "How Russia is quietly trying to win over the world beyond the West",
+      "headlines": [
+        "How Russia is quietly trying to win over the world beyond the West"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens to deploy troops to Baltimore to 'clean up' crime",
+      "headlines": [
+        "Trump threatens to deploy troops to Baltimore to 'clean up' crime"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Korea’s Lee set to meet Trump, with trade and security high on agenda",
+      "headlines": [
+        "South Korea’s Lee set to meet Trump, with trade and security high on agenda"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Canada’s Carney meets Zelenskyy, backs security guarantees for Ukraine",
+      "headlines": [
+        "Canada’s Carney meets Zelenskyy, backs security guarantees for Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }
