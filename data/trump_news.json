@@ -25095,5 +25095,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-08-26T06:35:47.798Z": [
+    {
+      "summary": "Trump orders removal of Federal Reserve governor Lisa Cook",
+      "headlines": [
+        "Trump orders removal of Federal Reserve governor Lisa Cook"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Korea's charm offensive and other takeaways from Trump meeting",
+      "headlines": [
+        "South Korea's charm offensive and other takeaways from Trump meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Trump says he wants to meet Kim Jong Un",
+      "headlines": [
+        "Watch: Trump says he wants to meet Kim Jong Un"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Korean Air to buy 103 Boeing jets as Trump pressures trading partners",
+      "headlines": [
+        "Korean Air to buy 103 Boeing jets as Trump pressures trading partners"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
+      "headlines": [
+        "Trump orders removal of Fed governor Cook over mortgage fraud claims"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to South Korea’s Lee: ‘I look forward’ to meeting North Korea’s Kim",
+      "headlines": [
+        "Trump to South Korea’s Lee: ‘I look forward’ to meeting North Korea’s Kim"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens new China tariffs over magnets",
+      "headlines": [
+        "Trump threatens new China tariffs over magnets"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
