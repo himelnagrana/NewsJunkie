@@ -3104,5 +3104,29 @@
       "sentiment": 1,
       "topic": "finance"
     }
+  ],
+  "2025-08-26T18:32:24.834Z": [
+    {
+      "summary": "Trump vs the Fed: Why this row could rattle the US economy",
+      "headlines": [
+        "Trump vs the Fed: Why this row could rattle the US economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "‘Food, jobs, hope’: Mozambique seeks investment route to economic recovery",
+      "headlines": [
+        "‘Food, jobs, hope’: Mozambique seeks investment route to economic recovery"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

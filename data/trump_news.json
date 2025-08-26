@@ -25174,5 +25174,95 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-08-26T18:32:23.939Z": [
+    {
+      "summary": "Cook to sue Trump over order to fire her from Federal Reserve",
+      "headlines": [
+        "Cook to sue Trump over order to fire her from Federal Reserve"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump holds cabinet meeting amid escalating battle with Federal Reserve",
+      "headlines": [
+        "Trump holds cabinet meeting amid escalating battle with Federal Reserve"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "France heads for political crisis as PM Bayrou risks all on confidence vote",
+      "headlines": [
+        "France heads for political crisis as PM Bayrou risks all on confidence vote"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump vs the Fed: Why this row could rattle the US economy",
+      "headlines": [
+        "Trump vs the Fed: Why this row could rattle the US economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Does the US president have the power to sack a Federal Reserve governor?",
+      "headlines": [
+        "Does the US president have the power to sack a Federal Reserve governor?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he will seek death penalty for murder cases in DC",
+      "headlines": [
+        "Trump says he will seek death penalty for murder cases in DC"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    },
+    {
+      "summary": "Despite huge manpower losses, how is Russia replenishing its military?",
+      "headlines": [
+        "Despite huge manpower losses, how is Russia replenishing its military?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump admin threatens to cut US state funds over trucker English rules",
+      "headlines": [
+        "Trump admin threatens to cut US state funds over trucker English rules"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
