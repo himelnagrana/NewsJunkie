@@ -25288,5 +25288,62 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-08-27T18:31:28.485Z": [
+    {
+      "summary": "Russian drone attacks cause massive power cuts, Ukraine says",
+      "headlines": [
+        "Russian drone attacks cause massive power cuts, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US disaster agency suspends workers who criticised Trump cuts, reports say",
+      "headlines": [
+        "US disaster agency suspends workers who criticised Trump cuts, reports say"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is Trump right about wind power and UK energy bills?",
+      "headlines": [
+        "Is Trump right about wind power and UK energy bills?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens charges for George Soros, frequent target of far-right ire",
+      "headlines": [
+        "Trump threatens charges for George Soros, frequent target of far-right ire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration takes control of Washington’s Union Station train hub",
+      "headlines": [
+        "Trump administration takes control of Washington’s Union Station train hub"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

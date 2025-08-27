@@ -204,5 +204,18 @@
       "sentiment": -4,
       "topic": "ai"
     }
+  ],
+  "2025-08-27T18:31:28.326Z": [
+    {
+      "summary": "Parents of teenager who took his own life sue OpenAI",
+      "headlines": [
+        "Parents of teenager who took his own life sue OpenAI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "ai"
+    }
   ]
 }

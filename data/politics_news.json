@@ -33096,5 +33096,84 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-27T18:31:28.683Z": [
+    {
+      "summary": "Russian drone attacks cause massive power cuts, Ukraine says",
+      "headlines": [
+        "Russian drone attacks cause massive power cuts, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US disaster agency suspends workers who criticised Trump cuts, reports say",
+      "headlines": [
+        "US disaster agency suspends workers who criticised Trump cuts, reports say"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Trump right about wind power and UK energy bills?",
+      "headlines": [
+        "Is Trump right about wind power and UK energy bills?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Raging rivers cause destruction in parts of northern India",
+      "headlines": [
+        "Watch: Raging rivers cause destruction in parts of northern India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump’s India tariffs take effect: Which sector will be hit, what’s exempt?",
+      "headlines": [
+        "Trump’s India tariffs take effect: Which sector will be hit, what’s exempt?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens charges for George Soros, frequent target of far-right ire",
+      "headlines": [
+        "Trump threatens charges for George Soros, frequent target of far-right ire"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration takes control of Washington’s Union Station train hub",
+      "headlines": [
+        "Trump administration takes control of Washington’s Union Station train hub"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
