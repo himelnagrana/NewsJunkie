@@ -3128,5 +3128,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-08-27T06:33:20.908Z": [
+    {
+      "summary": "Trump's 50% tariff on India kicks in as Modi urges self-reliance",
+      "headlines": [
+        "Trump's 50% tariff on India kicks in as Modi urges self-reliance"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

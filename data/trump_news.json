@@ -25264,5 +25264,29 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-08-27T06:33:20.302Z": [
+    {
+      "summary": "Ukraine admits Russia has entered key region of Dnipropetrovsk",
+      "headlines": [
+        "Ukraine admits Russia has entered key region of Dnipropetrovsk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Cracker Barrel revives old logo after backlash stoked by Trump",
+      "headlines": [
+        "Cracker Barrel revives old logo after backlash stoked by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }

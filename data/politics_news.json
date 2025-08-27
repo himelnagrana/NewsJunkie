@@ -33050,5 +33050,51 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-08-27T06:33:20.494Z": [
+    {
+      "summary": "Trump's 50% tariff on India kicks in as Modi urges self-reliance",
+      "headlines": [
+        "Trump's 50% tariff on India kicks in as Modi urges self-reliance"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine admits Russia has entered key region of Dnipropetrovsk",
+      "headlines": [
+        "Ukraine admits Russia has entered key region of Dnipropetrovsk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Cracker Barrel revives old logo after backlash stoked by Trump",
+      "headlines": [
+        "Cracker Barrel revives old logo after backlash stoked by Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,280",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,280"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
