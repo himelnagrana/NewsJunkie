@@ -33232,5 +33232,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-08-28T18:32:42.069Z": [
+    {
+      "summary": "Xi shows Trump who holds the cards as he sets up meeting with Kim and Putin",
+      "headlines": [
+        "Xi shows Trump who holds the cards as he sets up meeting with Kim and Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Fed Governor Lisa Cook sues Trump over his attempt to fire her",
+      "headlines": [
+        "US Fed Governor Lisa Cook sues Trump over his attempt to fire her"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "A pregnant woman's diary of escape from war zone: 'I prayed the baby wouldn't come'",
+      "headlines": [
+        "A pregnant woman's diary of escape from war zone: 'I prayed the baby wouldn't come'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump and the NFL - why it's complicated",
+      "headlines": [
+        "Trump and the NFL - why it's complicated"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump adviser calls Ukraine conflict 'Modi's war' as US tariffs on India rise",
+      "headlines": [
+        "Trump adviser calls Ukraine conflict 'Modi's war' as US tariffs on India rise"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her",
+      "headlines": [
+        "Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "India-Pakistan missile race heats up, but China in crosshairs, too",
+      "headlines": [
+        "India-Pakistan missile race heats up, but China in crosshairs, too"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UN staff urge rights chief to call Israel’s war on Gaza a ‘genocide’",
+      "headlines": [
+        "UN staff urge rights chief to call Israel’s war on Gaza a ‘genocide’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia advances in Kupiansk, rejects US push for Zelenskyy-Putin summit",
+      "headlines": [
+        "Russia advances in Kupiansk, rejects US push for Zelenskyy-Putin summit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "In post-conflict fallout, Pakistan skips hockey’s Asia Cup in India",
+      "headlines": [
+        "In post-conflict fallout, Pakistan skips hockey’s Asia Cup in India"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

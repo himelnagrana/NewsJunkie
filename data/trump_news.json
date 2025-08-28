@@ -25402,5 +25402,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-08-28T18:32:41.872Z": [
+    {
+      "summary": "Xi shows Trump who holds the cards as he sets up meeting with Kim and Putin",
+      "headlines": [
+        "Xi shows Trump who holds the cards as he sets up meeting with Kim and Putin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US Fed Governor Lisa Cook sues Trump over his attempt to fire her",
+      "headlines": [
+        "US Fed Governor Lisa Cook sues Trump over his attempt to fire her"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and the NFL - why it's complicated",
+      "headlines": [
+        "Trump and the NFL - why it's complicated"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump adviser calls Ukraine conflict 'Modi's war' as US tariffs on India rise",
+      "headlines": [
+        "Trump adviser calls Ukraine conflict 'Modi's war' as US tariffs on India rise"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her",
+      "headlines": [
+        "Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "India-Pakistan missile race heats up, but China in crosshairs, too",
+      "headlines": [
+        "India-Pakistan missile race heats up, but China in crosshairs, too"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia advances in Kupiansk, rejects US push for Zelenskyy-Putin summit",
+      "headlines": [
+        "Russia advances in Kupiansk, rejects US push for Zelenskyy-Putin summit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }

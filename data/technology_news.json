@@ -1094,5 +1094,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-28T18:32:42.265Z": [
+    {
+      "summary": "Hackers used AI to 'to commit large-scale theft', tech company says",
+      "headlines": [
+        "Hackers used AI to 'to commit large-scale theft', tech company says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "technology"
+    }
   ]
 }
