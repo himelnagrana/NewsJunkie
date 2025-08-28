@@ -33175,5 +33175,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-28T06:34:30.616Z": [
+    {
+      "summary": "North Korea's Kim Jong Un to join Putin at China military parade",
+      "headlines": [
+        "North Korea's Kim Jong Un to join Putin at China military parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Blair joins White House meeting with Trump on post-war Gaza",
+      "headlines": [
+        "Blair joins White House meeting with Trump on post-war Gaza"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Value of small parcels from China to UK doubles to £3bn as Shein sales soar",
+      "headlines": [
+        "Value of small parcels from China to UK doubles to £3bn as Shein sales soar"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "North Korea’s Kim, Putin to attend parade in China marking end of WWII",
+      "headlines": [
+        "North Korea’s Kim, Putin to attend parade in China marking end of WWII"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Australia, Canada, Philippine ships hold drills in tense South China Sea",
+      "headlines": [
+        "Australia, Canada, Philippine ships hold drills in tense South China Sea"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

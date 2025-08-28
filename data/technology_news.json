@@ -1081,5 +1081,18 @@
       "sentiment": 1,
       "topic": "technology"
     }
+  ],
+  "2025-08-28T06:34:30.773Z": [
+    {
+      "summary": "How Tokyo is using AI video to prepare for a Mt Fuji eruption",
+      "headlines": [
+        "How Tokyo is using AI video to prepare for a Mt Fuji eruption"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
