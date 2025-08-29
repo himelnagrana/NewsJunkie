@@ -1131,5 +1131,18 @@
       "sentiment": -1,
       "topic": "technology"
     }
+  ],
+  "2025-08-29T18:29:17.489Z": [
+    {
+      "summary": "Taco Bell rethinks AI drive-through after man orders 18,000 waters",
+      "headlines": [
+        "Taco Bell rethinks AI drive-through after man orders 18,000 waters"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

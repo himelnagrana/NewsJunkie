@@ -1494,5 +1494,18 @@
       "sentiment": 4,
       "topic": "sports"
     }
+  ],
+  "2025-08-29T18:29:17.669Z": [
+    {
+      "summary": "Football Manager 25 wasn't good enough, say developers after game's cancellation",
+      "headlines": [
+        "Football Manager 25 wasn't good enough, say developers after game's cancellation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "sports"
+    }
   ]
 }

@@ -25505,5 +25505,73 @@
       "sentiment": 2,
       "topic": "trump"
     }
+  ],
+  "2025-08-29T18:29:16.970Z": [
+    {
+      "summary": "Zelensky rejects proposals for buffer zone to end Ukraine war",
+      "headlines": [
+        "Zelensky rejects proposals for buffer zone to end Ukraine war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump ends Secret Service protection for Harris",
+      "headlines": [
+        "Trump ends Secret Service protection for Harris"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Lawyers clash over fate of Fed governor Trump tried to fire",
+      "headlines": [
+        "Lawyers clash over fate of Fed governor Trump tried to fire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK blocks Israeli government delegation from arms trade fair",
+      "headlines": [
+        "UK blocks Israeli government delegation from arms trade fair"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump seeks to cut $5bn in congressionally approved foreign aid",
+      "headlines": [
+        "Trump seeks to cut $5bn in congressionally approved foreign aid"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump revokes Secret Service detail for political opponent Kamala Harris",
+      "headlines": [
+        "Trump revokes Secret Service detail for political opponent Kamala Harris"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
