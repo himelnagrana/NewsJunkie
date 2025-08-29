@@ -33344,5 +33344,51 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-29T06:33:27.247Z": [
+    {
+      "summary": "'India put us on the boat like captives - then threw us in the sea'",
+      "headlines": [
+        "'India put us on the boat like captives - then threw us in the sea'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘In a nightmare’: India braces for big layoffs as Trump’s tariffs bite",
+      "headlines": [
+        "‘In a nightmare’: India braces for big layoffs as Trump’s tariffs bite"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Venezuela’s Maduro says ‘no way’ US can invade as Trump deploys naval force",
+      "headlines": [
+        "Venezuela’s Maduro says ‘no way’ US can invade as Trump deploys naval force"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China seeks stronger ties with Brazil to resist ‘bullying’ on world stage",
+      "headlines": [
+        "China seeks stronger ties with Brazil to resist ‘bullying’ on world stage"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }

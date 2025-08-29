@@ -25481,5 +25481,29 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-08-29T06:33:27.021Z": [
+    {
+      "summary": "Venezuela’s Maduro says ‘no way’ US can invade as Trump deploys naval force",
+      "headlines": [
+        "Venezuela’s Maduro says ‘no way’ US can invade as Trump deploys naval force"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China seeks stronger ties with Brazil to resist ‘bullying’ on world stage",
+      "headlines": [
+        "China seeks stronger ties with Brazil to resist ‘bullying’ on world stage"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    }
   ]
 }

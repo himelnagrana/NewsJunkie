@@ -1107,5 +1107,29 @@
       "sentiment": 1,
       "topic": "technology"
     }
+  ],
+  "2025-08-29T06:33:27.467Z": [
+    {
+      "summary": "BBC reveals web of spammers profiting from AI Holocaust images",
+      "headlines": [
+        "BBC reveals web of spammers profiting from AI Holocaust images"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "technology"
+    },
+    {
+      "summary": "Sutton's predictions v The Cut star Orlando Bloom and AI",
+      "headlines": [
+        "Sutton's predictions v The Cut star Orlando Bloom and AI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "technology"
+    }
   ]
 }

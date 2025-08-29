@@ -3141,5 +3141,40 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-08-29T06:33:27.805Z": [
+    {
+      "summary": "How shoppers will be hit as tariff exemption ends",
+      "headlines": [
+        "How shoppers will be hit as tariff exemption ends"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "How US shoppers will be hit as tariff exemption ends",
+      "headlines": [
+        "How US shoppers will be hit as tariff exemption ends"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "US ends tariff exemption for delivery packages valued at $800 or less",
+      "headlines": [
+        "US ends tariff exemption for delivery packages valued at $800 or less"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }
