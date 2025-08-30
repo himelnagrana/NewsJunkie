@@ -1144,5 +1144,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-08-30T18:28:58.388Z": [
+    {
+      "summary": "AI stethoscope could detect major heart conditions in seconds",
+      "headlines": [
+        "AI stethoscope could detect major heart conditions in seconds"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

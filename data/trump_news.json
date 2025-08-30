@@ -25630,5 +25630,51 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-08-30T18:28:57.994Z": [
+    {
+      "summary": "What happens next after Trump tariffs ruled illegal?",
+      "headlines": [
+        "What happens next after Trump tariffs ruled illegal?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia launches massive attack on Ukraine, as Kyiv hits oil refineries",
+      "headlines": [
+        "Russia launches massive attack on Ukraine, as Kyiv hits oil refineries"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Kim meets families of North Korea soldiers killed fighting in Ukraine",
+      "headlines": [
+        "Kim meets families of North Korea soldiers killed fighting in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?",
+      "headlines": [
+        "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
