@@ -3176,5 +3176,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-08-30T06:30:20.922Z": [
+    {
+      "summary": "US appeals court rules Trump’s foreign tariff campaign is largely illegal",
+      "headlines": [
+        "US appeals court rules Trump’s foreign tariff campaign is largely illegal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "finance"
+    }
   ]
 }

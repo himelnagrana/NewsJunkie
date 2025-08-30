@@ -33458,5 +33458,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-08-30T06:30:19.971Z": [
+    {
+      "summary": "Trump's rebuke, Xi's handshake, Putin's oil: India's foreign policy test",
+      "headlines": [
+        "Trump's rebuke, Xi's handshake, Putin's oil: India's foreign policy test"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sexist Italian image-sharing website forced to shut after political outcry",
+      "headlines": [
+        "Sexist Italian image-sharing website forced to shut after political outcry"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump moves to cut $5bn in foreign aid already approved by Congress",
+      "headlines": [
+        "Trump moves to cut $5bn in foreign aid already approved by Congress"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Three killed in fire at Indonesian government building blamed on protesters",
+      "headlines": [
+        "Three killed in fire at Indonesian government building blamed on protesters"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -9,
+      "topic": "politics"
+    },
+    {
+      "summary": "Does India have a stray dog epidemic?",
+      "headlines": [
+        "Does India have a stray dog epidemic?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia’s Putin denounces financial ‘neo-colonialism’ on eve of China visit",
+      "headlines": [
+        "Russia’s Putin denounces financial ‘neo-colonialism’ on eve of China visit"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
