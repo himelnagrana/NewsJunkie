@@ -25733,5 +25733,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-08-31T18:29:50.224Z": [
+    {
+      "summary": "Watch: Putin, Modi and other world leaders in China for summit",
+      "headlines": [
+        "Watch: Putin, Modi and other world leaders in China for summit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine planning new strikes deep inside Russia, says Zelenskyy",
+      "headlines": [
+        "Ukraine planning new strikes deep inside Russia, says Zelenskyy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Indonesian president says lawmakers’ perks to be cut after deadly protests",
+      "headlines": [
+        "Indonesian president says lawmakers’ perks to be cut after deadly protests"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    }
   ]
 }
