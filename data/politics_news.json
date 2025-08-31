@@ -33583,5 +33583,84 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-08-31T06:31:14.600Z": [
+    {
+      "summary": "Reeling from Trump's tariffs, India and China seek a business reboot",
+      "headlines": [
+        "Reeling from Trump's tariffs, India and China seek a business reboot"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Chicago mayor signs order to resist potential Trump crackdown",
+      "headlines": [
+        "Chicago mayor signs order to resist potential Trump crackdown"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump administration moves to fire most Voice of America journalists",
+      "headlines": [
+        "Trump administration moves to fire most Voice of America journalists"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US trade war, India-China ties loom large at SCO summit in Tianjin",
+      "headlines": [
+        "US trade war, India-China ties loom large at SCO summit in Tianjin"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Indonesia’s Prabowo scraps China trip over protests, TikTok halts live feed",
+      "headlines": [
+        "Indonesia’s Prabowo scraps China trip over protests, TikTok halts live feed"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to order voter ID for every vote, ‘no exceptions’",
+      "headlines": [
+        "Trump to order voter ID for every vote, ‘no exceptions’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,284",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,284"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
