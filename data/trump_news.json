@@ -25768,5 +25768,51 @@
       "sentiment": -6,
       "topic": "trump"
     }
+  ],
+  "2025-09-01T06:37:07.631Z": [
+    {
+      "summary": "Trump is sending a 'great friend' to India. Some see him as a 'slap in the face'",
+      "headlines": [
+        "Trump is sending a 'great friend' to India. Some see him as a 'slap in the face'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Judge blocks Trump administration move to deport Guatemalan children",
+      "headlines": [
+        "Judge blocks Trump administration move to deport Guatemalan children"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Modi and Xi meet: Trump as the wildcard and other takeaways",
+      "headlines": [
+        "Modi and Xi meet: Trump as the wildcard and other takeaways"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China and India pledge to be 'partners not rivals'",
+      "headlines": [
+        "China and India pledge to be 'partners not rivals'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
