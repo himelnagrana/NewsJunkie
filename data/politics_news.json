@@ -33890,5 +33890,73 @@
       "sentiment": 3,
       "topic": "politics"
     }
+  ],
+  "2025-09-02T18:30:38.810Z": [
+    {
+      "summary": "Putin, Kim and Xi are meeting in China: BBC correspondents explain why",
+      "headlines": [
+        "Putin, Kim and Xi are meeting in China: BBC correspondents explain why"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump and sons' stake in crypto firm worth $5bn",
+      "headlines": [
+        "Trump and sons' stake in crypto firm worth $5bn"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia's Putin hails 'unprecedented' ties with China at talks in Beijing",
+      "headlines": [
+        "Russia's Putin hails 'unprecedented' ties with China at talks in Beijing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How oil has brought Russia, China and India closer",
+      "headlines": [
+        "How oil has brought Russia, China and India closer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why did the internet think Donald Trump was dead?",
+      "headlines": [
+        "Why did the internet think Donald Trump was dead?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘It’s all theatre’: How are Europe and the US pulling apart on Ukraine?",
+      "headlines": [
+        "‘It’s all theatre’: How are Europe and the US pulling apart on Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

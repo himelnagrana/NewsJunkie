@@ -1507,5 +1507,18 @@
       "sentiment": 3,
       "topic": "sports"
     }
+  ],
+  "2025-09-02T18:30:39.115Z": [
+    {
+      "summary": "Transfer deadline day: Top five football talking points",
+      "headlines": [
+        "Transfer deadline day: Top five football talking points"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "sports"
+    }
   ]
 }

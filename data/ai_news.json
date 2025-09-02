@@ -217,5 +217,18 @@
       "sentiment": -2,
       "topic": "ai"
     }
+  ],
+  "2025-09-02T18:30:38.482Z": [
+    {
+      "summary": "ChatGPT to tell parents when their child is in 'acute distress'",
+      "headlines": [
+        "ChatGPT to tell parents when their child is in 'acute distress'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "ai"
+    }
   ]
 }
