@@ -33811,5 +33811,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-02T06:35:21.513Z": [
+    {
+      "summary": "Trump says India offered to remove tariffs on US goods",
+      "headlines": [
+        "Trump says India offered to remove tariffs on US goods"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia's Putin hails 'unprecedented' ties with China as talks begin",
+      "headlines": [
+        "Russia's Putin hails 'unprecedented' ties with China as talks begin"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rudy Giuliani to receive Presidential Medal of Freedom, Trump says",
+      "headlines": [
+        "Rudy Giuliani to receive Presidential Medal of Freedom, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "The stateless sisters caught between India and Pakistan",
+      "headlines": [
+        "The stateless sisters caught between India and Pakistan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "North Korea’s Kim Jong Un crossed into China via train, state media say",
+      "headlines": [
+        "North Korea’s Kim Jong Un crossed into China via train, state media say"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Over 1,000 Labor Day rallies held across US to protest Trump",
+      "headlines": [
+        "Over 1,000 Labor Day rallies held across US to protest Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to grant former New York Mayor Rudy Giuliani highest civilian honour",
+      "headlines": [
+        "Trump to grant former New York Mayor Rudy Giuliani highest civilian honour"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    }
   ]
 }
