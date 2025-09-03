@@ -33958,5 +33958,117 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-03T06:32:19.750Z": [
+    {
+      "summary": "China unveils new weapons in massive parade attended by Vladimir Putin and Kim Jong Un",
+      "headlines": [
+        "China unveils new weapons in massive parade attended by Vladimir Putin and Kim Jong Un"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela",
+      "headlines": [
+        "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump addresses online health rumours in Oval Office",
+      "headlines": [
+        "Trump addresses online health rumours in Oval Office"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Moment Xi, Putin and Kim pose with world leaders at China's military parade",
+      "headlines": [
+        "Moment Xi, Putin and Kim pose with world leaders at China's military parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump accuses Xi of conspiring against US with Putin and Kim",
+      "headlines": [
+        "Trump accuses Xi of conspiring against US with Putin and Kim"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "China’s Xi oversees massive military parade with Putin, Kim in attendance",
+      "headlines": [
+        "China’s Xi oversees massive military parade with Putin, Kim in attendance"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump ‘not concerned’ about China and Russia forming axis against US",
+      "headlines": [
+        "Trump ‘not concerned’ about China and Russia forming axis against US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says 11 killed in strike on alleged drug-carrying boat from Venezuela",
+      "headlines": [
+        "Trump says 11 killed in strike on alleged drug-carrying boat from Venezuela"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Online betting games ban set to leave India without sponsor for Asia Cup",
+      "headlines": [
+        "Online betting games ban set to leave India without sponsor for Asia Cup"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,287",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,287"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

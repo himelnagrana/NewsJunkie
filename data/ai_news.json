@@ -230,5 +230,18 @@
       "sentiment": 0,
       "topic": "ai"
     }
+  ],
+  "2025-09-03T06:32:19.252Z": [
+    {
+      "summary": "OpenAI announces parental controls for ChatGPT after teen’s suicide",
+      "headlines": [
+        "OpenAI announces parental controls for ChatGPT after teen’s suicide"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "ai"
+    }
   ]
 }
