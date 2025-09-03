@@ -3189,5 +3189,40 @@
       "sentiment": -3,
       "topic": "finance"
     }
+  ],
+  "2025-09-03T18:31:29.516Z": [
+    {
+      "summary": "UK deputy prime minister admits underpaying tax on second home",
+      "headlines": [
+        "UK deputy prime minister admits underpaying tax on second home"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "UK deputy PM admits underpaying tax as opposition seeks her dismissal",
+      "headlines": [
+        "UK deputy PM admits underpaying tax as opposition seeks her dismissal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "As the US stock market smashes records, some investors fear it’s overpriced",
+      "headlines": [
+        "As the US stock market smashes records, some investors fear it’s overpriced"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

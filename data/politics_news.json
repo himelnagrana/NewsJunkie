@@ -34070,5 +34070,84 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-03T18:31:29.015Z": [
+    {
+      "summary": "Hot mic catches Xi and Putin discussing organ transplants and immortality",
+      "headlines": [
+        "Hot mic catches Xi and Putin discussing organ transplants and immortality"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal",
+      "headlines": [
+        "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "'A clear message to Trump': BBC correspondents react to China's military parade",
+      "headlines": [
+        "'A clear message to Trump': BBC correspondents react to China's military parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Xi and Putin discuss organ transplants and living 'indefinitely'",
+      "headlines": [
+        "Watch: Xi and Putin discuss organ transplants and living 'indefinitely'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Moment Kim Jong Un arrives in China with daughter, his potential successor",
+      "headlines": [
+        "Moment Kim Jong Un arrives in China with daughter, his potential successor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US appeals court blocks Trump use of Alien Enemies Act in deportation drive",
+      "headlines": [
+        "US appeals court blocks Trump use of Alien Enemies Act in deportation drive"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war",
+      "headlines": [
+        "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

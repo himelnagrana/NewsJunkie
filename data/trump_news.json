@@ -26075,5 +26075,51 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-09-03T18:31:28.778Z": [
+    {
+      "summary": "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal",
+      "headlines": [
+        "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "'A clear message to Trump': BBC correspondents react to China's military parade",
+      "headlines": [
+        "'A clear message to Trump': BBC correspondents react to China's military parade"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Moment Kim Jong Un arrives in China with daughter, his potential successor",
+      "headlines": [
+        "Moment Kim Jong Un arrives in China with daughter, his potential successor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US appeals court blocks Trump use of Alien Enemies Act in deportation drive",
+      "headlines": [
+        "US appeals court blocks Trump use of Alien Enemies Act in deportation drive"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }
