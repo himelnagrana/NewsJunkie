@@ -26121,5 +26121,84 @@
       "sentiment": -5,
       "topic": "trump"
     }
+  ],
+  "2025-09-04T06:32:55.423Z": [
+    {
+      "summary": "UK and allies ready to back Ukraine before and after peace deal",
+      "headlines": [
+        "UK and allies ready to back Ukraine before and after peace deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump appeals to US Supreme Court to rule on legality of tariffs",
+      "headlines": [
+        "Trump appeals to US Supreme Court to rule on legality of tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "How China spectacle shows dangers of Trump's high risk trade policy",
+      "headlines": [
+        "How China spectacle shows dangers of Trump's high risk trade policy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "It's 4,000 miles from Ukraine - but even this Asian city is part of Russia's war",
+      "headlines": [
+        "It's 4,000 miles from Ukraine - but even this Asian city is part of Russia's war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Judge overturns Trump administration funding cuts to Harvard",
+      "headlines": [
+        "Judge overturns Trump administration funding cuts to Harvard"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘You’ll see things happen’: Trump warns Putin on Ukraine",
+      "headlines": [
+        "‘You’ll see things happen’: Trump warns Putin on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia says it will not discuss foreign troops in Ukraine in ‘any format’",
+      "headlines": [
+        "Russia says it will not discuss foreign troops in Ukraine in ‘any format’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -1157,5 +1157,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-09-04T06:32:55.903Z": [
+    {
+      "summary": "Lost in translation - How Africa is trying to close the AI language gap",
+      "headlines": [
+        "Lost in translation - How Africa is trying to close the AI language gap"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "technology"
+    }
   ]
 }
