@@ -26200,5 +26200,106 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-04T18:31:41.979Z": [
+    {
+      "summary": "Washington DC sues Trump administration over National Guard deployment",
+      "headlines": [
+        "Washington DC sues Trump administration over National Guard deployment"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Macron says 26 countries ready to send troops for Ukraine ceasefire",
+      "headlines": [
+        "Macron says 26 countries ready to send troops for Ukraine ceasefire"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump downplays talk of Nobel Peace Prize",
+      "headlines": [
+        "Trump downplays talk of Nobel Peace Prize"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "China spectacle shows dangers of Trump's high-risk trade policy",
+      "headlines": [
+        "China spectacle shows dangers of Trump's high-risk trade policy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "In boat strike, Trump repurposes ‘war on terror’ for Latin American crime",
+      "headlines": [
+        "In boat strike, Trump repurposes ‘war on terror’ for Latin American crime"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "US judge blocks Trump administration from unilateral foreign aid cuts",
+      "headlines": [
+        "US judge blocks Trump administration from unilateral foreign aid cuts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Washington, DC files lawsuit to stop Trump deployment of National Guard",
+      "headlines": [
+        "Washington, DC files lawsuit to stop Trump deployment of National Guard"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Is Venezuela the big cocaine menace Trump claims it to be?",
+      "headlines": [
+        "Is Venezuela the big cocaine menace Trump claims it to be?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he has pressured Putin for Ukraine truce: So what has he done?",
+      "headlines": [
+        "Trump says he has pressured Putin for Ukraine truce: So what has he done?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
