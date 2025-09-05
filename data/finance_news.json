@@ -3224,5 +3224,40 @@
       "sentiment": -2,
       "topic": "finance"
     }
+  ],
+  "2025-09-05T18:30:05.760Z": [
+    {
+      "summary": "US job market weakens further in August, raising fears over economy",
+      "headlines": [
+        "US job market weakens further in August, raising fears over economy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Angela Rayner resigns as UK deputy prime minister over failure to pay enough tax on flat",
+      "headlines": [
+        "Angela Rayner resigns as UK deputy prime minister over failure to pay enough tax on flat"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "finance"
+    },
+    {
+      "summary": "US job growth slows in August as Trump policies weigh on labour market",
+      "headlines": [
+        "US job growth slows in August as Trump policies weigh on labour market"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }

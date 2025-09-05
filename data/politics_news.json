@@ -34463,5 +34463,106 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-05T18:30:05.301Z": [
+    {
+      "summary": "Putin rejects Western security in Ukraine, warning troops would be target",
+      "headlines": [
+        "Putin rejects Western security in Ukraine, warning troops would be target"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Three ways Epstein scandal could go for Trump",
+      "headlines": [
+        "Three ways Epstein scandal could go for Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can Trump send National Guard troops to Chicago?",
+      "headlines": [
+        "Can Trump send National Guard troops to Chicago?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Key moments from Rayner's political career",
+      "headlines": [
+        "Watch: Key moments from Rayner's political career"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Joe Biden undergoes skin cancer surgery",
+      "headlines": [
+        "Joe Biden undergoes skin cancer surgery"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump set to attend first US Open final since 2015",
+      "headlines": [
+        "Trump set to attend first US Open final since 2015"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US job growth slows in August as Trump policies weigh on labour market",
+      "headlines": [
+        "US job growth slows in August as Trump policies weigh on labour market"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "LIVE: Ukraine vs France – UEFA World Cup qualifier",
+      "headlines": [
+        "LIVE: Ukraine vs France – UEFA World Cup qualifier"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What guarantees has Macron’s ‘coalition of the willing’ promised Ukraine?",
+      "headlines": [
+        "What guarantees has Macron’s ‘coalition of the willing’ promised Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }
