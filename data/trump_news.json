@@ -26301,5 +26301,84 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-09-05T06:33:08.214Z": [
+    {
+      "summary": "Trump's tariffs are pushing food and drink exporters closer to China",
+      "headlines": [
+        "Trump's tariffs are pushing food and drink exporters closer to China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK online speech laws 'not a good thing', says Trump",
+      "headlines": [
+        "UK online speech laws 'not a good thing', says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to rebrand Pentagon as Department of War",
+      "headlines": [
+        "Trump to rebrand Pentagon as Department of War"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Moscow rejects Western security guarantees for Ukraine",
+      "headlines": [
+        "Moscow rejects Western security guarantees for Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Sweden accuses Russia of GPS jamming over Baltic Sea",
+      "headlines": [
+        "Sweden accuses Russia of GPS jamming over Baltic Sea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump signs order to cut tariffs on Japanese cars to 15%",
+      "headlines": [
+        "Trump signs order to cut tariffs on Japanese cars to 15%"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Melania Trump warns 'robots are here' in rare public outing",
+      "headlines": [
+        "Melania Trump warns 'robots are here' in rare public outing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

@@ -34351,5 +34351,117 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-05T06:33:08.451Z": [
+    {
+      "summary": "Trump's tariffs are pushing food and drink exporters closer to China",
+      "headlines": [
+        "Trump's tariffs are pushing food and drink exporters closer to China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK online speech laws 'not a good thing', says Trump",
+      "headlines": [
+        "UK online speech laws 'not a good thing', says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to rebrand Pentagon as Department of War",
+      "headlines": [
+        "Trump to rebrand Pentagon as Department of War"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Moscow rejects Western security guarantees for Ukraine",
+      "headlines": [
+        "Moscow rejects Western security guarantees for Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sweden accuses Russia of GPS jamming over Baltic Sea",
+      "headlines": [
+        "Sweden accuses Russia of GPS jamming over Baltic Sea"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Reform's capture of the Brexit vote could be enough to win an election",
+      "headlines": [
+        "How Reform's capture of the Brexit vote could be enough to win an election"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs order to cut tariffs on Japanese cars to 15%",
+      "headlines": [
+        "Trump signs order to cut tariffs on Japanese cars to 15%"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Melania Trump warns 'robots are here' in rare public outing",
+      "headlines": [
+        "Melania Trump warns 'robots are here' in rare public outing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Has India ‘weaponised water’ to deliberately flood Pakistan?",
+      "headlines": [
+        "Has India ‘weaponised water’ to deliberately flood Pakistan?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,289",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,289"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
