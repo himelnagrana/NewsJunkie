@@ -34564,5 +34564,106 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-09-06T06:29:35.106Z": [
+    {
+      "summary": "Russia targets WhatsApp and pushes new 'super-app' as internet blackouts grow",
+      "headlines": [
+        "Russia targets WhatsApp and pushes new 'super-app' as internet blackouts grow"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'We are the troops': Inside Chicago's split communities as Trump vows to deploy National Guard",
+      "headlines": [
+        "'We are the troops': Inside Chicago's split communities as Trump vows to deploy National Guard"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "New Bollywood romcom sparks debate over stereotyping south India",
+      "headlines": [
+        "New Bollywood romcom sparks debate over stereotyping south India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump rebrands Department of Defense as Department of War",
+      "headlines": [
+        "Trump rebrands Department of Defense as Department of War"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: The dramatic day the government had... in under two minutes",
+      "headlines": [
+        "Watch: The dramatic day the government had... in under two minutes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Xi, Putin video on ‘living to 150’ dropped as Chinese TV pulls permission",
+      "headlines": [
+        "Xi, Putin video on ‘living to 150’ dropped as Chinese TV pulls permission"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump changes the Department of Defense’s name to ‘Department of War’",
+      "headlines": [
+        "Trump changes the Department of Defense’s name to ‘Department of War’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Is Trump really considering relaxing laws on cannabis?",
+      "headlines": [
+        "Is Trump really considering relaxing laws on cannabis?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,290",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,290"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
