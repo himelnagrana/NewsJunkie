@@ -34665,5 +34665,84 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-06T18:27:46.955Z": [
+    {
+      "summary": "Trump says Venezuelan jets will be shot down if they endanger US ships",
+      "headlines": [
+        "Trump says Venezuelan jets will be shot down if they endanger US ships"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump signs order to punish countries that unjustly detain US citizens",
+      "headlines": [
+        "Trump signs order to punish countries that unjustly detain US citizens"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rosenberg: What's behind Putin's uncompromising stance on Ukraine?",
+      "headlines": [
+        "Rosenberg: What's behind Putin's uncompromising stance on Ukraine?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'No doubt' Russia will cross Nato border if Ukraine falls, former US VP says",
+      "headlines": [
+        "'No doubt' Russia will cross Nato border if Ukraine falls, former US VP says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Cancelled concert shows political, social rifts in Iran amid war tensions",
+      "headlines": [
+        "Cancelled concert shows political, social rifts in Iran amid war tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Anger in Seoul as Trump calls detained South Korea workers ‘illegal aliens’",
+      "headlines": [
+        "Anger in Seoul as Trump calls detained South Korea workers ‘illegal aliens’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "After Trump jab, India’s Modi says ties with US still ‘very positive’",
+      "headlines": [
+        "After Trump jab, India’s Modi says ties with US still ‘very positive’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

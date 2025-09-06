@@ -1520,5 +1520,18 @@
       "sentiment": 2,
       "topic": "sports"
     }
+  ],
+  "2025-09-06T18:27:47.355Z": [
+    {
+      "summary": "US Open: Championship points for GB's Salisbury & Skupski in men's doubles final",
+      "headlines": [
+        "US Open: Championship points for GB's Salisbury & Skupski in men's doubles final"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }
