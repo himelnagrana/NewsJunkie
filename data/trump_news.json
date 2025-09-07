@@ -26617,5 +26617,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-07T06:30:12.460Z": [
+    {
+      "summary": "Russia hits a Ukrainian government building for first time",
+      "headlines": [
+        "Russia hits a Ukrainian government building for first time"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "England fumble trump card to offer hope to rivals",
+      "headlines": [
+        "England fumble trump card to offer hope to rivals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens ‘war’ on Chicago as thousands protest federal crackdown",
+      "headlines": [
+        "Trump threatens ‘war’ on Chicago as thousands protest federal crackdown"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }

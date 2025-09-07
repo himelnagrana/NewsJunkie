@@ -34744,5 +34744,62 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-07T06:30:12.705Z": [
+    {
+      "summary": "Russia hits a Ukrainian government building for first time",
+      "headlines": [
+        "Russia hits a Ukrainian government building for first time"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Inflatable tanks and flat-pack guns - inside Ukraine's decoy war",
+      "headlines": [
+        "Inflatable tanks and flat-pack guns - inside Ukraine's decoy war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "England fumble trump card to offer hope to rivals",
+      "headlines": [
+        "England fumble trump card to offer hope to rivals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Gaza war film The Voice of Hind Rajab wins 2nd prize at Venice festival",
+      "headlines": [
+        "Gaza war film The Voice of Hind Rajab wins 2nd prize at Venice festival"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens ‘war’ on Chicago as thousands protest federal crackdown",
+      "headlines": [
+        "Trump threatens ‘war’ on Chicago as thousands protest federal crackdown"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
