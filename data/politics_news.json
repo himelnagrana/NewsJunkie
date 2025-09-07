@@ -34801,5 +34801,84 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-09-07T18:28:15.341Z": [
+    {
+      "summary": "Zelensky condemns 'ruthless attack' after Russia hits main government building in Kyiv",
+      "headlines": [
+        "Zelensky condemns 'ruthless attack' after Russia hits main government building in Kyiv"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Open final: Sinner v Alcaraz start delayed over Trump security checks",
+      "headlines": [
+        "US Open final: Sinner v Alcaraz start delayed over Trump security checks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Japan's Prime Minister Shigeru Ishiba resigns after election defeats",
+      "headlines": [
+        "Japan's Prime Minister Shigeru Ishiba resigns after election defeats"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Home of Ukraine football star damaged in strike",
+      "headlines": [
+        "Home of Ukraine football star damaged in strike"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Millions displaced in severe Pakistan flooding as India impacted too",
+      "headlines": [
+        "Millions displaced in severe Pakistan flooding as India impacted too"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "LIVE: Carlos Alcaraz vs Jannik Sinner – Trump arrival delays US Open final",
+      "headlines": [
+        "LIVE: Carlos Alcaraz vs Jannik Sinner – Trump arrival delays US Open final"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Japan’s PM Shigeru Ishiba resigns weeks after election debacle",
+      "headlines": [
+        "Japan’s PM Shigeru Ishiba resigns weeks after election debacle"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
