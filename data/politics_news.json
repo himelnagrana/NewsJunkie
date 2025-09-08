@@ -34880,5 +34880,95 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-09-08T06:35:08.620Z": [
+    {
+      "summary": "European leaders to visit US to discuss war in Ukraine, Trump says",
+      "headlines": [
+        "European leaders to visit US to discuss war in Ukraine, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "France is set to vote out another PM. Can anything break its political deadlock?",
+      "headlines": [
+        "France is set to vote out another PM. Can anything break its political deadlock?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ryan Routh to stand trial for alleged Trump assassination attempt",
+      "headlines": [
+        "Ryan Routh to stand trial for alleged Trump assassination attempt"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says a deal on Gaza could come soon, issues ‘last warning’ to Hamas",
+      "headlines": [
+        "Trump says a deal on Gaza could come soon, issues ‘last warning’ to Hamas"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India expands censorship powers, lets lower officials demand takedowns",
+      "headlines": [
+        "India expands censorship powers, lets lower officials demand takedowns"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump floats new sanctions after Russia’s largest air assault on Ukraine",
+      "headlines": [
+        "Trump floats new sanctions after Russia’s largest air assault on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump warns firms on immigration law as detained South Koreans to go free",
+      "headlines": [
+        "Trump warns firms on immigration law as detained South Koreans to go free"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,292",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,292"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
