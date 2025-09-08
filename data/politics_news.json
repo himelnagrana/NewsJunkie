@@ -34970,5 +34970,95 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-08T18:33:02.400Z": [
+    {
+      "summary": "French government collapses as MPs vote to oust prime minister",
+      "headlines": [
+        "French government collapses as MPs vote to oust prime minister"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "What's behind France's political crisis and what could happen next?",
+      "headlines": [
+        "What's behind France's political crisis and what could happen next?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump threatens tougher sanctions after Russia's heaviest strikes on Ukraine",
+      "headlines": [
+        "Trump threatens tougher sanctions after Russia's heaviest strikes on Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "French government collapses after PM Bayrou ousted in confidence vote",
+      "headlines": [
+        "French government collapses after PM Bayrou ousted in confidence vote"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "US court upholds sexual assault defamation order against Trump",
+      "headlines": [
+        "US court upholds sexual assault defamation order against Trump"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "How China forgot promises and ‘debts’ to Ukraine, and backed Russia’s war",
+      "headlines": [
+        "How China forgot promises and ‘debts’ to Ukraine, and backed Russia’s war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump cheers West Point’s cancellation of award ceremony for Tom Hanks",
+      "headlines": [
+        "Trump cheers West Point’s cancellation of award ceremony for Tom Hanks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump asks Supreme Court to let it cut billions in foreign aid",
+      "headlines": [
+        "Trump asks Supreme Court to let it cut billions in foreign aid"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    }
   ]
 }
