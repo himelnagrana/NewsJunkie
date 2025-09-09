@@ -35060,5 +35060,95 @@
       "sentiment": 3,
       "topic": "politics"
     }
+  ],
+  "2025-09-09T06:34:33.172Z": [
+    {
+      "summary": "US lawmakers release Epstein 'birthday book' with alleged Trump note",
+      "headlines": [
+        "US lawmakers release Epstein 'birthday book' with alleged Trump note"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "He's accused of trying to assassinate Trump. At trial, he's going it alone",
+      "headlines": [
+        "He's accused of trying to assassinate Trump. At trial, he's going it alone"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "France in fresh political crisis after MPs oust prime minister",
+      "headlines": [
+        "France in fresh political crisis after MPs oust prime minister"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "It's taken three years to recover from China hack, UK election watchdog says",
+      "headlines": [
+        "It's taken three years to recover from China hack, UK election watchdog says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why monsoon rains have been so deadly in India this year",
+      "headlines": [
+        "Why monsoon rains have been so deadly in India this year"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Indonesian President Prabowo replaces five ministers after deadly protests",
+      "headlines": [
+        "Indonesian President Prabowo replaces five ministers after deadly protests"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Asia Cup: Is politically-charged India vs Pakistan match driven by profit?",
+      "headlines": [
+        "Asia Cup: Is politically-charged India vs Pakistan match driven by profit?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
+      "headlines": [
+        "Israel, India sign investment deal as Smotrich welcomed in New Delhi"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    }
   ]
 }

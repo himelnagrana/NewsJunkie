@@ -1546,5 +1546,18 @@
       "sentiment": -4,
       "topic": "sports"
     }
+  ],
+  "2025-09-09T06:34:33.886Z": [
+    {
+      "summary": "Nigeria takes on South Africa in high-stakes World Cup football qualifier",
+      "headlines": [
+        "Nigeria takes on South Africa in high-stakes World Cup football qualifier"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

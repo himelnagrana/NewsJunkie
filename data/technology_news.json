@@ -1170,5 +1170,18 @@
       "sentiment": -3,
       "topic": "technology"
     }
+  ],
+  "2025-09-09T06:34:33.559Z": [
+    {
+      "summary": "Publishers fear AI summaries are hitting online traffic",
+      "headlines": [
+        "Publishers fear AI summaries are hitting online traffic"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "technology"
+    }
   ]
 }

@@ -3259,5 +3259,29 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-09-09T06:34:34.240Z": [
+    {
+      "summary": "Ferrari chair to do community service over tax case",
+      "headlines": [
+        "Ferrari chair to do community service over tax case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    },
+    {
+      "summary": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
+      "headlines": [
+        "Israel, India sign investment deal as Smotrich welcomed in New Delhi"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }

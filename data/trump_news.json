@@ -26856,5 +26856,62 @@
       "sentiment": 3,
       "topic": "trump"
     }
+  ],
+  "2025-09-09T06:34:32.813Z": [
+    {
+      "summary": "US lawmakers release Epstein 'birthday book' with alleged Trump note",
+      "headlines": [
+        "US lawmakers release Epstein 'birthday book' with alleged Trump note"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "He's accused of trying to assassinate Trump. At trial, he's going it alone",
+      "headlines": [
+        "He's accused of trying to assassinate Trump. At trial, he's going it alone"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "France in fresh political crisis after MPs oust prime minister",
+      "headlines": [
+        "France in fresh political crisis after MPs oust prime minister"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "It's taken three years to recover from China hack, UK election watchdog says",
+      "headlines": [
+        "It's taken three years to recover from China hack, UK election watchdog says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Indonesian President Prabowo replaces five ministers after deadly protests",
+      "headlines": [
+        "Indonesian President Prabowo replaces five ministers after deadly protests"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }
