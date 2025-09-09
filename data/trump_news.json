@@ -26913,5 +26913,62 @@
       "sentiment": -5,
       "topic": "trump"
     }
+  ],
+  "2025-09-09T18:29:53.240Z": [
+    {
+      "summary": "Russian air strike kills 24 in pension queue, Ukraine says",
+      "headlines": [
+        "Russian air strike kills 24 in pension queue, Ukraine says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration threatens to pull city's funding after train killing",
+      "headlines": [
+        "Trump administration threatens to pull city's funding after train killing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "White House says Trump notified Qatar ahead of Israeli strike on Hamas",
+      "headlines": [
+        "White House says Trump notified Qatar ahead of Israeli strike on Hamas"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump EPA wants to fast track permits for AI infrastructure",
+      "headlines": [
+        "Trump EPA wants to fast track permits for AI infrastructure"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China leads clean energy revolution, but also CO2 pollution, says report",
+      "headlines": [
+        "China leads clean energy revolution, but also CO2 pollution, says report"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

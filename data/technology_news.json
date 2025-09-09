@@ -1183,5 +1183,18 @@
       "sentiment": -2,
       "topic": "technology"
     }
+  ],
+  "2025-09-09T18:29:53.675Z": [
+    {
+      "summary": "Trump EPA wants to fast track permits for AI infrastructure",
+      "headlines": [
+        "Trump EPA wants to fast track permits for AI infrastructure"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }
