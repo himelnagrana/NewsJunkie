@@ -35207,5 +35207,150 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-10T06:33:27.065Z": [
+    {
+      "summary": "Trump 'not thrilled' about Qatar strike as international pressure on Israel grows",
+      "headlines": [
+        "Trump 'not thrilled' about Qatar strike as international pressure on Israel grows"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Turkey's 'tough guy' president says he's tackling corruption. Rivals say he's silencing opposition",
+      "headlines": [
+        "Turkey's 'tough guy' president says he's tackling corruption. Rivals say he's silencing opposition"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "What do we know about alleged Trump signature on Epstein letter?",
+      "headlines": [
+        "What do we know about alleged Trump signature on Epstein letter?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump calls on EU to pressure Putin with 100% tariffs on China and India",
+      "headlines": [
+        "Trump calls on EU to pressure Putin with 100% tariffs on China and India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump temporarily blocked from firing Fed governor",
+      "headlines": [
+        "Trump temporarily blocked from firing Fed governor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says strike on Doha 'does not advance Israel or America's goals'",
+      "headlines": [
+        "Trump says strike on Doha 'does not advance Israel or America's goals'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Inside Kyiv government building hit by missile strike",
+      "headlines": [
+        "Inside Kyiv government building hit by missile strike"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "A new law lets some Ukrainian men leave the country. But will it hurt the war effort?",
+      "headlines": [
+        "A new law lets some Ukrainian men leave the country. But will it hurt the war effort?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Business chiefs urge Trump to ease up on immigration crackdown after Hyundai raid",
+      "headlines": [
+        "Business chiefs urge Trump to ease up on immigration crackdown after Hyundai raid"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Qatar denies White House claim Trump sent warning before Israel’s attack",
+      "headlines": [
+        "Qatar denies White House claim Trump sent warning before Israel’s attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "US firms in China most pessimistic since 1999, survey says",
+      "headlines": [
+        "US firms in China most pessimistic since 1999, survey says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says signature on birthday note to Jeffrey Epstein is not his",
+      "headlines": [
+        "Trump says signature on birthday note to Jeffrey Epstein is not his"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why does Qatar host Hamas’s political office?",
+      "headlines": [
+        "Why does Qatar host Hamas’s political office?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
