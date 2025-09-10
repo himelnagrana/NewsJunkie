@@ -1559,5 +1559,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-09-10T18:32:01.003Z": [
+    {
+      "summary": "'Football risks losing generation of black managers'",
+      "headlines": [
+        "'Football risks losing generation of black managers'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "sports"
+    }
   ]
 }

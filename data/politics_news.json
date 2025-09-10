@@ -35352,5 +35352,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-10T18:32:00.509Z": [
+    {
+      "summary": "'What's with Russia violating Polish airspace?' - Trump reacts to Moscow drone incursion on Nato ally",
+      "headlines": [
+        "'What's with Russia violating Polish airspace?' - Trump reacts to Moscow drone incursion on Nato ally"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israeli president defends Doha strike after 'tough' meeting with UK PM Starmer",
+      "headlines": [
+        "Israeli president defends Doha strike after 'tough' meeting with UK PM Starmer"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump is used to shaking off criticism - but the Epstein story is different",
+      "headlines": [
+        "Trump is used to shaking off criticism - but the Epstein story is different"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "This 'tough guy' president says he's tackling corruption. Rivals say he's silencing opposition",
+      "headlines": [
+        "This 'tough guy' president says he's tackling corruption. Rivals say he's silencing opposition"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump lobbies EU for 100% tariffs on China and India",
+      "headlines": [
+        "Trump lobbies EU for 100% tariffs on China and India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Poland shoots down Russian drones: Will NATO enter war in Ukraine?",
+      "headlines": [
+        "Poland shoots down Russian drones: Will NATO enter war in Ukraine?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kuldeep stars as India beat UAE by nine wickets to open Asia Cup defence",
+      "headlines": [
+        "Kuldeep stars as India beat UAE by nine wickets to open Asia Cup defence"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
