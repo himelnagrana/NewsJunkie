@@ -27172,5 +27172,117 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-09-11T06:33:42.459Z": [
+    {
+      "summary": "Manhunt for Charlie Kirk killer continues as Trump says it is 'dark moment for America'",
+      "headlines": [
+        "Manhunt for Charlie Kirk killer continues as Trump says it is 'dark moment for America'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Firms will hesitate to invest in US after raid, says S Korea president",
+      "headlines": [
+        "Firms will hesitate to invest in US after raid, says S Korea president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Killing of Trump ally lays bare America's bloody and broken politics",
+      "headlines": [
+        "Killing of Trump ally lays bare America's bloody and broken politics"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "What we know about the killing of close Trump ally",
+      "headlines": [
+        "What we know about the killing of close Trump ally"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to visit late Queen's tomb during UK state visit",
+      "headlines": [
+        "Trump to visit late Queen's tomb during UK state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Firms will hesitate to invest in US after raid - S Korea president",
+      "headlines": [
+        "Firms will hesitate to invest in US after raid - S Korea president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Charlie Kirk shooting: What we know about death of close Trump ally",
+      "headlines": [
+        "Charlie Kirk shooting: What we know about death of close Trump ally"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump ally and activist Charlie Kirk shot dead at Utah university",
+      "headlines": [
+        "Trump ally and activist Charlie Kirk shot dead at Utah university"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israel’s President Herzog said ‘argued out of respect’ with British PM",
+      "headlines": [
+        "Israel’s President Herzog said ‘argued out of respect’ with British PM"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Poland intercepts Russian drones returning from attacking Ukraine",
+      "headlines": [
+        "Poland intercepts Russian drones returning from attacking Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
