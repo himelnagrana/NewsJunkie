@@ -27284,5 +27284,84 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-09-11T18:28:10.574Z": [
+    {
+      "summary": "Ryan Routh cut off by judge as trial in attempted Trump assassination begins",
+      "headlines": [
+        "Ryan Routh cut off by judge as trial in attempted Trump assassination begins"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: 'Dark moment for America', says Trump after Kirk killing",
+      "headlines": [
+        "Watch: 'Dark moment for America', says Trump after Kirk killing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Zambia presses China for more compensation over toxic mine spill",
+      "headlines": [
+        "Zambia presses China for more compensation over toxic mine spill"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "How Charlie Kirk and Turning Point USA helped Trump and MAGA win",
+      "headlines": [
+        "How Charlie Kirk and Turning Point USA helped Trump and MAGA win"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trial begins in US for man accused of Trump assassination attempt",
+      "headlines": [
+        "Trial begins in US for man accused of Trump assassination attempt"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump response to Israel’s Qatar attack undermines US credibility: Analysts",
+      "headlines": [
+        "Trump response to Israel’s Qatar attack undermines US credibility: Analysts"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Belarus frees 52 political prisoners after US mediation",
+      "headlines": [
+        "Belarus frees 52 political prisoners after US mediation"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }
