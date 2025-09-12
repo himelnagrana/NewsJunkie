@@ -35723,5 +35723,51 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-09-12T18:28:31.648Z": [
+    {
+      "summary": "Prince Harry makes surprise Ukraine visit to support war wounded",
+      "headlines": [
+        "Prince Harry makes surprise Ukraine visit to support war wounded"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Memphis next US city to see National Guard troops, Trump says",
+      "headlines": [
+        "Memphis next US city to see National Guard troops, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Going to Memphis’: Trump to deploy troops to another Democratic-led city",
+      "headlines": [
+        "‘Going to Memphis’: Trump to deploy troops to another Democratic-led city"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia says Ukraine talks paused as it launches major drills with Belarus",
+      "headlines": [
+        "Russia says Ukraine talks paused as it launches major drills with Belarus"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
