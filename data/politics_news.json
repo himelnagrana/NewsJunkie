@@ -35655,5 +35655,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-12T06:33:29.086Z": [
+    {
+      "summary": "Worried migrants head home from India after Nepal turmoil",
+      "headlines": [
+        "Worried migrants head home from India after Nepal turmoil"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Young fans and critics debate Charlie Kirk's political legacy",
+      "headlines": [
+        "Young fans and critics debate Charlie Kirk's political legacy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ros Atkins on... Israel's war in Gaza and proportionality",
+      "headlines": [
+        "Ros Atkins on... Israel's war in Gaza and proportionality"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Prince Harry vows to help war injured during surprise visit to Ukraine",
+      "headlines": [
+        "Prince Harry vows to help war injured during surprise visit to Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump and other US leaders tighten security as search for killer continues",
+      "headlines": [
+        "Trump and other US leaders tighten security as search for killer continues"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Accused Trump assassin's remarks cut off by judge as trial begins",
+      "headlines": [
+        "Accused Trump assassin's remarks cut off by judge as trial begins"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
