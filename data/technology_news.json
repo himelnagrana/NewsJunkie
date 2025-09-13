@@ -1209,5 +1209,18 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-09-13T18:26:59.523Z": [
+    {
+      "summary": "Ai Weiwei and the lost backpack: A Chinese exile’s brush with bureaucracy",
+      "headlines": [
+        "Ai Weiwei and the lost backpack: A Chinese exile’s brush with bureaucracy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "technology"
+    }
   ]
 }

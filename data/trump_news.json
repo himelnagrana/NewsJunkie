@@ -27490,5 +27490,40 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-09-13T18:26:59.156Z": [
+    {
+      "summary": "Shooting throws Utah students into heart of US political divide",
+      "headlines": [
+        "Shooting throws Utah students into heart of US political divide"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Charlie Kirk shooting throws Utah students into heart of US political divide",
+      "headlines": [
+        "Charlie Kirk shooting throws Utah students into heart of US political divide"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urges NATO countries to halt Russia oil purchases before US sanctions",
+      "headlines": [
+        "Trump urges NATO countries to halt Russia oil purchases before US sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
