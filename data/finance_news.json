@@ -3283,5 +3283,18 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-09-13T06:29:34.165Z": [
+    {
+      "summary": "US Fed expected to cut rates amid cooling labour market, surging inflation",
+      "headlines": [
+        "US Fed expected to cut rates amid cooling labour market, surging inflation"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    }
   ]
 }

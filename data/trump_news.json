@@ -27455,5 +27455,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-13T06:29:33.573Z": [
+    {
+      "summary": "New Nato mission to bolster eastern flank after Russia drone incursion",
+      "headlines": [
+        "New Nato mission to bolster eastern flank after Russia drone incursion"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald Trump's UK state visit is next week - this is what we know",
+      "headlines": [
+        "Donald Trump's UK state visit is next week - this is what we know"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Qatar PM meeting Trump after Israel’s deadly strike on Doha",
+      "headlines": [
+        "Qatar PM meeting Trump after Israel’s deadly strike on Doha"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }
