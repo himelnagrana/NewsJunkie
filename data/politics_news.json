@@ -35850,5 +35850,84 @@
       "sentiment": -8,
       "topic": "politics"
     }
+  ],
+  "2025-09-14T06:30:21.028Z": [
+    {
+      "summary": "Trump 'ready' to sanction Russia if Nato nations stop buying its oil",
+      "headlines": [
+        "Trump 'ready' to sanction Russia if Nato nations stop buying its oil"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump loves all things royal. Will that be King's ace card on UK state visit?",
+      "headlines": [
+        "Trump loves all things royal. Will that be King's ace card on UK state visit?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rubio due in Israel to discuss war on Gaza after Israeli strike on Qatar",
+      "headlines": [
+        "Rubio due in Israel to discuss war on Gaza after Israeli strike on Qatar"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Romania reports drone incursion during Russian attack on Ukraine",
+      "headlines": [
+        "Romania reports drone incursion during Russian attack on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump urges NATO countries stop buying Russian oil before US sanctions",
+      "headlines": [
+        "Trump urges NATO countries stop buying Russian oil before US sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "How India and Pakistan prepared for a politically-charged Asia Cup clash",
+      "headlines": [
+        "How India and Pakistan prepared for a politically-charged Asia Cup clash"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,298",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,298"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

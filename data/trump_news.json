@@ -27525,5 +27525,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-14T06:30:20.836Z": [
+    {
+      "summary": "Trump 'ready' to sanction Russia if Nato nations stop buying its oil",
+      "headlines": [
+        "Trump 'ready' to sanction Russia if Nato nations stop buying its oil"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump loves all things royal. Will that be King's ace card on UK state visit?",
+      "headlines": [
+        "Trump loves all things royal. Will that be King's ace card on UK state visit?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Romania reports drone incursion during Russian attack on Ukraine",
+      "headlines": [
+        "Romania reports drone incursion during Russian attack on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urges NATO countries stop buying Russian oil before US sanctions",
+      "headlines": [
+        "Trump urges NATO countries stop buying Russian oil before US sanctions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
