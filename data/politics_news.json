@@ -35929,5 +35929,51 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-14T18:27:27.204Z": [
+    {
+      "summary": "LIVE: India vs Pakistan – Asia Cup 2025",
+      "headlines": [
+        "LIVE: India vs Pakistan – Asia Cup 2025"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile",
+      "headlines": [
+        "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rubio lands in Israel to discuss war on Gaza after Israeli strike on Qatar",
+      "headlines": [
+        "Rubio lands in Israel to discuss war on Gaza after Israeli strike on Qatar"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "How India and Pakistan prepared for a politically charged Asia Cup clash",
+      "headlines": [
+        "How India and Pakistan prepared for a politically charged Asia Cup clash"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }

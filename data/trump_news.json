@@ -27571,5 +27571,18 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-09-14T18:27:26.975Z": [
+    {
+      "summary": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile",
+      "headlines": [
+        "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

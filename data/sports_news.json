@@ -1609,5 +1609,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-09-14T18:27:27.619Z": [
+    {
+      "summary": "Noren beats Saddier in play-off to win PGA Championship",
+      "headlines": [
+        "Noren beats Saddier in play-off to win PGA Championship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "sports"
+    }
   ]
 }
