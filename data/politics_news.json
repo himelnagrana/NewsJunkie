@@ -35975,5 +35975,84 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-09-15T06:36:16.900Z": [
+    {
+      "summary": "'My wife died giving birth after Trump cut funding to our clinic'",
+      "headlines": [
+        "'My wife died giving birth after Trump cut funding to our clinic'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "US farmers are being squeezed - and it's testing their deep loyalty to Trump",
+      "headlines": [
+        "US farmers are being squeezed - and it's testing their deep loyalty to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "A trade war, austerity and big promises: The challenges facing Canada's PM",
+      "headlines": [
+        "A trade war, austerity and big promises: The challenges facing Canada's PM"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India players refused handshakes - Pakistan coach",
+      "headlines": [
+        "India players refused handshakes - Pakistan coach"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Lula hails Bolsonaro verdict, tells Trump Brazil’s democracy not negotiable",
+      "headlines": [
+        "Lula hails Bolsonaro verdict, tells Trump Brazil’s democracy not negotiable"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "India, Pakistan embroiled in ‘no handshake’ drama after Asia Cup match",
+      "headlines": [
+        "India, Pakistan embroiled in ‘no handshake’ drama after Asia Cup match"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "The Pitt wins best TV drama Emmy, as war on Gaza echoes at ceremony",
+      "headlines": [
+        "The Pitt wins best TV drama Emmy, as war on Gaza echoes at ceremony"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 5,
+      "topic": "politics"
+    }
   ]
 }

@@ -27584,5 +27584,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-15T06:36:16.692Z": [
+    {
+      "summary": "'My wife died giving birth after Trump cut funding to our clinic'",
+      "headlines": [
+        "'My wife died giving birth after Trump cut funding to our clinic'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "US farmers are being squeezed - and it's testing their deep loyalty to Trump",
+      "headlines": [
+        "US farmers are being squeezed - and it's testing their deep loyalty to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Lula hails Bolsonaro verdict, tells Trump Brazil’s democracy not negotiable",
+      "headlines": [
+        "Lula hails Bolsonaro verdict, tells Trump Brazil’s democracy not negotiable"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
