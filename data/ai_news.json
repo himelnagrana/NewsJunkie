@@ -243,5 +243,18 @@
       "sentiment": -2,
       "topic": "ai"
     }
+  ],
+  "2025-09-15T18:32:40.434Z": [
+    {
+      "summary": "China accuses Nvidia of violating anti-monopoly laws",
+      "headlines": [
+        "China accuses Nvidia of violating anti-monopoly laws"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "ai"
+    }
   ]
 }

@@ -27619,5 +27619,84 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-09-15T18:32:40.636Z": [
+    {
+      "summary": "US says 'framework' for TikTok ownership deal agreed with China",
+      "headlines": [
+        "US says 'framework' for TikTok ownership deal agreed with China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Brazil's Lula hits back at Trump over Bolsonaro trial and tariffs",
+      "headlines": [
+        "Brazil's Lula hits back at Trump over Bolsonaro trial and tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump vows tough action after beheading of Indian motel manager",
+      "headlines": [
+        "Trump vows tough action after beheading of Indian motel manager"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China accuses Nvidia of violating anti-monopoly laws",
+      "headlines": [
+        "China accuses Nvidia of violating anti-monopoly laws"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Men jailed for witchcraft murder plot against Zambia's president",
+      "headlines": [
+        "Men jailed for witchcraft murder plot against Zambia's president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Can the EU and NATO impose tariffs on India and China, as Trump wants?",
+      "headlines": [
+        "Can the EU and NATO impose tariffs on India and China, as Trump wants?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Belarus, Russia conduct joint military drills amid NATO tensions",
+      "headlines": [
+        "Belarus, Russia conduct joint military drills amid NATO tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

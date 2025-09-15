@@ -36054,5 +36054,106 @@
       "sentiment": 5,
       "topic": "politics"
     }
+  ],
+  "2025-09-15T18:32:40.867Z": [
+    {
+      "summary": "US says 'framework' for TikTok ownership deal agreed with China",
+      "headlines": [
+        "US says 'framework' for TikTok ownership deal agreed with China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Brazil's Lula hits back at Trump over Bolsonaro trial and tariffs",
+      "headlines": [
+        "Brazil's Lula hits back at Trump over Bolsonaro trial and tariffs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump vows tough action after beheading of Indian motel manager",
+      "headlines": [
+        "Trump vows tough action after beheading of Indian motel manager"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China accuses Nvidia of violating anti-monopoly laws",
+      "headlines": [
+        "China accuses Nvidia of violating anti-monopoly laws"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Men jailed for witchcraft murder plot against Zambia's president",
+      "headlines": [
+        "Men jailed for witchcraft murder plot against Zambia's president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "At Doha summit, Qatar’s emir says Israel not interested in ending Gaza war",
+      "headlines": [
+        "At Doha summit, Qatar’s emir says Israel not interested in ending Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Can the EU and NATO impose tariffs on India and China, as Trump wants?",
+      "headlines": [
+        "Can the EU and NATO impose tariffs on India and China, as Trump wants?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Belarus, Russia conduct joint military drills amid NATO tensions",
+      "headlines": [
+        "Belarus, Russia conduct joint military drills amid NATO tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Netanyahu and Rubio stick to established Israeli-US narrative on Gaza war",
+      "headlines": [
+        "Netanyahu and Rubio stick to established Israeli-US narrative on Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
