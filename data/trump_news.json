@@ -27698,5 +27698,106 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-16T06:34:00.224Z": [
+    {
+      "summary": "Beaten and held in Russia for three years - but never charged with a crime",
+      "headlines": [
+        "Beaten and held in Russia for three years - but never charged with a crime"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -8,
+      "topic": "trump"
+    },
+    {
+      "summary": "Google owner reveals £5bn AI investment in UK ahead of Trump visit",
+      "headlines": [
+        "Google owner reveals £5bn AI investment in UK ahead of Trump visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "DC-style crackdown on crime coming to Memphis, Tennessee, Trump says",
+      "headlines": [
+        "DC-style crackdown on crime coming to Memphis, Tennessee, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he will sue New York Times for $15bn",
+      "headlines": [
+        "Trump says he will sue New York Times for $15bn"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Senate clears Trump pick Miran to  Fed board ahead of key interest rate vote",
+      "headlines": [
+        "Senate clears Trump pick Miran to  Fed board ahead of key interest rate vote"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Malawi set to vote for next president as cost-of-living bites",
+      "headlines": [
+        "Malawi set to vote for next president as cost-of-living bites"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump renews push to end companies' quarterly reports",
+      "headlines": [
+        "Trump renews push to end companies' quarterly reports"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump orders National Guard troops to Memphis in latest military deployment",
+      "headlines": [
+        "Trump orders National Guard troops to Memphis in latest military deployment"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US struck second Venezuelan drug vessel, killing three",
+      "headlines": [
+        "Trump says US struck second Venezuelan drug vessel, killing three"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    }
   ]
 }
