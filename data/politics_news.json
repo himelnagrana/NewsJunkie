@@ -36267,5 +36267,95 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-09-16T18:32:23.103Z": [
+    {
+      "summary": "US designates Colombia as country 'failing to cooperate in drug war'",
+      "headlines": [
+        "US designates Colombia as country 'failing to cooperate in drug war'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "President Trump due to arrive in UK for second state visit",
+      "headlines": [
+        "President Trump due to arrive in UK for second state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Federal court blocks Trump from sacking Lisa Cook",
+      "headlines": [
+        "Federal court blocks Trump from sacking Lisa Cook"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Deal is done to keep TikTok in the US, says Trump",
+      "headlines": [
+        "Deal is done to keep TikTok in the US, says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump, Air Force One and the Beast are coming. Here's what the president is bringing",
+      "headlines": [
+        "Trump, Air Force One and the Beast are coming. Here's what the president is bringing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Completely different, yet genuinely get on' - BBC correspondents on Starmer and Trump",
+      "headlines": [
+        "'Completely different, yet genuinely get on' - BBC correspondents on Starmer and Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "TikTokers arrested for insulting Somalia's president in a dance video",
+      "headlines": [
+        "TikTokers arrested for insulting Somalia's president in a dance video"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "UN inquiry says Israel’s war on Gaza is genocide, holds gov’t responsible",
+      "headlines": [
+        "UN inquiry says Israel’s war on Gaza is genocide, holds gov’t responsible"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

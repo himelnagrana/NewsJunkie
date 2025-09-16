@@ -27799,5 +27799,73 @@
       "sentiment": -4,
       "topic": "trump"
     }
+  ],
+  "2025-09-16T18:32:22.870Z": [
+    {
+      "summary": "President Trump due to arrive in UK for second state visit",
+      "headlines": [
+        "President Trump due to arrive in UK for second state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Federal court blocks Trump from sacking Lisa Cook",
+      "headlines": [
+        "Federal court blocks Trump from sacking Lisa Cook"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Deal is done to keep TikTok in the US, says Trump",
+      "headlines": [
+        "Deal is done to keep TikTok in the US, says Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump, Air Force One and the Beast are coming. Here's what the president is bringing",
+      "headlines": [
+        "Trump, Air Force One and the Beast are coming. Here's what the president is bringing"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Completely different, yet genuinely get on' - BBC correspondents on Starmer and Trump",
+      "headlines": [
+        "'Completely different, yet genuinely get on' - BBC correspondents on Starmer and Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "TikTokers arrested for insulting Somalia's president in a dance video",
+      "headlines": [
+        "TikTokers arrested for insulting Somalia's president in a dance video"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }
