@@ -36447,5 +36447,150 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-09-17T18:32:36.226Z": [
+    {
+      "summary": "Royals host Trump for first day of state visit at Windsor Castle, as protest held in London",
+      "headlines": [
+        "Royals host Trump for first day of state visit at Windsor Castle, as protest held in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Obama says US faces 'political crisis' after killing of Charlie Kirk",
+      "headlines": [
+        "Obama says US faces 'political crisis' after killing of Charlie Kirk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "In pictures: Trump and Melania meet royals at Windsor",
+      "headlines": [
+        "In pictures: Trump and Melania meet royals at Windsor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "America's unofficial party house where Trump spent the night",
+      "headlines": [
+        "America's unofficial party house where Trump spent the night"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Four arrests after Trump and Epstein images projected on Windsor Castle",
+      "headlines": [
+        "Four arrests after Trump and Epstein images projected on Windsor Castle"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Awkward air kiss as Trump enters Capitol to applause",
+      "headlines": [
+        "Awkward air kiss as Trump enters Capitol to applause"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Wales' FM rejects Trump state banquet invite",
+      "headlines": [
+        "Wales' FM rejects Trump state banquet invite"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel kills more than 65,000 Palestinians in nearly two-year war on Gaza",
+      "headlines": [
+        "Israel kills more than 65,000 Palestinians in nearly two-year war on Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "British protesters say ‘No to racism, no to Trump’",
+      "headlines": [
+        "British protesters say ‘No to racism, no to Trump’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘War on free speech’: Outcry after Maldives passes controversial media bill",
+      "headlines": [
+        "‘War on free speech’: Outcry after Maldives passes controversial media bill"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU proposes suspension of trade concessions with Israel over Gaza war",
+      "headlines": [
+        "EU proposes suspension of trade concessions with Israel over Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Online forum CEOs called to testify at Congress after Charlie Kirk murder",
+      "headlines": [
+        "Online forum CEOs called to testify at Congress after Charlie Kirk murder"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan vs UAE delayed over match referee’s role in India handshake row",
+      "headlines": [
+        "Pakistan vs UAE delayed over match referee’s role in India handshake row"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }

@@ -27946,5 +27946,95 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-09-17T18:32:35.804Z": [
+    {
+      "summary": "Royals host Trump for first day of state visit at Windsor Castle, as protest held in London",
+      "headlines": [
+        "Royals host Trump for first day of state visit at Windsor Castle, as protest held in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Obama says US faces 'political crisis' after killing of Charlie Kirk",
+      "headlines": [
+        "Obama says US faces 'political crisis' after killing of Charlie Kirk"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "In pictures: Trump and Melania meet royals at Windsor",
+      "headlines": [
+        "In pictures: Trump and Melania meet royals at Windsor"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "America's unofficial party house where Trump spent the night",
+      "headlines": [
+        "America's unofficial party house where Trump spent the night"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Four arrests after Trump and Epstein images projected on Windsor Castle",
+      "headlines": [
+        "Four arrests after Trump and Epstein images projected on Windsor Castle"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Awkward air kiss as Trump enters Capitol to applause",
+      "headlines": [
+        "Awkward air kiss as Trump enters Capitol to applause"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Wales' FM rejects Trump state banquet invite",
+      "headlines": [
+        "Wales' FM rejects Trump state banquet invite"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "British protesters say ‘No to racism, no to Trump’",
+      "headlines": [
+        "British protesters say ‘No to racism, no to Trump’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "trump"
+    }
   ]
 }
