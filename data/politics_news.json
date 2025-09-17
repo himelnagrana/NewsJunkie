@@ -36357,5 +36357,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-17T06:33:56.392Z": [
+    {
+      "summary": "Trump to meet King in Windsor Castle on first full day of state visit",
+      "headlines": [
+        "Trump to meet King in Windsor Castle on first full day of state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Politicians get rich while we suffer - so I helped bring down our government in 48 hours",
+      "headlines": [
+        "Politicians get rich while we suffer - so I helped bring down our government in 48 hours"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump clashes with Australian journalist over business deals in office",
+      "headlines": [
+        "Trump clashes with Australian journalist over business deals in office"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "America's unofficial party house where presidents like Trump stay in London",
+      "headlines": [
+        "America's unofficial party house where presidents like Trump stay in London"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump, Air Force One and the Beast are in the UK. Here's what the president travels with",
+      "headlines": [
+        "Trump, Air Force One and the Beast are in the UK. Here's what the president travels with"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada's Chrystia Freeland quits cabinet to become Ukraine envoy",
+      "headlines": [
+        "Canada's Chrystia Freeland quits cabinet to become Ukraine envoy"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India joins Russia-Belarus drills amid nuclear weapons launch rehearsal",
+      "headlines": [
+        "India joins Russia-Belarus drills amid nuclear weapons launch rehearsal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump announces deal with China to allow TikTok to continue operating in US",
+      "headlines": [
+        "Trump announces deal with China to allow TikTok to continue operating in US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }
