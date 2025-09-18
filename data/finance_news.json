@@ -3333,5 +3333,18 @@
       "sentiment": 1,
       "topic": "finance"
     }
+  ],
+  "2025-09-18T18:33:03.212Z": [
+    {
+      "summary": "Nvidia to become one of Intel’s biggest shareholders with new investment",
+      "headlines": [
+        "Nvidia to become one of Intel’s biggest shareholders with new investment"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

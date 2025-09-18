@@ -256,5 +256,29 @@
       "sentiment": -4,
       "topic": "ai"
     }
+  ],
+  "2025-09-18T18:33:02.371Z": [
+    {
+      "summary": "Chipmaker Nvidia to invest $5bn in rival Intel",
+      "headlines": [
+        "Chipmaker Nvidia to invest $5bn in rival Intel"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "ai"
+    },
+    {
+      "summary": "Nvidia to become one of Intel’s biggest shareholders with new investment",
+      "headlines": [
+        "Nvidia to become one of Intel’s biggest shareholders with new investment"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "ai"
+    }
   ]
 }

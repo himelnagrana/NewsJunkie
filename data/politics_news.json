@@ -36671,5 +36671,51 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-18T18:33:02.735Z": [
+    {
+      "summary": "Donald Trump and First Lady Melania depart UK as state visit ends",
+      "headlines": [
+        "Donald Trump and First Lady Melania depart UK as state visit ends"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What is Antifa and why is President Trump targeting it?",
+      "headlines": [
+        "What is Antifa and why is President Trump targeting it?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Three arrested in UK on suspicion of spying for Russia",
+      "headlines": [
+        "Three arrested in UK on suspicion of spying for Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Ukraine strikes choke off Russian oil exports and fuel supplies",
+      "headlines": [
+        "Ukraine strikes choke off Russian oil exports and fuel supplies"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }
