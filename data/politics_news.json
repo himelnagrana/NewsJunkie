@@ -36592,5 +36592,84 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-09-18T06:33:45.218Z": [
+    {
+      "summary": "Trump to meet Starmer after hailing second state visit as 'highest honour' at banquet",
+      "headlines": [
+        "Trump to meet Starmer after hailing second state visit as 'highest honour' at banquet"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Pomp and protests on day one of Trump state visit",
+      "headlines": [
+        "Watch: Pomp and protests on day one of Trump state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "I have no relationship with Trump, Brazil's President Lula tells BBC",
+      "headlines": [
+        "I have no relationship with Trump, Brazil's President Lula tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air India crash victims' families sue aerospace firms Boeing and Honeywell",
+      "headlines": [
+        "Air India crash victims' families sue aerospace firms Boeing and Honeywell"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Mexico and Canada are meeting without Trump - here's why",
+      "headlines": [
+        "Watch: Mexico and Canada are meeting without Trump - here's why"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to designate anti-fascist Antifa movement a ‘major terrorist’ group",
+      "headlines": [
+        "Trump to designate anti-fascist Antifa movement a ‘major terrorist’ group"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Denmark to buy ‘long-range’ weapons amid Russia ‘paradigm shift’",
+      "headlines": [
+        "Denmark to buy ‘long-range’ weapons amid Russia ‘paradigm shift’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

@@ -28036,5 +28036,73 @@
       "sentiment": -6,
       "topic": "trump"
     }
+  ],
+  "2025-09-18T06:33:44.867Z": [
+    {
+      "summary": "Trump to meet Starmer after hailing second state visit as 'highest honour' at banquet",
+      "headlines": [
+        "Trump to meet Starmer after hailing second state visit as 'highest honour' at banquet"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Pomp and protests on day one of Trump state visit",
+      "headlines": [
+        "Watch: Pomp and protests on day one of Trump state visit"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "I have no relationship with Trump, Brazil's President Lula tells BBC",
+      "headlines": [
+        "I have no relationship with Trump, Brazil's President Lula tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Mexico and Canada are meeting without Trump - here's why",
+      "headlines": [
+        "Watch: Mexico and Canada are meeting without Trump - here's why"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to designate anti-fascist Antifa movement a ‘major terrorist’ group",
+      "headlines": [
+        "Trump to designate anti-fascist Antifa movement a ‘major terrorist’ group"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Denmark to buy ‘long-range’ weapons amid Russia ‘paradigm shift’",
+      "headlines": [
+        "Denmark to buy ‘long-range’ weapons amid Russia ‘paradigm shift’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -3309,5 +3309,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-09-18T06:33:46.143Z": [
+    {
+      "summary": "Fed Reserve cuts interest rates but cautions over stalling job market",
+      "headlines": [
+        "Fed Reserve cuts interest rates but cautions over stalling job market"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    },
+    {
+      "summary": "Could the US interest rate cut boost the housing market?",
+      "headlines": [
+        "Could the US interest rate cut boost the housing market?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "finance"
+    }
   ]
 }
