@@ -1261,5 +1261,29 @@
       "sentiment": 0,
       "topic": "technology"
     }
+  ],
+  "2025-09-19T06:33:47.020Z": [
+    {
+      "summary": "Sutton's predictions v The Coral, Starsailor, Picture Parlour & AI",
+      "headlines": [
+        "Sutton's predictions v The Coral, Starsailor, Picture Parlour & AI"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    },
+    {
+      "summary": "Kim Jong Un declares AI military drone development a ‘top priority’",
+      "headlines": [
+        "Kim Jong Un declares AI military drone development a ‘top priority’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

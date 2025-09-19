@@ -3346,5 +3346,29 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-09-19T06:33:47.445Z": [
+    {
+      "summary": "Premier League ticket black market exposed",
+      "headlines": [
+        "Premier League ticket black market exposed"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "finance"
+    },
+    {
+      "summary": "Canada, Mexico to work together in face of Trump’s US tariff threats",
+      "headlines": [
+        "Canada, Mexico to work together in face of Trump’s US tariff threats"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "finance"
+    }
   ]
 }

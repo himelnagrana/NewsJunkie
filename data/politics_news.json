@@ -36717,5 +36717,106 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-09-19T06:33:46.726Z": [
+    {
+      "summary": "Trump says TV networks opposed to him should 'maybe' lose licence",
+      "headlines": [
+        "Trump says TV networks opposed to him should 'maybe' lose licence"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump diverted and forced to swap helicopters on way to Stansted",
+      "headlines": [
+        "Trump diverted and forced to swap helicopters on way to Stansted"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Canada and Mexico agree to deepen ties amid Trump trade war",
+      "headlines": [
+        "Canada and Mexico agree to deepen ties amid Trump trade war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "China is calling a TikTok deal a win. What's in it for them?",
+      "headlines": [
+        "China is calling a TikTok deal a win. What's in it for them?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sarah Smith: Trump visit showed UK's warm relations - and limited influence",
+      "headlines": [
+        "Sarah Smith: Trump visit showed UK's warm relations - and limited influence"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "MI6 launches dark web portal to attract spies in Russia",
+      "headlines": [
+        "MI6 launches dark web portal to attract spies in Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump says he didn't want London Mayor Sadiq Khan at state banquet",
+      "headlines": [
+        "Trump says he didn't want London Mayor Sadiq Khan at state banquet"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "US Senate approves 48 Trump nominees in a single vote",
+      "headlines": [
+        "US Senate approves 48 Trump nominees in a single vote"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump celebrates Kimmel show suspension as Democrats push free speech bill",
+      "headlines": [
+        "Trump celebrates Kimmel show suspension as Democrats push free speech bill"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    }
   ]
 }
