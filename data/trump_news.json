@@ -28251,5 +28251,62 @@
       "sentiment": 4,
       "topic": "trump"
     }
+  ],
+  "2025-09-19T18:31:21.726Z": [
+    {
+      "summary": "US TV hosts back Kimmel as Trump threatens networks",
+      "headlines": [
+        "US TV hosts back Kimmel as Trump threatens networks"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Xi approves of TikTok deal as leaders plan South Korea meeting",
+      "headlines": [
+        "Trump says Xi approves of TikTok deal as leaders plan South Korea meeting"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Judge strikes down 'superfluous' Trump lawsuit against the New York Times",
+      "headlines": [
+        "Judge strikes down 'superfluous' Trump lawsuit against the New York Times"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Xi call ‘productive’, leaders to meet in November",
+      "headlines": [
+        "Trump says Xi call ‘productive’, leaders to meet in November"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
+      "headlines": [
+        "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
