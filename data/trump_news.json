@@ -28308,5 +28308,84 @@
       "sentiment": -3,
       "topic": "trump"
     }
+  ],
+  "2025-09-20T06:30:52.168Z": [
+    {
+      "summary": "Trump adds $100,000 fee for skilled worker visa applicants",
+      "headlines": [
+        "Trump adds $100,000 fee for skilled worker visa applicants"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump and Xi discuss future of TikTok in US",
+      "headlines": [
+        "Trump and Xi discuss future of TikTok in US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US forces strike third alleged drug vessel killing three, Trump says",
+      "headlines": [
+        "US forces strike third alleged drug vessel killing three, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump planning to invite King Charles to US",
+      "headlines": [
+        "Trump planning to invite King Charles to US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "US prosecutor resigns after Trump says 'I want him out'",
+      "headlines": [
+        "US prosecutor resigns after Trump says 'I want him out'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump imposes $100,000 fee per year for H-1B visas",
+      "headlines": [
+        "Trump imposes $100,000 fee per year for H-1B visas"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says US hit another ‘drug vessel’, Venezuela slams ‘undeclared war’",
+      "headlines": [
+        "Trump says US hit another ‘drug vessel’, Venezuela slams ‘undeclared war’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
