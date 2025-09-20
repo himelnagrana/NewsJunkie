@@ -36976,5 +36976,73 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-20T18:28:01.789Z": [
+    {
+      "summary": "Ukraine says three killed in 'massive' Russian aerial attack",
+      "headlines": [
+        "Ukraine says three killed in 'massive' Russian aerial attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Malawi police arrest eight for alleged election fraud",
+      "headlines": [
+        "Malawi police arrest eight for alleged election fraud"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "India says Trump’s H1-B visa fee hike could ‘disrupt families’",
+      "headlines": [
+        "India says Trump’s H1-B visa fee hike could ‘disrupt families’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump seeks enforcement of transgender and non-binary passport policy",
+      "headlines": [
+        "Trump seeks enforcement of transgender and non-binary passport policy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India, Pakistan meet again in T20 Asia Cup – all to know",
+      "headlines": [
+        "India, Pakistan meet again in T20 Asia Cup – all to know"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "India, Pakistan keen to avoid controversy ahead of crucial Asia Cup match",
+      "headlines": [
+        "India, Pakistan keen to avoid controversy ahead of crucial Asia Cup match"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
