@@ -37044,5 +37044,62 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-21T06:32:14.317Z": [
+    {
+      "summary": "India warns new US fee for H-1B visa will have 'humanitarian consequences'",
+      "headlines": [
+        "India warns new US fee for H-1B visa will have 'humanitarian consequences'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump warns Afghanistan of ‘bad things’ if it does not return Bagram base",
+      "headlines": [
+        "Trump warns Afghanistan of ‘bad things’ if it does not return Bagram base"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,305",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,305"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump warns of ‘incalculable price’ if Venezuela won’t accept ‘prisoners’",
+      "headlines": [
+        "Trump warns of ‘incalculable price’ if Venezuela won’t accept ‘prisoners’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Zelenskyy plans to meet Trump on sidelines of UN as Russia steps up attacks",
+      "headlines": [
+        "Zelenskyy plans to meet Trump on sidelines of UN as Russia steps up attacks"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    }
   ]
 }
