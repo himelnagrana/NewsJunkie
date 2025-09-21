@@ -37101,5 +37101,95 @@
       "sentiment": -1,
       "topic": "politics"
     }
+  ],
+  "2025-09-21T18:29:17.433Z": [
+    {
+      "summary": "Trump pushes justice department to prosecute his political opponents",
+      "headlines": [
+        "Trump pushes justice department to prosecute his political opponents"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "I spent $8,000 to get back to US after fears over Trump visa deadline",
+      "headlines": [
+        "I spent $8,000 to get back to US after fears over Trump visa deadline"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Russian-funded fake news network aims to disrupt election in Europe - BBC investigation",
+      "headlines": [
+        "How Russian-funded fake news network aims to disrupt election in Europe - BBC investigation"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "India v Pakistan - Asia Cup Super Fours scorecard",
+      "headlines": [
+        "India v Pakistan - Asia Cup Super Fours scorecard"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "politics"
+    },
+    {
+      "summary": "LIVE: India vs Pakistan in Asia Cup 2025 – India chase 172",
+      "headlines": [
+        "LIVE: India vs Pakistan in Asia Cup 2025 – India chase 172"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Germany scrambles jets after Russia military aircraft flies over Baltic Sea",
+      "headlines": [
+        "Germany scrambles jets after Russia military aircraft flies over Baltic Sea"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Afghan Taliban rejects Trump threats over taking back Bagram airbase",
+      "headlines": [
+        "Afghan Taliban rejects Trump threats over taking back Bagram airbase"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to join thousands at memorial for right-wing US activist Charlie Kirk",
+      "headlines": [
+        "Trump to join thousands at memorial for right-wing US activist Charlie Kirk"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }

@@ -28446,5 +28446,62 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-09-21T18:29:17.224Z": [
+    {
+      "summary": "Trump pushes justice department to prosecute his political opponents",
+      "headlines": [
+        "Trump pushes justice department to prosecute his political opponents"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "I spent $8,000 to get back to US after fears over Trump visa deadline",
+      "headlines": [
+        "I spent $8,000 to get back to US after fears over Trump visa deadline"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Germany scrambles jets after Russia military aircraft flies over Baltic Sea",
+      "headlines": [
+        "Germany scrambles jets after Russia military aircraft flies over Baltic Sea"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Afghan Taliban rejects Trump threats over taking back Bagram airbase",
+      "headlines": [
+        "Afghan Taliban rejects Trump threats over taking back Bagram airbase"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to join thousands at memorial for right-wing US activist Charlie Kirk",
+      "headlines": [
+        "Trump to join thousands at memorial for right-wing US activist Charlie Kirk"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }
