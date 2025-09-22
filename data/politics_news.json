@@ -37191,5 +37191,106 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-09-22T06:35:58.080Z": [
+    {
+      "summary": "Trump hails Charlie Kirk as 'American hero' as thousands fill memorial service",
+      "headlines": [
+        "Trump hails Charlie Kirk as 'American hero' as thousands fill memorial service"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump's $100,000 H-1B visa shock: Why US may lose more than India",
+      "headlines": [
+        "Trump's $100,000 H-1B visa shock: Why US may lose more than India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "South Korea would accept a Trump-Kim deal to freeze nuclear programme, president tells BBC",
+      "headlines": [
+        "South Korea would accept a Trump-Kim deal to freeze nuclear programme, president tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Murdochs likely to be involved in US TikTok deal, Trump says",
+      "headlines": [
+        "Murdochs likely to be involved in US TikTok deal, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Global conflicts drive demand for war risk insurance",
+      "headlines": [
+        "Global conflicts drive demand for war risk insurance"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -7,
+      "topic": "politics"
+    },
+    {
+      "summary": "Modi's tax cuts will give India a festive  spending boost",
+      "headlines": [
+        "Modi's tax cuts will give India a festive  spending boost"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump joins thousands at memorial for right-wing US activist Charlie Kirk",
+      "headlines": [
+        "Trump joins thousands at memorial for right-wing US activist Charlie Kirk"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Asia Cup: No handshakes but plenty of heat as India beat Pakistan again",
+      "headlines": [
+        "Asia Cup: No handshakes but plenty of heat as India beat Pakistan again"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Syria sets October date for first election since al-Assad’s fall",
+      "headlines": [
+        "Syria sets October date for first election since al-Assad’s fall"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

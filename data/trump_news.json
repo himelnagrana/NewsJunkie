@@ -28503,5 +28503,51 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-09-22T06:35:57.740Z": [
+    {
+      "summary": "Trump hails Charlie Kirk as 'American hero' as thousands fill memorial service",
+      "headlines": [
+        "Trump hails Charlie Kirk as 'American hero' as thousands fill memorial service"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "South Korea would accept a Trump-Kim deal to freeze nuclear programme, president tells BBC",
+      "headlines": [
+        "South Korea would accept a Trump-Kim deal to freeze nuclear programme, president tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Murdochs likely to be involved in US TikTok deal, Trump says",
+      "headlines": [
+        "Murdochs likely to be involved in US TikTok deal, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump joins thousands at memorial for right-wing US activist Charlie Kirk",
+      "headlines": [
+        "Trump joins thousands at memorial for right-wing US activist Charlie Kirk"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
