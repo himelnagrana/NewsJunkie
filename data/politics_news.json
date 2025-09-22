@@ -37292,5 +37292,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-22T18:30:55.648Z": [
+    {
+      "summary": "Kirk memorial's religious and political mix hints at future of Maga movement",
+      "headlines": [
+        "Kirk memorial's religious and political mix hints at future of Maga movement"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump will reportedly link pain reliever Tylenol to autism - but many experts are sceptical",
+      "headlines": [
+        "Trump will reportedly link pain reliever Tylenol to autism - but many experts are sceptical"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "TikTok algorithm to be retrained on US user data under Trump deal",
+      "headlines": [
+        "TikTok algorithm to be retrained on US user data under Trump deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Air India crash aftermath handled 'irresponsibly', says court",
+      "headlines": [
+        "Air India crash aftermath handled 'irresponsibly', says court"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "New Olympic calendar likely because of climate change, World Athletics president says",
+      "headlines": [
+        "New Olympic calendar likely because of climate change, World Athletics president says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia accuses Estonia of airspace incursion falsity to stoke tensions",
+      "headlines": [
+        "Russia accuses Estonia of airspace incursion falsity to stoke tensions"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }
