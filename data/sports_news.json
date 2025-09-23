@@ -1674,5 +1674,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-09-23T18:33:22.117Z": [
+    {
+      "summary": "'Bird became cricket legend without scoring a run for England'",
+      "headlines": [
+        "'Bird became cricket legend without scoring a run for England'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

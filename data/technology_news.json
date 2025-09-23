@@ -1324,5 +1324,18 @@
       "sentiment": 1,
       "topic": "technology"
     }
+  ],
+  "2025-09-23T18:33:21.940Z": [
+    {
+      "summary": "Trillions to be spent on AI data centres. Why do they cost so much?",
+      "headlines": [
+        "Trillions to be spent on AI data centres. Why do they cost so much?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "technology"
+    }
   ]
 }

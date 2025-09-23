@@ -28729,5 +28729,128 @@
       "sentiment": -5,
       "topic": "trump"
     }
+  ],
+  "2025-09-23T18:33:21.327Z": [
+    {
+      "summary": "Trump says he supports Nato members shooting down Russian aircraft breaching airspace",
+      "headlines": [
+        "Trump says he supports Nato members shooting down Russian aircraft breaching airspace"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "From escalators to teleprompters, Trump piles on criticism at the UN",
+      "headlines": [
+        "From escalators to teleprompters, Trump piles on criticism at the UN"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Fact-checking claims Trump made about autism",
+      "headlines": [
+        "Fact-checking claims Trump made about autism"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Typhoon bursts Taiwan lake as  strongest storm barrels towards China",
+      "headlines": [
+        "Typhoon bursts Taiwan lake as  strongest storm barrels towards China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump criticises countries' migration and climate policies in scathing UN speech",
+      "headlines": [
+        "Trump criticises countries' migration and climate policies in scathing UN speech"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "World leaders address UNGA as wars on Gaza, Ukraine top agenda",
+      "headlines": [
+        "World leaders address UNGA as wars on Gaza, Ukraine top agenda"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump calls for Gaza war to stop ‘immediately’ in UNGA speech",
+      "headlines": [
+        "Trump calls for Gaza war to stop ‘immediately’ in UNGA speech"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Syrian President al-Sharaa sits down with US general who arrested him",
+      "headlines": [
+        "Syrian President al-Sharaa sits down with US general who arrested him"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
+      "headlines": [
+        "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "In Ukraine’s Sloviansk, some are abandoning long-held sympathies for Russia",
+      "headlines": [
+        "In Ukraine’s Sloviansk, some are abandoning long-held sympathies for Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump proposes new H-1B visa process prioritising highly skilled workers",
+      "headlines": [
+        "Trump proposes new H-1B visa process prioritising highly skilled workers"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
