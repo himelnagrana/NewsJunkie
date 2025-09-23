@@ -3396,5 +3396,18 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-09-23T06:34:23.777Z": [
+    {
+      "summary": "US pledges to do ‘what is needed’ to support Argentina’s economy",
+      "headlines": [
+        "US pledges to do ‘what is needed’ to support Argentina’s economy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "finance"
+    }
   ]
 }

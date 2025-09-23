@@ -28606,5 +28606,128 @@
       "sentiment": -2,
       "topic": "trump"
     }
+  ],
+  "2025-09-23T06:34:23.062Z": [
+    {
+      "summary": "Israeli tanks advance further into Gaza City as Trump to address UN General Assembly",
+      "headlines": [
+        "Israeli tanks advance further into Gaza City as Trump to address UN General Assembly"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urges pregnant women to avoid Tylenol over unproven autism link",
+      "headlines": [
+        "Trump urges pregnant women to avoid Tylenol over unproven autism link"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump designates Antifa a 'domestic terrorist organisation'",
+      "headlines": [
+        "Trump designates Antifa a 'domestic terrorist organisation'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Why does China prefer war?' The K-drama line that infuriated the Chinese internet",
+      "headlines": [
+        "'Why does China prefer war?' The K-drama line that infuriated the Chinese internet"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump to address UN General Assembly after France recognises Palestinian state",
+      "headlines": [
+        "Trump to address UN General Assembly after France recognises Palestinian state"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Donald and Bradley's love-in sets tone for Ryder Cup",
+      "headlines": [
+        "Donald and Bradley's love-in sets tone for Ryder Cup"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Israeli attacks on Gaza City rise as Trump set to meet Arab, Muslim leaders",
+      "headlines": [
+        "Israeli attacks on Gaza City rise as Trump set to meet Arab, Muslim leaders"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "For China, TikTok becomes bargaining chip amid tensions with US",
+      "headlines": [
+        "For China, TikTok becomes bargaining chip amid tensions with US"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Typhoon Ragasa heads to Taiwan, Hong Kong, China after lashing Philippines",
+      "headlines": [
+        "Typhoon Ragasa heads to Taiwan, Hong Kong, China after lashing Philippines"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urges pregnant women to avoid Tylenol over unproven autism risk",
+      "headlines": [
+        "Trump urges pregnant women to avoid Tylenol over unproven autism risk"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "ICC charges ex-Philippine President Duterte with crimes against humanity",
+      "headlines": [
+        "ICC charges ex-Philippine President Duterte with crimes against humanity"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "trump"
+    }
   ]
 }
