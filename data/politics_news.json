@@ -37595,5 +37595,128 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-24T06:33:58.445Z": [
+    {
+      "summary": "China evacuates nearly two million people after super typhoon kills 14 in Taiwan",
+      "headlines": [
+        "China evacuates nearly two million people after super typhoon kills 14 in Taiwan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kyiv can win all of Ukraine back from Russia, Trump says",
+      "headlines": [
+        "Kyiv can win all of Ukraine back from Russia, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Man found guilty of attempting to assassinate Trump in Florida",
+      "headlines": [
+        "Man found guilty of attempting to assassinate Trump in Florida"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Safety mechanism caused Trump escalator malfunction, UN says",
+      "headlines": [
+        "Safety mechanism caused Trump escalator malfunction, UN says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: BBC correspondent reports from southern China hit by 'king of storms'",
+      "headlines": [
+        "Watch: BBC correspondent reports from southern China hit by 'king of storms'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Macron calls Trump after motorcade blocks his car",
+      "headlines": [
+        "Macron calls Trump after motorcade blocks his car"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Too scared’: How Nepal violence is still hurting India border trade",
+      "headlines": [
+        "‘Too scared’: How Nepal violence is still hurting India border trade"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "In major shift, Trump says Ukraine can win back all territory from Russia",
+      "headlines": [
+        "In major shift, Trump says Ukraine can win back all territory from Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "politics"
+    },
+    {
+      "summary": "UN denies sabotage after escalator malfunctions when Trump steps on",
+      "headlines": [
+        "UN denies sabotage after escalator malfunctions when Trump steps on"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump urges Gaza war to end ‘immediately’ in UN General Assembly speech",
+      "headlines": [
+        "Trump urges Gaza war to end ‘immediately’ in UN General Assembly speech"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US man found guilty of attempting to assassinate Trump last year",
+      "headlines": [
+        "US man found guilty of attempting to assassinate Trump last year"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    }
   ]
 }

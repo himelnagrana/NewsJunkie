@@ -28852,5 +28852,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-24T06:33:58.203Z": [
+    {
+      "summary": "China evacuates nearly two million people after super typhoon kills 14 in Taiwan",
+      "headlines": [
+        "China evacuates nearly two million people after super typhoon kills 14 in Taiwan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Kyiv can win all of Ukraine back from Russia, Trump says",
+      "headlines": [
+        "Kyiv can win all of Ukraine back from Russia, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Man found guilty of attempting to assassinate Trump in Florida",
+      "headlines": [
+        "Man found guilty of attempting to assassinate Trump in Florida"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Safety mechanism caused Trump escalator malfunction, UN says",
+      "headlines": [
+        "Safety mechanism caused Trump escalator malfunction, UN says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: BBC correspondent reports from southern China hit by 'king of storms'",
+      "headlines": [
+        "Watch: BBC correspondent reports from southern China hit by 'king of storms'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Macron calls Trump after motorcade blocks his car",
+      "headlines": [
+        "Macron calls Trump after motorcade blocks his car"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "In major shift, Trump says Ukraine can win back all territory from Russia",
+      "headlines": [
+        "In major shift, Trump says Ukraine can win back all territory from Russia"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "UN denies sabotage after escalator malfunctions when Trump steps on",
+      "headlines": [
+        "UN denies sabotage after escalator malfunctions when Trump steps on"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urges Gaza war to end ‘immediately’ in UN General Assembly speech",
+      "headlines": [
+        "Trump urges Gaza war to end ‘immediately’ in UN General Assembly speech"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US man found guilty of attempting to assassinate Trump last year",
+      "headlines": [
+        "US man found guilty of attempting to assassinate Trump last year"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    }
   ]
 }
