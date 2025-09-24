@@ -3409,5 +3409,18 @@
       "sentiment": 2,
       "topic": "finance"
     }
+  ],
+  "2025-09-24T18:30:46.592Z": [
+    {
+      "summary": "Lithium Americas’ stock surges amid possible US government stake",
+      "headlines": [
+        "Lithium Americas’ stock surges amid possible US government stake"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

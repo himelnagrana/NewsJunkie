@@ -37718,5 +37718,172 @@
       "sentiment": -3,
       "topic": "politics"
     }
+  ],
+  "2025-09-24T18:30:46.081Z": [
+    {
+      "summary": "Stop Russia now or Putin will expand Ukraine war 'wider and deeper', Zelensky tells UN",
+      "headlines": [
+        "Stop Russia now or Putin will expand Ukraine war 'wider and deeper', Zelensky tells UN"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Kimmel pulls no punches as he sends defiant message to Trump",
+      "headlines": [
+        "Kimmel pulls no punches as he sends defiant message to Trump"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Rosenberg: Russia brushes off Trump's claim of 'paper tiger' in aimless war",
+      "headlines": [
+        "Rosenberg: Russia brushes off Trump's claim of 'paper tiger' in aimless war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "London Mayor: Trump is racist and sexist",
+      "headlines": [
+        "London Mayor: Trump is racist and sexist"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Typhoon Ragasa makes landfall in China after 17 killed in Taiwan",
+      "headlines": [
+        "Typhoon Ragasa makes landfall in China after 17 killed in Taiwan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "How Trump lashed out at Europe in his UN speech",
+      "headlines": [
+        "How Trump lashed out at Europe in his UN speech"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Typhoon Ragasa leaves trail of destruction in China",
+      "headlines": [
+        "Watch: Typhoon Ragasa leaves trail of destruction in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Malawi's President Chakwera concedes election to rival Mutharika",
+      "headlines": [
+        "Malawi's President Chakwera concedes election to rival Mutharika"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Sir Sadiq Khan: Trump is racist and sexist",
+      "headlines": [
+        "Sir Sadiq Khan: Trump is racist and sexist"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Ukraine is only first’: Zelenskyy warns against Putin’s expansionist goals",
+      "headlines": [
+        "‘Ukraine is only first’: Zelenskyy warns against Putin’s expansionist goals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iran’s president vows to never build a nuclear bomb in his UNGA speech",
+      "headlines": [
+        "Iran’s president vows to never build a nuclear bomb in his UNGA speech"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia says no choice but war after Trump U-turn on Ukraine",
+      "headlines": [
+        "Russia says no choice but war after Trump U-turn on Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "After Trump’s U-turn, can Ukraine restore its pre-war borders?",
+      "headlines": [
+        "After Trump’s U-turn, can Ukraine restore its pre-war borders?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "As Europe clashes with Putin, Ukraine says Russia’s Sumy operation ‘failed’",
+      "headlines": [
+        "As Europe clashes with Putin, Ukraine says Russia’s Sumy operation ‘failed’"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Lithium Americas’ stock surges amid possible US government stake",
+      "headlines": [
+        "Lithium Americas’ stock surges amid possible US government stake"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
