@@ -29265,5 +29265,106 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-25T18:33:32.771Z": [
+    {
+      "summary": "Former French president Sarkozy given five-year sentence after Libya case",
+      "headlines": [
+        "Former French president Sarkozy given five-year sentence after Libya case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urges Turkey to stop buying Russian oil as Erdogan chases deal on F-35s",
+      "headlines": [
+        "Trump urges Turkey to stop buying Russian oil as Erdogan chases deal on F-35s"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "White House says to prep for mass firings if government shuts down",
+      "headlines": [
+        "White House says to prep for mass firings if government shuts down"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Palestinian president says ready to work with Trump for two-state peace plan",
+      "headlines": [
+        "Palestinian president says ready to work with Trump for two-state peace plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump demands inquiry over UN 'triple sabotage' after escalator and teleprompter mishaps",
+      "headlines": [
+        "Trump demands inquiry over UN 'triple sabotage' after escalator and teleprompter mishaps"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Leaders condemn Gaza, Ukraine wars at UN General Assembly",
+      "headlines": [
+        "Leaders condemn Gaza, Ukraine wars at UN General Assembly"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Four takeaways from Donald Trump’s meeting with Turkiye’s President Erdogan",
+      "headlines": [
+        "Four takeaways from Donald Trump’s meeting with Turkiye’s President Erdogan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump shutdown warning: Federal employees could lose jobs",
+      "headlines": [
+        "Trump shutdown warning: Federal employees could lose jobs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘Strategic handshake’: How Pakistan is wooing Trump with critical minerals",
+      "headlines": [
+        "‘Strategic handshake’: How Pakistan is wooing Trump with critical minerals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

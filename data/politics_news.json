@@ -38008,5 +38008,128 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-25T18:33:33.037Z": [
+    {
+      "summary": "Former French president Sarkozy given five-year sentence after Libya case",
+      "headlines": [
+        "Former French president Sarkozy given five-year sentence after Libya case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump urges Turkey to stop buying Russian oil as Erdogan chases deal on F-35s",
+      "headlines": [
+        "Trump urges Turkey to stop buying Russian oil as Erdogan chases deal on F-35s"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "White House says to prep for mass firings if government shuts down",
+      "headlines": [
+        "White House says to prep for mass firings if government shuts down"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Palestinian president says ready to work with Trump for two-state peace plan",
+      "headlines": [
+        "Palestinian president says ready to work with Trump for two-state peace plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump demands inquiry over UN 'triple sabotage' after escalator and teleprompter mishaps",
+      "headlines": [
+        "Trump demands inquiry over UN 'triple sabotage' after escalator and teleprompter mishaps"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israeli strikes pound Yemen’s capital as Houthi leader decries Gaza war",
+      "headlines": [
+        "Israeli strikes pound Yemen’s capital as Houthi leader decries Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Leaders condemn Gaza, Ukraine wars at UN General Assembly",
+      "headlines": [
+        "Leaders condemn Gaza, Ukraine wars at UN General Assembly"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israel is guilty of war crimes, Palestine’s Abbas tells UN General Assembly",
+      "headlines": [
+        "Israel is guilty of war crimes, Palestine’s Abbas tells UN General Assembly"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -8,
+      "topic": "politics"
+    },
+    {
+      "summary": "Four takeaways from Donald Trump’s meeting with Turkiye’s President Erdogan",
+      "headlines": [
+        "Four takeaways from Donald Trump’s meeting with Turkiye’s President Erdogan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump shutdown warning: Federal employees could lose jobs",
+      "headlines": [
+        "Trump shutdown warning: Federal employees could lose jobs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Strategic handshake’: How Pakistan is wooing Trump with critical minerals",
+      "headlines": [
+        "‘Strategic handshake’: How Pakistan is wooing Trump with critical minerals"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
