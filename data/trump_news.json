@@ -29131,5 +29131,139 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-25T06:34:55.619Z": [
+    {
+      "summary": "Colombia's president calls US attacks on alleged drug boats 'act of tyranny'",
+      "headlines": [
+        "Colombia's president calls US attacks on alleged drug boats 'act of tyranny'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Australian film altered in China to make gay couple straight",
+      "headlines": [
+        "Australian film altered in China to make gay couple straight"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns",
+      "headlines": [
+        "Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump demands inquiry over UN 'triple sabotage'",
+      "headlines": [
+        "Trump demands inquiry over UN 'triple sabotage'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Steve Rosenberg: Russia brushes off Trump's claim of 'paper tiger' in aimless war",
+      "headlines": [
+        "Steve Rosenberg: Russia brushes off Trump's claim of 'paper tiger' in aimless war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: White House replaces President Biden portrait with image of an autopen",
+      "headlines": [
+        "Watch: White House replaces President Biden portrait with image of an autopen"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Somalia's president: They tried to kill me five times",
+      "headlines": [
+        "Somalia's president: They tried to kill me five times"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "China makes landmark pledge to cut climate emissions but falls short of global targets",
+      "headlines": [
+        "China makes landmark pledge to cut climate emissions but falls short of global targets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Europe 'fuelled by something money can’t buy' - Donald",
+      "headlines": [
+        "Europe 'fuelled by something money can’t buy' - Donald"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump demands investigation over escalator, teleprompter ‘sabotage’ at UN",
+      "headlines": [
+        "Trump demands investigation over escalator, teleprompter ‘sabotage’ at UN"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Ukraine, Syria restore diplomatic ties after breakdown during Assad regime",
+      "headlines": [
+        "Ukraine, Syria restore diplomatic ties after breakdown during Assad regime"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "China, world’s largest carbon polluting nation, announces new climate goal",
+      "headlines": [
+        "China, world’s largest carbon polluting nation, announces new climate goal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
