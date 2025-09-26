@@ -3422,5 +3422,18 @@
       "sentiment": 0,
       "topic": "finance"
     }
+  ],
+  "2025-09-26T18:30:09.786Z": [
+    {
+      "summary": "Trump’s latest 100 percent tariff on pharmaceuticals: What we know",
+      "headlines": [
+        "Trump’s latest 100 percent tariff on pharmaceuticals: What we know"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "finance"
+    }
   ]
 }

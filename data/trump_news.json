@@ -29478,5 +29478,73 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-26T18:30:08.860Z": [
+    {
+      "summary": "Ryder Cup: President Trump watching as Europe face US fightback in fourballs",
+      "headlines": [
+        "Ryder Cup: President Trump watching as Europe face US fightback in fourballs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: Trump says 'there will be others' after Comey indictment",
+      "headlines": [
+        "Watch: Trump says 'there will be others' after Comey indictment"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump urged prosecutors to target Comey. Now he's been charged",
+      "headlines": [
+        "Trump urged prosecutors to target Comey. Now he's been charged"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is the UK government introducing digital IDs?",
+      "headlines": [
+        "Why is the UK government introducing digital IDs?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump 'will move World Cup games from unsafe cities'",
+      "headlines": [
+        "Trump 'will move World Cup games from unsafe cities'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump arrives at Ryder Cup amid partisan atmosphere",
+      "headlines": [
+        "Trump arrives at Ryder Cup amid partisan atmosphere"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }

@@ -38254,5 +38254,84 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-26T18:30:09.138Z": [
+    {
+      "summary": "Ryder Cup: President Trump watching as Europe face US fightback in fourballs",
+      "headlines": [
+        "Ryder Cup: President Trump watching as Europe face US fightback in fourballs"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump says 'there will be others' after Comey indictment",
+      "headlines": [
+        "Watch: Trump says 'there will be others' after Comey indictment"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump urged prosecutors to target Comey. Now he's been charged",
+      "headlines": [
+        "Trump urged prosecutors to target Comey. Now he's been charged"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is the UK government introducing digital IDs?",
+      "headlines": [
+        "Why is the UK government introducing digital IDs?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump 'will move World Cup games from unsafe cities'",
+      "headlines": [
+        "Trump 'will move World Cup games from unsafe cities'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump arrives at Ryder Cup amid partisan atmosphere",
+      "headlines": [
+        "Trump arrives at Ryder Cup amid partisan atmosphere"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Pakistan must ‘focus on cricket’ not India in Asia Cup final",
+      "headlines": [
+        "Pakistan must ‘focus on cricket’ not India in Asia Cup final"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
