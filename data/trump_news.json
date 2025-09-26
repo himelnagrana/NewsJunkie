@@ -29366,5 +29366,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-26T06:33:36.037Z": [
+    {
+      "summary": "Comey indictment escalates Trump's promise of political retribution",
+      "headlines": [
+        "Comey indictment escalates Trump's promise of political retribution"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "From former president to future prisoner: Sarkozy's conviction divides France",
+      "headlines": [
+        "From former president to future prisoner: Sarkozy's conviction divides France"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says he 'will not allow' Netanyahu to annex West Bank",
+      "headlines": [
+        "Trump says he 'will not allow' Netanyahu to annex West Bank"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
+      "headlines": [
+        "Trump announces new tariffs on drugs, trucks and kitchen cabinets"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump claims a TikTok deal is done. Who would own it, and how would it work?",
+      "headlines": [
+        "Trump claims a TikTok deal is done. Who would own it, and how would it work?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why a tiny island's fate could decide Seychelles' next president",
+      "headlines": [
+        "Why a tiny island's fate could decide Seychelles' next president"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China launches campaign to keep killjoys off the internet",
+      "headlines": [
+        "China launches campaign to keep killjoys off the internet"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US President Gerald Ford's would-be assassin dies at age 95",
+      "headlines": [
+        "US President Gerald Ford's would-be assassin dies at age 95"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'The Trump effect' and four other factors that may decide the Ryder Cup",
+      "headlines": [
+        "'The Trump effect' and four other factors that may decide the Ryder Cup"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US President Donald Trump signs order outlining TikTok sale plan",
+      "headlines": [
+        "US President Donald Trump signs order outlining TikTok sale plan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
