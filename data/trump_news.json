@@ -29603,5 +29603,51 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-27T18:28:35.523Z": [
+    {
+      "summary": "Trump orders deployment of troops to Portland and authorises 'full force'",
+      "headlines": [
+        "Trump orders deployment of troops to Portland and authorises 'full force'"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump officials ask Supreme Court to uphold ban on birthright citizenship",
+      "headlines": [
+        "Trump officials ask Supreme Court to uphold ban on birthright citizenship"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Russia has no intention of attacking EU or Nato states, foreign minister says",
+      "headlines": [
+        "Russia has no intention of attacking EU or Nato states, foreign minister says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Police break up ring trafficking Kenyans to fight for Russia in Ukraine",
+      "headlines": [
+        "Police break up ring trafficking Kenyans to fight for Russia in Ukraine"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    }
   ]
 }
