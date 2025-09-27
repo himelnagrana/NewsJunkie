@@ -38333,5 +38333,117 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-27T06:29:25.635Z": [
+    {
+      "summary": "Trump promised retribution - how far will he go?",
+      "headlines": [
+        "Trump promised retribution - how far will he go?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: How Trump and Comey's relationship soured",
+      "headlines": [
+        "Watch: How Trump and Comey's relationship soured"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Moldova holds key election as Russia's shadow looms large",
+      "headlines": [
+        "Moldova holds key election as Russia's shadow looms large"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump pushed to prosecute Comey, but his own actions could undermine the case",
+      "headlines": [
+        "Trump pushed to prosecute Comey, but his own actions could undermine the case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "How India's war against Maoists is affecting its people",
+      "headlines": [
+        "How India's war against Maoists is affecting its people"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK urged to act on colonial-era war crimes case after recognising Palestinian state",
+      "headlines": [
+        "UK urged to act on colonial-era war crimes case after recognising Palestinian state"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "Woman, 73, deported by ICE to India after three decades in US",
+      "headlines": [
+        "Woman, 73, deported by ICE to India after three decades in US"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump welcomed at Ryder Cup amid partisan atmosphere",
+      "headlines": [
+        "Trump welcomed at Ryder Cup amid partisan atmosphere"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,311",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,311"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US to revoke Colombian President Petro’s visa over ‘disobey’ Trump call",
+      "headlines": [
+        "US to revoke Colombian President Petro’s visa over ‘disobey’ Trump call"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

@@ -29546,5 +29546,62 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-27T06:29:25.420Z": [
+    {
+      "summary": "Trump promised retribution - how far will he go?",
+      "headlines": [
+        "Trump promised retribution - how far will he go?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: How Trump and Comey's relationship soured",
+      "headlines": [
+        "Watch: How Trump and Comey's relationship soured"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump pushed to prosecute Comey, but his own actions could undermine the case",
+      "headlines": [
+        "Trump pushed to prosecute Comey, but his own actions could undermine the case"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump welcomed at Ryder Cup amid partisan atmosphere",
+      "headlines": [
+        "Trump welcomed at Ryder Cup amid partisan atmosphere"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US to revoke Colombian President Petro’s visa over ‘disobey’ Trump call",
+      "headlines": [
+        "US to revoke Colombian President Petro’s visa over ‘disobey’ Trump call"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
