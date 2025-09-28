@@ -29706,5 +29706,40 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-28T18:28:40.774Z": [
+    {
+      "summary": "At least 40 dead in crush at political rally in India",
+      "headlines": [
+        "At least 40 dead in crush at political rally in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Watch: World's highest bridge opens in China",
+      "headlines": [
+        "Watch: World's highest bridge opens in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'Hundreds' of drones and missiles fired at Ukraine by Russia",
+      "headlines": [
+        "'Hundreds' of drones and missiles fired at Ukraine by Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    }
   ]
 }

@@ -38603,5 +38603,106 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-09-28T18:28:41.001Z": [
+    {
+      "summary": "At least 40 dead in crush at political rally in India",
+      "headlines": [
+        "At least 40 dead in crush at political rally in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Moldovans await pivotal election result as leader warns of Russian interference",
+      "headlines": [
+        "Moldovans await pivotal election result as leader warns of Russian interference"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: World's highest bridge opens in China",
+      "headlines": [
+        "Watch: World's highest bridge opens in China"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'Hundreds' of drones and missiles fired at Ukraine by Russia",
+      "headlines": [
+        "'Hundreds' of drones and missiles fired at Ukraine by Russia"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Analysis: How is Lebanon’s Hezbollah regrouping after war with Israel?",
+      "headlines": [
+        "Analysis: How is Lebanon’s Hezbollah regrouping after war with Israel?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "LIVE: India vs Pakistan – Asia Cup 2025 final",
+      "headlines": [
+        "LIVE: India vs Pakistan – Asia Cup 2025 final"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why is the divisive Tony Blair now touted for post-Gaza war interim role?",
+      "headlines": [
+        "Why is the divisive Tony Blair now touted for post-Gaza war interim role?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iranians fear more economic pain, war as UN sanctions snapback",
+      "headlines": [
+        "Iranians fear more economic pain, war as UN sanctions snapback"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "For autistic children, Israel’s war on Gaza brings acute suffering",
+      "headlines": [
+        "For autistic children, Israel’s war on Gaza brings acute suffering"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    }
   ]
 }
