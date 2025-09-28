@@ -38513,5 +38513,95 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-09-28T06:31:27.763Z": [
+    {
+      "summary": "At least 39 dead in crush at political rally in India",
+      "headlines": [
+        "At least 39 dead in crush at political rally in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "'A mind game': Trump administration moves rock autism community",
+      "headlines": [
+        "'A mind game': Trump administration moves rock autism community"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK government to guarantee £1.5bn Jaguar Land Rover loan after cyber attack",
+      "headlines": [
+        "UK government to guarantee £1.5bn Jaguar Land Rover loan after cyber attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Israeli team out of top Italian cycling race over Gaza war protest concerns",
+      "headlines": [
+        "Israeli team out of top Italian cycling race over Gaza war protest concerns"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India vs Pakistan: Cricket needs a ‘moment of sanity’ in Asia Cup final",
+      "headlines": [
+        "India vs Pakistan: Cricket needs a ‘moment of sanity’ in Asia Cup final"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘I don’t care’: Colombia’s President Petro dismisses revocation of US visa",
+      "headlines": [
+        "‘I don’t care’: Colombia’s President Petro dismisses revocation of US visa"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump orders deployment of troops to US city of Portland and ICE facilities",
+      "headlines": [
+        "Trump orders deployment of troops to US city of Portland and ICE facilities"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Russia-Ukraine war: List of key events, day 1,312",
+      "headlines": [
+        "Russia-Ukraine war: List of key events, day 1,312"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

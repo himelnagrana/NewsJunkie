@@ -1726,5 +1726,18 @@
       "sentiment": -2,
       "topic": "sports"
     }
+  ],
+  "2025-09-28T06:31:28.311Z": [
+    {
+      "summary": "India vs Pakistan: Cricket needs a ‘moment of sanity’ in Asia Cup final",
+      "headlines": [
+        "India vs Pakistan: Cricket needs a ‘moment of sanity’ in Asia Cup final"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

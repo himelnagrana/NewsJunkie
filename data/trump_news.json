@@ -29649,5 +29649,62 @@
       "sentiment": -1,
       "topic": "trump"
     }
+  ],
+  "2025-09-28T06:31:27.360Z": [
+    {
+      "summary": "At least 39 dead in crush at political rally in India",
+      "headlines": [
+        "At least 39 dead in crush at political rally in India"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "'A mind game': Trump administration moves rock autism community",
+      "headlines": [
+        "'A mind game': Trump administration moves rock autism community"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "UK government to guarantee £1.5bn Jaguar Land Rover loan after cyber attack",
+      "headlines": [
+        "UK government to guarantee £1.5bn Jaguar Land Rover loan after cyber attack"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘I don’t care’: Colombia’s President Petro dismisses revocation of US visa",
+      "headlines": [
+        "‘I don’t care’: Colombia’s President Petro dismisses revocation of US visa"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump orders deployment of troops to US city of Portland and ICE facilities",
+      "headlines": [
+        "Trump orders deployment of troops to US city of Portland and ICE facilities"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
