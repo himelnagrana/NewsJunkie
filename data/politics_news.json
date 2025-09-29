@@ -38704,5 +38704,117 @@
       "sentiment": -4,
       "topic": "politics"
     }
+  ],
+  "2025-09-29T06:36:16.949Z": [
+    {
+      "summary": "Oregon sues Trump administration over plans to deploy troops",
+      "headlines": [
+        "Oregon sues Trump administration over plans to deploy troops"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Justice on hold: India court crippled by a million-case backlog",
+      "headlines": [
+        "Justice on hold: India court crippled by a million-case backlog"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Cruel joke’: How Indian H-1B dreams are crash-landing after Trump fee hike",
+      "headlines": [
+        "‘Cruel joke’: How Indian H-1B dreams are crash-landing after Trump fee hike"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Afghanistan’s Bagram airbase: Why is Trump desperate to take it back?",
+      "headlines": [
+        "Afghanistan’s Bagram airbase: Why is Trump desperate to take it back?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to deploy 200 National Guard troops to Oregon as state leaders sue",
+      "headlines": [
+        "Trump to deploy 200 National Guard troops to Oregon as state leaders sue"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump to meet Republican, Democratic leaders as US gov’t shutdown looms",
+      "headlines": [
+        "Trump to meet Republican, Democratic leaders as US gov’t shutdown looms"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘It’s about time’: Trump says he will join gathering of US military leaders",
+      "headlines": [
+        "‘It’s about time’: Trump says he will join gathering of US military leaders"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Hezbollah a ‘legitimate political party’ within Lebanon, US envoy says",
+      "headlines": [
+        "Hezbollah a ‘legitimate political party’ within Lebanon, US envoy says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Varma helps India beat Pakistan as Asia Cup final ends in controversy",
+      "headlines": [
+        "Varma helps India beat Pakistan as Asia Cup final ends in controversy"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China and North Korea agree to resist ‘hegemony’, Foreign Ministry says",
+      "headlines": [
+        "China and North Korea agree to resist ‘hegemony’, Foreign Ministry says"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }
