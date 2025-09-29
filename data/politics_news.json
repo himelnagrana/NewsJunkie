@@ -38816,5 +38816,172 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-09-29T18:32:59.262Z": [
+    {
+      "summary": "Trump and Netanyahu hold news conference after talks over Gaza peace plan",
+      "headlines": [
+        "Trump and Netanyahu hold news conference after talks over Gaza peace plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US considering supplying Ukraine with long-range missiles, Vance says",
+      "headlines": [
+        "US considering supplying Ukraine with long-range missiles, Vance says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why the US government might shut down and what to know",
+      "headlines": [
+        "Why the US government might shut down and what to know"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "China sentences 11 members of mafia family to death",
+      "headlines": [
+        "China sentences 11 members of mafia family to death"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump texts McIlroy - Europe troll US President in reply",
+      "headlines": [
+        "Trump texts McIlroy - Europe troll US President in reply"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump renews threat to impose 100% tariffs on non-US made movies",
+      "headlines": [
+        "Trump renews threat to impose 100% tariffs on non-US made movies"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump considering supplying Ukraine with long-range missiles, Vance says",
+      "headlines": [
+        "Trump considering supplying Ukraine with long-range missiles, Vance says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump releases 20-point plan to end Israel’s war on Gaza",
+      "headlines": [
+        "Trump releases 20-point plan to end Israel’s war on Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump meets Netanyahu as ending Israel’s Gaza war reaches pressure point",
+      "headlines": [
+        "Trump meets Netanyahu as ending Israel’s Gaza war reaches pressure point"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "White House shares Trump’s plan to end the war in Gaza",
+      "headlines": [
+        "White House shares Trump’s plan to end the war in Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "What is the Trump plan for Gaza and will it work?",
+      "headlines": [
+        "What is the Trump plan for Gaza and will it work?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why did India refuse to accept the Asia Cup trophy after beating Pakistan?",
+      "headlines": [
+        "Why did India refuse to accept the Asia Cup trophy after beating Pakistan?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "India, Australia favourites as ICC Women’s World Cup gets under way",
+      "headlines": [
+        "India, Australia favourites as ICC Women’s World Cup gets under way"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Iraqi man convicted for trafficking people to fight for Russia in Ukraine",
+      "headlines": [
+        "Iraqi man convicted for trafficking people to fight for Russia in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Trump promises steep tariffs for foreign movies and imported furniture",
+      "headlines": [
+        "Trump promises steep tariffs for foreign movies and imported furniture"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "politics"
+    }
   ]
 }

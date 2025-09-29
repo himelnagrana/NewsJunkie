@@ -1739,5 +1739,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-09-29T18:32:59.840Z": [
+    {
+      "summary": "England's Woakes retires from international cricket",
+      "headlines": [
+        "England's Woakes retires from international cricket"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "sports"
+    }
   ]
 }

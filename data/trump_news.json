@@ -29831,5 +29831,161 @@
       "sentiment": 1,
       "topic": "trump"
     }
+  ],
+  "2025-09-29T18:32:58.865Z": [
+    {
+      "summary": "Trump and Netanyahu hold news conference after talks over Gaza peace plan",
+      "headlines": [
+        "Trump and Netanyahu hold news conference after talks over Gaza peace plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "trump"
+    },
+    {
+      "summary": "US considering supplying Ukraine with long-range missiles, Vance says",
+      "headlines": [
+        "US considering supplying Ukraine with long-range missiles, Vance says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why the US government might shut down and what to know",
+      "headlines": [
+        "Why the US government might shut down and what to know"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "China sentences 11 members of mafia family to death",
+      "headlines": [
+        "China sentences 11 members of mafia family to death"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump texts McIlroy - Europe troll US President in reply",
+      "headlines": [
+        "Trump texts McIlroy - Europe troll US President in reply"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump renews threat to impose 100% tariffs on non-US made movies",
+      "headlines": [
+        "Trump renews threat to impose 100% tariffs on non-US made movies"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Two more years? Europe captain Donald not ruling out third term",
+      "headlines": [
+        "Two more years? Europe captain Donald not ruling out third term"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump considering supplying Ukraine with long-range missiles, Vance says",
+      "headlines": [
+        "Trump considering supplying Ukraine with long-range missiles, Vance says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "'In Donald we trust' - how Europe's 'best-ever captain' masterminded win",
+      "headlines": [
+        "'In Donald we trust' - how Europe's 'best-ever captain' masterminded win"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 4,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump releases 20-point plan to end Israel’s war on Gaza",
+      "headlines": [
+        "Trump releases 20-point plan to end Israel’s war on Gaza"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump meets Netanyahu as ending Israel’s Gaza war reaches pressure point",
+      "headlines": [
+        "Trump meets Netanyahu as ending Israel’s Gaza war reaches pressure point"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "What is the Trump plan for Gaza and will it work?",
+      "headlines": [
+        "What is the Trump plan for Gaza and will it work?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Iraqi man convicted for trafficking people to fight for Russia in Ukraine",
+      "headlines": [
+        "Iraqi man convicted for trafficking people to fight for Russia in Ukraine"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump promises steep tariffs for foreign movies and imported furniture",
+      "headlines": [
+        "Trump promises steep tariffs for foreign movies and imported furniture"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 1,
+      "topic": "trump"
+    }
   ]
 }
