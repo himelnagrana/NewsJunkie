@@ -30077,5 +30077,117 @@
       "sentiment": 0,
       "topic": "trump"
     }
+  ],
+  "2025-09-30T18:31:00.755Z": [
+    {
+      "summary": "Trump peace plan 'ignores interests of Palestinian people', Hamas official tells BBC",
+      "headlines": [
+        "Trump peace plan 'ignores interests of Palestinian people', Hamas official tells BBC"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 3,
+      "topic": "trump"
+    },
+    {
+      "summary": "US cities should be military training grounds, Trump says",
+      "headlines": [
+        "US cities should be military training grounds, Trump says"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump threatens 'irreversible' firings if government shutdown goes ahead",
+      "headlines": [
+        "Trump threatens 'irreversible' firings if government shutdown goes ahead"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why the US government might shut down and when it might happen",
+      "headlines": [
+        "Why the US government might shut down and when it might happen"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "‘A blast every minute’ in Israeli-bombarded Gaza; Hamas weighs Trump plan",
+      "headlines": [
+        "‘A blast every minute’ in Israeli-bombarded Gaza; Hamas weighs Trump plan"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump says Hamas has ‘three or four days’ to respond to Gaza proposal",
+      "headlines": [
+        "Trump says Hamas has ‘three or four days’ to respond to Gaza proposal"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "US braces for government shutdown with no deal in Washington, DC",
+      "headlines": [
+        "US braces for government shutdown with no deal in Washington, DC"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "trump"
+    },
+    {
+      "summary": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+      "headlines": [
+        "Trump administration deporting hundreds of Iranian citizens: Tehran"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why are US Tomahawk missiles for Ukraine a ‘red line’ for Russia?",
+      "headlines": [
+        "Why are US Tomahawk missiles for Ukraine a ‘red line’ for Russia?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    },
+    {
+      "summary": "Why is the US government on the brink of a shutdown? What will it mean?",
+      "headlines": [
+        "Why is the US government on the brink of a shutdown? What will it mean?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "trump"
+    }
   ]
 }
