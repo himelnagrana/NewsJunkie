@@ -38983,5 +38983,117 @@
       "sentiment": 1,
       "topic": "politics"
     }
+  ],
+  "2025-09-30T06:34:59.025Z": [
+    {
+      "summary": "YouTube to pay $24.5m to settle Trump lawsuit over Capitol riot",
+      "headlines": [
+        "YouTube to pay $24.5m to settle Trump lawsuit over Capitol riot"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "US shutdown looms after Trump and Democrats end meeting without a deal",
+      "headlines": [
+        "US shutdown looms after Trump and Democrats end meeting without a deal"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Madagascar president dissolves government after 'Gen Z' protests",
+      "headlines": [
+        "Madagascar president dissolves government after 'Gen Z' protests"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Watch: Trump and Netanyahu outline peace plan to end war in Gaza",
+      "headlines": [
+        "Watch: Trump and Netanyahu outline peace plan to end war in Gaza"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Blair would help oversee Gaza transition under Trump plan",
+      "headlines": [
+        "Blair would help oversee Gaza transition under Trump plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "Heavy Israeli strikes kill 39 as Hamas reviews Trump’s plan to end Gaza war",
+      "headlines": [
+        "Heavy Israeli strikes kill 39 as Hamas reviews Trump’s plan to end Gaza war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -6,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Operation Sindoor’: How cricket became latest India-Pakistan weapon of war",
+      "headlines": [
+        "‘Operation Sindoor’: How cricket became latest India-Pakistan weapon of war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "VP Vance blames Democrats for looming US government shutdown",
+      "headlines": [
+        "VP Vance blames Democrats for looming US government shutdown"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -3,
+      "topic": "politics"
+    },
+    {
+      "summary": "Madagascar president dissolves government after youth-led deadly protests",
+      "headlines": [
+        "Madagascar president dissolves government after youth-led deadly protests"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -5,
+      "topic": "politics"
+    },
+    {
+      "summary": "How much extra power would a government shutdown give Trump?",
+      "headlines": [
+        "How much extra power would a government shutdown give Trump?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }

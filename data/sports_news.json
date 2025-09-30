@@ -1752,5 +1752,18 @@
       "sentiment": 0,
       "topic": "sports"
     }
+  ],
+  "2025-09-30T06:34:59.464Z": [
+    {
+      "summary": "‘Operation Sindoor’: How cricket became latest India-Pakistan weapon of war",
+      "headlines": [
+        "‘Operation Sindoor’: How cricket became latest India-Pakistan weapon of war"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "sports"
+    }
   ]
 }
