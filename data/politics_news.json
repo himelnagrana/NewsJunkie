@@ -39297,5 +39297,128 @@
       "sentiment": -2,
       "topic": "politics"
     }
+  ],
+  "2025-10-01T15:21:25.326Z": [
+    {
+      "summary": "Thousands of federal workers face unpaid leave as US government shutdown hits key services",
+      "headlines": [
+        "Thousands of federal workers face unpaid leave as US government shutdown hits key services"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "UK government issues new data demand for Apple's British users",
+      "headlines": [
+        "UK government issues new data demand for Apple's British users"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "Why the US government has shut down and what happens now",
+      "headlines": [
+        "Why the US government has shut down and what happens now"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "'No assurance' of India and Pakistan handshakes",
+      "headlines": [
+        "'No assurance' of India and Pakistan handshakes"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
+      "headlines": [
+        "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "New Trump executive order guarantees Qatar security after Israeli attack",
+      "headlines": [
+        "New Trump executive order guarantees Qatar security after Israeli attack"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -1,
+      "topic": "politics"
+    },
+    {
+      "summary": "President Trump threatens mass layoffs as US government shuts down",
+      "headlines": [
+        "President Trump threatens mass layoffs as US government shuts down"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "The US government has shut down – what happens now?",
+      "headlines": [
+        "The US government has shut down – what happens now?"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "EU leaders push to tap frozen Russian assets for Ukraine reconstruction",
+      "headlines": [
+        "EU leaders push to tap frozen Russian assets for Ukraine reconstruction"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 2,
+      "topic": "politics"
+    },
+    {
+      "summary": "A history of US government shutdowns: Every closure and how long it lasted",
+      "headlines": [
+        "A history of US government shutdowns: Every closure and how long it lasted"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "‘Congress members get paid, janitors don’t’ in US shutdown: Fact check",
+      "headlines": [
+        "‘Congress members get paid, janitors don’t’ in US shutdown: Fact check"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    }
   ]
 }
