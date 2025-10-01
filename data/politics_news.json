@@ -39229,5 +39229,73 @@
       "sentiment": 0,
       "topic": "politics"
     }
+  ],
+  "2025-10-01T06:34:36.299Z": [
+    {
+      "summary": "US government shuts down after Senate fails to pass last-ditch funding plan",
+      "headlines": [
+        "US government shuts down after Senate fails to pass last-ditch funding plan"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US cities should be military training grounds, Trump tells generals",
+      "headlines": [
+        "US cities should be military training grounds, Trump tells generals"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "Princess Anne visits Ukraine to support children 'traumatised' by war",
+      "headlines": [
+        "Princess Anne visits Ukraine to support children 'traumatised' by war"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "What could happen during the US government shutdown?",
+      "headlines": [
+        "What could happen during the US government shutdown?"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": 0,
+      "topic": "politics"
+    },
+    {
+      "summary": "LIVE: US government shutdown starts as Trump threatens mass layoffs",
+      "headlines": [
+        "LIVE: US government shutdown starts as Trump threatens mass layoffs"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    },
+    {
+      "summary": "US government shuts down after Senate fails to pass spending bill",
+      "headlines": [
+        "US government shuts down after Senate fails to pass spending bill"
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "sentiment": -2,
+      "topic": "politics"
+    }
   ]
 }

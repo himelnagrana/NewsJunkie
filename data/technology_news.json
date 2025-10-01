@@ -1350,5 +1350,18 @@
       "sentiment": -1,
       "topic": "technology"
     }
+  ],
+  "2025-10-01T06:34:36.577Z": [
+    {
+      "summary": "Emily Blunt among Hollywood stars outraged over 'AI actor' Tilly Norwood",
+      "headlines": [
+        "Emily Blunt among Hollywood stars outraged over 'AI actor' Tilly Norwood"
+      ],
+      "sources": [
+        "BBC"
+      ],
+      "sentiment": -3,
+      "topic": "technology"
+    }
   ]
 }
