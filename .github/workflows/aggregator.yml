@@ -2,7 +2,7 @@ name: Run News Aggregator
 
 on:
   schedule:
-    - cron: "0 6,18 * * *"  # Run at 6 AM and 6 PM UTC
+    - cron:  "0 0 29 2 *" # "0 6,18 * * *"  # Run at 6 AM and 6 PM UTC
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
